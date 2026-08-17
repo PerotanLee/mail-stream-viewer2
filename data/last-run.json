@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5351 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:55:03.499643+00:00",
-  "added": 17,
+  "updated_at": "2026-08-17T06:55:04.486291+00:00",
+  "added": 18,
   "skipped": 779,
   "scanned": 797,
   "scan_total": 0,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🧢 Axios Finish Line: Hat in hand",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 17
+    "axios": 18
   }
 }
