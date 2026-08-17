@@ -1,4 +1,20 @@
-let started = false;
+const APP_TITLE = "Logiris2";
+
+function lockAppTitle() {
+  const titleEl = document.querySelector("title");
+  if (titleEl) {
+    titleEl.classList.add("notranslate");
+    titleEl.setAttribute("translate", "no");
+    if (titleEl.textContent !== APP_TITLE) titleEl.textContent = APP_TITLE;
+  }
+  if (document.title !== APP_TITLE) document.title = APP_TITLE;
+}
+
+function watchAppTitle() {
+  lockAppTitle();
+  const observer = new MutationObserver(() => lockAppTitle());
+  observer.observe(document.head, { subtree: true, childList: true, characterData: true });
+}
 let retryTimer = 0;
 
 function setTranslateCookie() {
@@ -22,7 +38,10 @@ export function ensureTranslated() {
   window.clearTimeout(retryTimer);
   let tries = 0;
   const tick = () => {
-    if (selectJapanese()) return;
+    if (selectJapanese()) {
+      lockAppTitle();
+      return;
+    }
     tries += 1;
     if (tries < 24) retryTimer = window.setTimeout(tick, 500);
   };
@@ -33,6 +52,7 @@ export function startPageTranslate() {
   if (started) return;
   started = true;
   setTranslateCookie();
+  watchAppTitle();
 
   const host = document.createElement("div");
   host.id = "google_translate_element";

@@ -444,7 +444,9 @@ export default function App() {
   return (
     <div className="shell">
       <header className="topbar notranslate" translate="no">
-        <div className="brand">Logiris2</div>
+        <div className="brand notranslate" translate="no">
+          Logiris2
+        </div>
         <EmailPicker emails={visible} selectedId={selectedId} onSelect={(id) => selectEmail(id, true)} />
         <div className="topbar-actions">
           <div className="zoom-wrap">
