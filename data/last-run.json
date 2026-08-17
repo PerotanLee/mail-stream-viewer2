@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=4908 from=Axios Macro <macro@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:58:29.583050+00:00",
+  "updated_at": "2026-08-17T06:58:33.828931+00:00",
   "added": 37,
-  "skipped": 1195,
-  "scanned": 1232,
+  "skipped": 1202,
+  "scanned": 1240,
   "scan_total": 0,
-  "current": "🥵 Axios PM: Hottest month",
+  "current": "Axios Macro <macro@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 37
