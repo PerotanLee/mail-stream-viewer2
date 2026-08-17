@@ -601,6 +601,24 @@
       "file": "ec2d6a608c5ce103502f8f861997d3d1fe9036b39eab83b2a41b8c08b7ebc090.json"
     },
     {
+      "id": "974304c4d95a6bc9e314d917c1ce65194056bf332271d1c17ee4ba3fa1e9a025",
+      "uid": "402708.dS5,K9cTyVg1ipXxbCRc3,UZQlZRqsy,2XRkV9fGp,w=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Founder flux",
+      "date": "Mon, 17 Aug 2026 10:03:14 -0400",
+      "is_read": false,
+      "file": "974304c4d95a6bc9e314d917c1ce65194056bf332271d1c17ee4ba3fa1e9a025.json"
+    },
+    {
+      "id": "7a1db912f044ac05d73b1b108e6a2729f64e0daeff8432edec1e23306132bb3d",
+      "uid": "402706.LnPNJUz9OzIG9faOK4JuXH1SmNxLHS15G6kAmJztZ,o=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🤐 Prompts and privacy",
+      "date": "Mon, 17 Aug 2026 09:28:15 -0400",
+      "is_read": false,
+      "file": "7a1db912f044ac05d73b1b108e6a2729f64e0daeff8432edec1e23306132bb3d.json"
+    },
+    {
       "id": "60287a11d4176b2ad6fbd18f178e4e2793a72899b001b827e76c518a4dc0506c",
       "uid": "402691.fu,V1SIggkNmN8,,GJWhP1F2Q5Dmh4yxi1ELF,3RAYE=",
       "from_addr": "Axios Markets <markets@axios.com>",
@@ -699,26 +717,6 @@
       "date": "Mon, 10 Aug 2026 11:58:29 -0400",
       "is_read": true,
       "file": "f38066afbfc4d015880749b3fe5006c40a30da5b9ea4d421e2718d586542c295.json"
-    },
-    {
-      "id": "f90804aa7c5618cee553f8f60be94cfea7fe1a45996f334caaf0e559dedd9826",
-      "uid": "401113.MlZbFfd8co8eNa+WkxAwTq2uyMb1lPwbyo5JGu5TTGw=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Termination terminated",
-      "subject_ja": "",
-      "date": "Mon, 10 Aug 2026 10:00:13 -0400",
-      "is_read": true,
-      "file": "f90804aa7c5618cee553f8f60be94cfea7fe1a45996f334caaf0e559dedd9826.json"
-    },
-    {
-      "id": "40a8db6b18a3cf9da3ba23f1f2f5fe5fe6d9e6d8b1cbed7ecc5518eb57dd0a30",
-      "uid": "401112.dG0lRMUobst,a3ViU5w3btXmUFycW2DlU6ndKhPTjk0=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "⏸️ OpenAI hits pause",
-      "subject_ja": "",
-      "date": "Mon, 10 Aug 2026 09:28:19 -0400",
-      "is_read": true,
-      "file": "40a8db6b18a3cf9da3ba23f1f2f5fe5fe6d9e6d8b1cbed7ecc5518eb57dd0a30.json"
     },
     {
       "id": "cc059fe233f6ec2136ce8fa3c2eee445bd62c0cc313f28794b2a6190fba4bc81",
