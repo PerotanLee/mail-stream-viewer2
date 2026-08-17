@@ -32,11 +32,13 @@ INDEX_PATH = DATA_DIR / "index.json"
 SETTINGS_PATH = DATA_DIR / "settings.json"
 SEEN_PATH = DATA_DIR / "seen.json"
 LAST_RUN_PATH = DATA_DIR / "last-run.json"
+CURSOR_PATH = DATA_DIR / "fetch-cursor.json"
 
 TRANSLATE_CHUNK = 4000
 TRANSLATE_LIMIT = 20000
 MAX_AGE = timedelta(days=7)
-OLD_STREAK_STOP = 15
+OVERLAP = timedelta(minutes=15)
+OLD_STREAK_STOP = 8
 MAX_SCAN = 2500
 PROGRESS_INTERVAL_SEC = 20
 poplib._MAXLINE = 20 * 1024 * 1024
@@ -212,6 +214,42 @@ def message_time(raw: str) -> datetime | None:
 
 def parse_message_date(msg: EmailMessage) -> datetime | None:
     return message_time(decode_mime_header(msg.get("Date")))
+
+
+def parse_iso(raw: str) -> datetime | None:
+    if not raw:
+        return None
+    try:
+        dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+def load_cursor() -> tuple[datetime | None, int]:
+    cursor = load_json(CURSOR_PATH, {})
+    last_at = parse_iso(str(cursor.get("last_fetch_at") or ""))
+    if last_at is None:
+        last_run = load_json(LAST_RUN_PATH, {})
+        if last_run.get("ok"):
+            last_at = parse_iso(str(last_run.get("finished_at") or last_run.get("updated_at") or ""))
+    try:
+        newest_num = int(cursor.get("newest_num") or 0)
+    except (TypeError, ValueError):
+        newest_num = 0
+    return last_at, max(0, newest_num)
+
+
+def save_cursor(newest_num: int) -> None:
+    write_json(
+        CURSOR_PATH,
+        {
+            "last_fetch_at": datetime.now(timezone.utc).isoformat(),
+            "newest_num": newest_num,
+        },
+    )
 
 
 def prune_index(
@@ -401,8 +439,13 @@ def main() -> int:
         emails: list[dict[str, Any]] = list(index.get("emails") or [])
         known = {item["uid"]: item for item in emails if "uid" in item}
         seen = set(load_json(SEEN_PATH, {"uids": []}).get("uids") or [])
-        cutoff = datetime.now(timezone.utc) - MAX_AGE
-        log(f"only mail since {cutoff.isoformat()} (7 days)")
+        week_cutoff = datetime.now(timezone.utc) - MAX_AGE
+        last_fetch_at, last_newest_num = load_cursor()
+        scan_cutoff = week_cutoff
+        if last_fetch_at is not None:
+            scan_cutoff = max(week_cutoff, last_fetch_at - OVERLAP)
+        log(f"keep mail since {week_cutoff.isoformat()} (7 days)")
+        log(f"scan mail since {scan_cutoff.isoformat()}")
 
         step = "POP3接続"
         write_run_report(ok=False, running=True, step=step, phase="connect", extra=extra, force=True)
@@ -419,13 +462,30 @@ def main() -> int:
         write_run_report(ok=False, running=True, step=step, phase="scan", extra=extra, force=True)
         newest_num, _octets = pop.stat()
         stop_at = max(1, newest_num - MAX_SCAN + 1)
-        log(f"filter newest-first from {newest_num} to {stop_at}, no full mailbox listing")
+        scan_mode = "week"
+        if last_newest_num > 0 and newest_num > last_newest_num:
+            stop_at = last_newest_num + 1
+            scan_mode = "new"
+            log(f"incremental newest-first from {newest_num} to {stop_at}")
+        elif last_newest_num > 0 and newest_num == last_newest_num:
+            stop_at = newest_num + 1
+            scan_mode = "none"
+            log(f"no new POP3 numbers (newest={newest_num})")
+        elif last_newest_num > 0 and newest_num < last_newest_num:
+            scan_mode = "since" if last_fetch_at else "week"
+            log(f"mailbox numbers shrank {last_newest_num} -> {newest_num}; date scan")
+            log(f"filter newest-first from {newest_num} to {stop_at}")
+        else:
+            scan_mode = "since" if last_fetch_at else "week"
+            log(f"filter newest-first from {newest_num} to {stop_at}")
+        extra["scan_mode"] = scan_mode
+        extra["since"] = scan_cutoff.isoformat()
 
         def note_old(dt: datetime | None) -> bool:
             nonlocal old_streak
             if dt is None:
                 return False
-            if dt < cutoff:
+            if dt < scan_cutoff:
                 old_streak += 1
                 return old_streak >= OLD_STREAK_STOP
             old_streak = 0
@@ -438,20 +498,6 @@ def main() -> int:
             extra["added_by_filter"] = added_by_filter
             extra["current"] = f"対象外をスキップ中 {skip_sender}通" if skip_sender else "フィルタ中"
             write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
-
-            try:
-                uid = uidl_one(pop, num)
-            except poplib.error_proto as exc:
-                log(f"skip num={num} uidl error: {exc}")
-                skipped += 1
-                extra["skipped"] = skipped
-                continue
-            if uid in known:
-                skip_known += 1
-                skipped += 1
-                extra["skipped"] = skipped
-                extra["current"] = "取得済みをスキップ"
-                continue
 
             step = f"ヘッダー取得 num={num}"
             try:
@@ -467,11 +513,11 @@ def main() -> int:
                 skip_old += 1
                 skipped += 1
                 extra["skipped"] = skipped
-                extra["current"] = "直近1週間を超えたため終了"
+                extra["current"] = "前回取得以降を超えたため終了"
                 write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra, force=True)
-                log(f"stop scan: {OLD_STREAK_STOP} consecutive messages older than 7 days")
+                log(f"stop scan: {OLD_STREAK_STOP} consecutive messages older than {scan_cutoff.isoformat()}")
                 break
-            if msg_date is not None and msg_date < cutoff:
+            if msg_date is not None and msg_date < scan_cutoff:
                 skip_old += 1
                 skipped += 1
                 extra["skipped"] = skipped
@@ -483,6 +529,20 @@ def main() -> int:
                 skipped += 1
                 extra["skipped"] = skipped
                 extra["current"] = f"対象外をスキップ中 {skip_sender}通"
+                continue
+
+            try:
+                uid = uidl_one(pop, num)
+            except poplib.error_proto as exc:
+                log(f"skip num={num} uidl error: {exc}")
+                skipped += 1
+                extra["skipped"] = skipped
+                continue
+            if uid in known:
+                skip_known += 1
+                skipped += 1
+                extra["skipped"] = skipped
+                extra["current"] = "取得済みをスキップ"
                 continue
 
             step = f"本文取得 num={num} from={from_addr}"
@@ -544,10 +604,15 @@ def main() -> int:
         extra["current"] = ""
         step = "保存"
         write_run_report(ok=False, running=True, step=step, phase="save", extra=extra, force=True)
-        emails = prune_index(emails, cutoff, sender_filter, seen)
+        emails = prune_index(emails, week_cutoff, sender_filter, seen)
         emails.sort(key=lambda item: item.get("date") or "", reverse=True)
         write_json(INDEX_PATH, {"emails": emails})
         write_json(SEEN_PATH, {"uids": sorted(seen)})
+        try:
+            end_num, _octets = pop.stat()
+        except Exception:
+            end_num = newest_num
+        save_cursor(max(int(newest_num), int(end_num)))
         write_run_report(ok=True, step="完了", phase="done", extra=extra, force=True)
         log(
             f"done added={added} by_filter={added_by_filter} "

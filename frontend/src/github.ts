@@ -362,6 +362,8 @@ export type LastRunReport = {
   scanned?: number;
   scan_total?: number;
   current?: string;
+  scan_mode?: string;
+  since?: string;
   added_by_filter?: Record<string, number>;
 };
 
@@ -408,7 +410,8 @@ function messageFromProgress(report: LastRunReport, startedAt: number): string {
           .map(([key, count]) => `${key}:${count}`)
           .join(" ")
       : "";
-    return `フィルタ確認 ${scanned}通（新規 ${added}${byFilter} / 対象外 ${skipped}）${elapsed}`;
+    const scope = report.scan_mode === "week" ? "フィルタ確認" : "前回以降";
+    return `${scope} ${scanned}通（新規 ${added}${byFilter} / 対象外 ${skipped}）${elapsed}`;
   }
   return `メールサーバに接続しています…${elapsed}`;
 }
