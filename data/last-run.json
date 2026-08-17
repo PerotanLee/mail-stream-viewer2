@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5069 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:57:19.762810+00:00",
-  "added": 31,
+  "updated_at": "2026-08-17T06:57:20.747722+00:00",
+  "added": 32,
   "skipped": 1047,
   "scanned": 1079,
   "scan_total": 0,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "👾 Agent apocalypse",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 31
+    "axios": 32
   }
 }
