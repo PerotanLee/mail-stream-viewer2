@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5260 from=Axios Defense <defense@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:55:51.134244+00:00",
-  "added": 24,
+  "updated_at": "2026-08-17T06:55:52.158171+00:00",
+  "added": 25,
   "skipped": 863,
   "scanned": 888,
   "scan_total": 0,
-  "current": "Axios Defense <defense@axios.com>",
+  "current": "🔁 Banks and battlefields",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 24
+    "axios": 25
   }
 }
