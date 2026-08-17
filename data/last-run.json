@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "スキャン",
-  "phase": "scan",
+  "step": "本文取得 num=5901 from=Mike Allen <mike@axios.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:50:37.232878+00:00",
+  "updated_at": "2026-08-17T06:50:55.424072+00:00",
   "added": 0,
-  "skipped": 202,
-  "scanned": 202,
+  "skipped": 246,
+  "scanned": 247,
   "scan_total": 0,
-  "current": "送信元フィルタ外 CLUB MIZUNO事務局 <clubmizuno@webmail.mizuno.co.jp>",
+  "current": "Mike Allen <mike@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 0
