@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=5259 from=Mike Allen <mike@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:55:52.158171+00:00",
+  "updated_at": "2026-08-17T06:55:53.338930+00:00",
   "added": 25,
   "skipped": 863,
-  "scanned": 888,
+  "scanned": 889,
   "scan_total": 0,
-  "current": "🔁 Banks and battlefields",
+  "current": "Mike Allen <mike@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 25
