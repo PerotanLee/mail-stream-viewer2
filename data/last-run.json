@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=6205 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T13:00:33.671579+00:00",
+  "updated_at": "2026-08-17T13:00:36.768286+00:00",
   "added": 2,
-  "skipped": 12,
-  "scanned": 14,
+  "skipped": 22,
+  "scanned": 25,
   "scan_total": 0,
-  "current": "WSJ Politics: Pentagon Rotates Aircraft Carriers, Showing Toll of the Iran War",
+  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
   "added_by_filter": {
     "wsj": 1,
     "axios": 1
