@@ -1,15 +1,15 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
-  "phase": "retr",
+  "step": "スキャン",
+  "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:35:27.319171+00:00",
+  "updated_at": "2026-08-17T06:35:31.359949+00:00",
   "added": 2,
-  "skipped": 131,
+  "skipped": 148,
   "server_count": 6146,
-  "scanned": 133,
+  "scanned": 150,
   "scan_total": 200,
-  "current": "🏥 Axios AM: Hospitals that work"
+  "current": "送信元フィルタ外 CAMPFIRE 話題のプロジェクト <news@camp-fire.jp>"
 }
