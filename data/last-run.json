@@ -1,15 +1,15 @@
 {
   "ok": false,
   "running": true,
-  "step": "UIDL一覧",
-  "phase": "uidl",
+  "step": "スキャン",
+  "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:34:49.693470+00:00",
+  "updated_at": "2026-08-17T06:34:53.777516+00:00",
   "added": 0,
-  "skipped": 0,
+  "skipped": 17,
   "server_count": 6146,
-  "scanned": 0,
+  "scanned": 17,
   "scan_total": 200,
-  "current": ""
+  "current": "送信元フィルタ外 LIIA Secretariat <secretariat@liia-labuan.org>"
 }
