@@ -15,6 +15,7 @@ function watchAppTitle() {
   const observer = new MutationObserver(() => lockAppTitle());
   observer.observe(document.head, { subtree: true, childList: true, characterData: true });
 }
+let started = false;
 let retryTimer = 0;
 
 function setTranslateCookie() {
