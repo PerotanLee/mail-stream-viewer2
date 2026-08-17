@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=5078 from=Axios Macro <macro@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:57:10.789050+00:00",
+  "updated_at": "2026-08-17T06:57:13.002740+00:00",
   "added": 29,
-  "skipped": 1037,
-  "scanned": 1066,
+  "skipped": 1040,
+  "scanned": 1070,
   "scan_total": 0,
-  "current": "🚁 Axios PM: Life from above",
+  "current": "Axios Macro <macro@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 29
