@@ -5,11 +5,11 @@
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:35:18.145667+00:00",
+  "updated_at": "2026-08-17T06:35:22.319931+00:00",
   "added": 0,
-  "skipped": 112,
+  "skipped": 128,
   "server_count": 6146,
-  "scanned": 112,
+  "scanned": 128,
   "scan_total": 200,
-  "current": "送信元フィルタ外 PRESIDENT NEWS <online@ma.president.jp>"
+  "current": "送信元フィルタ外 Team Genki <porter@genkithings.com>"
 }
