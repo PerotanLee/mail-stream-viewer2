@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5503 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:53:59.307163+00:00",
-  "added": 15,
+  "updated_at": "2026-08-17T06:54:00.297958+00:00",
+  "added": 16,
   "skipped": 629,
   "scanned": 645,
   "scan_total": 0,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "🧐 Core issues",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 15
+    "axios": 16
   }
 }
