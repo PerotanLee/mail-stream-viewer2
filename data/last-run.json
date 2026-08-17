@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "ヘッダー取得 num=4830",
+  "step": "スキャン",
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:59:12.613402+00:00",
+  "updated_at": "2026-08-17T06:59:19.636179+00:00",
   "added": 42,
-  "skipped": 1275,
-  "scanned": 1318,
+  "skipped": 1291,
+  "scanned": 1333,
   "scan_total": 0,
-  "current": "ヘッダー確認 #4830",
+  "current": "7日より前のためスキャン終了",
   "added_by_filter": {
     "wsj": 0,
     "axios": 42
