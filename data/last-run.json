@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5750 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:52:05.718785+00:00",
-  "added": 6,
+  "updated_at": "2026-08-17T06:52:06.854537+00:00",
+  "added": 7,
   "skipped": 391,
   "scanned": 398,
   "scan_total": 0,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "🐚 Soft shell",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 6
+    "axios": 7
   }
 }
