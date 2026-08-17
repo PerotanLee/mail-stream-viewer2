@@ -5,12 +5,12 @@
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T13:03:49.107566+00:00",
+  "updated_at": "2026-08-17T13:04:09.162913+00:00",
   "added": 6,
-  "skipped": 870,
-  "scanned": 877,
+  "skipped": 958,
+  "scanned": 965,
   "scan_total": 0,
-  "current": "対象外をスキップ中 830通",
+  "current": "対象外をスキップ中 907通",
   "added_by_filter": {
     "wsj": 4,
     "axios": 2
