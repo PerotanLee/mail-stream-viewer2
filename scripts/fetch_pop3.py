@@ -37,7 +37,8 @@ TRANSLATE_CHUNK = 4000
 TRANSLATE_LIMIT = 20000
 MAX_AGE = timedelta(days=7)
 OLD_STREAK_STOP = 15
-MAX_SCAN = 200
+MAX_SCAN = 2500
+PROGRESS_INTERVAL_SEC = 10
 poplib._MAXLINE = 20 * 1024 * 1024
 
 
@@ -158,7 +159,7 @@ def write_run_report(
         payload.update(extra)
     write_json(LAST_RUN_PATH, payload)
     elapsed = time.time() - _last_publish
-    if running and not force and elapsed < 4:
+    if running and not force and elapsed < PROGRESS_INTERVAL_SEC:
         return
     _last_publish = time.time()
     try:
@@ -384,6 +385,7 @@ def main() -> int:
         "scanned": 0,
         "scan_total": 0,
         "current": "",
+        "added_by_filter": {},
     }
     pop: poplib.POP3 | None = None
     try:
@@ -410,7 +412,11 @@ def main() -> int:
         pop = connect_pop3()
         added = 0
         skipped = 0
+        skip_known = 0
+        skip_sender = 0
+        skip_old = 0
         old_streak = 0
+        added_by_filter = {part: 0 for part in parts}
 
         step = "UIDL一覧"
         write_run_report(ok=False, running=True, step=step, phase="uidl", extra=extra, force=True)
@@ -418,18 +424,35 @@ def main() -> int:
         extra["server_count"] = len(listings)
         newest = listings[-MAX_SCAN:]
         extra["scan_total"] = len(newest)
-        log(f"server has {len(listings)} messages; scanning newest {len(newest)}")
+        log(
+            f"server has {len(listings)} messages; scanning newest {len(newest)} until 7-day-old streak"
+        )
         write_run_report(ok=False, running=True, step=step, phase="uidl", extra=extra, force=True)
+
+        def note_old(dt: datetime | None) -> bool:
+            nonlocal old_streak
+            if dt is None:
+                return False
+            if dt < cutoff:
+                old_streak += 1
+                return old_streak >= OLD_STREAK_STOP
+            old_streak = 0
+            return False
 
         for num, uid in reversed(newest):
             extra["scanned"] = int(extra.get("scanned") or 0) + 1
             extra["added"] = added
             extra["skipped"] = skipped
+            extra["added_by_filter"] = added_by_filter
             if uid in known:
+                skip_known += 1
                 skipped += 1
                 extra["skipped"] = skipped
                 extra["current"] = "取得済みをスキップ"
                 write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
+                if note_old(message_time(str(known[uid].get("date") or ""))):
+                    log(f"stop scan: {OLD_STREAK_STOP} consecutive messages older than 7 days")
+                    break
                 continue
             step = f"ヘッダー取得 num={num}"
             extra["current"] = f"ヘッダー確認 #{num}"
@@ -443,28 +466,33 @@ def main() -> int:
                 extra["skipped"] = skipped
                 continue
 
+            msg_date = parse_message_date(headers)
+            if note_old(msg_date):
+                seen.add(uid)
+                skip_old += 1
+                skipped += 1
+                extra["skipped"] = skipped
+                extra["current"] = "7日より前のためスキャン終了"
+                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra, force=True)
+                log(f"stop scan: {OLD_STREAK_STOP} consecutive messages older than 7 days")
+                break
+            if msg_date is not None and msg_date < cutoff:
+                seen.add(uid)
+                skip_old += 1
+                skipped += 1
+                extra["skipped"] = skipped
+                extra["current"] = "7日より前のためスキップ"
+                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
+                continue
+
             from_addr = extract_addresses(headers)
             if not sender_matches(from_addr, sender_filter):
+                skip_sender += 1
                 skipped += 1
                 extra["skipped"] = skipped
                 extra["current"] = f"送信元フィルタ外 {from_addr}"
                 write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
                 continue
-
-            msg_date = parse_message_date(headers)
-            if not is_recent(msg_date, cutoff):
-                seen.add(uid)
-                skipped += 1
-                extra["skipped"] = skipped
-                extra["current"] = "7日より前のためスキップ"
-                old_streak += 1
-                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
-                if old_streak >= OLD_STREAK_STOP:
-                    log(f"stop scan: {OLD_STREAK_STOP} consecutive matching messages older than 7 days")
-                    break
-                continue
-            old_streak = 0
-
             step = f"本文取得 num={num} from={from_addr}"
             extra["current"] = from_addr
             write_run_report(ok=False, running=True, step=step, phase="retr", extra=extra, force=True)
@@ -509,13 +537,18 @@ def main() -> int:
             known[uid] = emails[-1]
             seen.add(uid)
             added += 1
+            for part in parts:
+                if part in from_addr.lower():
+                    added_by_filter[part] = added_by_filter.get(part, 0) + 1
             extra["added"] = added
+            extra["added_by_filter"] = added_by_filter
             extra["current"] = subject or from_addr
             write_run_report(ok=False, running=True, step="本文保存", phase="retr", extra=extra, force=True)
             log(f"saved uid={uid[:24]} from={from_addr} date={date}")
 
         extra["added"] = added
         extra["skipped"] = skipped
+        extra["added_by_filter"] = added_by_filter
         extra["current"] = ""
         step = "保存"
         write_run_report(ok=False, running=True, step=step, phase="save", extra=extra, force=True)
@@ -524,7 +557,11 @@ def main() -> int:
         write_json(INDEX_PATH, {"emails": emails})
         write_json(SEEN_PATH, {"uids": sorted(seen)})
         write_run_report(ok=True, step="完了", phase="done", extra=extra, force=True)
-        log(f"done added={added} skipped={skipped} server={len(listings)}")
+        log(
+            f"done added={added} by_filter={added_by_filter} "
+            f"skip_known={skip_known} skip_sender={skip_sender} skip_old={skip_old} "
+            f"scanned={extra.get('scanned')} server={len(listings)}"
+        )
         return 0
     except Exception as exc:
         trace = traceback.format_exc()

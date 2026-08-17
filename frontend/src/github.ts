@@ -259,6 +259,7 @@ export type LastRunReport = {
   scanned?: number;
   scan_total?: number;
   current?: string;
+  added_by_filter?: Record<string, number>;
 };
 
 export async function loadLastRun(connection: Connection): Promise<LastRunReport | null> {
@@ -308,7 +309,13 @@ function messageFromProgress(report: LastRunReport, startedAt: number): string {
   if (phase === "scan" || scanned || total) {
     const where = total ? `${scanned}/${total}` : `${scanned}`;
     const hint = current ? ` ${current}` : "";
-    return `ヘッダー確認 ${where}（新規 ${added} / スキップ ${skipped}）${hint}${elapsed}`;
+    const byFilter = report.added_by_filter
+      ? " " +
+        Object.entries(report.added_by_filter)
+          .map(([key, count]) => `${key}:${count}`)
+          .join(" ")
+      : "";
+    return `ヘッダー確認 ${where}（新規 ${added}${byFilter} / スキップ ${skipped}）${hint}${elapsed}`;
   }
   return `メールサーバに接続しています…${elapsed}`;
 }
