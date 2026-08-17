@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6189 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T13:00:46.972584+00:00",
-  "added": 5,
+  "updated_at": "2026-08-17T13:00:47.993206+00:00",
+  "added": 6,
   "skipped": 35,
   "scanned": 41,
   "scan_total": 0,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🤗 Axios AM: Finding new friends",
   "added_by_filter": {
     "wsj": 4,
-    "axios": 1
+    "axios": 2
   },
   "scan_mode": "week",
   "since": "2026-08-10T13:00:23.103454+00:00"
