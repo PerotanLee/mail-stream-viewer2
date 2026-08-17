@@ -32,6 +32,8 @@ export function SettingsPanel({
       <label>
         owner
         <input
+          className="notranslate"
+          translate="no"
           value={connection.owner}
           onChange={(e) => onConnection({ ...connection, owner: e.target.value.trim() })}
           placeholder="your-github-name"
@@ -40,6 +42,8 @@ export function SettingsPanel({
       <label>
         データ用リポジトリ名
         <input
+          className="notranslate"
+          translate="no"
           value={connection.repo}
           onChange={(e) => onConnection({ ...connection, repo: e.target.value.trim() })}
           placeholder="mail-stream-viewer2"
@@ -48,6 +52,8 @@ export function SettingsPanel({
       <label>
         ブランチ
         <input
+          className="notranslate"
+          translate="no"
           value={connection.branch}
           onChange={(e) => onConnection({ ...connection, branch: e.target.value.trim() || "main" })}
         />
@@ -56,6 +62,8 @@ export function SettingsPanel({
         GitHub PAT
         <input
           type="password"
+          className="notranslate"
+          translate="no"
           autoComplete="off"
           value={connection.token}
           onChange={(e) => onConnection({ ...connection, token: e.target.value.trim() })}
@@ -73,6 +81,8 @@ export function SettingsPanel({
       <label>
         ホスト
         <input
+          className="notranslate"
+          translate="no"
           value={settings.pop3Host}
           onChange={(e) => onSettings({ ...settings, pop3Host: e.target.value })}
           placeholder="pop.example.com"
@@ -81,6 +91,8 @@ export function SettingsPanel({
       <label>
         ポート
         <input
+          className="notranslate"
+          translate="no"
           value={settings.pop3Port}
           onChange={(e) => onSettings({ ...settings, pop3Port: e.target.value })}
           placeholder="995"
@@ -89,6 +101,8 @@ export function SettingsPanel({
       <label>
         ユーザー名（受信アドレス）
         <input
+          className="notranslate"
+          translate="no"
           value={settings.pop3User}
           onChange={(e) => onSettings({ ...settings, pop3User: e.target.value })}
           placeholder="you@example.com"
@@ -99,6 +113,8 @@ export function SettingsPanel({
         パスワード
         <input
           type="password"
+          className="notranslate"
+          translate="no"
           autoComplete="new-password"
           value={pop3Password}
           onChange={(e) => onPop3Password(e.target.value)}
@@ -119,6 +135,8 @@ export function SettingsPanel({
       <label>
         送信元フィルタ
         <input
+          className="notranslate"
+          translate="no"
           value={settings.senderFilter}
           onChange={(e) => onSettings({ ...settings, senderFilter: e.target.value })}
           placeholder="alerts@example.com"

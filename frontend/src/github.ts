@@ -21,6 +21,30 @@ function headers(token: string): HeadersInit {
   return result;
 }
 
+export function isRateLimitError(err: unknown): boolean {
+  if (!(err instanceof GitHubError)) return false;
+  if (err.status === 429) return true;
+  if (err.status !== 403) return false;
+  return /rate limit|too many requests|secondary rate/i.test(err.message);
+}
+
+function isRateLimitStatus(status: number, body: string): boolean {
+  if (status === 429) return true;
+  if (status !== 403) return false;
+  return /rate limit|too many requests|secondary rate/i.test(body);
+}
+
+function retryAfterMs(response: Response, attempt: number): number {
+  const raw = response.headers.get("Retry-After");
+  const seconds = raw ? Number(raw) : Number.NaN;
+  if (Number.isFinite(seconds) && seconds > 0) return Math.min(seconds * 1000, 20000);
+  return Math.min(2000 * 2 ** attempt, 16000);
+}
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 function encodeBase64(text: string): string {
   const bytes = new TextEncoder().encode(text);
   let binary = "";
@@ -47,21 +71,26 @@ async function encryptSecret(publicKey: string, secret: string): Promise<string>
 
 async function githubFetch(connection: Connection, path: string, init?: RequestInit): Promise<Response> {
   const url = `${API}${path}`;
-  const response = await fetch(url, {
-    ...init,
-    cache: "no-store",
-    headers: {
-      ...headers(connection.token),
-      "Cache-Control": "no-cache",
-      Pragma: "no-cache",
-      ...(init?.headers || {}),
-    },
-  });
-  if (!response.ok) {
+  for (let attempt = 0; attempt < 4; attempt++) {
+    const response = await fetch(url, {
+      ...init,
+      cache: "no-store",
+      headers: {
+        ...headers(connection.token),
+        "Cache-Control": "no-cache",
+        Pragma: "no-cache",
+        ...(init?.headers || {}),
+      },
+    });
+    if (response.ok) return response;
     const body = await response.text();
+    if (attempt < 3 && isRateLimitStatus(response.status, body)) {
+      await sleep(retryAfterMs(response, attempt));
+      continue;
+    }
     throw new GitHubError(response.status, body.slice(0, 300) || response.statusText);
   }
-  return response;
+  throw new GitHubError(500, "GitHub API に接続できませんでした");
 }
 
 type ContentFile = {
@@ -152,21 +181,58 @@ export async function loadSettings(connection: Connection): Promise<{ settings: 
   };
 }
 
+function keepText(local: string, remote: string): string {
+  return local.trim() ? local : remote;
+}
+
+function mergeSettings(local: AppSettings, remote: AppSettings): AppSettings {
+  return {
+    senderFilter: keepText(local.senderFilter, remote.senderFilter),
+    zoom: local.zoom,
+    displayLang: local.displayLang === "en" ? "en" : "ja",
+    pop3Host: keepText(local.pop3Host, remote.pop3Host),
+    pop3Port: keepText(local.pop3Port, remote.pop3Port) || remote.pop3Port || "995",
+    pop3User: keepText(local.pop3User, remote.pop3User),
+    pop3Ssl: local.pop3Ssl,
+  };
+}
+
+async function writeSettings(
+  connection: Connection,
+  payload: AppSettings,
+  sha: string,
+): Promise<string> {
+  let currentSha = sha;
+  let current = payload;
+  for (let attempt = 0; attempt < 5; attempt++) {
+    try {
+      return await writeJsonFile(connection, "data/settings.json", "Update app settings", current, currentSha);
+    } catch (err) {
+      if (!isConflict(err) || attempt === 4) throw err;
+      const latest = await loadSettings(connection);
+      current = mergeSettings(current, latest.settings);
+      currentSha = latest.sha;
+    }
+  }
+  throw new Error("設定の保存に失敗しました");
+}
+
 export async function saveSettings(
   connection: Connection,
   settings: AppSettings,
-  sha: string,
-): Promise<string> {
-  const payload: AppSettings = {
-    senderFilter: settings.senderFilter,
-    zoom: settings.zoom,
-    displayLang: settings.displayLang,
-    pop3Host: settings.pop3Host,
-    pop3Port: settings.pop3Port,
-    pop3User: settings.pop3User,
-    pop3Ssl: settings.pop3Ssl,
-  };
-  return writeJsonFile(connection, "data/settings.json", "Update app settings", payload, sha);
+  _sha?: string,
+): Promise<{ sha: string; settings: AppSettings }> {
+  const latest = await loadSettings(connection);
+  const payload = mergeSettings(settings, latest.settings);
+  const sha = await writeSettings(connection, payload, latest.sha);
+  return { sha, settings: payload };
+}
+
+export async function saveZoom(connection: Connection, zoom: number): Promise<{ sha: string; settings: AppSettings }> {
+  const latest = await loadSettings(connection);
+  const payload = { ...latest.settings, zoom };
+  const sha = await writeSettings(connection, payload, latest.sha);
+  return { sha, settings: payload };
 }
 
 export async function savePop3Secrets(

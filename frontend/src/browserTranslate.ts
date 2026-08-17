@@ -8,18 +8,9 @@ function setTranslateCookie() {
   document.cookie = `${value};path=${path === "" ? "/" : path}`;
 }
 
-function selectJapanese(force: boolean) {
+function selectJapanese() {
   const combo = document.querySelector<HTMLSelectElement>(".goog-te-combo");
   if (!combo) return false;
-  if (force) {
-    combo.value = "";
-    combo.dispatchEvent(new Event("change"));
-    window.setTimeout(() => {
-      combo.value = "ja";
-      combo.dispatchEvent(new Event("change"));
-    }, 80);
-    return true;
-  }
   if (combo.value !== "ja") {
     combo.value = "ja";
     combo.dispatchEvent(new Event("change"));
@@ -27,11 +18,11 @@ function selectJapanese(force: boolean) {
   return combo.value === "ja";
 }
 
-export function refreshTranslate() {
+export function ensureTranslated() {
   window.clearTimeout(retryTimer);
   let tries = 0;
   const tick = () => {
-    if (selectJapanese(true)) return;
+    if (selectJapanese()) return;
     tries += 1;
     if (tries < 24) retryTimer = window.setTimeout(tick, 500);
   };
@@ -58,7 +49,7 @@ export function startPageTranslate() {
       },
       "google_translate_element",
     );
-    refreshTranslate();
+    ensureTranslated();
   };
 
   const script = document.createElement("script");

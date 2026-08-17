@@ -7,6 +7,7 @@ import {
   GitHubError,
   FetchRunError,
   describeFetchFailure,
+  isRateLimitError,
   loadEmail,
   loadIndex,
   loadLastRun,
@@ -14,11 +15,12 @@ import {
   saveIndexMarkRead,
   savePop3Secrets,
   saveSettings,
+  saveZoom,
   triggerFetch,
   waitForFetchRun,
 } from "./github";
-import { loadConnection, loadPageDownPos, saveConnection } from "./storage";
-import { refreshTranslate, startPageTranslate } from "./browserTranslate";
+import { loadCachedSettings, loadConnection, loadPageDownPos, saveCachedSettings, saveConnection } from "./storage";
+import { startPageTranslate } from "./browserTranslate";
 import type { AppSettings, Connection, EmailIndexItem, EmailRecord, PageDownPos } from "./types";
 import "./App.css";
 
@@ -80,9 +82,8 @@ export default function App() {
   const [tab, setTab] = useState<Tab>("stream");
   const [connection, setConnection] = useState<Connection>(loadConnection() ?? emptyConnection);
   const [connected, setConnected] = useState(true);
-  const [settings, setSettings] = useState<AppSettings>(emptySettings);
+  const [settings, setSettings] = useState<AppSettings>(loadCachedSettings() ?? emptySettings);
   const [pop3Password, setPop3Password] = useState("");
-  const [settingsSha, setSettingsSha] = useState("");
   const [emails, setEmails] = useState<EmailIndexItem[]>([]);
   const [records, setRecords] = useState<Record<string, EmailRecord>>({});
   const [selectedId, setSelectedId] = useState<string | null>(null);
@@ -95,15 +96,12 @@ export default function App() {
   const connectionRef = useRef(connection);
   const pendingReadIds = useRef(new Set<string>());
   const readFlush = useRef(Promise.resolve());
+  const readTimer = useRef(0);
   connectionRef.current = connection;
 
   useEffect(() => {
     startPageTranslate();
   }, []);
-
-  useEffect(() => {
-    refreshTranslate();
-  }, [records]);
 
   const visible = useMemo(
     () => visibleItems(emails, settings.senderFilter),
@@ -112,12 +110,12 @@ export default function App() {
 
   const refreshData = useCallback(
     async (conn: Connection) => {
-      const [{ settings: nextSettings, sha: sSha }, { index }] = await Promise.all([
+      const [{ settings: nextSettings }, { index }] = await Promise.all([
         loadSettings(conn),
         loadIndex(conn),
       ]);
       setSettings(nextSettings);
-      setSettingsSha(sSha);
+      saveCachedSettings(nextSettings);
       lastUiSync.current = String(nextSettings.zoom);
       setEmails(index.emails);
       const shown = visibleItems(index.emails, nextSettings.senderFilter);
@@ -180,25 +178,29 @@ export default function App() {
   }, [loadBodies, refreshData]);
 
   useEffect(() => {
-    if (!connected || !settingsSha || !connection.token) return;
-    const key = String(settings.zoom);
+    if (!connected || !connection.token) return;
+    const zoom = settings.zoom;
     if (!lastUiSync.current) {
-      lastUiSync.current = key;
+      lastUiSync.current = String(zoom);
       return;
     }
-    if (lastUiSync.current === key) return;
+    if (lastUiSync.current === String(zoom)) return;
     const handle = window.setTimeout(() => {
-      saveSettings(connection, settings, settingsSha)
-        .then((sha) => {
-          setSettingsSha(sha);
-          lastUiSync.current = key;
+      saveZoom(connection, zoom)
+        .then((result) => {
+          setSettings((current) => {
+            const next = { ...result.settings, zoom: current.zoom };
+            saveCachedSettings(next);
+            return next;
+          });
+          lastUiSync.current = String(zoom);
         })
         .catch(() => {
           /* keep local zoom even if sync fails */
         });
     }, 800);
     return () => window.clearTimeout(handle);
-  }, [connected, connection, settings, settingsSha]);
+  }, [connected, connection, settings.zoom]);
 
   async function flushPendingReads() {
     const conn = connectionRef.current;
@@ -218,6 +220,34 @@ export default function App() {
       }
     }
   }
+
+  function queueReadFlush() {
+    window.clearTimeout(readTimer.current);
+    readTimer.current = window.setTimeout(() => {
+      const job = readFlush.current.then(flushPendingReads);
+      readFlush.current = job.catch(() => {});
+      job.catch((err) => setError(explain(err)));
+    }, 800);
+  }
+
+  useEffect(() => {
+    const flushNow = () => {
+      window.clearTimeout(readTimer.current);
+      if (!pendingReadIds.current.size) return;
+      const job = readFlush.current.then(flushPendingReads);
+      readFlush.current = job.catch(() => {});
+      job.catch((err) => setError(explain(err)));
+    };
+    const onHide = () => {
+      if (document.visibilityState === "hidden") flushNow();
+    };
+    document.addEventListener("visibilitychange", onHide);
+    window.addEventListener("pagehide", flushNow);
+    return () => {
+      document.removeEventListener("visibilitychange", onHide);
+      window.removeEventListener("pagehide", flushNow);
+    };
+  }, []);
 
   async function selectEmail(id: string, scroll = false) {
     setSelectedId(id);
@@ -254,13 +284,7 @@ export default function App() {
       setSelectedId(remaining[0]?.id ?? null);
     }
     setError("");
-    const job = readFlush.current.then(flushPendingReads);
-    readFlush.current = job.catch(() => {});
-    try {
-      await job;
-    } catch (err) {
-      setError(explain(err));
-    }
+    queueReadFlush();
   }
 
   async function handleSaveConnection() {
@@ -284,11 +308,13 @@ export default function App() {
     setBusy(true);
     setError("");
     try {
-      const sha = await saveSettings(connection, settings, settingsSha);
-      setSettingsSha(sha);
-      await savePop3Secrets(connection, settings, pop3Password);
+      const result = await saveSettings(connection, settings);
+      setSettings(result.settings);
+      saveCachedSettings(result.settings);
+      lastUiSync.current = String(result.settings.zoom);
+      await savePop3Secrets(connection, result.settings, pop3Password);
       setPop3Password("");
-      await loadBodies(connection, visibleItems(emails, settings.senderFilter));
+      await loadBodies(connection, visibleItems(emails, result.settings.senderFilter));
       setStatus("設定を保存しました");
     } catch (err) {
       setError(explain(err));
@@ -408,6 +434,7 @@ export default function App() {
           </section>
         </main>
         <aside className="panel settings-panel notranslate" translate="no">
+          {tab === "settings" ? (
           <SettingsPanel
             connection={connection}
             settings={settings}
@@ -419,6 +446,7 @@ export default function App() {
             onSaveConnection={handleSaveConnection}
             onSaveSettings={handleSaveSettings}
           />
+          ) : null}
         </aside>
       </div>
 
@@ -442,6 +470,9 @@ export default function App() {
 
 function explain(err: unknown): string {
   if (err instanceof GitHubError) {
+    if (isRateLimitError(err)) {
+      return "GitHub への保存が短時間に多すぎます。1分ほど待ってから既読や更新をやり直してください。設定は消えていません。";
+    }
     if (err.status === 401 || err.status === 403) {
       return "GitHub 認証に失敗しました。PAT に Contents・Actions・Secrets の読み書きがあるか確認してください。";
     }
