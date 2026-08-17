@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=4906 from=Dan Primack <dan@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:58:35.011052+00:00",
+  "updated_at": "2026-08-17T06:58:36.649550+00:00",
   "added": 38,
-  "skipped": 1202,
-  "scanned": 1240,
+  "skipped": 1203,
+  "scanned": 1242,
   "scan_total": 0,
-  "current": "🏦 Warsh's world",
+  "current": "Dan Primack <dan@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 38
