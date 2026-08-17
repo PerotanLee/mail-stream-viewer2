@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
-  "phase": "retr",
+  "step": "ヘッダー取得 num=4992",
+  "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:57:33.834287+00:00",
+  "updated_at": "2026-08-17T06:57:54.016333+00:00",
   "added": 34,
-  "skipped": 1071,
-  "scanned": 1105,
+  "skipped": 1121,
+  "scanned": 1156,
   "scan_total": 0,
-  "current": "⚡ Axios AM: Big crime decline",
+  "current": "ヘッダー確認 #4992",
   "added_by_filter": {
     "wsj": 0,
     "axios": 34
