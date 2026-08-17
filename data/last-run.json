@@ -5,12 +5,12 @@
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:50:17.125600+00:00",
+  "updated_at": "2026-08-17T06:50:37.232878+00:00",
   "added": 0,
-  "skipped": 153,
-  "scanned": 153,
+  "skipped": 202,
+  "scanned": 202,
   "scan_total": 0,
-  "current": "送信元フィルタ外 BEAMS <mail@club.beams.co.jp>",
+  "current": "送信元フィルタ外 CLUB MIZUNO事務局 <clubmizuno@webmail.mizuno.co.jp>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 0
