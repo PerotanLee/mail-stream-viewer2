@@ -3,9 +3,11 @@ import type { AppSettings, Connection } from "../types";
 type Props = {
   connection: Connection;
   settings: AppSettings;
+  pop3Password: string;
   busy: boolean;
   onConnection: (next: Connection) => void;
   onSettings: (next: AppSettings) => void;
+  onPop3Password: (value: string) => void;
   onSaveConnection: () => void;
   onSaveSettings: () => void;
 };
@@ -13,9 +15,11 @@ type Props = {
 export function SettingsPanel({
   connection,
   settings,
+  pop3Password,
   busy,
   onConnection,
   onSettings,
+  onPop3Password,
   onSaveConnection,
   onSaveSettings,
 }: Props) {
@@ -23,7 +27,7 @@ export function SettingsPanel({
     <div className="settings">
       <h2>接続</h2>
       <p className="hint">
-        GitHub の PAT（Contents 読み書き、Actions 書き込み）は「更新」と既読保存に必要です。公開リポジトリなら閲覧だけは PAT なしでもできます。POP3 パスワードは GitHub Secrets に置いてください。
+        GitHub PAT（Contents / Actions / Secrets の読み書き）は、更新・既読・POP3 保存に必要です。この端末にだけ保存します。
       </p>
       <label>
         owner
@@ -61,6 +65,55 @@ export function SettingsPanel({
       <button type="button" className="text-btn primary" onClick={onSaveConnection} disabled={busy}>
         この端末に接続を保存
       </button>
+
+      <h2>POP3</h2>
+      <p className="hint">
+        ホスト・ユーザーは設定ファイルに保存します。パスワードは GitHub Secrets だけに暗号化して保存し、画面や git には残しません。
+      </p>
+      <label>
+        ホスト
+        <input
+          value={settings.pop3Host}
+          onChange={(e) => onSettings({ ...settings, pop3Host: e.target.value })}
+          placeholder="pop.example.com"
+        />
+      </label>
+      <label>
+        ポート
+        <input
+          value={settings.pop3Port}
+          onChange={(e) => onSettings({ ...settings, pop3Port: e.target.value })}
+          placeholder="995"
+        />
+      </label>
+      <label>
+        ユーザー名（受信アドレス）
+        <input
+          value={settings.pop3User}
+          onChange={(e) => onSettings({ ...settings, pop3User: e.target.value })}
+          placeholder="you@example.com"
+          autoComplete="username"
+        />
+      </label>
+      <label>
+        パスワード
+        <input
+          type="password"
+          autoComplete="new-password"
+          value={pop3Password}
+          onChange={(e) => onPop3Password(e.target.value)}
+          placeholder="変更するときだけ入力"
+        />
+        <span className="hint">空のまま保存すると、既存のパスワードは変えません。</span>
+      </label>
+      <label className="row">
+        <input
+          type="checkbox"
+          checked={settings.pop3Ssl}
+          onChange={(e) => onSettings({ ...settings, pop3Ssl: e.target.checked })}
+        />
+        SSL を使う（通常はオン、ポート 995）
+      </label>
 
       <h2>メール</h2>
       <label>

@@ -226,6 +226,11 @@ textarea {
   gap: 8px;
   align-items: center;
   flex-wrap: wrap;
+  font-weight: 600;
+}
+
+.row input[type="checkbox"] {
+  width: auto;
 }
 
 .zoom-wrap {

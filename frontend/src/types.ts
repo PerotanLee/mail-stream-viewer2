@@ -4,6 +4,10 @@ export type AppSettings = {
   senderFilter: string;
   zoom: number;
   displayLang: DisplayLang;
+  pop3Host: string;
+  pop3Port: string;
+  pop3User: string;
+  pop3Ssl: boolean;
 };
 
 export type Connection = {

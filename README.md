@@ -42,19 +42,15 @@ git push -u origin main
 - `frontend/` だけを public リポジトリに置き、Pages はそちらで公開する
 - アプリ設定の「データ用リポジトリ名」に private 側の名前を入れる
 
-### 2. GitHub Secrets（POP3）
+### 2. POP3
 
-リポジトリの Settings → Secrets and variables → Actions に追加します。
+アプリの設定画面からホスト・ポート・ユーザー・パスワードを保存します。パスワードは GitHub Actions Secrets に暗号化され、`data/` や git には入りません。
 
-| 名前 | 例 |
-| --- | --- |
-| `POP3_HOST` | `pop.example.com` |
-| `POP3_PORT` | `995` |
-| `POP3_USER` | 受信メールアドレス |
-| `POP3_PASSWORD` | POP3 パスワード |
-| `POP3_SSL` | `true` |
+PAT には次の権限が必要です。
 
-パスワードをコードや `data/` に書かないでください。
+- **Contents**: Read and write
+- **Actions**: Read and write
+- **Secrets**: Read and write
 
 ### 3. GitHub Pages
 
@@ -71,6 +67,7 @@ Fine-grained PAT を発行します。
 - Permissions:
   - **Contents**: Read and write
   - **Actions**: Read and write
+  - **Secrets**: Read and write
 - 有効期限は長めでも、漏洩したらすぐ取り消す
 
 PAT は各端末のブラウザにだけ保存されます。git には入れません。
@@ -79,7 +76,7 @@ PAT は各端末のブラウザにだけ保存されます。git には入れま
 
 1. Pages の URL を開く
 2. 設定に owner / リポジトリ名 / ブランチ（`main`）/ PAT を入れて「この端末に接続を保存」
-3. 送信元フィルタ（From に含まれる文字。カンマ区切り可）を入れて「設定を GitHub に保存」
+3. 送信元フィルタと POP3 情報を入れて「設定を GitHub に保存」
 4. 「更新」を押す。Actions が終わるまで数十秒かかることがあります
 5. スマホでは共有 → ホーム画面に追加 で PWA 化できます
 

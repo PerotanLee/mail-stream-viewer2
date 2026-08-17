@@ -36,6 +36,15 @@ function decodeBase64(content: string): string {
   return new TextDecoder().decode(bytes);
 }
 
+async function encryptSecret(publicKey: string, secret: string): Promise<string> {
+  const sodium = (await import("libsodium-wrappers")).default;
+  await sodium.ready;
+  const binkey = sodium.from_base64(publicKey, sodium.base64_variants.ORIGINAL);
+  const binsec = sodium.from_string(secret);
+  const encBytes = sodium.crypto_box_seal(binsec, binkey);
+  return sodium.to_base64(encBytes, sodium.base64_variants.ORIGINAL);
+}
+
 async function githubFetch(connection: Connection, path: string, init?: RequestInit): Promise<Response> {
   const url = `${API}${path}`;
   const response = await fetch(url, {
@@ -115,6 +124,10 @@ export async function loadSettings(connection: Connection): Promise<{ settings: 
       senderFilter: data.senderFilter ?? "",
       zoom: typeof data.zoom === "number" ? data.zoom : 100,
       displayLang: data.displayLang === "en" ? "en" : "ja",
+      pop3Host: data.pop3Host ?? "",
+      pop3Port: data.pop3Port ?? "995",
+      pop3User: data.pop3User ?? "",
+      pop3Ssl: data.pop3Ssl !== false,
     },
   };
 }
@@ -124,9 +137,55 @@ export async function saveSettings(
   settings: AppSettings,
   sha: string,
 ): Promise<string> {
-  await writeJsonFile(connection, "data/settings.json", "Update app settings", settings, sha);
+  const payload: AppSettings = {
+    senderFilter: settings.senderFilter,
+    zoom: settings.zoom,
+    displayLang: settings.displayLang,
+    pop3Host: settings.pop3Host,
+    pop3Port: settings.pop3Port,
+    pop3User: settings.pop3User,
+    pop3Ssl: settings.pop3Ssl,
+  };
+  await writeJsonFile(connection, "data/settings.json", "Update app settings", payload, sha);
   const latest = await loadSettings(connection);
   return latest.sha;
+}
+
+export async function savePop3Secrets(
+  connection: Connection,
+  settings: AppSettings,
+  password: string,
+): Promise<void> {
+  if (!connection.token) {
+    throw new Error("POP3 の保存には GitHub PAT が必要です");
+  }
+  const secrets: Record<string, string> = {};
+  if (settings.pop3Host.trim()) secrets.POP3_HOST = settings.pop3Host.trim();
+  if (settings.pop3Port.trim()) secrets.POP3_PORT = settings.pop3Port.trim();
+  if (settings.pop3User.trim()) secrets.POP3_USER = settings.pop3User.trim();
+  if (settings.pop3Host.trim() || settings.pop3User.trim()) {
+    secrets.POP3_SSL = settings.pop3Ssl ? "true" : "false";
+  }
+  if (password) secrets.POP3_PASSWORD = password;
+  if (Object.keys(secrets).length === 0) return;
+
+  const keyRes = await githubFetch(
+    connection,
+    `/repos/${connection.owner}/${connection.repo}/actions/secrets/public-key`,
+  );
+  const { key, key_id } = (await keyRes.json()) as { key: string; key_id: string };
+
+  for (const [name, value] of Object.entries(secrets)) {
+    const encrypted_value = await encryptSecret(key, value);
+    await githubFetch(
+      connection,
+      `/repos/${connection.owner}/${connection.repo}/actions/secrets/${encodeURIComponent(name)}`,
+      {
+        method: "PUT",
+        body: JSON.stringify({ encrypted_value, key_id }),
+      },
+    );
+  }
 }
 
 export async function loadIndex(connection: Connection): Promise<{ index: EmailIndex; sha: string }> {

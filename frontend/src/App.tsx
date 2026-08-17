@@ -9,6 +9,7 @@ import {
   loadIndex,
   loadSettings,
   saveIndex,
+  savePop3Secrets,
   saveSettings,
   triggerFetch,
   waitForFetchRun,
@@ -26,13 +27,22 @@ const emptyConnection: Connection = {
   token: "",
   branch: "main",
 };
-const emptySettings: AppSettings = { senderFilter: "", zoom: 100, displayLang: "ja" };
+const emptySettings: AppSettings = {
+  senderFilter: "",
+  zoom: 100,
+  displayLang: "ja",
+  pop3Host: "",
+  pop3Port: "995",
+  pop3User: "",
+  pop3Ssl: true,
+};
 
 export default function App() {
   const [tab, setTab] = useState<Tab>("stream");
   const [connection, setConnection] = useState<Connection>(loadConnection() ?? emptyConnection);
   const [connected, setConnected] = useState(true);
   const [settings, setSettings] = useState<AppSettings>(emptySettings);
+  const [pop3Password, setPop3Password] = useState("");
   const [settingsSha, setSettingsSha] = useState("");
   const [emails, setEmails] = useState<EmailIndexItem[]>([]);
   const [indexSha, setIndexSha] = useState("");
@@ -215,6 +225,8 @@ export default function App() {
     try {
       const sha = await saveSettings(connection, settings, settingsSha);
       setSettingsSha(sha);
+      await savePop3Secrets(connection, settings, pop3Password);
+      setPop3Password("");
       setStatus("設定を保存しました");
     } catch (err) {
       setError(explain(err));
@@ -335,9 +347,11 @@ export default function App() {
           <SettingsPanel
             connection={connection}
             settings={settings}
+            pop3Password={pop3Password}
             busy={busy}
             onConnection={setConnection}
             onSettings={setSettings}
+            onPop3Password={setPop3Password}
             onSaveConnection={handleSaveConnection}
             onSaveSettings={handleSaveSettings}
           />
@@ -368,7 +382,7 @@ export default function App() {
 function explain(err: unknown): string {
   if (err instanceof GitHubError) {
     if (err.status === 401 || err.status === 403) {
-      return "GitHub 認証に失敗しました。PAT の権限（Contents と Actions）を確認してください。";
+      return "GitHub 認証に失敗しました。PAT に Contents・Actions・Secrets の読み書きがあるか確認してください。";
     }
     if (err.status === 404) {
       return "リポジトリまたはファイルが見つかりません。owner / repo / ブランチを確認してください。";
