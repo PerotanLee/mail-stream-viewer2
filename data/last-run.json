@@ -3,8 +3,8 @@
   "step": "完了",
   "error": "",
   "traceback": "",
-  "finished_at": "2026-08-17T05:14:59.418944+00:00",
-  "added": 44,
-  "skipped": 40,
-  "server_count": 6134
+  "finished_at": "2026-08-17T05:28:02.020581+00:00",
+  "added": 0,
+  "skipped": 198,
+  "server_count": 6136
 }
