@@ -8,6 +8,8 @@ type Props = {
   displayLang: DisplayLang;
   translatedSubjects: Record<string, string>;
   translatedBodies: Record<string, string>;
+  translatedHtml: Record<string, string>;
+  translatingId: string | null;
   onSelect: (id: string) => void;
   onToggleRead: (id: string, isRead: boolean) => void;
 };
@@ -19,6 +21,8 @@ export function EmailStream({
   displayLang,
   translatedSubjects,
   translatedBodies,
+  translatedHtml,
+  translatingId,
   onSelect,
   onToggleRead,
 }: Props) {
@@ -36,7 +40,12 @@ export function EmailStream({
             : item.subject;
         const bodyJa = record?.body_text_ja || translatedBodies[item.id] || "";
         const showJa = displayLang === "ja";
-        const html = record?.body_html || "";
+        const html = record?.body_html
+          ? showJa
+            ? translatedHtml[item.id] || record.body_html
+            : record.body_html
+          : "";
+        const translating = showJa && Boolean(record?.body_html) && !translatedHtml[item.id];
 
         return (
           <article
@@ -71,9 +80,11 @@ export function EmailStream({
             </div>
             {record ? (
               <>
-                {showJa && bodyJa ? (
-                  <div className="body" lang="ja" translate="no">
-                    {bodyJa}
+                {translating ? (
+                  <div className="meta">
+                    {translatingId === item.id || !translatingId
+                      ? "画像つきレイアウトを日本語にしています…"
+                      : "日本語化待ち…"}
                   </div>
                 ) : null}
                 {html ? (

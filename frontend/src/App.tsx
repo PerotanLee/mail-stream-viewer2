@@ -17,7 +17,7 @@ import {
   waitForFetchRun,
 } from "./github";
 import { loadConnection, loadPageDownPos, saveConnection } from "./storage";
-import { translateEnJa } from "./translator";
+import { translateEnJa, translateHtmlEnJa } from "./translator";
 import type { AppSettings, Connection, EmailIndexItem, EmailRecord, PageDownPos } from "./types";
 import "./App.css";
 
@@ -55,7 +55,9 @@ export default function App() {
   const [error, setError] = useState("");
   const [pageDownPos, setPageDownPos] = useState<PageDownPos | null>(loadPageDownPos());
   const [translatedSubjects, setTranslatedSubjects] = useState<Record<string, string>>({});
-  const [translatedBodies, setTranslatedBodies] = useState<Record<string, string>>({});
+  const [translatedHtml, setTranslatedHtml] = useState<Record<string, string>>({});
+  const [translatingId, setTranslatingId] = useState<string | null>(null);
+  const htmlQueued = useRef(new Set<string>());
   const lastUiSync = useRef("");
   const streamRef = useRef<HTMLElement | null>(null);
 
@@ -132,7 +134,6 @@ export default function App() {
   useEffect(() => {
     if (settings.displayLang !== "ja") return;
     const missingSubjects = emails.filter((item) => !item.subject_ja && item.subject);
-    const missingBodies = Object.values(records).filter((item) => !item.body_text_ja && item.body_text);
     let cancelled = false;
     (async () => {
       for (const item of missingSubjects) {
@@ -140,16 +141,45 @@ export default function App() {
         if (cancelled || !translated) continue;
         setTranslatedSubjects((prev) => ({ ...prev, [item.id]: translated }));
       }
-      for (const item of missingBodies) {
-        const translated = await translateEnJa(item.body_text);
-        if (cancelled || !translated) continue;
-        setTranslatedBodies((prev) => ({ ...prev, [item.id]: translated }));
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [emails, settings.displayLang]);
+
+  useEffect(() => {
+    if (settings.displayLang !== "ja") return;
+    let cancelled = false;
+    const ids = [
+      ...(selectedId ? [selectedId] : []),
+      ...emails.map((item) => item.id).filter((id) => id !== selectedId),
+    ];
+    (async () => {
+      for (const id of ids) {
+        if (cancelled) return;
+        const record = records[id];
+        if (!record?.body_html || htmlQueued.current.has(id)) continue;
+        htmlQueued.current.add(id);
+        setTranslatingId(id);
+        try {
+          const html = await translateHtmlEnJa(record.body_html);
+          if (cancelled) {
+            htmlQueued.current.delete(id);
+            return;
+          }
+          if (html) setTranslatedHtml((prev) => ({ ...prev, [id]: html }));
+          else htmlQueued.current.delete(id);
+        } catch {
+          htmlQueued.current.delete(id);
+        } finally {
+          if (!cancelled) setTranslatingId((current) => (current === id ? null : current));
+        }
       }
     })();
     return () => {
       cancelled = true;
     };
-  }, [emails, records, settings.displayLang]);
+  }, [emails, records, settings.displayLang, selectedId]);
 
   useEffect(() => {
     if (!connected || !settingsSha || !connection.token) return;
@@ -365,7 +395,9 @@ export default function App() {
               selectedId={selectedId}
               displayLang={settings.displayLang}
               translatedSubjects={translatedSubjects}
-              translatedBodies={translatedBodies}
+              translatedBodies={{}}
+              translatedHtml={translatedHtml}
+              translatingId={translatingId}
               onSelect={selectEmail}
               onToggleRead={toggleRead}
             />
