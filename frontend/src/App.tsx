@@ -9,6 +9,7 @@ import {
   describeFetchFailure,
   loadEmail,
   loadIndex,
+  loadLastRun,
   loadSettings,
   saveIndex,
   savePop3Secrets,
@@ -84,19 +85,23 @@ export default function App() {
 
   const loadBodies = useCallback(async (conn: Connection, items: EmailIndexItem[]) => {
     const latest = items.slice(0, 40);
+    let loaded = 0;
+    setStatus(latest.length ? `メール本文を読み込み中 0/${latest.length}` : "");
     for (let i = 0; i < latest.length; i += 5) {
       const batch = latest.slice(i, i + 5);
-      const loaded: Record<string, EmailRecord> = {};
+      const fetched: Record<string, EmailRecord> = {};
       await Promise.all(
         batch.map(async (item) => {
           try {
-            loaded[item.id] = await loadEmail(conn, item.file);
+            fetched[item.id] = await loadEmail(conn, item.file);
           } catch {
             // keep list usable even if one body file is missing
           }
         }),
       );
-      setRecords((prev) => ({ ...prev, ...loaded }));
+      loaded += batch.length;
+      setRecords((prev) => ({ ...prev, ...fetched }));
+      setStatus(`メール本文を読み込み中 ${Math.min(loaded, latest.length)}/${latest.length}`);
     }
   }, []);
 
@@ -106,11 +111,12 @@ export default function App() {
     (async () => {
       setBusy(true);
       setError("");
+      setStatus("保存済みのメールを読み込み中…");
       try {
         const items = await refreshData(conn);
         if (!cancelled) {
-          setBusy(false);
           await loadBodies(conn, items);
+          if (!cancelled) setStatus("");
         }
       } catch (err) {
         if (!cancelled) {
@@ -197,7 +203,7 @@ export default function App() {
     try {
       const items = await refreshData(connection);
       await loadBodies(connection, items);
-      setStatus("接続できました");
+      setStatus("");
       setTab("stream");
     } catch (err) {
       setError(explain(err));
@@ -235,17 +241,25 @@ export default function App() {
     }
     setBusy(true);
     setError("");
+    setStatus("メールサーバへの接続を開始しています…");
     const startedAt = Date.now();
     try {
       await triggerFetch(connection);
       await waitForFetchRun(connection, startedAt, setStatus);
-      setStatus("一覧を読み込み中…");
+      setStatus("ダウンロードしたメールの一覧を読み込み中…");
       const items = await refreshData(connection);
-      setBusy(false);
-      setStatus("本文を読み込み中…");
       await loadBodies(connection, items);
-      setStatus("最新のメールを取り込みました");
+      const report = await loadLastRun(connection);
+      const added = typeof report?.added === "number" ? report.added : null;
+      setStatus(
+        added === null
+          ? `取り込み完了（一覧 ${items.length}通）`
+          : `取り込み完了（新規 ${added}通 / 一覧 ${items.length}通）`,
+      );
       setTab("stream");
+      window.setTimeout(() => {
+        setStatus((current) => (current.startsWith("取り込み完了") ? "" : current));
+      }, 8000);
     } catch (err) {
       let detail = explain(err);
       if (err instanceof FetchRunError) {
@@ -268,8 +282,8 @@ export default function App() {
     <div className="shell">
       <header className="topbar notranslate" translate="no">
         <div className="brand">メールストリーム</div>
+        <EmailPicker emails={sorted} selectedId={selectedId} onSelect={selectEmail} />
         <div className="topbar-actions">
-          {status ? <span className="status">{status}</span> : null}
           <div className="zoom-wrap">
             <button
               type="button"
@@ -300,13 +314,8 @@ export default function App() {
             {busy ? "処理中" : "更新"}
           </button>
         </div>
+        {busy || status ? <div className="status-bar">{status || "処理中…"}</div> : null}
       </header>
-      <div className="subhead notranslate" translate="no">
-        {busy || status ? <div className="banner">{status || "処理中…"}</div> : null}
-        <div className="picker-bar">
-          <EmailPicker emails={sorted} selectedId={selectedId} onSelect={selectEmail} />
-        </div>
-      </div>
 
       <div className={workspaceClass}>
         <main

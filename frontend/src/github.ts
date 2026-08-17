@@ -239,11 +239,12 @@ export class FetchRunError extends Error {
 
 type JobStep = {
   name: string;
+  status?: string;
   conclusion: string | null;
   number: number;
 };
 
-type LastRunReport = {
+export type LastRunReport = {
   ok?: boolean;
   step?: string;
   error?: string;
@@ -253,6 +254,55 @@ type LastRunReport = {
   skipped?: number;
   server_count?: number;
 };
+
+export async function loadLastRun(connection: Connection): Promise<LastRunReport | null> {
+  try {
+    const { data } = await readJsonFile<LastRunReport>(connection, "data/last-run.json");
+    return data;
+  } catch {
+    return null;
+  }
+}
+
+function elapsedLabel(startedAt: number): string {
+  const seconds = Math.floor((Date.now() - startedAt) / 1000);
+  return seconds > 0 ? ` ${seconds}秒` : "";
+}
+
+function messageForFetchStep(stepName: string, runStatus: string, startedAt: number): string {
+  const elapsed = elapsedLabel(startedAt);
+  const name = stepName.toLowerCase();
+  if (runStatus === "queued" || runStatus === "waiting" || runStatus === "pending") {
+    return `メールサーバへの接続待ち…${elapsed}`;
+  }
+  if (name.includes("checkout") || name.includes("set up python") || name.includes("setup python")) {
+    return `メールサーバへ接続する準備をしています…${elapsed}`;
+  }
+  if (name.includes("pop3") || name.includes("fetch")) {
+    return `メールサーバに接続し、メールをダウンロードしています…${elapsed}`;
+  }
+  if (name.includes("commit")) {
+    return `ダウンロードしたメールを保存しています…${elapsed}`;
+  }
+  if (runStatus === "in_progress") {
+    return `メールサーバに接続しています…${elapsed}`;
+  }
+  return `メールサーバへの接続を開始しています…${elapsed}`;
+}
+
+async function currentFetchStep(connection: Connection, runId: number): Promise<string> {
+  const res = await githubFetch(
+    connection,
+    `/repos/${connection.owner}/${connection.repo}/actions/runs/${runId}/jobs`,
+  );
+  const payload = (await res.json()) as { jobs?: { status?: string; steps?: JobStep[] }[] };
+  const job = payload.jobs?.[0];
+  const steps = job?.steps ?? [];
+  const active =
+    steps.find((step) => step.status === "in_progress") ??
+    steps.find((step) => step.status === "queued" || step.status === "pending");
+  return active?.name ?? "";
+}
 
 export async function waitForFetchRun(
   connection: Connection,
@@ -278,13 +328,15 @@ export async function waitForFetchRun(
         }
         return run;
       }
-      onStatus(
-        run.status === "in_progress"
-          ? `GitHub Actions で取得中… ${Math.floor((Date.now() - startedAt) / 1000)}秒`
-          : `キュー待ち… ${Math.floor((Date.now() - startedAt) / 1000)}秒`,
-      );
+      let stepName = "";
+      try {
+        stepName = await currentFetchStep(connection, run.id);
+      } catch {
+        stepName = "";
+      }
+      onStatus(messageForFetchStep(stepName, run.status, startedAt));
     } else {
-      onStatus("ワークフロー起動を待っています…");
+      onStatus(`メールサーバへの接続を開始しています…${elapsedLabel(startedAt)}`);
     }
     await new Promise((resolve) => setTimeout(resolve, 3000));
   }

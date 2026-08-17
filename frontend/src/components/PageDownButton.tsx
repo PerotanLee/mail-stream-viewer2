@@ -67,7 +67,7 @@ export function PageDownButton({ streamRef, pos, onPos }: Props) {
       onPointerUp={onPointerUp}
       aria-label="Page Down"
     >
-      ↓<small>PageDown</small>
+      ↓
     </button>
   );
 }

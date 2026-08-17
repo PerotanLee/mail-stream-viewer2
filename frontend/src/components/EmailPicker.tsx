@@ -7,30 +7,37 @@ type Props = {
 };
 
 export function EmailPicker({ emails, selectedId, onSelect }: Props) {
-  if (emails.length === 0) {
-    return <p className="picker-empty">まだメールがありません。設定して「更新」を押してください。</p>;
-  }
+  const currentId = selectedId ?? emails[0]?.id ?? "";
+  const index = emails.findIndex((item) => item.id === currentId);
+  const current = index >= 0 ? index + 1 : 0;
 
   return (
     <label className="picker">
-      <span className="picker-label">題名</span>
       <select
         lang="en"
         translate="yes"
-        value={selectedId ?? emails[0]?.id ?? ""}
+        value={currentId}
+        disabled={emails.length === 0}
         onChange={(event) => onSelect(event.target.value)}
         aria-label="メールの題名"
       >
-        {emails.map((item) => {
-          const mark = item.is_read ? "" : "● ";
-          return (
-            <option key={item.id} value={item.id} lang="en">
-              {mark}
-              {item.subject || "(件名なし)"}
-            </option>
-          );
-        })}
+        {emails.length === 0 ? (
+          <option value="">メールなし</option>
+        ) : (
+          emails.map((item) => {
+            const mark = item.is_read ? "" : "● ";
+            return (
+              <option key={item.id} value={item.id} lang="en">
+                {mark}
+                {item.subject || "(件名なし)"}
+              </option>
+            );
+          })
+        )}
       </select>
+      <span className="mail-count" title="表示中 / 総数">
+        {current}/{emails.length}
+      </span>
     </label>
   );
 }
