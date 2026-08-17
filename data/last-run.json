@@ -5,11 +5,11 @@
   "phase": "uidl",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:34:47.103019+00:00",
+  "updated_at": "2026-08-17T06:34:49.693470+00:00",
   "added": 0,
   "skipped": 0,
-  "server_count": 0,
+  "server_count": 6146,
   "scanned": 0,
-  "scan_total": 0,
+  "scan_total": 200,
   "current": ""
 }
