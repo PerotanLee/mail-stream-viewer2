@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
-  "phase": "retr",
+  "step": "スキャン",
+  "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T13:00:47.993206+00:00",
+  "updated_at": "2026-08-17T13:01:08.022357+00:00",
   "added": 6,
-  "skipped": 35,
-  "scanned": 41,
+  "skipped": 133,
+  "scanned": 140,
   "scan_total": 0,
-  "current": "🤗 Axios AM: Finding new friends",
+  "current": "対象外をスキップ中 132通",
   "added_by_filter": {
     "wsj": 4,
     "axios": 2
