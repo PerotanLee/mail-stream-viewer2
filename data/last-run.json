@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=4941 from=Axios Closer <closer@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:58:04.947206+00:00",
+  "updated_at": "2026-08-17T06:58:17.091051+00:00",
   "added": 35,
-  "skipped": 1144,
-  "scanned": 1179,
+  "skipped": 1171,
+  "scanned": 1207,
   "scan_total": 0,
-  "current": "📚 Axios Finish Line: AI book club",
+  "current": "Axios Closer <closer@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 35
