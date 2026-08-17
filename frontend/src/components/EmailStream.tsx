@@ -11,7 +11,7 @@ type Props = {
 
 export function EmailStream({ emails, records, selectedId, onSelect, onToggleRead }: Props) {
   if (emails.length === 0) {
-    return <p className="empty notranslate" translate="no">未読のメールはありません。</p>;
+    return <p className="empty notranslate" translate="no">直近1週間の未読メールはありません。</p>;
   }
 
   return (

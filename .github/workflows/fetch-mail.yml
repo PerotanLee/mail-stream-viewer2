@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,13 +34,15 @@ jobs:
       - name: Commit data
         if: always()
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase -X ours origin "${GITHUB_REF_NAME}" || true
           git add data
           if git diff --cached --quiet; then
             echo "No mail data changes"
-          else
-            git commit -m "Update fetched mail data"
-            git push
+            exit 0
           fi
+          git commit -m "Update fetched mail data"
+          git fetch origin "${GITHUB_REF_NAME}"
+          git pull --rebase -X ours origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

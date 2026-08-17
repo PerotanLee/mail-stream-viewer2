@@ -22,7 +22,7 @@ export function EmailPicker({ emails, selectedId, onSelect }: Props) {
         aria-label="メールの題名"
       >
         {emails.length === 0 ? (
-          <option value="">未読なし</option>
+          <option value="">直近1週間の未読なし</option>
         ) : (
           emails.map((item) => {
             const mark = item.is_read ? "" : "● ";
@@ -35,7 +35,7 @@ export function EmailPicker({ emails, selectedId, onSelect }: Props) {
           })
         )}
       </select>
-      <span className="mail-count" title="表示中 / 未読数">
+      <span className="mail-count" title="表示中 / 直近1週間の未読数">
         {current}/{emails.length}
       </span>
     </label>

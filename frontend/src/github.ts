@@ -356,7 +356,7 @@ export async function waitForFetchRun(
   while (Date.now() < deadline) {
     const res = await githubFetch(
       connection,
-      `/repos/${connection.owner}/${connection.repo}/actions/workflows/fetch-mail.yml/runs?event=workflow_dispatch&per_page=5`,
+      `/repos/${connection.owner}/${connection.repo}/actions/workflows/fetch-mail.yml/runs?per_page=5`,
     );
     const payload = (await res.json()) as { workflow_runs?: WorkflowRun[] };
     const runs = payload.workflow_runs ?? [];

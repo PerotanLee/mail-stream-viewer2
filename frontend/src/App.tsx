@@ -32,6 +32,29 @@ function byOldest(items: EmailIndexItem[]): EmailIndexItem[] {
   return [...items].sort((a, b) => mailTime(a) - mailTime(b) || a.id.localeCompare(b.id));
 }
 
+const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+
+function isWithinWeek(item: EmailIndexItem): boolean {
+  const value = mailTime(item);
+  return value > 0 && Date.now() - value <= WEEK_MS;
+}
+
+function senderMatches(fromAddr: string, filter: string): boolean {
+  const parts = filter
+    .split(",")
+    .map((part) => part.trim().toLowerCase())
+    .filter(Boolean);
+  if (!parts.length) return false;
+  const haystack = (fromAddr || "").toLowerCase();
+  return parts.some((part) => haystack.includes(part));
+}
+
+function visibleItems(items: EmailIndexItem[], senderFilter: string): EmailIndexItem[] {
+  return byOldest(
+    items.filter((item) => !item.is_read && isWithinWeek(item) && senderMatches(item.from_addr, senderFilter)),
+  );
+}
+
 const emptyConnection: Connection = {
   owner: "PerotanLee",
   repo: "mail-stream-viewer2",
@@ -66,7 +89,10 @@ export default function App() {
   const lastUiSync = useRef("");
   const streamRef = useRef<HTMLElement | null>(null);
 
-  const unread = useMemo(() => byOldest(emails.filter((item) => !item.is_read)), [emails]);
+  const visible = useMemo(
+    () => visibleItems(emails, settings.senderFilter),
+    [emails, settings.senderFilter],
+  );
 
   const refreshData = useCallback(
     async (conn: Connection) => {
@@ -78,19 +104,19 @@ export default function App() {
       setSettingsSha(sSha);
       lastUiSync.current = String(nextSettings.zoom);
       setEmails(index.emails);
-      const unreadItems = byOldest(index.emails.filter((item) => !item.is_read));
+      const shown = visibleItems(index.emails, nextSettings.senderFilter);
       setSelectedId((current) => {
-        if (current && unreadItems.some((item) => item.id === current)) return current;
-        return unreadItems[0]?.id ?? null;
+        if (current && shown.some((item) => item.id === current)) return current;
+        return shown[0]?.id ?? null;
       });
       setIndexSha(iSha);
-      return index.emails;
+      return { items: index.emails, senderFilter: nextSettings.senderFilter };
     },
     [],
   );
 
   const loadBodies = useCallback(async (conn: Connection, items: EmailIndexItem[]) => {
-    const ordered = byOldest(items.filter((item) => !item.is_read));
+    const ordered = byOldest(items);
     let loaded = 0;
     setStatus(ordered.length ? `未読の本文を読み込み中 0/${ordered.length}` : "");
     for (let i = 0; i < ordered.length; i += 5) {
@@ -119,9 +145,9 @@ export default function App() {
       setError("");
       setStatus("保存済みのメールを読み込み中…");
       try {
-        const items = await refreshData(conn);
+        const { items, senderFilter } = await refreshData(conn);
         if (!cancelled) {
-          await loadBodies(conn, items);
+          await loadBodies(conn, visibleItems(items, senderFilter));
           if (!cancelled) setStatus("");
         }
       } catch (err) {
@@ -195,7 +221,7 @@ export default function App() {
         return copy;
       });
       if (selectedId === id) {
-        const remaining = byOldest(next.filter((item) => !item.is_read));
+        const remaining = visibleItems(next, settings.senderFilter);
         setSelectedId(remaining[0]?.id ?? null);
       }
     }
@@ -212,8 +238,8 @@ export default function App() {
     setBusy(true);
     setError("");
     try {
-      const items = await refreshData(connection);
-      await loadBodies(connection, items);
+      const { items, senderFilter } = await refreshData(connection);
+      await loadBodies(connection, visibleItems(items, senderFilter));
       setStatus("");
       setTab("stream");
     } catch (err) {
@@ -231,6 +257,7 @@ export default function App() {
       setSettingsSha(sha);
       await savePop3Secrets(connection, settings, pop3Password);
       setPop3Password("");
+      await loadBodies(connection, visibleItems(emails, settings.senderFilter));
       setStatus("設定を保存しました");
     } catch (err) {
       setError(explain(err));
@@ -252,21 +279,21 @@ export default function App() {
     }
     setBusy(true);
     setError("");
-    setStatus("メールサーバへの接続を開始しています…");
+    setStatus("更新を開始しています…");
     const startedAt = Date.now();
     try {
       await triggerFetch(connection);
       await waitForFetchRun(connection, startedAt, setStatus);
       setStatus("ダウンロードしたメールの一覧を読み込み中…");
-      const items = await refreshData(connection);
-      await loadBodies(connection, items);
+      const { items, senderFilter } = await refreshData(connection);
+      const shown = visibleItems(items, senderFilter);
+      await loadBodies(connection, shown);
       const report = await loadLastRun(connection);
       const added = typeof report?.added === "number" ? report.added : null;
-      const unreadCount = items.filter((item) => !item.is_read).length;
       setStatus(
         added === null
-          ? `取り込み完了（未読 ${unreadCount}通）`
-          : `取り込み完了（新規 ${added}通 / 未読 ${unreadCount}通）`,
+          ? `取り込み完了（直近1週間の未読 ${shown.length}通）`
+          : `取り込み完了（新規 ${added}通 / 直近1週間の未読 ${shown.length}通）`,
       );
       setTab("stream");
       window.setTimeout(() => {
@@ -294,7 +321,7 @@ export default function App() {
     <div className="shell">
       <header className="topbar notranslate" translate="no">
         <div className="brand">メールストリーム</div>
-        <EmailPicker emails={unread} selectedId={selectedId} onSelect={(id) => selectEmail(id, true)} />
+        <EmailPicker emails={visible} selectedId={selectedId} onSelect={(id) => selectEmail(id, true)} />
         <div className="topbar-actions">
           <div className="zoom-wrap">
             <button
@@ -341,7 +368,7 @@ export default function App() {
               </pre>
             ) : null}
             <EmailStream
-              emails={unread}
+              emails={visible}
               records={records}
               selectedId={selectedId}
               onSelect={(id) => selectEmail(id, false)}

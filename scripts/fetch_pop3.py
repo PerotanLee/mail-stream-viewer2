@@ -193,8 +193,7 @@ def extract_addresses(msg: EmailMessage) -> str:
     return decode_mime_header(msg.get("From", ""))
 
 
-def parse_message_date(msg: EmailMessage) -> datetime | None:
-    raw = decode_mime_header(msg.get("Date"))
+def message_time(raw: str) -> datetime | None:
     if not raw:
         return None
     try:
@@ -204,6 +203,36 @@ def parse_message_date(msg: EmailMessage) -> datetime | None:
         return dt.astimezone(timezone.utc)
     except Exception:
         return None
+
+
+def parse_message_date(msg: EmailMessage) -> datetime | None:
+    return message_time(decode_mime_header(msg.get("Date")))
+
+
+def prune_index(
+    emails: list[dict[str, Any]],
+    cutoff: datetime,
+    sender_filter: str,
+    seen: set[str],
+) -> list[dict[str, Any]]:
+    kept: list[dict[str, Any]] = []
+    for item in emails:
+        uid = str(item.get("uid") or "")
+        from_addr = str(item.get("from_addr") or "")
+        dt = message_time(str(item.get("date") or ""))
+        too_old = dt is not None and dt < cutoff
+        wrong_sender = not sender_matches(from_addr, sender_filter)
+        if too_old or wrong_sender:
+            if uid:
+                seen.add(uid)
+            filename = str(item.get("file") or "")
+            if filename:
+                path = EMAILS_DIR / filename
+                if path.exists():
+                    path.unlink()
+            continue
+        kept.append(item)
+    return kept
 
 
 def is_recent(dt: datetime | None, cutoff: datetime) -> bool:
@@ -408,6 +437,14 @@ def main() -> int:
                 continue
 
             from_addr = extract_addresses(headers)
+            if not sender_matches(from_addr, sender_filter):
+                seen.add(uid)
+                skipped += 1
+                extra["skipped"] = skipped
+                extra["current"] = "送信元フィルタ外をスキップ"
+                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
+                continue
+
             msg_date = parse_message_date(headers)
             if not is_recent(msg_date, cutoff):
                 seen.add(uid)
@@ -417,18 +454,10 @@ def main() -> int:
                 old_streak += 1
                 write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
                 if old_streak >= OLD_STREAK_STOP:
-                    log(f"stop scan: {OLD_STREAK_STOP} consecutive messages older than 7 days")
+                    log(f"stop scan: {OLD_STREAK_STOP} consecutive matching messages older than 7 days")
                     break
                 continue
             old_streak = 0
-
-            if not sender_matches(from_addr, sender_filter):
-                seen.add(uid)
-                skipped += 1
-                extra["skipped"] = skipped
-                extra["current"] = "送信元フィルタ外をスキップ"
-                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
-                continue
 
             step = f"本文取得 num={num} from={from_addr}"
             extra["current"] = from_addr
@@ -484,6 +513,7 @@ def main() -> int:
         extra["current"] = ""
         step = "保存"
         write_run_report(ok=False, running=True, step=step, phase="save", extra=extra, force=True)
+        emails = prune_index(emails, cutoff, sender_filter, seen)
         emails.sort(key=lambda item: item.get("date") or "", reverse=True)
         write_json(INDEX_PATH, {"emails": emails})
         write_json(SEEN_PATH, {"uids": sorted(seen)})

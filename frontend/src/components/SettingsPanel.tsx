@@ -123,7 +123,9 @@ export function SettingsPanel({
           onChange={(e) => onSettings({ ...settings, senderFilter: e.target.value })}
           placeholder="alerts@example.com"
         />
-        <span className="hint">From に含まれる文字列。カンマ区切りで複数可。空だと取得しません。</span>
+        <span className="hint">
+          From に含まれる文字列だけを、最初から対象にします。カンマ区切りで複数可。空だと取得しません。直近1週間の未読のみ読み込みます。
+        </span>
       </label>
       <label>
         文字の大きさ {settings.zoom}%
