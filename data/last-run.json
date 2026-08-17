@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5764 from=AI+ Government <ai.plus.gov@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:51:58.185266+00:00",
-  "added": 5,
+  "updated_at": "2026-08-17T06:51:59.598045+00:00",
+  "added": 6,
   "skipped": 378,
   "scanned": 384,
   "scan_total": 0,
-  "current": "AI+ Government <ai.plus.gov@axios.com>",
+  "current": "🤝 Strange AI coalitions",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 5
+    "axios": 6
   }
 }
