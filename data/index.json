@@ -217,7 +217,7 @@
       "subject": "Today's Wall Street Journal Print Edition",
       "subject_ja": "今日のウォール・ストリート・ジャーナル紙版",
       "date": "Tue, 11 Aug 2026 17:09:51 +1000",
-      "is_read": false,
+      "is_read": true,
       "file": "45cb8ed04c4c7e3b9bc09b7ba5e5e64081a88bb57e418a5eeeef0aaafaf8c4a7.json"
     },
     {
@@ -597,7 +597,7 @@
       "subject": "📚 Axios Finish Line: AI book club",
       "subject_ja": "",
       "date": "Mon, 10 Aug 2026 21:29:40 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "193a37dcc3b61c6d27e265b39af9128a92b98c001fc6e4a835823b34ef065cc1.json"
     },
     {
