@@ -250,7 +250,7 @@ export async function savePop3Secrets(
   if (settings.pop3Host.trim() || settings.pop3User.trim()) {
     secrets.POP3_SSL = settings.pop3Ssl ? "true" : "false";
   }
-  if (password) secrets.POP3_PASSWORD = password;
+  if (password.trim()) secrets.POP3_PASSWORD = password.trim();
   if (Object.keys(secrets).length === 0) return;
 
   const keyRes = await githubFetch(

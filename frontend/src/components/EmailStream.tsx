@@ -10,13 +10,14 @@ type Props = {
 };
 
 export function EmailStream({ emails, records, selectedId, onSelect, onToggleRead }: Props) {
-  if (emails.length === 0) {
+  const unread = emails.filter((item) => !item.is_read);
+  if (unread.length === 0) {
     return <p className="empty notranslate" translate="no">直近1週間の未読メールはありません。</p>;
   }
 
   return (
     <>
-      {emails.map((item) => {
+      {unread.map((item) => {
         const record = records[item.id];
         const html = record?.body_html || "";
 

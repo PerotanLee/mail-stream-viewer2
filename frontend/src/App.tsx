@@ -20,7 +20,6 @@ import {
   waitForFetchRun,
 } from "./github";
 import { loadCachedSettings, loadConnection, loadPageDownPos, saveCachedSettings, saveConnection } from "./storage";
-import { startPageTranslate } from "./browserTranslate";
 import type { AppSettings, Connection, EmailIndexItem, EmailRecord, PageDownPos } from "./types";
 import "./App.css";
 
@@ -62,6 +61,22 @@ function visibleItems(items: EmailIndexItem[], senderFilter: string): EmailIndex
   );
 }
 
+function keepFilled(next: string, prev: string): string {
+  return next.trim() ? next : prev;
+}
+
+function mergeLocalSettings(prev: AppSettings, incoming: AppSettings): AppSettings {
+  return {
+    senderFilter: incoming.senderFilter.trim() || prev.senderFilter,
+    zoom: incoming.zoom || prev.zoom,
+    displayLang: incoming.displayLang === "en" ? "en" : "ja",
+    pop3Host: incoming.pop3Host.trim() || prev.pop3Host,
+    pop3Port: incoming.pop3Port.trim() || prev.pop3Port,
+    pop3User: incoming.pop3User.trim() || prev.pop3User,
+    pop3Ssl: incoming.pop3Ssl,
+  };
+}
+
 const emptyConnection: Connection = {
   owner: "PerotanLee",
   repo: "mail-stream-viewer2",
@@ -99,10 +114,6 @@ export default function App() {
   const readTimer = useRef(0);
   connectionRef.current = connection;
 
-  useEffect(() => {
-    startPageTranslate();
-  }, []);
-
   const visible = useMemo(
     () => visibleItems(emails, settings.senderFilter),
     [emails, settings.senderFilter],
@@ -129,7 +140,7 @@ export default function App() {
   );
 
   const loadBodies = useCallback(async (conn: Connection, items: EmailIndexItem[]) => {
-    const ordered = byOldest(items);
+    const ordered = byOldest(items.filter((item) => !item.is_read));
     let loaded = 0;
     setStatus(ordered.length ? `未読の本文を読み込み中 0/${ordered.length}` : "");
     for (let i = 0; i < ordered.length; i += 5) {
@@ -205,7 +216,12 @@ export default function App() {
   async function flushPendingReads() {
     const conn = connectionRef.current;
     if (!conn.token) return;
+    let rounds = 0;
     while (pendingReadIds.current.size) {
+      if (rounds++ > 8) {
+        pendingReadIds.current.clear();
+        return;
+      }
       const ids = [...pendingReadIds.current];
       pendingReadIds.current.clear();
       try {
@@ -213,10 +229,15 @@ export default function App() {
         setEmails(result.index.emails);
       } catch (err) {
         for (const id of ids) pendingReadIds.current.add(id);
-        setEmails((prev) =>
-          prev.map((item) => (ids.includes(item.id) ? { ...item, is_read: false } : item)),
-        );
-        throw err;
+        if (
+          isRateLimitError(err) ||
+          (err instanceof GitHubError && (err.status === 409 || err.status === 422))
+        ) {
+          await new Promise((resolve) => window.setTimeout(resolve, 1500));
+          continue;
+        }
+        pendingReadIds.current.clear();
+        return;
       }
     }
   }
@@ -226,7 +247,6 @@ export default function App() {
     readTimer.current = window.setTimeout(() => {
       const job = readFlush.current.then(flushPendingReads);
       readFlush.current = job.catch(() => {});
-      job.catch((err) => setError(explain(err)));
     }, 800);
   }
 
@@ -236,7 +256,6 @@ export default function App() {
       if (!pendingReadIds.current.size) return;
       const job = readFlush.current.then(flushPendingReads);
       readFlush.current = job.catch(() => {});
-      job.catch((err) => setError(explain(err)));
     };
     const onHide = () => {
       if (document.visibilityState === "hidden") flushNow();
@@ -287,14 +306,49 @@ export default function App() {
     queueReadFlush();
   }
 
+  function applySettings(next: AppSettings) {
+    setSettings((prev) => mergeLocalSettings(prev, next));
+  }
+
+  function applyConnection(next: Connection) {
+    setConnection((prev) => ({
+      ...next,
+      owner: keepFilled(next.owner, prev.owner),
+      repo: keepFilled(next.repo, prev.repo),
+      token: keepFilled(next.token, prev.token),
+      branch: keepFilled(next.branch, prev.branch) || "main",
+    }));
+  }
+
+  async function openSettings() {
+    setTab("settings");
+    const conn = loadConnection() ?? connection;
+    if (!conn.token) return;
+    try {
+      const loaded = await loadSettings(conn);
+      setSettings((prev) => {
+        const next = mergeLocalSettings(prev, loaded.settings);
+        saveCachedSettings(next);
+        return next;
+      });
+    } catch {
+      /* keep cached values on screen */
+    }
+  }
+
   async function handleSaveConnection() {
-    saveConnection(connection);
+    const conn = {
+      ...connection,
+      token: connection.token || loadConnection()?.token || "",
+    };
+    setConnection(conn);
+    saveConnection(conn);
     setConnected(true);
     setBusy(true);
     setError("");
     try {
-      const { items, senderFilter } = await refreshData(connection);
-      await loadBodies(connection, visibleItems(items, senderFilter));
+      const { items, senderFilter } = await refreshData(conn);
+      await loadBodies(conn, visibleItems(items, senderFilter));
       setStatus("");
       setTab("stream");
     } catch (err) {
@@ -312,7 +366,7 @@ export default function App() {
       setSettings(result.settings);
       saveCachedSettings(result.settings);
       lastUiSync.current = String(result.settings.zoom);
-      await savePop3Secrets(connection, result.settings, pop3Password);
+      await savePop3Secrets(connectionRef.current, result.settings, pop3Password);
       setPop3Password("");
       await loadBodies(connection, visibleItems(emails, result.settings.senderFilter));
       setStatus("設定を保存しました");
@@ -324,12 +378,24 @@ export default function App() {
   }
 
   async function handleRefresh() {
-    if (!connection.token) {
+    const conn = loadConnection() ?? connection;
+    if (conn.token) setConnection(conn);
+    if (!conn.token) {
       setTab("settings");
       setError("先に GitHub 接続を保存してください");
       return;
     }
-    if (!settings.senderFilter.trim()) {
+    let filter = settings.senderFilter.trim();
+    try {
+      const loaded = await loadSettings(conn);
+      const next = mergeLocalSettings(settings, loaded.settings);
+      setSettings(next);
+      saveCachedSettings(next);
+      filter = next.senderFilter.trim();
+    } catch {
+      /* use values already on this device */
+    }
+    if (!filter) {
       setTab("settings");
       setError("送信元フィルタを保存してから更新してください");
       return;
@@ -339,12 +405,12 @@ export default function App() {
     setStatus("更新を開始しています…");
     const startedAt = Date.now();
     try {
-      await triggerFetch(connection);
-      await waitForFetchRun(connection, startedAt, setStatus);
+      await triggerFetch(conn);
+      await waitForFetchRun(conn, startedAt, setStatus);
       setStatus("ダウンロードしたメールの一覧を読み込み中…");
-      const { items, senderFilter } = await refreshData(connection);
+      const { items, senderFilter } = await refreshData(conn);
       const shown = visibleItems(items, senderFilter);
-      await loadBodies(connection, shown);
+      await loadBodies(conn, shown);
       const report = await loadLastRun(connection);
       const added = typeof report?.added === "number" ? report.added : null;
       setStatus(
@@ -402,7 +468,10 @@ export default function App() {
           <button
             type="button"
             className="text-btn"
-            onClick={() => setTab((current) => (current === "settings" ? "stream" : "settings"))}
+            onClick={() => {
+              if (tab === "settings") setTab("stream");
+              else void openSettings();
+            }}
           >
             設定
           </button>
@@ -440,8 +509,8 @@ export default function App() {
             settings={settings}
             pop3Password={pop3Password}
             busy={busy}
-            onConnection={setConnection}
-            onSettings={setSettings}
+            onConnection={applyConnection}
+            onSettings={applySettings}
             onPop3Password={setPop3Password}
             onSaveConnection={handleSaveConnection}
             onSaveSettings={handleSaveSettings}
@@ -457,7 +526,7 @@ export default function App() {
         <button
           type="button"
           className={tab === "settings" ? "active" : ""}
-          onClick={() => setTab("settings")}
+          onClick={() => void openSettings()}
         >
           設定
         </button>
@@ -480,7 +549,7 @@ function explain(err: unknown): string {
       return "リポジトリまたはファイルが見つかりません。owner / repo / ブランチを確認してください。";
     }
     if (err.status === 409 || err.status === 422) {
-      return "既読の保存が他の更新と重なりました。もう一度「既読にする」を押してください。";
+      return "保存が他の更新と重なりました。少し待ってから更新してください。";
     }
   }
   if (err instanceof Error) return err.message;

@@ -24,15 +24,11 @@ export function EmailPicker({ emails, selectedId, onSelect }: Props) {
         {emails.length === 0 ? (
           <option value="">直近1週間の未読なし</option>
         ) : (
-          emails.map((item) => {
-            const mark = item.is_read ? "" : "● ";
-            return (
+          emails.map((item) => (
               <option key={item.id} value={item.id} lang="en">
-                {mark}
                 {item.subject || "(件名なし)"}
               </option>
-            );
-          })
+            ))
         )}
       </select>
       <span className="mail-count" title="表示中 / 直近1週間の未読数">

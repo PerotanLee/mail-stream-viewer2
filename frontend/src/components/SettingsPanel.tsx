@@ -156,9 +156,7 @@ export function SettingsPanel({
           onChange={(e) => onSettings({ ...settings, zoom: Number(e.target.value) })}
         />
       </label>
-      <p className="hint">
-        本文は英語のまま取得します。インストールしたアプリでも日本語になるよう、ページ内翻訳を自動でかけます。操作ボタンは翻訳しません。
-      </p>
+      <p className="hint">本文は英語のまま取得します。操作ボタンは日本語のままです。</p>
       <button type="button" className="text-btn primary" onClick={onSaveSettings} disabled={busy}>
         設定を GitHub に保存
       </button>

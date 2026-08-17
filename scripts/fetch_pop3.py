@@ -333,13 +333,13 @@ def translate_en_ja(text: str) -> str:
     return "".join(translated).strip()
 
 
-def connect_pop3() -> poplib.POP3:
-    host = os.environ.get("POP3_HOST", "").strip()
-    user = os.environ.get("POP3_USER", "").strip()
+def connect_pop3(settings: dict[str, Any]) -> poplib.POP3:
+    host = os.environ.get("POP3_HOST", "").strip() or str(settings.get("pop3Host") or "").strip()
+    user = os.environ.get("POP3_USER", "").strip() or str(settings.get("pop3User") or "").strip()
     password = os.environ.get("POP3_PASSWORD", "")
-    port_raw = os.environ.get("POP3_PORT", "995").strip() or "995"
+    port_raw = os.environ.get("POP3_PORT", "").strip() or str(settings.get("pop3Port") or "995").strip() or "995"
     port = int(port_raw)
-    use_ssl = env_bool("POP3_SSL", True)
+    use_ssl = env_bool("POP3_SSL", bool(settings.get("pop3Ssl", True)))
 
     if not host or not user or not password:
         raise RuntimeError("POP3_HOST / POP3_USER / POP3_PASSWORD が空です。設定画面から保存してください。")
@@ -406,7 +406,7 @@ def main() -> int:
 
         step = "POP3接続"
         write_run_report(ok=False, running=True, step=step, phase="connect", extra=extra, force=True)
-        pop = connect_pop3()
+        pop = connect_pop3(settings)
         added = 0
         skipped = 0
         skip_known = 0
@@ -439,6 +439,20 @@ def main() -> int:
             extra["current"] = f"対象外をスキップ中 {skip_sender}通" if skip_sender else "フィルタ中"
             write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
 
+            try:
+                uid = uidl_one(pop, num)
+            except poplib.error_proto as exc:
+                log(f"skip num={num} uidl error: {exc}")
+                skipped += 1
+                extra["skipped"] = skipped
+                continue
+            if uid in known:
+                skip_known += 1
+                skipped += 1
+                extra["skipped"] = skipped
+                extra["current"] = "取得済みをスキップ"
+                continue
+
             step = f"ヘッダー取得 num={num}"
             try:
                 headers = fetch_headers(pop, num)
@@ -469,20 +483,6 @@ def main() -> int:
                 skipped += 1
                 extra["skipped"] = skipped
                 extra["current"] = f"対象外をスキップ中 {skip_sender}通"
-                continue
-
-            try:
-                uid = uidl_one(pop, num)
-            except poplib.error_proto as exc:
-                log(f"skip num={num} uidl error: {exc}")
-                skipped += 1
-                extra["skipped"] = skipped
-                continue
-            if uid in known:
-                skip_known += 1
-                skipped += 1
-                extra["skipped"] = skipped
-                extra["current"] = "取得済みをスキップ"
                 continue
 
             step = f"本文取得 num={num} from={from_addr}"
