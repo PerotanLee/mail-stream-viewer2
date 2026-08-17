@@ -77,8 +77,6 @@ async function githubFetch(connection: Connection, path: string, init?: RequestI
       cache: "no-store",
       headers: {
         ...headers(connection.token),
-        "Cache-Control": "no-cache",
-        Pragma: "no-cache",
         ...(init?.headers || {}),
       },
     });

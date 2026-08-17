@@ -20,6 +20,7 @@ import {
   waitForFetchRun,
 } from "./github";
 import { loadCachedSettings, loadConnection, loadPageDownPos, saveCachedSettings, saveConnection } from "./storage";
+import { ensureTranslated, startPageTranslate } from "./browserTranslate";
 import type { AppSettings, Connection, EmailIndexItem, EmailRecord, PageDownPos } from "./types";
 import "./App.css";
 
@@ -114,6 +115,10 @@ export default function App() {
   const readTimer = useRef(0);
   connectionRef.current = connection;
 
+  useEffect(() => {
+    startPageTranslate();
+  }, []);
+
   const visible = useMemo(
     () => visibleItems(emails, settings.senderFilter),
     [emails, settings.senderFilter],
@@ -159,6 +164,7 @@ export default function App() {
       setRecords((prev) => ({ ...prev, ...fetched }));
       setStatus(`未読の本文を読み込み中 ${Math.min(loaded, ordered.length)}/${ordered.length}`);
     }
+    ensureTranslated();
   }, []);
 
   useEffect(() => {
