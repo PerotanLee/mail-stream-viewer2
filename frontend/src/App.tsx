@@ -18,6 +18,7 @@ import {
   waitForFetchRun,
 } from "./github";
 import { loadConnection, loadPageDownPos, saveConnection } from "./storage";
+import { refreshTranslate, startPageTranslate } from "./browserTranslate";
 import type { AppSettings, Connection, EmailIndexItem, EmailRecord, PageDownPos } from "./types";
 import "./App.css";
 
@@ -92,6 +93,14 @@ export default function App() {
   const [pageDownPos, setPageDownPos] = useState<PageDownPos | null>(loadPageDownPos());
   const lastUiSync = useRef("");
   const streamRef = useRef<HTMLElement | null>(null);
+
+  useEffect(() => {
+    startPageTranslate();
+  }, []);
+
+  useEffect(() => {
+    refreshTranslate();
+  }, [records]);
 
   const visible = useMemo(
     () => visibleItems(emails, settings.senderFilter),
