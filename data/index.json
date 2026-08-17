@@ -727,7 +727,7 @@
       "subject": "WSJ Wealth Adviser Briefing: Inflation Protection on Sale, Tariff Refunds, Cuddly Mascots",
       "subject_ja": "WSJウェルス・アドバイザー・ブリーフィング：インフレ保護セール、関税還付、かわいいマスコット",
       "date": "Fri, 14 Aug 2026 20:31:55 +1000",
-      "is_read": false,
+      "is_read": true,
       "file": "cc059fe233f6ec2136ce8fa3c2eee445bd62c0cc313f28794b2a6190fba4bc81.json"
     },
     {
@@ -827,7 +827,7 @@
       "subject": "🐚 Soft shell",
       "subject_ja": "",
       "date": "Fri, 14 Aug 2026 07:29:01 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "c855cd6c40c7904b305975970e90b9c5d2099ea23a7fbcccb948c67e5e581725.json"
     },
     {
@@ -837,7 +837,7 @@
       "subject": "WSJ Politics: Hakeem Jeffries Targets the Supreme Court",
       "subject_ja": "WSJ政治：ハキーム・ジェフリーズ氏が最高裁判所を標的に",
       "date": "Fri, 14 Aug 2026 07:08:16 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "ba89e43ad255d9ad7c8f04d8226e9d6b02f7090389d89b8a944c6c5e66e898c6.json"
     },
     {
@@ -847,7 +847,7 @@
       "subject": "🌈 Markets A.M.: Companies Have Rarely Had Such Great Expectations",
       "subject_ja": "🌈 午前の市場: 企業がこれほど大きな期待を抱くことはめったにありません",
       "date": "Fri, 14 Aug 2026 06:32:53 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "df24a5c519e5af18aafedcb241f4dd2f6898714632bed17761cb537980811e2d.json"
     },
     {
@@ -857,7 +857,7 @@
       "subject": "The 10-Point: Inside Trump and Musk's Quiet Political Reunion",
       "subject_ja": "10 のポイント: トランプとマスクの静かな政治的再会の内側",
       "date": "Fri, 14 Aug 2026 06:10:35 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "79b460bd7e0339ff63dd001f279acbc906fa70319d0acefe0836a8aad57de1fa.json"
     },
     {
@@ -867,7 +867,7 @@
       "subject": "👀 Axios AM: New Bibi-Trump rift",
       "subject_ja": "",
       "date": "Fri, 14 Aug 2026 05:48:19 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "c7de17dc2cfd84eb756ea7ba01d73d50447dc7b8dba9419bca608fbc4d393550.json"
     },
     {
@@ -877,7 +877,7 @@
       "subject": "The latest from Jason Zweig",
       "subject_ja": "ジェイソン・ツヴァイクの最新作",
       "date": "Fri, 14 Aug 2026 05:45:20 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "e53f9d1dd3558ca29714bdbe613e4ce75640ac342baf142442e3f3b232da01f8.json"
     }
   ]
