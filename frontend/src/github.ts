@@ -49,8 +49,11 @@ async function githubFetch(connection: Connection, path: string, init?: RequestI
   const url = `${API}${path}`;
   const response = await fetch(url, {
     ...init,
+    cache: "no-store",
     headers: {
       ...headers(connection.token),
+      "Cache-Control": "no-cache",
+      Pragma: "no-cache",
       ...(init?.headers || {}),
     },
   });
@@ -71,9 +74,10 @@ async function getFile(connection: Connection, path: string): Promise<ContentFil
     .split("/")
     .map((part) => encodeURIComponent(part))
     .join("/");
+  const stamp = Date.now();
   const res = await githubFetch(
     connection,
-    `/repos/${connection.owner}/${connection.repo}/contents/${encoded}?ref=${encodeURIComponent(connection.branch)}`,
+    `/repos/${connection.owner}/${connection.repo}/contents/${encoded}?ref=${encodeURIComponent(connection.branch)}&t=${stamp}`,
   );
   return (await res.json()) as ContentFile;
 }
@@ -84,12 +88,12 @@ async function putFile(
   message: string,
   text: string,
   sha?: string,
-): Promise<void> {
+): Promise<string> {
   const encoded = path
     .split("/")
     .map((part) => encodeURIComponent(part))
     .join("/");
-  await githubFetch(connection, `/repos/${connection.owner}/${connection.repo}/contents/${encoded}`, {
+  const res = await githubFetch(connection, `/repos/${connection.owner}/${connection.repo}/contents/${encoded}`, {
     method: "PUT",
     body: JSON.stringify({
       message,
@@ -98,6 +102,8 @@ async function putFile(
       ...(sha ? { sha } : {}),
     }),
   });
+  const payload = (await res.json()) as { content?: { sha?: string } };
+  return payload.content?.sha || "";
 }
 
 export async function readJsonFile<T>(connection: Connection, path: string): Promise<{ data: T; sha: string }> {
@@ -111,9 +117,23 @@ export async function writeJsonFile(
   message: string,
   data: unknown,
   sha?: string,
-): Promise<void> {
+): Promise<string> {
   const text = JSON.stringify(data, null, 2) + "\n";
-  await putFile(connection, path, message, text, sha);
+  const nextSha = await putFile(connection, path, message, text, sha);
+  if (nextSha) return nextSha;
+  const latest = await readJsonFile(connection, path);
+  return latest.sha;
+}
+
+function isConflict(err: unknown): boolean {
+  return err instanceof GitHubError && (err.status === 409 || err.status === 422);
+}
+
+function markIndexRead(index: EmailIndex, ids: Iterable<string>): EmailIndex {
+  const wanted = new Set(ids);
+  return {
+    emails: index.emails.map((item) => (wanted.has(item.id) ? { ...item, is_read: true } : item)),
+  };
 }
 
 export async function loadSettings(connection: Connection): Promise<{ settings: AppSettings; sha: string }> {
@@ -146,9 +166,7 @@ export async function saveSettings(
     pop3User: settings.pop3User,
     pop3Ssl: settings.pop3Ssl,
   };
-  await writeJsonFile(connection, "data/settings.json", "Update app settings", payload, sha);
-  const latest = await loadSettings(connection);
-  return latest.sha;
+  return writeJsonFile(connection, "data/settings.json", "Update app settings", payload, sha);
 }
 
 export async function savePop3Secrets(
@@ -197,9 +215,30 @@ export async function loadIndex(connection: Connection): Promise<{ index: EmailI
 }
 
 export async function saveIndex(connection: Connection, index: EmailIndex, sha: string): Promise<string> {
-  await writeJsonFile(connection, "data/index.json", "Update read state", index, sha);
-  const latest = await loadIndex(connection);
-  return latest.sha;
+  return writeJsonFile(connection, "data/index.json", "Update read state", index, sha);
+}
+
+export async function saveIndexMarkRead(
+  connection: Connection,
+  ids: string[],
+): Promise<{ sha: string; index: EmailIndex }> {
+  const unique = [...new Set(ids.filter(Boolean))];
+  if (!unique.length) {
+    return loadIndex(connection);
+  }
+  let latest = await loadIndex(connection);
+  let payload = markIndexRead(latest.index, unique);
+  for (let attempt = 0; attempt < 5; attempt++) {
+    try {
+      const sha = await writeJsonFile(connection, "data/index.json", "Update read state", payload, latest.sha);
+      return { sha, index: payload };
+    } catch (err) {
+      if (!isConflict(err) || attempt === 4) throw err;
+      latest = await loadIndex(connection);
+      payload = markIndexRead(latest.index, unique);
+    }
+  }
+  throw new Error("既読の保存に失敗しました");
 }
 
 export async function loadEmail(connection: Connection, file: string): Promise<EmailRecord> {

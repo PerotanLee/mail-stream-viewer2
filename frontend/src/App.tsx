@@ -11,7 +11,7 @@ import {
   loadIndex,
   loadLastRun,
   loadSettings,
-  saveIndex,
+  saveIndexMarkRead,
   savePop3Secrets,
   saveSettings,
   triggerFetch,
@@ -84,7 +84,6 @@ export default function App() {
   const [pop3Password, setPop3Password] = useState("");
   const [settingsSha, setSettingsSha] = useState("");
   const [emails, setEmails] = useState<EmailIndexItem[]>([]);
-  const [indexSha, setIndexSha] = useState("");
   const [records, setRecords] = useState<Record<string, EmailRecord>>({});
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
@@ -93,6 +92,10 @@ export default function App() {
   const [pageDownPos, setPageDownPos] = useState<PageDownPos | null>(loadPageDownPos());
   const lastUiSync = useRef("");
   const streamRef = useRef<HTMLElement | null>(null);
+  const connectionRef = useRef(connection);
+  const pendingReadIds = useRef(new Set<string>());
+  const readFlush = useRef(Promise.resolve());
+  connectionRef.current = connection;
 
   useEffect(() => {
     startPageTranslate();
@@ -109,7 +112,7 @@ export default function App() {
 
   const refreshData = useCallback(
     async (conn: Connection) => {
-      const [{ settings: nextSettings, sha: sSha }, { index, sha: iSha }] = await Promise.all([
+      const [{ settings: nextSettings, sha: sSha }, { index }] = await Promise.all([
         loadSettings(conn),
         loadIndex(conn),
       ]);
@@ -122,7 +125,6 @@ export default function App() {
         if (current && shown.some((item) => item.id === current)) return current;
         return shown[0]?.id ?? null;
       });
-      setIndexSha(iSha);
       return { items: index.emails, senderFilter: nextSettings.senderFilter };
     },
     [],
@@ -198,10 +200,23 @@ export default function App() {
     return () => window.clearTimeout(handle);
   }, [connected, connection, settings, settingsSha]);
 
-  async function persistRead(nextEmails: EmailIndexItem[]) {
-    if (!connection.token) return;
-    const nextSha = await saveIndex(connection, { emails: nextEmails }, indexSha);
-    setIndexSha(nextSha);
+  async function flushPendingReads() {
+    const conn = connectionRef.current;
+    if (!conn.token) return;
+    while (pendingReadIds.current.size) {
+      const ids = [...pendingReadIds.current];
+      pendingReadIds.current.clear();
+      try {
+        const result = await saveIndexMarkRead(conn, ids);
+        setEmails(result.index.emails);
+      } catch (err) {
+        for (const id of ids) pendingReadIds.current.add(id);
+        setEmails((prev) =>
+          prev.map((item) => (ids.includes(item.id) ? { ...item, is_read: false } : item)),
+        );
+        throw err;
+      }
+    }
   }
 
   async function selectEmail(id: string, scroll = false) {
@@ -225,21 +240,24 @@ export default function App() {
   }
 
   async function toggleRead(id: string, isRead: boolean) {
-    const next = emails.map((item) => (item.id === id ? { ...item, is_read: isRead } : item));
-    setEmails(next);
-    if (isRead) {
-      setRecords((prev) => {
-        const copy = { ...prev };
-        delete copy[id];
-        return copy;
-      });
-      if (selectedId === id) {
-        const remaining = visibleItems(next, settings.senderFilter);
-        setSelectedId(remaining[0]?.id ?? null);
-      }
+    if (!isRead) return;
+    pendingReadIds.current.add(id);
+    const next = emails.map((item) => (item.id === id ? { ...item, is_read: true } : item));
+    setEmails((prev) => prev.map((item) => (item.id === id ? { ...item, is_read: true } : item)));
+    setRecords((prev) => {
+      const copy = { ...prev };
+      delete copy[id];
+      return copy;
+    });
+    if (selectedId === id) {
+      const remaining = visibleItems(next, settings.senderFilter);
+      setSelectedId(remaining[0]?.id ?? null);
     }
+    setError("");
+    const job = readFlush.current.then(flushPendingReads);
+    readFlush.current = job.catch(() => {});
     try {
-      await persistRead(next);
+      await job;
     } catch (err) {
       setError(explain(err));
     }
@@ -430,8 +448,8 @@ function explain(err: unknown): string {
     if (err.status === 404) {
       return "リポジトリまたはファイルが見つかりません。owner / repo / ブランチを確認してください。";
     }
-    if (err.status === 409) {
-      return "他の端末と同時に更新されました。もう一度開いてからやり直してください。";
+    if (err.status === 409 || err.status === 422) {
+      return "既読の保存が他の更新と重なりました。もう一度「既読にする」を押してください。";
     }
   }
   if (err instanceof Error) return err.message;
