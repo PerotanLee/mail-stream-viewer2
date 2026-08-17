@@ -5,11 +5,11 @@
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:35:01.842504+00:00",
+  "updated_at": "2026-08-17T06:35:05.910285+00:00",
   "added": 0,
-  "skipped": 47,
+  "skipped": 64,
   "server_count": 6146,
-  "scanned": 47,
+  "scanned": 64,
   "scan_total": 200,
-  "current": "送信元フィルタ外 OMAKASE byGMO <noreply@email.omakase.in>"
+  "current": "送信元フィルタ外 ビジネス＋IT セミナー事 務局 <event-bit@ml3.sbcr.jp>"
 }
