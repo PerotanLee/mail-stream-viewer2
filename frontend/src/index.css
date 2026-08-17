@@ -1,0 +1,51 @@
+:root {
+  color-scheme: light;
+  --ink: #221c16;
+  --muted: #6d6258;
+  --paper: #f3eadc;
+  --paper-2: #fffaf2;
+  --line: #e0d3c2;
+  --accent: #b45309;
+  --accent-2: #0f766e;
+  --unread: #c2410c;
+  --shadow: 0 18px 40px rgba(68, 41, 16, 0.12);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --header: 56px;
+  --tabs: calc(56px + var(--safe-bottom));
+  --zoom: 1;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: "Hiragino Sans", "Yu Gothic UI", "Segoe UI", sans-serif;
+  color: var(--ink);
+  background:
+    radial-gradient(1200px 500px at 10% -10%, #fde7c7 0%, transparent 55%),
+    var(--paper);
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: var(--accent-2);
+}

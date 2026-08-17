@@ -1,0 +1,40 @@
+name: Fetch mail
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch POP3 mail
+        env:
+          POP3_HOST: ${{ secrets.POP3_HOST }}
+          POP3_PORT: ${{ secrets.POP3_PORT }}
+          POP3_USER: ${{ secrets.POP3_USER }}
+          POP3_PASSWORD: ${{ secrets.POP3_PASSWORD }}
+          POP3_SSL: ${{ secrets.POP3_SSL }}
+        run: python scripts/fetch_pop3.py
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No mail data changes"
+          else
+            git commit -m "Update fetched mail data"
+            git push
+          fi
