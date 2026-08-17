@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=5272 from=Axios Markets <markets@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:55:40.490615+00:00",
+  "updated_at": "2026-08-17T06:55:45.326002+00:00",
   "added": 23,
-  "skipped": 843,
-  "scanned": 866,
+  "skipped": 852,
+  "scanned": 876,
   "scan_total": 0,
-  "current": "💼 C-suite AI use",
+  "current": "Axios Markets <markets@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 23
