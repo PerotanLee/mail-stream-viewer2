@@ -1,5 +1,5 @@
 {
-  "senderFilter": "wsj,axios",
+  "senderFilter": "wsj,axios,seekingalpha",
   "zoom": 120,
   "displayLang": "ja",
   "pop3Host": "mbox.iij4u.or.jp",
