@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=5529 from=Dan Primack <events@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:53:38.719298+00:00",
+  "updated_at": "2026-08-17T06:53:41.802912+00:00",
   "added": 11,
-  "skipped": 602,
-  "scanned": 613,
+  "skipped": 607,
+  "scanned": 619,
   "scan_total": 0,
-  "current": "🤑 Axios PM: Trump's growing tab",
+  "current": "Dan Primack <events@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 11
