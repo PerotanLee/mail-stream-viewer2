@@ -1,9 +1,6 @@
-export type DisplayLang = "ja" | "en";
-
 export type AppSettings = {
   senderFilter: string;
   zoom: number;
-  displayLang: DisplayLang;
   pop3Host: string;
   pop3Port: string;
   pop3User: string;
@@ -22,7 +19,6 @@ export type EmailIndexItem = {
   uid: string;
   from_addr: string;
   subject: string;
-  subject_ja: string;
   date: string;
   is_read: boolean;
   file: string;
@@ -34,7 +30,6 @@ export type EmailIndex = {
 
 export type EmailRecord = EmailIndexItem & {
   body_text: string;
-  body_text_ja: string;
   body_html: string;
 };
 

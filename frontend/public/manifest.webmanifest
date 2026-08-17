@@ -1,10 +1,10 @@
 {
-  "name": "メールストリーム",
-  "short_name": "MailStream",
+  "name": "Logiris2",
+  "short_name": "Logiris2",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f3eadc",
-  "theme_color": "#1c1917",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a5f",
   "lang": "ja",
   "icons": [
     {

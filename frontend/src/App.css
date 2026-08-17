@@ -12,7 +12,7 @@
   row-gap: 2px;
   padding: 4px 8px;
   border-bottom: 1px solid var(--line);
-  background: rgba(255, 250, 242, 0.92);
+  background: #fff;
   backdrop-filter: blur(10px);
 }
 
@@ -58,9 +58,9 @@
 }
 
 .text-btn.primary {
-  background: var(--ink);
-  color: #fffaf2;
-  border-color: var(--ink);
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
 }
 
 .text-btn:disabled,
@@ -143,15 +143,6 @@
   max-width: 100%;
 }
 
-.body.html {
-  white-space: normal;
-}
-
-.body.html img {
-  max-width: 100%;
-  height: auto;
-}
-
 .stream-panel {
   position: relative;
 }
@@ -169,39 +160,6 @@
   display: none;
 }
 
-.mail-item,
-.mail-card {
-  border: 0;
-  border-bottom: 1px solid var(--line);
-  background: transparent;
-  width: 100%;
-  text-align: left;
-  padding: 10px 12px;
-}
-
-.mail-item {
-  display: grid;
-  gap: 4px;
-}
-
-.mail-item.active {
-  background: #fff;
-  box-shadow: inset 3px 0 0 var(--accent);
-}
-
-.mail-item.unread .subject {
-  font-weight: 700;
-}
-
-.badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 11px;
-  color: var(--unread);
-  font-weight: 700;
-}
-
 .meta {
   color: var(--muted);
   font-size: 12px;
@@ -217,18 +175,17 @@
 .mail-card {
   background: var(--paper-2);
   border: 1px solid var(--line);
+  border-left: 4px solid var(--accent);
   border-radius: 12px;
   margin-bottom: 8px;
   box-shadow: var(--shadow);
+  width: 100%;
+  text-align: left;
   padding: 10px 12px;
 }
 
 .mail-card.selected {
   outline: 2px solid var(--accent);
-}
-
-.mail-card.unread {
-  border-left: 4px solid var(--accent);
 }
 
 .card-head {
@@ -255,10 +212,6 @@
   line-height: 1.7;
   margin-top: 12px;
   font-size: calc(16px * var(--zoom));
-}
-
-.body.html :is(p, ul, ol) {
-  margin: 0 0 0.8em;
 }
 
 .empty {
@@ -338,27 +291,26 @@ textarea {
 
 .page-down {
   position: fixed;
-  z-index: 20;
+  z-index: 10000;
   width: 44px;
   height: 44px;
   border: 0;
   border-radius: 999px;
   background: var(--accent);
-  color: #fffaf2;
+  color: #fff;
   font-weight: 700;
   font-size: 16px;
+  opacity: 0.55;
   box-shadow: var(--shadow);
   touch-action: none;
   user-select: none;
   cursor: grab;
+  pointer-events: auto;
 }
 
-.banner {
-  display: none;
-}
-
-.overlay {
-  display: none;
+.page-down:hover,
+.page-down:active {
+  opacity: 0.9;
 }
 
 @media (min-width: 821px) {

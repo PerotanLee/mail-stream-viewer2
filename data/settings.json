@@ -1,7 +1,6 @@
 {
   "senderFilter": "wsj,axios,seekingalpha",
   "zoom": 120,
-  "displayLang": "ja",
   "pop3Host": "mbox.iij4u.or.jp",
   "pop3Port": "995",
   "pop3User": "teruyuki.hh.iij4u.or.jp",

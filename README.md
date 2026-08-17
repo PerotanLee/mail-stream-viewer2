@@ -1,86 +1,108 @@
-# メールストリーム (mail-stream-viewer2)
+# Logiris2（mail-stream-viewer2）
 
-指定した送信元の英語メールを POP3 で取得し、ブラウザで日本語訳つきストリーム表示する PWA です。常時起動サーバーは使いません。GitHub Actions が取得し、GitHub Pages が画面を配信します。
+指定した送信元のメールを POP3 で取得し、ブラウザでストリーム表示する個人用 PWA です。常時起動サーバーは使いません。
 
-## できること
+- 取得: GitHub Actions（画面の「更新」から起動）
+- 画面: GitHub Pages
+- 本文データ: リポジトリの `data/`（GitHub Contents API で読み書き）
 
-- 指定送信元の新着だけを取り込む（サーバー上のメールは削除しない）
-- スマホ・PC で同じ画面。リストとストリーム、既読 / 未読の同期
-- 件名・本文を最初から日本語表示（原文トグルあり）
-- 文字サイズ（ズーム）と、好きな位置に置ける PageDown ボタン
+公開画面: https://perotanlee.github.io/mail-stream-viewer2/
 
-## リポジトリ構成
+## いまの動き
+
+- サーバー上のメールは削除しません（POP3 の `DELE` は使いません）。
+- 画面に出すのは **直近 1 週間・未読・送信元フィルタに一致** したものだけです。並びは **古い順** です。
+- 「既読にする」とその通は消え、`data/index.json` に既読として保存します。未読に戻す操作はありません。
+- 本文は英語のまま保存します。表示時にページ内の Google 翻訳で日本語にします。原文／日本語の切替ボタンはありません。
+- 取得は自動ではありません。必要なら「更新」を押します。
+
+## 構成
 
 | パス | 役割 |
 | --- | --- |
-| `frontend/` | GitHub Pages に出す PWA。メール本文は含まない |
-| `scripts/fetch_pop3.py` | POP3 取得と英日翻訳 |
-| `.github/workflows/fetch-mail.yml` | 画面の「更新」から起動 |
-| `.github/workflows/deploy-pages.yml` | フロントのデプロイ |
-| `data/` | メールと設定（**private リポジトリ専用**） |
+| `frontend/` | GitHub Pages に出す PWA（メール本文は含まない） |
+| `scripts/fetch_pop3.py` | POP3 取得。ヘッダーで絞り、一致した通だけ本文を取る |
+| `.github/workflows/fetch-mail.yml` | 「更新」から起動する取得ジョブ |
+| `.github/workflows/deploy-pages.yml` | `frontend/` の変更で Pages をビルド |
+| `data/` | 設定・一覧・本文 JSON。**メール本文が入るため private 推奨** |
+
+接続の初期値は owner `PerotanLee` / repo `mail-stream-viewer2` / ブランチ `main` です。設定画面で変えられます。
+
+## データの置き方
+
+| ファイル | 内容 |
+| --- | --- |
+| `data/settings.json` | 送信元フィルタ、ズーム、POP3 ホスト／ポート／ユーザー／SSL |
+| `data/index.json` | 通の一覧と既読フラグ |
+| `data/emails/*.json` | 本文（HTML / テキスト）。UID のハッシュがファイル名 |
+| `data/last-run.json` | 取得の進捗と結果（画面の途中表示に使う） |
+| `data/fetch-cursor.json` | 前回取得の時刻と、そのときの POP3 最新番号 |
+
+POP3 パスワードは `data/` にも git にも入れません。GitHub Actions Secrets（`POP3_PASSWORD` など）だけに保存します。
+
+## 取得の仕方
+
+1. 画面の「更新」が `fetch-mail.yml` を起動します。
+2. 送信元フィルタが空なら、誤って全件取らないよう取得しません。
+3. 新しいメールからヘッダーだけ見ます（`TOP`）。日付が前回取得より古い通が続くと打ち切ります。
+4. From がフィルタに合う通だけ `UIDL` と本文（`RETR`）を取ります。メールボックス全体の UID 一覧は取りません。
+5. すでに `index.json` にある UID は本文を取り直しません。
+6. 終わると `fetch-cursor.json` に時刻と最新番号を書きます。次回は **その番号より新しい通だけ** を見ます。
+7. 画面に残す期間は直近 1 週間です。それより古い通は index と本文ファイルから外します。
+
+フィルタはカンマ類（`,、，;；`）区切りで、From に含まれる文字列なら一致です（例: `wsj,axios`）。
+
+初回やカーソルが無いときは、直近の成功時刻（`last-run.json`）を起点にします。15 分の重なりを見て取りこぼしを減らします。
+
+## 画面
+
+- **ストリーム**: 未読の本文を続けて表示。HTML メールはレイアウトと画像を保ったまま出します。
+- **題名ドロップダウン**: 表示中の未読から 1 通へジャンプします。選んでも既読にはしません。
+- **既読にする**: その通を隠して GitHub に保存します。保存が他の更新と重なっても、最新の一覧を取り直してやり直します。失敗しても未読には戻しません。
+- **文字の大きさ**: 80–200%。題名だけでなく本文 HTML の段組・画像にもかかります。接続中は GitHub の設定へ同期します。
+- **PageDown**: ドラッグで位置を変え、タップでストリームを約 1 画面分進めます。位置はその端末だけ覚えます。
+- **設定**: GitHub 接続（PAT）、POP3、送信元フィルタ。設定パネルを開いているときだけ入力欄を出します。
+
+操作ボタン・設定・エラーは翻訳しません。件名・送信元・本文だけ日本語になります。
+
+インストールした PWA（ホーム画面）ではブラウザの翻訳ボタンが出ないため、ページ内翻訳を使います。ネット接続が必要です。
 
 ## セットアップ
 
-### 1. GitHub リポジトリ
+### 1. リポジトリ
 
-1. GitHub で **private** リポジトリを作る（メール本文が入るため）
-2. このフォルダを push する
+メール本文が `data/` にコミットされるので、**データ用リポジトリは private** にしてください。無料プランで private の Pages が使えない場合は:
 
-```bash
-cd mail-stream-viewer2
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/<owner>/<repo>.git
-git push -u origin main
-```
+- データ用は private のまま
+- `frontend/` だけ public リポジトリで Pages 公開
+- アプリの「データ用リポジトリ名」に private 側を指定
 
-無料プランでは private リポジトリの GitHub Pages が使えないことがあります。その場合は:
+### 2. GitHub Pages
 
-- このリポジトリは private のままデータ用にする
-- `frontend/` だけを public リポジトリに置き、Pages はそちらで公開する
-- アプリ設定の「データ用リポジトリ名」に private 側の名前を入れる
+1. Settings → Pages → Source を **GitHub Actions** にする
+2. `Deploy Pages` を動かす（`frontend/` の push でも動きます）
+3. 表示された URL を開く
 
-### 2. POP3
+### 3. Personal Access Token
 
-アプリの設定画面からホスト・ポート・ユーザー・パスワードを保存します。パスワードは GitHub Actions Secrets に暗号化され、`data/` や git には入りません。
-
-PAT には次の権限が必要です。
+Fine-grained PAT を、このリポジトリだけに発行します。
 
 - **Contents**: Read and write
 - **Actions**: Read and write
 - **Secrets**: Read and write
 
-### 3. GitHub Pages
+PAT は各端末のブラウザ（localStorage）にだけ保存します。git には入れません。
 
-1. Settings → Pages → Build and deployment → Source を **GitHub Actions** にする
-2. `Deploy Pages` ワークフローを手動実行するか、`frontend/` を push する
-3. 表示された URL を控える
+### 4. 初回の画面操作
 
-### 4. Personal Access Token
+1. owner / データ用リポジトリ / ブランチ（`main`）/ PAT を入れて「この端末に接続を保存」
+2. 送信元フィルタと POP3（パスワード含む）を入れて「設定を GitHub に保存」
+3. 「更新」を押す
+4. スマホでは共有 → ホーム画面に追加 で PWA にできます
 
-Fine-grained PAT を発行します。
+パスワード欄を空のまま保存すると、既存の Secrets は変えません。
 
-- Resource owner: 自分
-- Repository access: このリポジトリだけ
-- Permissions:
-  - **Contents**: Read and write
-  - **Actions**: Read and write
-  - **Secrets**: Read and write
-- 有効期限は長めでも、漏洩したらすぐ取り消す
-
-PAT は各端末のブラウザにだけ保存されます。git には入れません。
-
-### 5. アプリの初回設定
-
-1. Pages の URL を開く
-2. 設定に owner / リポジトリ名 / ブランチ（`main`）/ PAT を入れて「この端末に接続を保存」
-3. 送信元フィルタと POP3 情報を入れて「設定を GitHub に保存」
-4. 「更新」を押す。Actions が終わるまで数十秒かかることがあります
-5. スマホでは共有 → ホーム画面に追加 で PWA 化できます
-
-送信元フィルタが空のときは、誤って全件ダウンロードしないよう取得しません。
+フロントを更新したあとは、ブラウザなら強制再読み込み、インストール済みならアプリを一度閉じて開き直してください。
 
 ## ローカル開発
 
@@ -94,22 +116,16 @@ POP3 を手元で試す場合:
 
 ```bash
 cp .env.example .env
-# .env を編集
+# .env を編集（git に入れない）
 python scripts/fetch_pop3.py
 ```
 
-`.env` は git に入れないでください。翻訳は取得時に行い、失敗しても原文は保存します。Chrome / Edge では未訳分をブラウザ内蔵の Translator API で補います。
-
-## 画面操作
-
-- **リスト**: 1 通を選ぶ。選ぶと既読になります
-- **ストリーム**: 新しい順に連続表示。既定は日本語
-- **原文 / 日本語**: 表示の切り替え
-- **ズーム**: 80–200%。GitHub 上の設定に同期します
-- **PageDown ボタン**: ドラッグで位置を変更（その端末だけ記憶）。タップでストリームを 1 画面分進めます
+手元実行でもサーバー上のメールは残します。画面のメール表示には、PAT 経由で GitHub 上の `data/` を読みます。
 
 ## 注意
 
-- メール本文は private リポジトリの `data/` にコミットされます
-- public な GitHub Pages にはフロントの殻だけを出してください
-- POP3 は `DELE` しません。他のメーラーからも同じメールを読めます
+- 「更新」以外では取得しません。スケジュール実行もありません。
+- 取得ジョブの制限時間は 12 分です。画面は最大約 8 分待ちます。
+- GitHub API に独自の `Cache-Control` ヘッダーは付けません（Pages からの CORS で失敗するため）。
+- 広告ブロッカーなどで Google 翻訳スクリプトが止まると、本文は英語のままです。
+- public リポジトリの `data/` は第三者から読めます。本文を置くなら private にしてください。

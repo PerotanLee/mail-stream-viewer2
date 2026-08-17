@@ -1,0 +1,14 @@
+---
+description: 作業後は GitHub へ自動で commit / push する
+alwaysApply: true
+---
+
+# Auto-push
+
+このリポジトリでは、コード変更を終えたらユーザーに聞かずに commit し、`origin` の現在ブランチへ push する。
+
+- force-push はしない
+- secrets（PAT、POP3 パスワード、`.env`）は commit しない
+- `--no-verify` は使わない
+- 変更がなければ空 commit しない
+---

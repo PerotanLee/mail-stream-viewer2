@@ -25,10 +25,6 @@ export function saveConnection(connection: Connection): void {
   localStorage.setItem(CONNECTION_KEY, JSON.stringify(connection));
 }
 
-export function clearConnection(): void {
-  localStorage.removeItem(CONNECTION_KEY);
-}
-
 export function loadPageDownPos(): PageDownPos | null {
   try {
     const raw = localStorage.getItem(PAGEDOWN_KEY);
@@ -53,7 +49,6 @@ export function loadCachedSettings(): AppSettings | null {
     return {
       senderFilter: parsed.senderFilter ?? "",
       zoom: typeof parsed.zoom === "number" ? parsed.zoom : 100,
-      displayLang: parsed.displayLang === "en" ? "en" : "ja",
       pop3Host: parsed.pop3Host ?? "",
       pop3Port: parsed.pop3Port ?? "995",
       pop3User: parsed.pop3User ?? "",

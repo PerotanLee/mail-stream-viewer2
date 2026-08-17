@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch matching POP3 mail from the last 7 days, translate EN→JA, leave server mail in place."""
+"""Fetch matching POP3 mail from the last 7 days and leave server mail in place."""
 
 from __future__ import annotations
 
@@ -9,7 +9,6 @@ import json
 import os
 import poplib
 import re
-import ssl
 import sys
 import time
 import traceback
@@ -30,12 +29,9 @@ DATA_DIR = ROOT / "data"
 EMAILS_DIR = DATA_DIR / "emails"
 INDEX_PATH = DATA_DIR / "index.json"
 SETTINGS_PATH = DATA_DIR / "settings.json"
-SEEN_PATH = DATA_DIR / "seen.json"
 LAST_RUN_PATH = DATA_DIR / "last-run.json"
 CURSOR_PATH = DATA_DIR / "fetch-cursor.json"
 
-TRANSLATE_CHUNK = 4000
-TRANSLATE_LIMIT = 20000
 MAX_AGE = timedelta(days=7)
 OVERLAP = timedelta(minutes=15)
 OLD_STREAK_STOP = 8
@@ -258,17 +254,13 @@ def prune_index(
     emails: list[dict[str, Any]],
     cutoff: datetime,
     sender_filter: str,
-    seen: set[str],
 ) -> list[dict[str, Any]]:
     kept: list[dict[str, Any]] = []
     for item in emails:
-        uid = str(item.get("uid") or "")
         from_addr = str(item.get("from_addr") or "")
         dt = message_time(str(item.get("date") or ""))
         too_old = dt is not None and dt < cutoff
         if too_old:
-            if uid:
-                seen.add(uid)
             filename = str(item.get("file") or "")
             if filename:
                 path = EMAILS_DIR / filename
@@ -279,12 +271,6 @@ def prune_index(
             continue
         kept.append(item)
     return kept
-
-
-def is_recent(dt: datetime | None, cutoff: datetime) -> bool:
-    if dt is None:
-        return True
-    return dt >= cutoff
 
 
 def get_body(msg: EmailMessage) -> tuple[str, str]:
@@ -326,51 +312,6 @@ def html_to_text(html: str) -> str:
     cleaned = re.sub(r"[ \t]+", " ", cleaned)
     cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
     return cleaned.strip()
-
-
-def translate_chunk(text: str) -> str:
-    query = urllib.parse.urlencode(
-        {"client": "gtx", "sl": "en", "tl": "ja", "dt": "t", "q": text},
-        encoding="utf-8",
-    )
-    url = "https://translate.googleapis.com/translate_a/single?" + query
-    req = urllib.request.Request(
-        url,
-        headers={"User-Agent": "mail-stream-viewer2"},
-        method="GET",
-    )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        payload = json.loads(resp.read().decode("utf-8"))
-    pieces = payload[0] if payload else []
-    return "".join(item[0] for item in pieces if item and item[0])
-
-
-def translate_en_ja(text: str) -> str:
-    source = (text or "").strip()
-    if not source:
-        return ""
-    clipped = source[:TRANSLATE_LIMIT]
-    chunks: list[str] = []
-    rest = clipped
-    while rest:
-        piece = rest[:TRANSLATE_CHUNK]
-        cut = piece.rfind("\n")
-        if cut > TRANSLATE_CHUNK // 2:
-            piece = piece[:cut]
-        chunks.append(piece)
-        rest = rest[len(piece) :].lstrip()
-
-    translated: list[str] = []
-    for i, chunk in enumerate(chunks):
-        try:
-            translated.append(translate_chunk(chunk))
-            if i < len(chunks) - 1:
-                time.sleep(0.4)
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, ssl.SSLError) as exc:
-            detail = getattr(exc, "code", None) or str(exc)
-            log(f"translation failed: {type(exc).__name__} {detail}")
-            return ""
-    return "".join(translated).strip()
 
 
 def connect_pop3(settings: dict[str, Any]) -> poplib.POP3:
@@ -420,7 +361,6 @@ def main() -> int:
         "added": 0,
         "skipped": 0,
         "scanned": 0,
-        "scan_total": 0,
         "current": "",
         "added_by_filter": {},
     }
@@ -431,7 +371,7 @@ def main() -> int:
         step = "設定読み込み"
         extra["last_newest_num"] = last_newest_num
         write_run_report(ok=False, running=True, step=step, phase="setup", extra=extra, force=True)
-        settings = load_json(SETTINGS_PATH, {"senderFilter": "", "zoom": 100, "displayLang": "ja"})
+        settings = load_json(SETTINGS_PATH, {"senderFilter": "", "zoom": 100})
         sender_filter = str(settings.get("senderFilter") or "")
         parts = filter_parts(sender_filter)
         if not parts:
@@ -442,8 +382,7 @@ def main() -> int:
 
         index = load_json(INDEX_PATH, {"emails": []})
         emails: list[dict[str, Any]] = list(index.get("emails") or [])
-        known = {item["uid"]: item for item in emails if "uid" in item}
-        seen = set(load_json(SEEN_PATH, {"uids": []}).get("uids") or [])
+        known = {str(item["uid"]) for item in emails if item.get("uid")}
         week_cutoff = datetime.now(timezone.utc) - MAX_AGE
         scan_cutoff = week_cutoff
         if last_fetch_at is not None:
@@ -557,7 +496,6 @@ def main() -> int:
                 msg = fetch_full(pop, num)
             except poplib.error_proto as exc:
                 log(f"skip num={num} retr error: {exc}")
-                seen.add(uid)
                 skipped += 1
                 extra["skipped"] = skipped
                 continue
@@ -570,10 +508,8 @@ def main() -> int:
                 "uid": uid,
                 "from_addr": from_addr,
                 "subject": subject,
-                "subject_ja": "",
                 "date": date,
                 "body_text": body_text,
-                "body_text_ja": "",
                 "body_html": body_html,
                 "is_read": False,
             }
@@ -585,14 +521,12 @@ def main() -> int:
                     "uid": uid,
                     "from_addr": from_addr,
                     "subject": subject,
-                    "subject_ja": "",
                     "date": date,
                     "is_read": False,
                     "file": filename,
                 }
             )
-            known[uid] = emails[-1]
-            seen.add(uid)
+            known.add(uid)
             added += 1
             for part in parts:
                 if part in from_addr.lower():
@@ -609,10 +543,9 @@ def main() -> int:
         extra["current"] = ""
         step = "保存"
         write_run_report(ok=False, running=True, step=step, phase="save", extra=extra, force=True)
-        emails = prune_index(emails, week_cutoff, sender_filter, seen)
+        emails = prune_index(emails, week_cutoff, sender_filter)
         emails.sort(key=lambda item: item.get("date") or "", reverse=True)
         write_json(INDEX_PATH, {"emails": emails})
-        write_json(SEEN_PATH, {"uids": sorted(seen)})
         try:
             end_num, _octets = pop.stat()
         except Exception:

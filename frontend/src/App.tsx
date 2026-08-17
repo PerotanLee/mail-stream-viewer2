@@ -70,7 +70,6 @@ function mergeLocalSettings(prev: AppSettings, incoming: AppSettings): AppSettin
   return {
     senderFilter: incoming.senderFilter.trim() || prev.senderFilter,
     zoom: incoming.zoom || prev.zoom,
-    displayLang: incoming.displayLang === "en" ? "en" : "ja",
     pop3Host: incoming.pop3Host.trim() || prev.pop3Host,
     pop3Port: incoming.pop3Port.trim() || prev.pop3Port,
     pop3User: incoming.pop3User.trim() || prev.pop3User,
@@ -87,7 +86,6 @@ const emptyConnection: Connection = {
 const emptySettings: AppSettings = {
   senderFilter: "",
   zoom: 100,
-  displayLang: "ja",
   pop3Host: "",
   pop3Port: "995",
   pop3User: "",
@@ -97,7 +95,6 @@ const emptySettings: AppSettings = {
 export default function App() {
   const [tab, setTab] = useState<Tab>("stream");
   const [connection, setConnection] = useState<Connection>(loadConnection() ?? emptyConnection);
-  const [connected, setConnected] = useState(true);
   const [settings, setSettings] = useState<AppSettings>(loadCachedSettings() ?? emptySettings);
   const [pop3Password, setPop3Password] = useState("");
   const [emails, setEmails] = useState<EmailIndexItem[]>([]);
@@ -145,7 +142,7 @@ export default function App() {
   );
 
   const loadBodies = useCallback(async (conn: Connection, items: EmailIndexItem[]) => {
-    const ordered = byOldest(items.filter((item) => !item.is_read));
+    const ordered = byOldest(items);
     let loaded = 0;
     setStatus(ordered.length ? `未読の本文を読み込み中 0/${ordered.length}` : "");
     for (let i = 0; i < ordered.length; i += 5) {
@@ -195,7 +192,7 @@ export default function App() {
   }, [loadBodies, refreshData]);
 
   useEffect(() => {
-    if (!connected || !connection.token) return;
+    if (!connection.token) return;
     const zoom = settings.zoom;
     if (!lastUiSync.current) {
       lastUiSync.current = String(zoom);
@@ -217,7 +214,7 @@ export default function App() {
         });
     }, 800);
     return () => window.clearTimeout(handle);
-  }, [connected, connection, settings.zoom]);
+  }, [connection, settings.zoom]);
 
   async function flushPendingReads() {
     const conn = connectionRef.current;
@@ -294,8 +291,7 @@ export default function App() {
     stream.scrollTo({ top: Math.max(0, top) });
   }
 
-  async function toggleRead(id: string, isRead: boolean) {
-    if (!isRead) return;
+  async function markRead(id: string) {
     pendingReadIds.current.add(id);
     const next = emails.map((item) => (item.id === id ? { ...item, is_read: true } : item));
     setEmails((prev) => prev.map((item) => (item.id === id ? { ...item, is_read: true } : item)));
@@ -349,7 +345,6 @@ export default function App() {
     };
     setConnection(conn);
     saveConnection(conn);
-    setConnected(true);
     setBusy(true);
     setError("");
     try {
@@ -449,7 +444,7 @@ export default function App() {
   return (
     <div className="shell">
       <header className="topbar notranslate" translate="no">
-        <div className="brand">メールストリーム</div>
+        <div className="brand">Logiris2</div>
         <EmailPicker emails={visible} selectedId={selectedId} onSelect={(id) => selectEmail(id, true)} />
         <div className="topbar-actions">
           <div className="zoom-wrap">
@@ -504,7 +499,7 @@ export default function App() {
               records={records}
               selectedId={selectedId}
               onSelect={(id) => selectEmail(id, false)}
-              onToggleRead={toggleRead}
+              onMarkRead={markRead}
             />
           </section>
         </main>

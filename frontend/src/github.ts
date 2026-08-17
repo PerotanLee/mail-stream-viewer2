@@ -133,12 +133,12 @@ async function putFile(
   return payload.content?.sha || "";
 }
 
-export async function readJsonFile<T>(connection: Connection, path: string): Promise<{ data: T; sha: string }> {
+async function readJsonFile<T>(connection: Connection, path: string): Promise<{ data: T; sha: string }> {
   const file = await getFile(connection, path);
   return { data: JSON.parse(decodeBase64(file.content)) as T, sha: file.sha };
 }
 
-export async function writeJsonFile(
+async function writeJsonFile(
   connection: Connection,
   path: string,
   message: string,
@@ -170,7 +170,6 @@ export async function loadSettings(connection: Connection): Promise<{ settings: 
     settings: {
       senderFilter: data.senderFilter ?? "",
       zoom: typeof data.zoom === "number" ? data.zoom : 100,
-      displayLang: data.displayLang === "en" ? "en" : "ja",
       pop3Host: data.pop3Host ?? "",
       pop3Port: data.pop3Port ?? "995",
       pop3User: data.pop3User ?? "",
@@ -187,7 +186,6 @@ function mergeSettings(local: AppSettings, remote: AppSettings): AppSettings {
   return {
     senderFilter: keepText(local.senderFilter, remote.senderFilter),
     zoom: local.zoom,
-    displayLang: local.displayLang === "en" ? "en" : "ja",
     pop3Host: keepText(local.pop3Host, remote.pop3Host),
     pop3Port: keepText(local.pop3Port, remote.pop3Port) || remote.pop3Port || "995",
     pop3User: keepText(local.pop3User, remote.pop3User),
@@ -218,7 +216,6 @@ async function writeSettings(
 export async function saveSettings(
   connection: Connection,
   settings: AppSettings,
-  _sha?: string,
 ): Promise<{ sha: string; settings: AppSettings }> {
   const latest = await loadSettings(connection);
   const payload = mergeSettings(settings, latest.settings);
@@ -276,10 +273,6 @@ export async function loadIndex(connection: Connection): Promise<{ index: EmailI
     sha,
     index: { emails: Array.isArray(data.emails) ? data.emails : [] },
   };
-}
-
-export async function saveIndex(connection: Connection, index: EmailIndex, sha: string): Promise<string> {
-  return writeJsonFile(connection, "data/index.json", "Update read state", index, sha);
 }
 
 export async function saveIndexMarkRead(
@@ -344,7 +337,6 @@ type JobStep = {
   name: string;
   status?: string;
   conclusion: string | null;
-  number: number;
 };
 
 export type LastRunReport = {
@@ -358,9 +350,7 @@ export type LastRunReport = {
   updated_at?: string;
   added?: number;
   skipped?: number;
-  server_count?: number;
   scanned?: number;
-  scan_total?: number;
   current?: string;
   scan_mode?: string;
   since?: string;

@@ -6,18 +6,17 @@ type Props = {
   records: Record<string, EmailRecord>;
   selectedId: string | null;
   onSelect: (id: string) => void;
-  onToggleRead: (id: string, isRead: boolean) => void;
+  onMarkRead: (id: string) => void;
 };
 
-export function EmailStream({ emails, records, selectedId, onSelect, onToggleRead }: Props) {
-  const unread = emails.filter((item) => !item.is_read);
-  if (unread.length === 0) {
+export function EmailStream({ emails, records, selectedId, onSelect, onMarkRead }: Props) {
+  if (emails.length === 0) {
     return <p className="empty notranslate" translate="no">直近1週間の未読メールはありません。</p>;
   }
 
   return (
     <>
-      {unread.map((item) => {
+      {emails.map((item) => {
         const record = records[item.id];
         const html = record?.body_html || "";
 
@@ -25,7 +24,7 @@ export function EmailStream({ emails, records, selectedId, onSelect, onToggleRea
           <article
             key={item.id}
             id={`mail-${item.id}`}
-            className={`mail-card ${item.id === selectedId ? "selected" : ""} ${item.is_read ? "" : "unread"}`}
+            className={`mail-card ${item.id === selectedId ? "selected" : ""}`}
             onClick={() => onSelect(item.id)}
           >
             <div className="card-head">
@@ -44,7 +43,7 @@ export function EmailStream({ emails, records, selectedId, onSelect, onToggleRea
                   className="text-btn"
                   onClick={(event) => {
                     event.stopPropagation();
-                    onToggleRead(item.id, true);
+                    onMarkRead(item.id);
                   }}
                 >
                   既読にする
