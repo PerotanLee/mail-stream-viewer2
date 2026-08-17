@@ -5,12 +5,12 @@
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:51:16.448617+00:00",
+  "updated_at": "2026-08-17T06:51:36.462378+00:00",
   "added": 1,
-  "skipped": 297,
-  "scanned": 298,
+  "skipped": 347,
+  "scanned": 348,
   "scan_total": 0,
-  "current": "送信元フィルタ外 Max Impact IPO <contact@maximpactipo.com>",
+  "current": "送信元フィルタ外 QUICK Money World <noreply@moneyworld.jp>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 1
