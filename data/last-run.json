@@ -5,11 +5,11 @@
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:35:09.997098+00:00",
+  "updated_at": "2026-08-17T06:35:14.016704+00:00",
   "added": 0,
-  "skipped": 79,
+  "skipped": 95,
   "server_count": 6146,
-  "scanned": 79,
+  "scanned": 95,
   "scan_total": 200,
-  "current": "送信元フィルタ外 Asia Insurance Review <newsletter@airedaily.com>"
+  "current": "送信元フィルタ外 日経トレンディ電子版 <trendy@nikkeibp.co.jp>"
 }
