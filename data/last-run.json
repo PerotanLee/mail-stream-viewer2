@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=5519 from=Dan Primack <dan@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:53:46.954807+00:00",
+  "updated_at": "2026-08-17T06:53:49.317193+00:00",
   "added": 13,
-  "skipped": 612,
-  "scanned": 625,
+  "skipped": 615,
+  "scanned": 629,
   "scan_total": 0,
-  "current": "⏳ The aging effect",
+  "current": "Dan Primack <dan@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 13
