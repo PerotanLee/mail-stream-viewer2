@@ -627,7 +627,7 @@
       "subject": "Dire Straits",
       "subject_ja": "ダイア・ストレイツ",
       "date": "Mon, 10 Aug 2026 16:22:07 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "3e5898dcade19a704365dc97a881e1902e29eaa31fb0b286777a6c2e62270eb5.json"
     },
     {
@@ -637,7 +637,7 @@
       "subject": "🥵 Axios PM: Hottest month",
       "subject_ja": "",
       "date": "Mon, 10 Aug 2026 14:54:16 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "cbe1957215a8276257e2e429e0985ec72ed5070162a3da5e54367b8cc21a375c.json"
     },
     {
@@ -647,7 +647,7 @@
       "subject": "🏦 Warsh's world",
       "subject_ja": "",
       "date": "Mon, 10 Aug 2026 11:58:29 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "f38066afbfc4d015880749b3fe5006c40a30da5b9ea4d421e2718d586542c295.json"
     },
     {
@@ -657,7 +657,7 @@
       "subject": "Axios Pro Rata: Termination terminated",
       "subject_ja": "",
       "date": "Mon, 10 Aug 2026 10:00:13 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "f90804aa7c5618cee553f8f60be94cfea7fe1a45996f334caaf0e559dedd9826.json"
     },
     {
