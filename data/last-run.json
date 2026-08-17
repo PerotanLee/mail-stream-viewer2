@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5272 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:55:45.326002+00:00",
-  "added": 23,
+  "updated_at": "2026-08-17T06:55:46.244293+00:00",
+  "added": 24,
   "skipped": 852,
   "scanned": 876,
   "scan_total": 0,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "😅 Paying for AI",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 23
+    "axios": 24
   }
 }
