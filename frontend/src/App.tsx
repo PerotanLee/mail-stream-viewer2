@@ -66,7 +66,7 @@ export default function App() {
   const lastUiSync = useRef("");
   const streamRef = useRef<HTMLElement | null>(null);
 
-  const sorted = useMemo(() => byOldest(emails), [emails]);
+  const unread = useMemo(() => byOldest(emails.filter((item) => !item.is_read)), [emails]);
 
   const refreshData = useCallback(
     async (conn: Connection) => {
@@ -78,9 +78,10 @@ export default function App() {
       setSettingsSha(sSha);
       lastUiSync.current = String(nextSettings.zoom);
       setEmails(index.emails);
+      const unreadItems = byOldest(index.emails.filter((item) => !item.is_read));
       setSelectedId((current) => {
-        if (current && index.emails.some((item) => item.id === current)) return current;
-        return byOldest(index.emails)[0]?.id ?? null;
+        if (current && unreadItems.some((item) => item.id === current)) return current;
+        return unreadItems[0]?.id ?? null;
       });
       setIndexSha(iSha);
       return index.emails;
@@ -89,9 +90,9 @@ export default function App() {
   );
 
   const loadBodies = useCallback(async (conn: Connection, items: EmailIndexItem[]) => {
-    const ordered = byOldest(items);
+    const ordered = byOldest(items.filter((item) => !item.is_read));
     let loaded = 0;
-    setStatus(ordered.length ? `メール本文を読み込み中 0/${ordered.length}` : "");
+    setStatus(ordered.length ? `未読の本文を読み込み中 0/${ordered.length}` : "");
     for (let i = 0; i < ordered.length; i += 5) {
       const batch = ordered.slice(i, i + 5);
       const fetched: Record<string, EmailRecord> = {};
@@ -106,7 +107,7 @@ export default function App() {
       );
       loaded += batch.length;
       setRecords((prev) => ({ ...prev, ...fetched }));
-      setStatus(`メール本文を読み込み中 ${Math.min(loaded, ordered.length)}/${ordered.length}`);
+      setStatus(`未読の本文を読み込み中 ${Math.min(loaded, ordered.length)}/${ordered.length}`);
     }
   }, []);
 
@@ -168,19 +169,10 @@ export default function App() {
     setSelectedId(id);
     setTab("stream");
     const current = emails.find((item) => item.id === id);
-    if (current && !records[id]) {
+    if (current && !current.is_read && !records[id]) {
       try {
         const record = await loadEmail(connection, current.file);
         setRecords((prev) => ({ ...prev, [id]: record }));
-      } catch (err) {
-        setError(explain(err));
-      }
-    }
-    if (current && !current.is_read) {
-      const next = emails.map((item) => (item.id === id ? { ...item, is_read: true } : item));
-      setEmails(next);
-      try {
-        await persistRead(next);
       } catch (err) {
         setError(explain(err));
       }
@@ -196,6 +188,17 @@ export default function App() {
   async function toggleRead(id: string, isRead: boolean) {
     const next = emails.map((item) => (item.id === id ? { ...item, is_read: isRead } : item));
     setEmails(next);
+    if (isRead) {
+      setRecords((prev) => {
+        const copy = { ...prev };
+        delete copy[id];
+        return copy;
+      });
+      if (selectedId === id) {
+        const remaining = byOldest(next.filter((item) => !item.is_read));
+        setSelectedId(remaining[0]?.id ?? null);
+      }
+    }
     try {
       await persistRead(next);
     } catch (err) {
@@ -259,10 +262,11 @@ export default function App() {
       await loadBodies(connection, items);
       const report = await loadLastRun(connection);
       const added = typeof report?.added === "number" ? report.added : null;
+      const unreadCount = items.filter((item) => !item.is_read).length;
       setStatus(
         added === null
-          ? `取り込み完了（一覧 ${items.length}通）`
-          : `取り込み完了（新規 ${added}通 / 一覧 ${items.length}通）`,
+          ? `取り込み完了（未読 ${unreadCount}通）`
+          : `取り込み完了（新規 ${added}通 / 未読 ${unreadCount}通）`,
       );
       setTab("stream");
       window.setTimeout(() => {
@@ -290,7 +294,7 @@ export default function App() {
     <div className="shell">
       <header className="topbar notranslate" translate="no">
         <div className="brand">メールストリーム</div>
-        <EmailPicker emails={sorted} selectedId={selectedId} onSelect={(id) => selectEmail(id, true)} />
+        <EmailPicker emails={unread} selectedId={selectedId} onSelect={(id) => selectEmail(id, true)} />
         <div className="topbar-actions">
           <div className="zoom-wrap">
             <button
@@ -337,7 +341,7 @@ export default function App() {
               </pre>
             ) : null}
             <EmailStream
-              emails={sorted}
+              emails={unread}
               records={records}
               selectedId={selectedId}
               onSelect={(id) => selectEmail(id, false)}

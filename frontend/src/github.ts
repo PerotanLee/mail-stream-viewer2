@@ -246,13 +246,19 @@ type JobStep = {
 
 export type LastRunReport = {
   ok?: boolean;
+  running?: boolean;
   step?: string;
+  phase?: string;
   error?: string;
   traceback?: string;
   finished_at?: string;
+  updated_at?: string;
   added?: number;
   skipped?: number;
   server_count?: number;
+  scanned?: number;
+  scan_total?: number;
+  current?: string;
 };
 
 export async function loadLastRun(connection: Connection): Promise<LastRunReport | null> {
@@ -269,25 +275,60 @@ function elapsedLabel(startedAt: number): string {
   return seconds > 0 ? ` ${seconds}秒` : "";
 }
 
+function isCurrentProgress(report: LastRunReport | null, startedAt: number): boolean {
+  if (!report?.running) return false;
+  const stamp = Date.parse(report.updated_at || report.finished_at || "");
+  if (Number.isNaN(stamp)) return true;
+  return stamp >= startedAt - 15000;
+}
+
+function messageFromProgress(report: LastRunReport, startedAt: number): string {
+  const elapsed = elapsedLabel(startedAt);
+  const scanned = report.scanned ?? 0;
+  const total = report.scan_total ?? 0;
+  const added = report.added ?? 0;
+  const skipped = report.skipped ?? 0;
+  const server = report.server_count ?? 0;
+  const current = (report.current || "").trim().slice(0, 40);
+  const phase = report.phase || "";
+
+  if (phase === "setup") return `取得の準備をしています…${elapsed}`;
+  if (phase === "connect") return `メールサーバに接続しています…${elapsed}`;
+  if (phase === "uidl") {
+    return server
+      ? `サーバ上のメール一覧を取得しました（${server}通）。確認を開始します…${elapsed}`
+      : `サーバ上のメール一覧を取得しています…${elapsed}`;
+  }
+  if (phase === "retr") {
+    const where = total ? ` ${scanned}/${total}` : "";
+    const what = current ? ` ${current}` : "";
+    return `本文をダウンロードしています${where}（新規 ${added}通）${what}${elapsed}`;
+  }
+  if (phase === "save") return `新規 ${added}通を保存しています…${elapsed}`;
+  if (phase === "scan" || scanned || total) {
+    const where = total ? `${scanned}/${total}` : `${scanned}`;
+    const hint = current ? ` ${current}` : "";
+    return `ヘッダー確認 ${where}（新規 ${added} / スキップ ${skipped}）${hint}${elapsed}`;
+  }
+  return `メールサーバに接続しています…${elapsed}`;
+}
+
 function messageForFetchStep(stepName: string, runStatus: string, startedAt: number): string {
   const elapsed = elapsedLabel(startedAt);
   const name = stepName.toLowerCase();
   if (runStatus === "queued" || runStatus === "waiting" || runStatus === "pending") {
-    return `メールサーバへの接続待ち…${elapsed}`;
+    return `実行待ちです…${elapsed}`;
   }
-  if (name.includes("checkout") || name.includes("set up python") || name.includes("setup python")) {
-    return `メールサーバへ接続する準備をしています…${elapsed}`;
+  if (name.includes("checkout")) return `リポジトリを準備しています…${elapsed}`;
+  if (name.includes("set up python") || name.includes("setup python")) {
+    return `取得プログラムを準備しています…${elapsed}`;
   }
   if (name.includes("pop3") || name.includes("fetch")) {
-    return `メールサーバに接続し、メールをダウンロードしています…${elapsed}`;
-  }
-  if (name.includes("commit")) {
-    return `ダウンロードしたメールを保存しています…${elapsed}`;
-  }
-  if (runStatus === "in_progress") {
     return `メールサーバに接続しています…${elapsed}`;
   }
-  return `メールサーバへの接続を開始しています…${elapsed}`;
+  if (name.includes("commit")) return `取得結果を保存しています…${elapsed}`;
+  if (runStatus === "in_progress") return `メールサーバに接続しています…${elapsed}`;
+  return `更新を開始しています…${elapsed}`;
 }
 
 async function currentFetchStep(connection: Connection, runId: number): Promise<string> {
@@ -334,11 +375,21 @@ export async function waitForFetchRun(
       } catch {
         stepName = "";
       }
-      onStatus(messageForFetchStep(stepName, run.status, startedAt));
+      let report: LastRunReport | null = null;
+      try {
+        report = await loadLastRun(connection);
+      } catch {
+        report = null;
+      }
+      if (isCurrentProgress(report, startedAt) && report) {
+        onStatus(messageFromProgress(report, startedAt));
+      } else {
+        onStatus(messageForFetchStep(stepName, run.status, startedAt));
+      }
     } else {
-      onStatus(`メールサーバへの接続を開始しています…${elapsedLabel(startedAt)}`);
+      onStatus(`更新を開始しています…${elapsedLabel(startedAt)}`);
     }
-    await new Promise((resolve) => setTimeout(resolve, 3000));
+    await new Promise((resolve) => setTimeout(resolve, 2000));
   }
   throw new Error(
     "メール取得がタイムアウトしました。GitHub Actions の実行が長引いています。ページを再読み込みすると、完了済みなら一覧が出ます。",

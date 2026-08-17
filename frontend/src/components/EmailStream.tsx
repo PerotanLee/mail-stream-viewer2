@@ -11,7 +11,7 @@ type Props = {
 
 export function EmailStream({ emails, records, selectedId, onSelect, onToggleRead }: Props) {
   if (emails.length === 0) {
-    return <p className="empty notranslate" translate="no">ストリームは空です。</p>;
+    return <p className="empty notranslate" translate="no">未読のメールはありません。</p>;
   }
 
   return (
@@ -29,11 +29,6 @@ export function EmailStream({ emails, records, selectedId, onSelect, onToggleRea
           >
             <div className="card-head">
               <div>
-                {!item.is_read ? (
-                  <span className="badge notranslate" translate="no">
-                    未読
-                  </span>
-                ) : null}
                 <h2 className="subject" lang="en" translate="yes">
                   {item.subject || "(件名なし)"}
                 </h2>
@@ -48,10 +43,10 @@ export function EmailStream({ emails, records, selectedId, onSelect, onToggleRea
                   className="text-btn"
                   onClick={(event) => {
                     event.stopPropagation();
-                    onToggleRead(item.id, !item.is_read);
+                    onToggleRead(item.id, true);
                   }}
                 >
-                  {item.is_read ? "未読に戻す" : "既読にする"}
+                  既読にする
                 </button>
               </div>
             </div>

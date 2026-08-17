@@ -26,6 +26,7 @@ jobs:
           POP3_USER: ${{ secrets.POP3_USER }}
           POP3_PASSWORD: ${{ secrets.POP3_PASSWORD }}
           POP3_SSL: ${{ secrets.POP3_SSL }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/fetch_pop3.py
 
       - name: Commit data
@@ -33,6 +34,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase -X ours origin "${GITHUB_REF_NAME}" || true
           git add data
           if git diff --cached --quiet; then
             echo "No mail data changes"

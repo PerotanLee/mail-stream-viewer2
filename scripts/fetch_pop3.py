@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import base64
 import hashlib
 import json
 import os
@@ -62,17 +63,108 @@ def write_json(path: Path, payload: Any) -> None:
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
-def write_run_report(*, ok: bool, step: str, error: str = "", trace: str = "", extra: dict[str, Any] | None = None) -> None:
+_last_publish = 0.0
+_last_sha: str | None = None
+
+
+def github_file_sha(url: str, headers: dict[str, str], branch: str) -> str | None:
+    req = urllib.request.Request(f"{url}?ref={urllib.parse.quote(branch)}", headers=headers)
+    try:
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            payload = json.loads(resp.read().decode("utf-8"))
+        return str(payload.get("sha") or "") or None
+    except urllib.error.HTTPError as exc:
+        if exc.code == 404:
+            return None
+        raise
+
+
+def publish_progress_remote(payload: dict[str, Any]) -> None:
+    global _last_sha
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
+    repo = os.environ.get("GITHUB_REPOSITORY", "").strip()
+    branch = os.environ.get("GITHUB_REF_NAME", "").strip() or "main"
+    if not token or not repo:
+        return
+    url = f"https://api.github.com/repos/{repo}/contents/data/last-run.json"
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
+        "User-Agent": "mail-stream-viewer2",
+    }
+    text = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
+    body: dict[str, Any] = {
+        "message": "Update fetch progress",
+        "content": base64.b64encode(text.encode("utf-8")).decode("ascii"),
+        "branch": branch,
+    }
+    sha = _last_sha or github_file_sha(url, headers, branch)
+    if sha:
+        body["sha"] = sha
+    req = urllib.request.Request(
+        url,
+        data=json.dumps(body).encode("utf-8"),
+        method="PUT",
+        headers={**headers, "Content-Type": "application/json"},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            result = json.loads(resp.read().decode("utf-8"))
+        _last_sha = str((result.get("content") or {}).get("sha") or "") or _last_sha
+    except urllib.error.HTTPError as exc:
+        if exc.code != 409:
+            log(f"progress publish failed: {exc.code}")
+            return
+        _last_sha = github_file_sha(url, headers, branch)
+        if _last_sha:
+            body["sha"] = _last_sha
+        req = urllib.request.Request(
+            url,
+            data=json.dumps(body).encode("utf-8"),
+            method="PUT",
+            headers={**headers, "Content-Type": "application/json"},
+        )
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            result = json.loads(resp.read().decode("utf-8"))
+        _last_sha = str((result.get("content") or {}).get("sha") or "") or _last_sha
+
+
+def write_run_report(
+    *,
+    ok: bool,
+    step: str,
+    phase: str = "",
+    running: bool = False,
+    error: str = "",
+    trace: str = "",
+    extra: dict[str, Any] | None = None,
+    force: bool = False,
+) -> None:
+    global _last_publish
+    now = datetime.now(timezone.utc).isoformat()
     payload: dict[str, Any] = {
         "ok": ok,
+        "running": running,
         "step": step,
+        "phase": phase or step,
         "error": error,
         "traceback": trace[-8000:] if trace else "",
-        "finished_at": datetime.now(timezone.utc).isoformat(),
+        "updated_at": now,
     }
+    if not running:
+        payload["finished_at"] = now
     if extra:
         payload.update(extra)
     write_json(LAST_RUN_PATH, payload)
+    elapsed = time.time() - _last_publish
+    if running and not force and elapsed < 4:
+        return
+    _last_publish = time.time()
+    try:
+        publish_progress_remote(payload)
+    except Exception as exc:
+        log(f"progress publish skipped: {exc}")
 
 
 def decode_mime_header(value: str | None) -> str:
@@ -251,15 +343,23 @@ def fetch_full(pop: poplib.POP3, num: int) -> EmailMessage:
 
 def main() -> int:
     step = "開始"
-    extra: dict[str, Any] = {"added": 0, "skipped": 0, "server_count": 0}
+    extra: dict[str, Any] = {
+        "added": 0,
+        "skipped": 0,
+        "server_count": 0,
+        "scanned": 0,
+        "scan_total": 0,
+        "current": "",
+    }
     pop: poplib.POP3 | None = None
     try:
         step = "設定読み込み"
+        write_run_report(ok=False, running=True, step=step, phase="setup", extra=extra, force=True)
         settings = load_json(SETTINGS_PATH, {"senderFilter": "", "zoom": 100, "displayLang": "ja"})
         sender_filter = str(settings.get("senderFilter") or "")
         if not sender_filter.strip():
             log("senderFilter is empty; skip fetch")
-            write_run_report(ok=True, step="送信元フィルタが空のため取得スキップ", extra=extra)
+            write_run_report(ok=True, step="送信元フィルタが空のため取得スキップ", phase="skip", extra=extra, force=True)
             return 0
 
         index = load_json(INDEX_PATH, {"emails": []})
@@ -270,27 +370,41 @@ def main() -> int:
         log(f"only mail since {cutoff.isoformat()} (7 days)")
 
         step = "POP3接続"
+        write_run_report(ok=False, running=True, step=step, phase="connect", extra=extra, force=True)
         pop = connect_pop3()
         added = 0
         skipped = 0
         old_streak = 0
 
         step = "UIDL一覧"
+        write_run_report(ok=False, running=True, step=step, phase="uidl", extra=extra, force=True)
         listings = parse_uidl(pop)
         extra["server_count"] = len(listings)
         newest = listings[-MAX_SCAN:]
+        extra["scan_total"] = len(newest)
         log(f"server has {len(listings)} messages; scanning newest {len(newest)}")
+        write_run_report(ok=False, running=True, step=step, phase="uidl", extra=extra, force=True)
 
         for num, uid in reversed(newest):
+            extra["scanned"] = int(extra.get("scanned") or 0) + 1
+            extra["added"] = added
+            extra["skipped"] = skipped
             if uid in known or uid in seen:
                 skipped += 1
+                extra["skipped"] = skipped
+                extra["current"] = "既読または取得済みをスキップ"
+                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
                 continue
             step = f"ヘッダー取得 num={num}"
+            extra["current"] = f"ヘッダー確認 #{num}"
+            write_run_report(ok=False, running=True, step=step, phase="scan", extra=extra)
             try:
                 headers = fetch_headers(pop, num)
             except poplib.error_proto as exc:
                 log(f"skip num={num} header error: {exc}")
                 seen.add(uid)
+                skipped += 1
+                extra["skipped"] = skipped
                 continue
 
             from_addr = extract_addresses(headers)
@@ -298,7 +412,10 @@ def main() -> int:
             if not is_recent(msg_date, cutoff):
                 seen.add(uid)
                 skipped += 1
+                extra["skipped"] = skipped
+                extra["current"] = "7日より前のためスキップ"
                 old_streak += 1
+                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
                 if old_streak >= OLD_STREAK_STOP:
                     log(f"stop scan: {OLD_STREAK_STOP} consecutive messages older than 7 days")
                     break
@@ -307,14 +424,22 @@ def main() -> int:
 
             if not sender_matches(from_addr, sender_filter):
                 seen.add(uid)
+                skipped += 1
+                extra["skipped"] = skipped
+                extra["current"] = "送信元フィルタ外をスキップ"
+                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
                 continue
 
             step = f"本文取得 num={num} from={from_addr}"
+            extra["current"] = from_addr
+            write_run_report(ok=False, running=True, step=step, phase="retr", extra=extra, force=True)
             try:
                 msg = fetch_full(pop, num)
             except poplib.error_proto as exc:
                 log(f"skip num={num} retr error: {exc}")
                 seen.add(uid)
+                skipped += 1
+                extra["skipped"] = skipped
                 continue
 
             from_addr = extract_addresses(msg) or from_addr
@@ -349,15 +474,20 @@ def main() -> int:
             known[uid] = emails[-1]
             seen.add(uid)
             added += 1
+            extra["added"] = added
+            extra["current"] = subject or from_addr
+            write_run_report(ok=False, running=True, step="本文保存", phase="retr", extra=extra, force=True)
             log(f"saved uid={uid[:24]} from={from_addr} date={date}")
 
         extra["added"] = added
         extra["skipped"] = skipped
+        extra["current"] = ""
         step = "保存"
+        write_run_report(ok=False, running=True, step=step, phase="save", extra=extra, force=True)
         emails.sort(key=lambda item: item.get("date") or "", reverse=True)
         write_json(INDEX_PATH, {"emails": emails})
         write_json(SEEN_PATH, {"uids": sorted(seen)})
-        write_run_report(ok=True, step="完了", extra=extra)
+        write_run_report(ok=True, step="完了", phase="done", extra=extra, force=True)
         log(f"done added={added} skipped={skipped} server={len(listings)}")
         return 0
     except Exception as exc:
@@ -367,10 +497,13 @@ def main() -> int:
         extra["error_type"] = type(exc).__name__
         write_run_report(
             ok=False,
+            running=False,
             step=step,
+            phase="error",
             error=f"{type(exc).__name__}: {exc}",
             trace=trace,
             extra=extra,
+            force=True,
         )
         return 1
     finally:
