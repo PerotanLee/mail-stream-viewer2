@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5771 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:51:51.726371+00:00",
-  "added": 3,
+  "updated_at": "2026-08-17T06:51:52.755275+00:00",
+  "added": 4,
   "skipped": 373,
   "scanned": 377,
   "scan_total": 0,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "💸 Retail sputters",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 3
+    "axios": 4
   }
 }
