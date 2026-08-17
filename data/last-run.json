@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=5489 from=Mike Allen <mike@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:54:00.297958+00:00",
+  "updated_at": "2026-08-17T06:54:06.003987+00:00",
   "added": 16,
-  "skipped": 629,
-  "scanned": 645,
+  "skipped": 642,
+  "scanned": 659,
   "scan_total": 0,
-  "current": "🧐 Core issues",
+  "current": "Mike Allen <mike@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 16
