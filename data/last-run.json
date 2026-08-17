@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=5260 from=Axios Defense <defense@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:55:46.244293+00:00",
+  "updated_at": "2026-08-17T06:55:51.134244+00:00",
   "added": 24,
-  "skipped": 852,
-  "scanned": 876,
+  "skipped": 863,
+  "scanned": 888,
   "scan_total": 0,
-  "current": "😅 Paying for AI",
+  "current": "Axios Defense <defense@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 24
