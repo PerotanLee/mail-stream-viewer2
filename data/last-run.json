@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
-  "phase": "retr",
+  "step": "スキャン",
+  "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T09:36:36.697963+00:00",
+  "updated_at": "2026-08-17T09:36:56.799727+00:00",
   "added": 1,
-  "skipped": 33,
-  "scanned": 34,
+  "skipped": 139,
+  "scanned": 141,
   "scan_total": 0,
-  "current": "Today's Wall Street Journal Print Edition",
+  "current": "対象外をスキップ中 139通",
   "added_by_filter": {
     "wsj": 1,
     "axios": 0
