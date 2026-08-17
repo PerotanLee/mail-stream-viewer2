@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5489 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:54:06.003987+00:00",
-  "added": 16,
+  "updated_at": "2026-08-17T06:54:06.968471+00:00",
+  "added": 17,
   "skipped": 642,
   "scanned": 659,
   "scan_total": 0,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🦾 Axios AM: Big AI comeback",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 16
+    "axios": 17
   }
 }
