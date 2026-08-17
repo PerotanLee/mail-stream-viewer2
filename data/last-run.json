@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "スキャン",
+  "step": "ヘッダー取得 num=5621",
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:52:39.477703+00:00",
+  "updated_at": "2026-08-17T06:52:59.568866+00:00",
   "added": 8,
-  "skipped": 470,
-  "scanned": 478,
+  "skipped": 518,
+  "scanned": 527,
   "scan_total": 0,
-  "current": "送信元フィルタ外 藤巻百貨店 <info@fujimaki-select.com>",
+  "current": "ヘッダー確認 #5621",
   "added_by_filter": {
     "wsj": 0,
     "axios": 8
