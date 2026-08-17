@@ -17,7 +17,6 @@ import {
   waitForFetchRun,
 } from "./github";
 import { loadConnection, loadPageDownPos, saveConnection } from "./storage";
-import { translateEnJa, translateHtmlEnJa } from "./translator";
 import type { AppSettings, Connection, EmailIndexItem, EmailRecord, PageDownPos } from "./types";
 import "./App.css";
 
@@ -54,10 +53,6 @@ export default function App() {
   const [status, setStatus] = useState("");
   const [error, setError] = useState("");
   const [pageDownPos, setPageDownPos] = useState<PageDownPos | null>(loadPageDownPos());
-  const [translatedSubjects, setTranslatedSubjects] = useState<Record<string, string>>({});
-  const [translatedHtml, setTranslatedHtml] = useState<Record<string, string>>({});
-  const [translatingId, setTranslatingId] = useState<string | null>(null);
-  const htmlQueued = useRef(new Set<string>());
   const lastUiSync = useRef("");
   const streamRef = useRef<HTMLElement | null>(null);
 
@@ -78,7 +73,7 @@ export default function App() {
       ]);
       setSettings(nextSettings);
       setSettingsSha(sSha);
-      lastUiSync.current = `${nextSettings.zoom}:${nextSettings.displayLang}`;
+      lastUiSync.current = String(nextSettings.zoom);
       setEmails(index.emails);
       setSelectedId((current) => current ?? index.emails[0]?.id ?? null);
       setIndexSha(iSha);
@@ -132,58 +127,8 @@ export default function App() {
   }, [loadBodies, refreshData]);
 
   useEffect(() => {
-    if (settings.displayLang !== "ja") return;
-    const missingSubjects = emails.filter((item) => !item.subject_ja && item.subject);
-    let cancelled = false;
-    (async () => {
-      for (const item of missingSubjects) {
-        const translated = await translateEnJa(item.subject);
-        if (cancelled || !translated) continue;
-        setTranslatedSubjects((prev) => ({ ...prev, [item.id]: translated }));
-      }
-    })();
-    return () => {
-      cancelled = true;
-    };
-  }, [emails, settings.displayLang]);
-
-  useEffect(() => {
-    if (settings.displayLang !== "ja") return;
-    let cancelled = false;
-    const ids = [
-      ...(selectedId ? [selectedId] : []),
-      ...emails.map((item) => item.id).filter((id) => id !== selectedId),
-    ];
-    (async () => {
-      for (const id of ids) {
-        if (cancelled) return;
-        const record = records[id];
-        if (!record?.body_html || htmlQueued.current.has(id)) continue;
-        htmlQueued.current.add(id);
-        setTranslatingId(id);
-        try {
-          const html = await translateHtmlEnJa(record.body_html);
-          if (cancelled) {
-            htmlQueued.current.delete(id);
-            return;
-          }
-          if (html) setTranslatedHtml((prev) => ({ ...prev, [id]: html }));
-          else htmlQueued.current.delete(id);
-        } catch {
-          htmlQueued.current.delete(id);
-        } finally {
-          if (!cancelled) setTranslatingId((current) => (current === id ? null : current));
-        }
-      }
-    })();
-    return () => {
-      cancelled = true;
-    };
-  }, [emails, records, settings.displayLang, selectedId]);
-
-  useEffect(() => {
     if (!connected || !settingsSha || !connection.token) return;
-    const key = `${settings.zoom}:${settings.displayLang}`;
+    const key = String(settings.zoom);
     if (!lastUiSync.current) {
       lastUiSync.current = key;
       return;
@@ -320,8 +265,8 @@ export default function App() {
   const workspaceClass = `workspace show-${tab}`;
 
   return (
-    <div className="shell" translate="no">
-      <header className="topbar">
+    <div className="shell">
+      <header className="topbar notranslate" translate="no">
         <div className="brand">メールストリーム</div>
         <div className="topbar-actions">
           {status ? <span className="status">{status}</span> : null}
@@ -347,15 +292,6 @@ export default function App() {
           <button
             type="button"
             className="text-btn"
-            onClick={() =>
-              setSettings((s) => ({ ...s, displayLang: s.displayLang === "ja" ? "en" : "ja" }))
-            }
-          >
-            {settings.displayLang === "ja" ? "原文" : "日本語"}
-          </button>
-          <button
-            type="button"
-            className="text-btn"
             onClick={() => setTab((current) => (current === "settings" ? "stream" : "settings"))}
           >
             設定
@@ -365,16 +301,10 @@ export default function App() {
           </button>
         </div>
       </header>
-      <div className="subhead">
+      <div className="subhead notranslate" translate="no">
         {busy || status ? <div className="banner">{status || "処理中…"}</div> : null}
         <div className="picker-bar">
-          <EmailPicker
-            emails={sorted}
-            selectedId={selectedId}
-            displayLang={settings.displayLang}
-            translatedSubjects={translatedSubjects}
-            onSelect={selectEmail}
-          />
+          <EmailPicker emails={sorted} selectedId={selectedId} onSelect={selectEmail} />
         </div>
       </div>
 
@@ -385,7 +315,7 @@ export default function App() {
         >
           <section ref={streamRef} className="stream">
             {error ? (
-              <pre className="error">
+              <pre className="error notranslate" translate="no">
                 {error}
               </pre>
             ) : null}
@@ -393,17 +323,12 @@ export default function App() {
               emails={sorted}
               records={records}
               selectedId={selectedId}
-              displayLang={settings.displayLang}
-              translatedSubjects={translatedSubjects}
-              translatedBodies={{}}
-              translatedHtml={translatedHtml}
-              translatingId={translatingId}
               onSelect={selectEmail}
               onToggleRead={toggleRead}
             />
           </section>
         </main>
-        <aside className="panel settings-panel">
+        <aside className="panel settings-panel notranslate" translate="no">
           <SettingsPanel
             connection={connection}
             settings={settings}
@@ -418,7 +343,7 @@ export default function App() {
         </aside>
       </div>
 
-      <nav className="tabs">
+      <nav className="tabs notranslate" translate="no">
         <button type="button" className={tab === "stream" ? "active" : ""} onClick={() => setTab("stream")}>
           ストリーム
         </button>

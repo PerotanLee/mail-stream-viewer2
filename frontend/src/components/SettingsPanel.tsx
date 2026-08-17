@@ -136,16 +136,9 @@ export function SettingsPanel({
           onChange={(e) => onSettings({ ...settings, zoom: Number(e.target.value) })}
         />
       </label>
-      <label>
-        本文の既定表示
-        <select
-          value={settings.displayLang}
-          onChange={(e) => onSettings({ ...settings, displayLang: e.target.value === "en" ? "en" : "ja" })}
-        >
-          <option value="ja">日本語訳</option>
-          <option value="en">原文</option>
-        </select>
-      </label>
+      <p className="hint">
+        本文は英語のまま表示します。Chrome / Edge / Safari のページ翻訳を日本語にしてください。操作ボタンは翻訳しません。
+      </p>
       <button type="button" className="text-btn primary" onClick={onSaveSettings} disabled={busy}>
         設定を GitHub に保存
       </button>

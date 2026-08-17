@@ -59,7 +59,8 @@ export function PageDownButton({ streamRef, pos, onPos }: Props) {
   return (
     <button
       type="button"
-      className="page-down"
+      className="page-down notranslate"
+      translate="no"
       style={{ left, top }}
       onPointerDown={onPointerDown}
       onPointerMove={onPointerMove}

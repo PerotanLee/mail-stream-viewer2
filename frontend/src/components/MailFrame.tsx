@@ -1,4 +1,4 @@
-import { useEffect, useRef } from "react";
+import { useMemo } from "react";
 import { sanitizeHtml } from "../sanitize";
 
 type Props = {
@@ -7,48 +7,113 @@ type Props = {
 };
 
 export function MailFrame({ html, title }: Props) {
-  const frameRef = useRef<HTMLIFrameElement>(null);
-  const srcDoc = wrapHtml(sanitizeHtml(html));
-
-  function resize() {
-    const frame = frameRef.current;
-    const doc = frame?.contentDocument;
-    if (!frame || !doc?.documentElement) return;
-    const height = Math.max(doc.documentElement.scrollHeight, doc.body?.scrollHeight ?? 0, 240);
-    frame.style.height = `${height}px`;
-  }
-
-  useEffect(() => {
-    const timer = window.setInterval(resize, 700);
-    const stop = window.setTimeout(() => window.clearInterval(timer), 10000);
-    return () => {
-      window.clearInterval(timer);
-      window.clearTimeout(stop);
-    };
-  }, [srcDoc]);
+  const inner = useMemo(() => toInlineMail(sanitizeHtml(html)), [html]);
 
   return (
-    <iframe
-      ref={frameRef}
-      className="mail-frame"
+    <div
+      className="mail-html"
+      lang="en"
+      translate="yes"
       title={title}
-      sandbox="allow-same-origin allow-popups allow-popups-to-escape-sandbox"
-      referrerPolicy="no-referrer-when-downgrade"
-      srcDoc={srcDoc}
-      onLoad={resize}
+      dangerouslySetInnerHTML={{ __html: inner }}
     />
   );
 }
 
-function wrapHtml(html: string): string {
-  const trimmed = html.trim();
-  const hasRoot = /<html[\s>]/i.test(trimmed);
-  const extra = `<style>img{max-width:100%;height:auto;}body{margin:0;}</style>`;
-  if (hasRoot) {
-    if (/<\/head>/i.test(trimmed)) {
-      return trimmed.replace(/<\/head>/i, `${extra}</head>`);
+function toInlineMail(html: string): string {
+  const doc = new DOMParser().parseFromString(html, "text/html");
+  doc.querySelectorAll("script, iframe, object, embed, form, link").forEach((node) => node.remove());
+  doc.querySelectorAll("a[href]").forEach((anchor) => {
+    anchor.setAttribute("target", "_blank");
+    anchor.setAttribute("rel", "noopener noreferrer");
+  });
+
+  const styles = [...doc.querySelectorAll("style")]
+    .map((node) => prefixCss(node.textContent || "", ".mail-html"))
+    .filter(Boolean)
+    .join("\n");
+  doc.querySelectorAll("style").forEach((node) => node.remove());
+
+  const body = doc.body?.innerHTML?.trim() || html;
+  return (styles ? `<style>${styles}</style>` : "") + body;
+}
+
+function prefixCss(css: string, prefix: string): string {
+  const parts: string[] = [];
+  let i = 0;
+  while (i < css.length) {
+    if (css.startsWith("/*", i)) {
+      const end = css.indexOf("*/", i + 2);
+      i = end < 0 ? css.length : end + 2;
+      continue;
     }
-    return extra + trimmed;
+    const open = css.indexOf("{", i);
+    if (open < 0) break;
+    const selector = css.slice(i, open).trim();
+    if (!selector) {
+      i = open + 1;
+      continue;
+    }
+    if (
+      selector.startsWith("@media") ||
+      selector.startsWith("@supports") ||
+      selector.startsWith("@container")
+    ) {
+      const close = matchingBrace(css, open);
+      const inner = css.slice(open + 1, close);
+      parts.push(`${selector}{${prefixCss(inner, prefix)}}`);
+      i = close + 1;
+      continue;
+    }
+    if (
+      selector.startsWith("@keyframes") ||
+      selector.startsWith("@-") ||
+      selector.startsWith("@font-face") ||
+      selector.startsWith("@import") ||
+      selector.startsWith("@charset") ||
+      selector.startsWith("@layer")
+    ) {
+      const close = matchingBrace(css, open);
+      parts.push(css.slice(i, close + 1).trim());
+      i = close + 1;
+      continue;
+    }
+    const close = css.indexOf("}", open);
+    if (close < 0) break;
+    const body = css.slice(open + 1, close);
+    const prefixed = selector
+      .split(",")
+      .map((item) => prefixSelector(item.trim(), prefix))
+      .filter(Boolean)
+      .join(", ");
+    parts.push(`${prefixed}{${body}}`);
+    i = close + 1;
   }
-  return `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">${extra}</head><body>${trimmed}</body></html>`;
+  return parts.join("\n");
+}
+
+function matchingBrace(css: string, open: number): number {
+  let depth = 1;
+  for (let i = open + 1; i < css.length; i++) {
+    if (css.startsWith("/*", i)) {
+      const end = css.indexOf("*/", i + 2);
+      i = end < 0 ? css.length : end + 1;
+      continue;
+    }
+    if (css[i] === "{") depth += 1;
+    else if (css[i] === "}") {
+      depth -= 1;
+      if (depth === 0) return i;
+    }
+  }
+  return css.length - 1;
+}
+
+function prefixSelector(selector: string, prefix: string): string {
+  if (!selector) return selector;
+  if (selector.startsWith(prefix)) return selector;
+  if (/^(html|body|:root)$/i.test(selector)) return prefix;
+  const replaced = selector.replace(/^(html|body|:root)(?=[\s>+~.#:[*]|$)/i, prefix);
+  if (replaced.startsWith(prefix)) return replaced;
+  return `${prefix} ${selector}`;
 }
