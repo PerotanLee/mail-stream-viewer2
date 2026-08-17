@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5523 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:53:45.942172+00:00",
-  "added": 12,
+  "updated_at": "2026-08-17T06:53:46.954807+00:00",
+  "added": 13,
   "skipped": 612,
   "scanned": 625,
   "scan_total": 0,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "⏳ The aging effect",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 12
+    "axios": 13
   }
 }
