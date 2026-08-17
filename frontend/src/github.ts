@@ -278,13 +278,19 @@ export async function waitForFetchRun(
         }
         return run;
       }
-      onStatus(run.status === "in_progress" ? "取得中…" : "キュー待ち…");
+      onStatus(
+        run.status === "in_progress"
+          ? `GitHub Actions で取得中… ${Math.floor((Date.now() - startedAt) / 1000)}秒`
+          : `キュー待ち… ${Math.floor((Date.now() - startedAt) / 1000)}秒`,
+      );
     } else {
       onStatus("ワークフロー起動を待っています…");
     }
     await new Promise((resolve) => setTimeout(resolve, 3000));
   }
-  throw new Error("メール取得がタイムアウトしました");
+  throw new Error(
+    "メール取得がタイムアウトしました。GitHub Actions の実行が長引いています。ページを再読み込みすると、完了済みなら一覧が出ます。",
+  );
 }
 
 export async function describeFetchFailure(connection: Connection, run: WorkflowRun): Promise<string> {

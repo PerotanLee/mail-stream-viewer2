@@ -86,17 +86,20 @@ export default function App() {
 
   const loadBodies = useCallback(async (conn: Connection, items: EmailIndexItem[]) => {
     const latest = items.slice(0, 40);
-    const loaded: Record<string, EmailRecord> = {};
-    await Promise.all(
-      latest.map(async (item) => {
-        try {
-          loaded[item.id] = await loadEmail(conn, item.file);
-        } catch {
-          // keep list usable even if one body file is missing
-        }
-      }),
-    );
-    setRecords((prev) => ({ ...prev, ...loaded }));
+    for (let i = 0; i < latest.length; i += 5) {
+      const batch = latest.slice(i, i + 5);
+      const loaded: Record<string, EmailRecord> = {};
+      await Promise.all(
+        batch.map(async (item) => {
+          try {
+            loaded[item.id] = await loadEmail(conn, item.file);
+          } catch {
+            // keep list usable even if one body file is missing
+          }
+        }),
+      );
+      setRecords((prev) => ({ ...prev, ...loaded }));
+    }
   }, []);
 
   useEffect(() => {
@@ -107,7 +110,10 @@ export default function App() {
       setError("");
       try {
         const items = await refreshData(conn);
-        if (!cancelled) await loadBodies(conn, items);
+        if (!cancelled) {
+          setBusy(false);
+          await loadBodies(conn, items);
+        }
       } catch (err) {
         if (!cancelled) {
           setError(explain(err));
@@ -254,9 +260,10 @@ export default function App() {
     try {
       await triggerFetch(connection);
       await waitForFetchRun(connection, startedAt, setStatus);
-      setStatus("取得結果を読み込み中…");
-      await new Promise((resolve) => setTimeout(resolve, 1500));
+      setStatus("一覧を読み込み中…");
       const items = await refreshData(connection);
+      setBusy(false);
+      setStatus("本文を読み込み中…");
       await loadBodies(connection, items);
       setStatus("最新のメールを取り込みました");
       setTab("stream");
@@ -324,6 +331,7 @@ export default function App() {
           </button>
         </div>
       </header>
+      {busy || status ? <div className="banner">{status || "処理中…"}</div> : null}
 
       <div className={workspaceClass}>
         <aside className="panel list-panel">
@@ -356,7 +364,6 @@ export default function App() {
               onToggleRead={toggleRead}
             />
           </section>
-          {busy ? <div className="overlay">読み込み中…</div> : null}
         </main>
         <aside className="panel settings-panel">
           <SettingsPanel

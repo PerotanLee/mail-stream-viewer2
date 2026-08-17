@@ -35,7 +35,8 @@ LAST_RUN_PATH = DATA_DIR / "last-run.json"
 TRANSLATE_CHUNK = 4000
 TRANSLATE_LIMIT = 20000
 MAX_AGE = timedelta(days=7)
-OLD_STREAK_STOP = 40
+OLD_STREAK_STOP = 15
+MAX_SCAN = 200
 poplib._MAXLINE = 20 * 1024 * 1024
 
 
@@ -237,10 +238,7 @@ def parse_uidl(pop: poplib.POP3) -> list[tuple[int, str]]:
 
 
 def fetch_headers(pop: poplib.POP3, num: int) -> EmailMessage:
-    try:
-        _resp, lines, _octets = pop.top(num, 0)
-    except poplib.error_proto:
-        _resp, lines, _octets = pop.retr(num)
+    _resp, lines, _octets = pop.top(num, 0)
     raw = b"\r\n".join(lines)
     return BytesParser(policy=policy.default).parsebytes(raw)
 
@@ -280,9 +278,10 @@ def main() -> int:
         step = "UIDL一覧"
         listings = parse_uidl(pop)
         extra["server_count"] = len(listings)
-        log(f"server has {len(listings)} messages; scanning newest first")
+        newest = listings[-MAX_SCAN:]
+        log(f"server has {len(listings)} messages; scanning newest {len(newest)}")
 
-        for num, uid in reversed(listings):
+        for num, uid in reversed(newest):
             if uid in known or uid in seen:
                 skipped += 1
                 continue
@@ -322,17 +321,14 @@ def main() -> int:
             subject = decode_mime_header(msg.get("Subject"))
             date = decode_mime_header(msg.get("Date"))
             body_text, body_html = get_body(msg)
-            step = f"翻訳 subject={subject[:80]}"
-            subject_ja = translate_en_ja(subject)
-            body_text_ja = translate_en_ja(body_text)
             record = {
                 "uid": uid,
                 "from_addr": from_addr,
                 "subject": subject,
-                "subject_ja": subject_ja,
+                "subject_ja": "",
                 "date": date,
                 "body_text": body_text,
-                "body_text_ja": body_text_ja,
+                "body_text_ja": "",
                 "body_html": body_html,
                 "is_read": False,
             }
@@ -344,7 +340,7 @@ def main() -> int:
                     "uid": uid,
                     "from_addr": from_addr,
                     "subject": subject,
-                    "subject_ja": subject_ja,
+                    "subject_ja": "",
                     "date": date,
                     "is_read": False,
                     "file": filename,
@@ -354,10 +350,6 @@ def main() -> int:
             seen.add(uid)
             added += 1
             log(f"saved uid={uid[:24]} from={from_addr} date={date}")
-
-        for _num, uid in listings:
-            if uid not in known and uid not in seen:
-                seen.add(uid)
 
         extra["added"] = added
         extra["skipped"] = skipped
