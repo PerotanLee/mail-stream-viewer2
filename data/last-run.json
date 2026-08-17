@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=5308 from=Axios Closer <closer@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:55:04.486291+00:00",
+  "updated_at": "2026-08-17T06:55:22.187072+00:00",
   "added": 18,
-  "skipped": 779,
-  "scanned": 797,
+  "skipped": 821,
+  "scanned": 840,
   "scan_total": 0,
-  "current": "🧢 Axios Finish Line: Hat in hand",
+  "current": "Axios Closer <closer@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 18
