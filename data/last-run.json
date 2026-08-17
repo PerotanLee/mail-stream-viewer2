@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
-  "phase": "retr",
+  "step": "ヘッダー取得 num=4830",
+  "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:58:52.490320+00:00",
+  "updated_at": "2026-08-17T06:59:12.613402+00:00",
   "added": 42,
-  "skipped": 1224,
-  "scanned": 1266,
+  "skipped": 1275,
+  "scanned": 1318,
   "scan_total": 0,
-  "current": "🏛️ Axios AM: Warsh's new Fed",
+  "current": "ヘッダー確認 #4830",
   "added_by_filter": {
     "wsj": 0,
     "axios": 42
