@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=5043 from=Mike Allen <mike@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:57:25.289691+00:00",
+  "updated_at": "2026-08-17T06:57:32.769251+00:00",
   "added": 33,
-  "skipped": 1053,
-  "scanned": 1086,
+  "skipped": 1071,
+  "scanned": 1105,
   "scan_total": 0,
-  "current": "📈 The great chipflation",
+  "current": "Mike Allen <mike@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 33
