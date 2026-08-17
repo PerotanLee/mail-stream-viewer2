@@ -124,7 +124,7 @@ export function SettingsPanel({
           placeholder="alerts@example.com"
         />
         <span className="hint">
-          From に含まれる文字列だけを、最初から対象にします。カンマ区切りで複数可。空だと取得しません。直近1週間の未読のみ読み込みます。
+          From に含まれる文字列だけを、最初から対象にします。半角カンマ区切りで複数可（例: wsj, alerts@example.com）。空だと取得しません。直近1週間の未読のみ読み込みます。保存したあと「更新」が必要です。
         </span>
       </label>
       <label>

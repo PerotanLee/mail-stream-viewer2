@@ -181,8 +181,12 @@ def uid_filename(uid: str) -> str:
     return f"{digest}.json"
 
 
+def filter_parts(filt: str) -> list[str]:
+    return [part.strip().lower() for part in re.split(r"[,、，;；]+", filt or "") if part.strip()]
+
+
 def sender_matches(from_addr: str, filt: str) -> bool:
-    parts = [p.strip().lower() for p in filt.split(",") if p.strip()]
+    parts = filter_parts(filt)
     if not parts:
         return False
     haystack = from_addr.lower()
@@ -221,8 +225,7 @@ def prune_index(
         from_addr = str(item.get("from_addr") or "")
         dt = message_time(str(item.get("date") or ""))
         too_old = dt is not None and dt < cutoff
-        wrong_sender = not sender_matches(from_addr, sender_filter)
-        if too_old or wrong_sender:
+        if too_old:
             if uid:
                 seen.add(uid)
             filename = str(item.get("file") or "")
@@ -230,6 +233,8 @@ def prune_index(
                 path = EMAILS_DIR / filename
                 if path.exists():
                     path.unlink()
+            continue
+        if not sender_matches(from_addr, sender_filter):
             continue
         kept.append(item)
     return kept
@@ -386,10 +391,12 @@ def main() -> int:
         write_run_report(ok=False, running=True, step=step, phase="setup", extra=extra, force=True)
         settings = load_json(SETTINGS_PATH, {"senderFilter": "", "zoom": 100, "displayLang": "ja"})
         sender_filter = str(settings.get("senderFilter") or "")
-        if not sender_filter.strip():
+        parts = filter_parts(sender_filter)
+        if not parts:
             log("senderFilter is empty; skip fetch")
             write_run_report(ok=True, step="送信元フィルタが空のため取得スキップ", phase="skip", extra=extra, force=True)
             return 0
+        log(f"sender filter parts={parts}")
 
         index = load_json(INDEX_PATH, {"emails": []})
         emails: list[dict[str, Any]] = list(index.get("emails") or [])
@@ -418,10 +425,10 @@ def main() -> int:
             extra["scanned"] = int(extra.get("scanned") or 0) + 1
             extra["added"] = added
             extra["skipped"] = skipped
-            if uid in known or uid in seen:
+            if uid in known:
                 skipped += 1
                 extra["skipped"] = skipped
-                extra["current"] = "既読または取得済みをスキップ"
+                extra["current"] = "取得済みをスキップ"
                 write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
                 continue
             step = f"ヘッダー取得 num={num}"
@@ -438,10 +445,9 @@ def main() -> int:
 
             from_addr = extract_addresses(headers)
             if not sender_matches(from_addr, sender_filter):
-                seen.add(uid)
                 skipped += 1
                 extra["skipped"] = skipped
-                extra["current"] = "送信元フィルタ外をスキップ"
+                extra["current"] = f"送信元フィルタ外 {from_addr}"
                 write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
                 continue
 

@@ -39,11 +39,15 @@ function isWithinWeek(item: EmailIndexItem): boolean {
   return value > 0 && Date.now() - value <= WEEK_MS;
 }
 
-function senderMatches(fromAddr: string, filter: string): boolean {
-  const parts = filter
-    .split(",")
+function senderParts(filter: string): string[] {
+  return filter
+    .split(/[,、，;；]+/)
     .map((part) => part.trim().toLowerCase())
     .filter(Boolean);
+}
+
+function senderMatches(fromAddr: string, filter: string): boolean {
+  const parts = senderParts(filter);
   if (!parts.length) return false;
   const haystack = (fromAddr || "").toLowerCase();
   return parts.some((part) => haystack.includes(part));
