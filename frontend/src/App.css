@@ -184,11 +184,25 @@
   margin: 0 0 0.8em;
 }
 
-.empty,
-.error {
+.empty {
   padding: 32px 20px;
   color: var(--muted);
   line-height: 1.7;
+}
+
+.error {
+  margin: 0 0 16px;
+  padding: 16px;
+  color: #7f1d1d;
+  background: #fff1f2;
+  border: 1px solid #fecdd3;
+  border-radius: 12px;
+  white-space: pre-wrap;
+  overflow: auto;
+  max-height: 40vh;
+  font-size: 13px;
+  line-height: 1.6;
+  font-family: ui-monospace, "Cascadia Code", Consolas, monospace;
 }
 
 .settings {

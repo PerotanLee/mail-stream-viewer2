@@ -229,6 +229,31 @@ type WorkflowRun = {
   html_url: string;
 };
 
+export class FetchRunError extends Error {
+  run: WorkflowRun;
+  constructor(run: WorkflowRun) {
+    super(`メール取得に失敗しました（${run.conclusion}）`);
+    this.run = run;
+  }
+}
+
+type JobStep = {
+  name: string;
+  conclusion: string | null;
+  number: number;
+};
+
+type LastRunReport = {
+  ok?: boolean;
+  step?: string;
+  error?: string;
+  traceback?: string;
+  finished_at?: string;
+  added?: number;
+  skipped?: number;
+  server_count?: number;
+};
+
 export async function waitForFetchRun(
   connection: Connection,
   startedAt: number,
@@ -249,7 +274,7 @@ export async function waitForFetchRun(
     if (run) {
       if (run.status === "completed") {
         if (run.conclusion !== "success") {
-          throw new Error(`メール取得に失敗しました（${run.conclusion}）`);
+          throw new FetchRunError(run);
         }
         return run;
       }
@@ -260,4 +285,43 @@ export async function waitForFetchRun(
     await new Promise((resolve) => setTimeout(resolve, 3000));
   }
   throw new Error("メール取得がタイムアウトしました");
+}
+
+export async function describeFetchFailure(connection: Connection, run: WorkflowRun): Promise<string> {
+  const lines: string[] = [
+    `場所: GitHub Actions（Fetch mail）`,
+    `結果: ${run.conclusion}`,
+    `ログ: ${run.html_url}`,
+  ];
+
+  try {
+    const res = await githubFetch(
+      connection,
+      `/repos/${connection.owner}/${connection.repo}/actions/runs/${run.id}/jobs`,
+    );
+    const payload = (await res.json()) as { jobs?: { name: string; steps?: JobStep[] }[] };
+    const failed = (payload.jobs ?? []).flatMap((job) =>
+      (job.steps ?? [])
+        .filter((step) => step.conclusion === "failure")
+        .map((step) => `${job.name} / ${step.name}`),
+    );
+    if (failed.length) {
+      lines.push(`失敗ステップ: ${failed.join(", ")}`);
+    }
+  } catch {
+    // job details are optional
+  }
+
+  try {
+    await new Promise((resolve) => setTimeout(resolve, 1500));
+    const { data } = await readJsonFile<LastRunReport>(connection, "data/last-run.json");
+    if (data.step) lines.push(`処理中の場所: ${data.step}`);
+    if (data.error) lines.push(`内容: ${data.error}`);
+    if (typeof data.server_count === "number") lines.push(`サーバー上の通数: ${data.server_count}`);
+    if (data.traceback) lines.push("", data.traceback.trim());
+  } catch {
+    lines.push("詳細ファイル data/last-run.json はまだ読めません。Actions のログを開いてください。");
+  }
+
+  return lines.join("\n");
 }

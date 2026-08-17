@@ -5,6 +5,8 @@ import { PageDownButton } from "./components/PageDownButton";
 import { SettingsPanel } from "./components/SettingsPanel";
 import {
   GitHubError,
+  FetchRunError,
+  describeFetchFailure,
   loadEmail,
   loadIndex,
   loadSettings,
@@ -259,7 +261,16 @@ export default function App() {
       setStatus("最新のメールを取り込みました");
       setTab("stream");
     } catch (err) {
-      setError(explain(err));
+      let detail = explain(err);
+      if (err instanceof FetchRunError) {
+        try {
+          detail = await describeFetchFailure(connection, err.run);
+        } catch (inner) {
+          detail = `${explain(err)}\n${explain(inner)}`;
+        }
+      }
+      setError(detail);
+      console.error(detail, err);
     } finally {
       setBusy(false);
     }
@@ -329,7 +340,11 @@ export default function App() {
           style={{ ["--zoom" as string]: String(settings.zoom / 100) }}
         >
           <section ref={streamRef} className="stream">
-            {error ? <p className="error">{error}</p> : null}
+            {error ? (
+              <pre className="error">
+                {error}
+              </pre>
+            ) : null}
             <EmailStream
               emails={sorted}
               records={records}
