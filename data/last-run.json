@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5282 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:55:39.443844+00:00",
-  "added": 22,
+  "updated_at": "2026-08-17T06:55:40.490615+00:00",
+  "added": 23,
   "skipped": 843,
   "scanned": 866,
   "scan_total": 0,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "💼 C-suite AI use",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 22
+    "axios": 23
   }
 }
