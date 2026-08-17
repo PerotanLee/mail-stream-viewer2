@@ -5,11 +5,11 @@
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:34:57.826275+00:00",
+  "updated_at": "2026-08-17T06:35:01.842504+00:00",
   "added": 0,
-  "skipped": 31,
+  "skipped": 47,
   "server_count": 6146,
-  "scanned": 31,
+  "scanned": 47,
   "scan_total": 200,
-  "current": "送信元フィルタ外 Makuake新着お知らせ <noreply@mail.makuake.co.jp>"
+  "current": "送信元フィルタ外 OMAKASE byGMO <noreply@email.omakase.in>"
 }
