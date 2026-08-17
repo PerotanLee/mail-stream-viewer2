@@ -286,28 +286,19 @@ function isCurrentProgress(report: LastRunReport | null, startedAt: number): boo
 function messageFromProgress(report: LastRunReport, startedAt: number): string {
   const elapsed = elapsedLabel(startedAt);
   const scanned = report.scanned ?? 0;
-  const total = report.scan_total ?? 0;
   const added = report.added ?? 0;
   const skipped = report.skipped ?? 0;
-  const server = report.server_count ?? 0;
   const current = (report.current || "").trim().slice(0, 40);
   const phase = report.phase || "";
 
   if (phase === "setup") return `取得の準備をしています…${elapsed}`;
   if (phase === "connect") return `メールサーバに接続しています…${elapsed}`;
-  if (phase === "uidl") {
-    return server
-      ? `サーバ上のメール一覧を取得しました（${server}通）。確認を開始します…${elapsed}`
-      : `サーバ上のメール一覧を取得しています…${elapsed}`;
-  }
   if (phase === "retr") {
-    const where = total ? ` ${scanned}/${total}` : "";
     const what = current ? ` ${current}` : "";
-    return `本文をダウンロードしています${where}（新規 ${added}通）${what}${elapsed}`;
+    return `本文をダウンロードしています（新規 ${added}通）${what}${elapsed}`;
   }
   if (phase === "save") return `新規 ${added}通を保存しています…${elapsed}`;
-  if (phase === "scan" || scanned || total) {
-    const where = total ? `${scanned}/${total}` : `${scanned}`;
+  if (phase === "scan" || scanned) {
     const hint = current ? ` ${current}` : "";
     const byFilter = report.added_by_filter
       ? " " +
@@ -315,7 +306,7 @@ function messageFromProgress(report: LastRunReport, startedAt: number): string {
           .map(([key, count]) => `${key}:${count}`)
           .join(" ")
       : "";
-    return `ヘッダー確認 ${where}（新規 ${added}${byFilter} / スキップ ${skipped}）${hint}${elapsed}`;
+    return `フィルタ確認 ${scanned}通（新規 ${added}${byFilter} / 対象外 ${skipped}）${hint}${elapsed}`;
   }
   return `メールサーバに接続しています…${elapsed}`;
 }
@@ -433,7 +424,6 @@ export async function describeFetchFailure(connection: Connection, run: Workflow
     const { data } = await readJsonFile<LastRunReport>(connection, "data/last-run.json");
     if (data.step) lines.push(`処理中の場所: ${data.step}`);
     if (data.error) lines.push(`内容: ${data.error}`);
-    if (typeof data.server_count === "number") lines.push(`サーバー上の通数: ${data.server_count}`);
     if (data.traceback) lines.push("", data.traceback.trim());
   } catch {
     lines.push("詳細ファイル data/last-run.json はまだ読めません。Actions のログを開いてください。");

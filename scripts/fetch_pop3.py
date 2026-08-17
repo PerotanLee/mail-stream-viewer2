@@ -38,7 +38,7 @@ TRANSLATE_LIMIT = 20000
 MAX_AGE = timedelta(days=7)
 OLD_STREAK_STOP = 15
 MAX_SCAN = 2500
-PROGRESS_INTERVAL_SEC = 10
+PROGRESS_INTERVAL_SEC = 20
 poplib._MAXLINE = 20 * 1024 * 1024
 
 
@@ -157,10 +157,10 @@ def write_run_report(
         payload["finished_at"] = now
     if extra:
         payload.update(extra)
-    write_json(LAST_RUN_PATH, payload)
     elapsed = time.time() - _last_publish
     if running and not force and elapsed < PROGRESS_INTERVAL_SEC:
         return
+    write_json(LAST_RUN_PATH, payload)
     _last_publish = time.time()
     try:
         publish_progress_remote(payload)
@@ -354,14 +354,12 @@ def connect_pop3() -> poplib.POP3:
     return pop
 
 
-def parse_uidl(pop: poplib.POP3) -> list[tuple[int, str]]:
-    _resp, items, _octets = pop.uidl()
-    result: list[tuple[int, str]] = []
-    for item in items:
-        line = item.decode("utf-8", errors="replace").strip()
-        num_str, uid = line.split(None, 1)
-        result.append((int(num_str), uid))
-    return result
+def uidl_one(pop: poplib.POP3, num: int) -> str:
+    resp = pop.uidl(num)
+    line = resp.decode("utf-8", errors="replace") if isinstance(resp, (bytes, bytearray)) else str(resp)
+    line = line.replace("+OK", "", 1).strip()
+    _num, uid = line.split(None, 1)
+    return uid
 
 
 def fetch_headers(pop: poplib.POP3, num: int) -> EmailMessage:
@@ -381,7 +379,6 @@ def main() -> int:
     extra: dict[str, Any] = {
         "added": 0,
         "skipped": 0,
-        "server_count": 0,
         "scanned": 0,
         "scan_total": 0,
         "current": "",
@@ -418,16 +415,11 @@ def main() -> int:
         old_streak = 0
         added_by_filter = {part: 0 for part in parts}
 
-        step = "UIDL一覧"
-        write_run_report(ok=False, running=True, step=step, phase="uidl", extra=extra, force=True)
-        listings = parse_uidl(pop)
-        extra["server_count"] = len(listings)
-        newest = listings[-MAX_SCAN:]
-        extra["scan_total"] = len(newest)
-        log(
-            f"server has {len(listings)} messages; scanning newest {len(newest)} until 7-day-old streak"
-        )
-        write_run_report(ok=False, running=True, step=step, phase="uidl", extra=extra, force=True)
+        step = "フィルタ開始"
+        write_run_report(ok=False, running=True, step=step, phase="scan", extra=extra, force=True)
+        newest_num, _octets = pop.stat()
+        stop_at = max(1, newest_num - MAX_SCAN + 1)
+        log(f"filter newest-first from {newest_num} to {stop_at}, no full mailbox listing")
 
         def note_old(dt: datetime | None) -> bool:
             nonlocal old_streak
@@ -439,11 +431,18 @@ def main() -> int:
             old_streak = 0
             return False
 
-        for num, uid in reversed(newest):
+        for num in range(newest_num, stop_at - 1, -1):
             extra["scanned"] = int(extra.get("scanned") or 0) + 1
             extra["added"] = added
             extra["skipped"] = skipped
             extra["added_by_filter"] = added_by_filter
+            try:
+                uid = uidl_one(pop, num)
+            except poplib.error_proto as exc:
+                log(f"skip num={num} uidl error: {exc}")
+                skipped += 1
+                extra["skipped"] = skipped
+                continue
             if uid in known:
                 skip_known += 1
                 skipped += 1
@@ -560,7 +559,7 @@ def main() -> int:
         log(
             f"done added={added} by_filter={added_by_filter} "
             f"skip_known={skip_known} skip_sender={skip_sender} skip_old={skip_old} "
-            f"scanned={extra.get('scanned')} server={len(listings)}"
+            f"scanned={extra.get('scanned')}"
         )
         return 0
     except Exception as exc:
