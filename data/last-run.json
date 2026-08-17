@@ -5,12 +5,12 @@
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:49:56.955230+00:00",
+  "updated_at": "2026-08-17T06:50:17.125600+00:00",
   "added": 0,
-  "skipped": 101,
-  "scanned": 101,
+  "skipped": 153,
+  "scanned": 153,
   "scan_total": 0,
-  "current": "送信元フィルタ外 QUICK Money World <noreply@moneyworld.jp>",
+  "current": "送信元フィルタ外 BEAMS <mail@club.beams.co.jp>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 0
