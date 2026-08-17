@@ -299,14 +299,13 @@ function messageFromProgress(report: LastRunReport, startedAt: number): string {
   }
   if (phase === "save") return `新規 ${added}通を保存しています…${elapsed}`;
   if (phase === "scan" || scanned) {
-    const hint = current ? ` ${current}` : "";
     const byFilter = report.added_by_filter
       ? " " +
         Object.entries(report.added_by_filter)
           .map(([key, count]) => `${key}:${count}`)
           .join(" ")
       : "";
-    return `フィルタ確認 ${scanned}通（新規 ${added}${byFilter} / 対象外 ${skipped}）${hint}${elapsed}`;
+    return `フィルタ確認 ${scanned}通（新規 ${added}${byFilter} / 対象外 ${skipped}）${elapsed}`;
   }
   return `メールサーバに接続しています…${elapsed}`;
 }

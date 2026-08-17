@@ -436,6 +436,41 @@ def main() -> int:
             extra["added"] = added
             extra["skipped"] = skipped
             extra["added_by_filter"] = added_by_filter
+            extra["current"] = f"対象外をスキップ中 {skip_sender}通" if skip_sender else "フィルタ中"
+            write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
+
+            step = f"ヘッダー取得 num={num}"
+            try:
+                headers = fetch_headers(pop, num)
+            except poplib.error_proto as exc:
+                log(f"skip num={num} header error: {exc}")
+                skipped += 1
+                extra["skipped"] = skipped
+                continue
+
+            msg_date = parse_message_date(headers)
+            if note_old(msg_date):
+                skip_old += 1
+                skipped += 1
+                extra["skipped"] = skipped
+                extra["current"] = "直近1週間を超えたため終了"
+                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra, force=True)
+                log(f"stop scan: {OLD_STREAK_STOP} consecutive messages older than 7 days")
+                break
+            if msg_date is not None and msg_date < cutoff:
+                skip_old += 1
+                skipped += 1
+                extra["skipped"] = skipped
+                continue
+
+            from_addr = extract_addresses(headers)
+            if not sender_matches(from_addr, sender_filter):
+                skip_sender += 1
+                skipped += 1
+                extra["skipped"] = skipped
+                extra["current"] = f"対象外をスキップ中 {skip_sender}通"
+                continue
+
             try:
                 uid = uidl_one(pop, num)
             except poplib.error_proto as exc:
@@ -448,50 +483,8 @@ def main() -> int:
                 skipped += 1
                 extra["skipped"] = skipped
                 extra["current"] = "取得済みをスキップ"
-                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
-                if note_old(message_time(str(known[uid].get("date") or ""))):
-                    log(f"stop scan: {OLD_STREAK_STOP} consecutive messages older than 7 days")
-                    break
-                continue
-            step = f"ヘッダー取得 num={num}"
-            extra["current"] = f"ヘッダー確認 #{num}"
-            write_run_report(ok=False, running=True, step=step, phase="scan", extra=extra)
-            try:
-                headers = fetch_headers(pop, num)
-            except poplib.error_proto as exc:
-                log(f"skip num={num} header error: {exc}")
-                seen.add(uid)
-                skipped += 1
-                extra["skipped"] = skipped
                 continue
 
-            msg_date = parse_message_date(headers)
-            if note_old(msg_date):
-                seen.add(uid)
-                skip_old += 1
-                skipped += 1
-                extra["skipped"] = skipped
-                extra["current"] = "7日より前のためスキャン終了"
-                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra, force=True)
-                log(f"stop scan: {OLD_STREAK_STOP} consecutive messages older than 7 days")
-                break
-            if msg_date is not None and msg_date < cutoff:
-                seen.add(uid)
-                skip_old += 1
-                skipped += 1
-                extra["skipped"] = skipped
-                extra["current"] = "7日より前のためスキップ"
-                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
-                continue
-
-            from_addr = extract_addresses(headers)
-            if not sender_matches(from_addr, sender_filter):
-                skip_sender += 1
-                skipped += 1
-                extra["skipped"] = skipped
-                extra["current"] = f"送信元フィルタ外 {from_addr}"
-                write_run_report(ok=False, running=True, step="スキャン", phase="scan", extra=extra)
-                continue
             step = f"本文取得 num={num} from={from_addr}"
             extra["current"] = from_addr
             write_run_report(ok=False, running=True, step=step, phase="retr", extra=extra, force=True)
