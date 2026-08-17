@@ -5,11 +5,11 @@
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:35:14.016704+00:00",
+  "updated_at": "2026-08-17T06:35:18.145667+00:00",
   "added": 0,
-  "skipped": 95,
+  "skipped": 112,
   "server_count": 6146,
-  "scanned": 95,
+  "scanned": 112,
   "scan_total": 200,
-  "current": "送信元フィルタ外 日経トレンディ電子版 <trendy@nikkeibp.co.jp>"
+  "current": "送信元フィルタ外 PRESIDENT NEWS <online@ma.president.jp>"
 }
