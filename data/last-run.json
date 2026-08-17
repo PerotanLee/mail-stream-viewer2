@@ -5,11 +5,11 @@
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:35:31.359949+00:00",
+  "updated_at": "2026-08-17T06:35:35.535612+00:00",
   "added": 2,
-  "skipped": 148,
+  "skipped": 165,
   "server_count": 6146,
-  "scanned": 150,
+  "scanned": 167,
   "scan_total": 200,
-  "current": "送信元フィルタ外 CAMPFIRE 話題のプロジェクト <news@camp-fire.jp>"
+  "current": "送信元フィルタ外 ヤマト運輸株式会社 <mail@kuronekoyamato.co.jp>"
 }
