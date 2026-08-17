@@ -1,6 +1,6 @@
 {
   "senderFilter": "wsj,axios",
-  "zoom": 110,
+  "zoom": 120,
   "displayLang": "ja",
   "pop3Host": "mbox.iij4u.or.jp",
   "pop3Port": "995",
