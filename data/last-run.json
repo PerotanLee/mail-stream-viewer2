@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "ヘッダー取得 num=5211",
+  "step": "スキャン",
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:56:14.318790+00:00",
+  "updated_at": "2026-08-17T06:56:34.386130+00:00",
   "added": 26,
-  "skipped": 910,
-  "scanned": 937,
+  "skipped": 960,
+  "scanned": 986,
   "scan_total": 0,
-  "current": "ヘッダー確認 #5211",
+  "current": "送信元フィルタ外 Smythson日本公式オンラインストア <smythson@look-member.jp>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 26
