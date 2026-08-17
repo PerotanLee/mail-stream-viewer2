@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=4941 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:58:17.091051+00:00",
-  "added": 35,
+  "updated_at": "2026-08-17T06:58:18.259742+00:00",
+  "added": 36,
   "skipped": 1171,
   "scanned": 1207,
   "scan_total": 0,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "💰 Nvidia's $500B funding play",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 35
+    "axios": 36
   }
 }
