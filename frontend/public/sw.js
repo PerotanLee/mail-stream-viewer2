@@ -1,4 +1,4 @@
-const CACHE = "msv2-shell-v11";
+const CACHE = "msv2-shell-v12";
 const SHELL = ["./index.html", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", (event) => {

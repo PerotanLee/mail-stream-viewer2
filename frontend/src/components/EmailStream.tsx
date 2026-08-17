@@ -37,18 +37,6 @@ export function EmailStream({ emails, records, selectedId, onSelect, onMarkRead 
                   {item.date ? ` · ${item.date}` : ""}
                 </div>
               </div>
-            <div className="card-actions notranslate" translate="no">
-                <button
-                  type="button"
-                  className="text-btn"
-                  onClick={(event) => {
-                    event.stopPropagation();
-                    onMarkRead(item.id);
-                  }}
-                >
-                  既読にする
-                </button>
-              </div>
             </div>
             {record ? (
               html ? (
@@ -61,6 +49,18 @@ export function EmailStream({ emails, records, selectedId, onSelect, onMarkRead 
             ) : (
               <div className="meta notranslate" translate="no">本文を読み込み中…</div>
             )}
+            <div className="card-actions notranslate" translate="no">
+              <button
+                type="button"
+                className="text-btn"
+                onClick={(event) => {
+                  event.stopPropagation();
+                  onMarkRead(item.id);
+                }}
+              >
+                既読にする
+              </button>
+            </div>
           </article>
         );
       })}
