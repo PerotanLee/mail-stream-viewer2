@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
-  "phase": "retr",
+  "step": "ヘッダー取得 num=5211",
+  "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:55:54.300983+00:00",
+  "updated_at": "2026-08-17T06:56:14.318790+00:00",
   "added": 26,
-  "skipped": 863,
-  "scanned": 889,
+  "skipped": 910,
+  "scanned": 937,
   "scan_total": 0,
-  "current": "✈️ Axios AM: Trump's great escape",
+  "current": "ヘッダー確認 #5211",
   "added_by_filter": {
     "wsj": 0,
     "axios": 26
