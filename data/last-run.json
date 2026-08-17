@@ -1,10 +1,15 @@
 {
-  "ok": true,
-  "step": "完了",
+  "ok": false,
+  "running": true,
+  "step": "設定読み込み",
+  "phase": "setup",
   "error": "",
   "traceback": "",
-  "finished_at": "2026-08-17T06:07:55.977143+00:00",
+  "updated_at": "2026-08-17T06:18:06.736845+00:00",
   "added": 0,
-  "skipped": 196,
-  "server_count": 6142
+  "skipped": 0,
+  "server_count": 0,
+  "scanned": 0,
+  "scan_total": 0,
+  "current": ""
 }
