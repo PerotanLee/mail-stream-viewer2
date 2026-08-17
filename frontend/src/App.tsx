@@ -23,6 +23,15 @@ import "./App.css";
 
 type Tab = "stream" | "settings";
 
+function mailTime(item: EmailIndexItem): number {
+  const value = Date.parse(item.date || "");
+  return Number.isNaN(value) ? 0 : value;
+}
+
+function byOldest(items: EmailIndexItem[]): EmailIndexItem[] {
+  return [...items].sort((a, b) => mailTime(a) - mailTime(b) || a.id.localeCompare(b.id));
+}
+
 const emptyConnection: Connection = {
   owner: "PerotanLee",
   repo: "mail-stream-viewer2",
@@ -57,14 +66,7 @@ export default function App() {
   const lastUiSync = useRef("");
   const streamRef = useRef<HTMLElement | null>(null);
 
-  const sorted = useMemo(
-    () =>
-      [...emails].sort((a, b) => {
-        if (a.is_read !== b.is_read) return a.is_read ? 1 : -1;
-        return (b.date || "").localeCompare(a.date || "");
-      }),
-    [emails],
-  );
+  const sorted = useMemo(() => byOldest(emails), [emails]);
 
   const refreshData = useCallback(
     async (conn: Connection) => {
@@ -76,7 +78,10 @@ export default function App() {
       setSettingsSha(sSha);
       lastUiSync.current = String(nextSettings.zoom);
       setEmails(index.emails);
-      setSelectedId((current) => current ?? index.emails[0]?.id ?? null);
+      setSelectedId((current) => {
+        if (current && index.emails.some((item) => item.id === current)) return current;
+        return byOldest(index.emails)[0]?.id ?? null;
+      });
       setIndexSha(iSha);
       return index.emails;
     },
@@ -84,11 +89,11 @@ export default function App() {
   );
 
   const loadBodies = useCallback(async (conn: Connection, items: EmailIndexItem[]) => {
-    const latest = items.slice(0, 40);
+    const ordered = byOldest(items);
     let loaded = 0;
-    setStatus(latest.length ? `メール本文を読み込み中 0/${latest.length}` : "");
-    for (let i = 0; i < latest.length; i += 5) {
-      const batch = latest.slice(i, i + 5);
+    setStatus(ordered.length ? `メール本文を読み込み中 0/${ordered.length}` : "");
+    for (let i = 0; i < ordered.length; i += 5) {
+      const batch = ordered.slice(i, i + 5);
       const fetched: Record<string, EmailRecord> = {};
       await Promise.all(
         batch.map(async (item) => {
@@ -101,7 +106,7 @@ export default function App() {
       );
       loaded += batch.length;
       setRecords((prev) => ({ ...prev, ...fetched }));
-      setStatus(`メール本文を読み込み中 ${Math.min(loaded, latest.length)}/${latest.length}`);
+      setStatus(`メール本文を読み込み中 ${Math.min(loaded, ordered.length)}/${ordered.length}`);
     }
   }, []);
 
@@ -159,7 +164,7 @@ export default function App() {
     setIndexSha(nextSha);
   }
 
-  async function selectEmail(id: string) {
+  async function selectEmail(id: string, scroll = false) {
     setSelectedId(id);
     setTab("stream");
     const current = emails.find((item) => item.id === id);
@@ -180,9 +185,12 @@ export default function App() {
         setError(explain(err));
       }
     }
-    window.requestAnimationFrame(() => {
-      document.getElementById(`mail-${id}`)?.scrollIntoView({ behavior: "smooth", block: "start" });
-    });
+    if (!scroll) return;
+    const stream = streamRef.current;
+    const card = document.getElementById(`mail-${id}`);
+    if (!stream || !card) return;
+    const top = card.getBoundingClientRect().top - stream.getBoundingClientRect().top + stream.scrollTop - 8;
+    stream.scrollTo({ top: Math.max(0, top) });
   }
 
   async function toggleRead(id: string, isRead: boolean) {
@@ -282,7 +290,7 @@ export default function App() {
     <div className="shell">
       <header className="topbar notranslate" translate="no">
         <div className="brand">メールストリーム</div>
-        <EmailPicker emails={sorted} selectedId={selectedId} onSelect={selectEmail} />
+        <EmailPicker emails={sorted} selectedId={selectedId} onSelect={(id) => selectEmail(id, true)} />
         <div className="topbar-actions">
           <div className="zoom-wrap">
             <button
@@ -332,7 +340,7 @@ export default function App() {
               emails={sorted}
               records={records}
               selectedId={selectedId}
-              onSelect={selectEmail}
+              onSelect={(id) => selectEmail(id, false)}
               onToggleRead={toggleRead}
             />
           </section>

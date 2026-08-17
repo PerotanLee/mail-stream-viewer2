@@ -24,9 +24,15 @@ function toInlineMail(html: string): string {
   const doc = new DOMParser().parseFromString(html, "text/html");
   doc.querySelectorAll("script, iframe, object, embed, form, link").forEach((node) => node.remove());
   doc.querySelectorAll("a[href]").forEach((anchor) => {
+    const href = anchor.getAttribute("href") || "";
+    if (href.startsWith("#") || href.trim() === "") {
+      anchor.removeAttribute("href");
+      return;
+    }
     anchor.setAttribute("target", "_blank");
     anchor.setAttribute("rel", "noopener noreferrer");
   });
+  doc.querySelectorAll("[autofocus]").forEach((node) => node.removeAttribute("autofocus"));
 
   const styles = [...doc.querySelectorAll("style")]
     .map((node) => prefixCss(node.textContent || "", ".mail-html"))
