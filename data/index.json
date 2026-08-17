@@ -1,3 +1,444 @@
 {
-  "emails": []
+  "emails": [
+    {
+      "id": "c7f53c848268b4cf83051e448c73967c5f6dcfbfb79a476d8239eee81a945ef5",
+      "uid": "401533.wxjgoGXIkPTQVEJG1BGQEkYF,+GiXopMM+QOdJLl5p4=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Healthcare Investing, Shadow Default Fears, Wine and Cheese Marathon",
+      "subject_ja": "WSJウェルス・アドバイザー・ブリーフィング: ヘルスケア投資、影のデフォルト不安、ワインとチーズのマラソン",
+      "date": "Wed, 12 Aug 2026 20:32:09 +1000",
+      "is_read": false,
+      "file": "c7f53c848268b4cf83051e448c73967c5f6dcfbfb79a476d8239eee81a945ef5.json"
+    },
+    {
+      "id": "3f7e99f190c4f3055ad72f23a4638d7c46b91c6d2a6dfa95c54f06186f550bf9",
+      "uid": "401624.mc+OQrraSTcpMQLvsWOuA,EHBAz7rr+U8RT5jEMEj,g=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: A Waterfront Home in a Gated Miami Beach Community Sells for $51.5 Million",
+      "subject_ja": "マンション取引アラート：ゲートで囲まれたマイアミビーチコミュニティのウォーターフロントの家が5,150万ドルで販売",
+      "date": "Wed, 12 Aug 2026 19:15:18 -0400",
+      "is_read": false,
+      "file": "3f7e99f190c4f3055ad72f23a4638d7c46b91c6d2a6dfa95c54f06186f550bf9.json"
+    },
+    {
+      "id": "ba6f513bcf3485ae86cf26a5d5798e0f1b95b1e676efd5266b56c1bad97d70d6",
+      "uid": "401477.NPvcPOL6dQAiDaCtLYlh64NPAR,D7KEuoDzHa1Dg6,c=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "subject_ja": "今日のウォール・ストリート・ジャーナル紙版",
+      "date": "Wed, 12 Aug 2026 17:09:50 +1000",
+      "is_read": false,
+      "file": "ba6f513bcf3485ae86cf26a5d5798e0f1b95b1e676efd5266b56c1bad97d70d6.json"
+    },
+    {
+      "id": "ee4fcc0c5dde0ede3bd1d705b2a47bf5b64f57ca6818b84a8d9390ee0270b7fa",
+      "uid": "401591.koN9PUup,pj+8AvozLHyhra6DKWeKnyt9mrFIZV+LE8=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Inflation Break",
+      "subject_ja": "インフレブレイク",
+      "date": "Wed, 12 Aug 2026 16:37:43 -0400",
+      "is_read": false,
+      "file": "ee4fcc0c5dde0ede3bd1d705b2a47bf5b64f57ca6818b84a8d9390ee0270b7fa.json"
+    },
+    {
+      "id": "e8e43d44a09bbf43cfea9a8c206d78f93460a47b17d16ed68f17b60bbb5f3218",
+      "uid": "401578.6ZBdvCUxDzWnDK+VtpxMJQR8JvhE7kriITFIDlQsG2g=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Ryanair Co-Founder’s Family Lists Kentucky Horse Farm for $57.5 Million",
+      "subject_ja": "マンション取引に関する警告：ライアンエア共同創設者の家族がケンタッキー競馬場を5,750万ドルで上場",
+      "date": "Wed, 12 Aug 2026 14:15:18 -0400",
+      "is_read": false,
+      "file": "e8e43d44a09bbf43cfea9a8c206d78f93460a47b17d16ed68f17b60bbb5f3218.json"
+    },
+    {
+      "id": "01fefb26febfb57f1273df3f7d2fdc772faeb628bba8039872c8976eec3b25c1",
+      "uid": "401566.bycZWegMruwsbJrRBPSmOkgLbItRFFk,8VfUJgJmsEU=",
+      "from_addr": "WSJ Real Estate <access@interactive.wsj.com>",
+      "subject": "The Bruising Race to Rent in San Francisco Gets Even Worse",
+      "subject_ja": "サンフランシスコの過酷な賃貸競争はさらに悪化",
+      "date": "Wed, 12 Aug 2026 10:06:06 -0400",
+      "is_read": false,
+      "file": "01fefb26febfb57f1273df3f7d2fdc772faeb628bba8039872c8976eec3b25c1.json"
+    },
+    {
+      "id": "4ce087d670a777a7dc0fa92870deb363dd43d79183c5d14156d80187c61a99d4",
+      "uid": "401537.gMqqYAMVhaX6jPwqhhod+2feobLKC2QFRmC+ca7WRAY=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: In Wisconsin, the Centrists Strike Back",
+      "subject_ja": "WSJ政治：ウィスコンシン州で中道派が反撃",
+      "date": "Wed, 12 Aug 2026 06:54:50 -0400",
+      "is_read": false,
+      "file": "4ce087d670a777a7dc0fa92870deb363dd43d79183c5d14156d80187c61a99d4.json"
+    },
+    {
+      "id": "4af37e5b726f51c764fa36806632cf2e667fa26b6c5fd2c3a9a28ffbab883fb0",
+      "uid": "401534.UDZny3xkwOHuX19jb,tQx8ov4OZMwv4Dz7ncwz9r4iI=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🎰 Markets A.M.: How the Bond Market Inflated Powerball",
+      "subject_ja": "🎰 Markets A.M.: 債券市場がパワーボールをどのように膨らませたか",
+      "date": "Wed, 12 Aug 2026 06:43:36 -0400",
+      "is_read": false,
+      "file": "4af37e5b726f51c764fa36806632cf2e667fa26b6c5fd2c3a9a28ffbab883fb0.json"
+    },
+    {
+      "id": "4dfe2a460984244a9d2725fc950bdbab9100ea1a525024393b033d719f5f33b3",
+      "uid": "401528.iCYggp0lf8xijkoGhi4W6UfiVsrmAFDjdKWw59VSqpk=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: The Democratic Socialists’ Momentum Stalls in Wisconsin",
+      "subject_ja": "10 のポイント: ウィスコンシン州で失速する民主社会主義者の勢い",
+      "date": "Wed, 12 Aug 2026 06:10:20 -0400",
+      "is_read": false,
+      "file": "4dfe2a460984244a9d2725fc950bdbab9100ea1a525024393b033d719f5f33b3.json"
+    },
+    {
+      "id": "f7f9c08f755eddc69baf54d90f84135342f79174f2c4ebf8ac2b35f3a38ee219",
+      "uid": "401283.dp83AwrZv4knOxexk0m+FkF41jy83rXKB4oApQGGAxU=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Private-Market ETFs, Profitable Overseas Markets, Unstoppable American Tourist",
+      "subject_ja": "WSJウェルス・アドバイザー・ブリーフィング：プライベートマーケットETF、収益性の高い海外市場、止まらないアメリカ人観光客",
+      "date": "Tue, 11 Aug 2026 20:32:08 +1000",
+      "is_read": false,
+      "file": "f7f9c08f755eddc69baf54d90f84135342f79174f2c4ebf8ac2b35f3a38ee219.json"
+    },
+    {
+      "id": "45cb8ed04c4c7e3b9bc09b7ba5e5e64081a88bb57e418a5eeeef0aaafaf8c4a7",
+      "uid": "401241.5OoCzAtk7xDavZuYgynSEYQBvTfPJ3JgMCvIogmZOaQ=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "subject_ja": "今日のウォール・ストリート・ジャーナル紙版",
+      "date": "Tue, 11 Aug 2026 17:09:51 +1000",
+      "is_read": false,
+      "file": "45cb8ed04c4c7e3b9bc09b7ba5e5e64081a88bb57e418a5eeeef0aaafaf8c4a7.json"
+    },
+    {
+      "id": "df54e82131c2ba5c2c8194cb2597cfbd2d23376e300fd55b7fa4e6c142242308",
+      "uid": "401329.ByAr+mEz,c2M,uPEYyEP7p2kHTxWqpU1PuS,udPzICg=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Fading Intervention",
+      "subject_ja": "フェージング介入",
+      "date": "Tue, 11 Aug 2026 16:21:21 -0400",
+      "is_read": false,
+      "file": "df54e82131c2ba5c2c8194cb2597cfbd2d23376e300fd55b7fa4e6c142242308.json"
+    },
+    {
+      "id": "e23a0c14d8b234933fd51661e74b5b28442eecc6ce114f15932c52cb8ef498c8",
+      "uid": "401318.tgqpkBXfDwZOohsATukwtM0bQD8CewcNrSQxh6+bxl8=",
+      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
+      "subject": "Weighty Matters",
+      "subject_ja": "重大な問題",
+      "date": "Tue, 11 Aug 2026 12:06:05 -0400",
+      "is_read": false,
+      "file": "e23a0c14d8b234933fd51661e74b5b28442eecc6ce114f15932c52cb8ef498c8.json"
+    },
+    {
+      "id": "069cebdd819e2888b7b6e7d75ec91249532da7ae3d3d994529b9bbf529e5c68f",
+      "uid": "401314.oK0BazjYRc45KCVVRcdvKXEJ7XjGBNMHELdYgfB9hUc=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: A California Home that Rotates 320 Degrees Takes a Spin on the Market",
+      "subject_ja": "マンション取引に関する警告: 320 度回転するカリフォルニアの住宅が市場に一風変わった",
+      "date": "Tue, 11 Aug 2026 11:15:17 -0400",
+      "is_read": false,
+      "file": "069cebdd819e2888b7b6e7d75ec91249532da7ae3d3d994529b9bbf529e5c68f.json"
+    },
+    {
+      "id": "578519d96781774fa99eb1d57b8e5bd2446dca5e6c5173ed6dbc63b4b20016c0",
+      "uid": "401313.,Ta8YKAZmX0kWf+hh9DdikfJppZn8nc9lHAmVRZSXH0=",
+      "from_addr": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The Intelligent Investor: Why Investors Fall for Shooting Stars",
+      "subject_ja": "賢明な投資家: 投資家が流れ星に惹かれる理由",
+      "date": "Tue, 11 Aug 2026 11:06:05 -0400",
+      "is_read": false,
+      "file": "578519d96781774fa99eb1d57b8e5bd2446dca5e6c5173ed6dbc63b4b20016c0.json"
+    },
+    {
+      "id": "242ad0fc54ac27f01c7e89c2dd585486a580f552eb644b85a83fc76bd3629148",
+      "uid": "401295.4AoFE,zQ7pHw,LYjO6Soya6FdUyAYkAYV,1K0yu7Ny8=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Hunter Biden Is Now Everywhere. What Does He Want?",
+      "subject_ja": "WSJ政治：ハンター・バイデンは今やどこにでもいる。彼は何を望んでいますか?",
+      "date": "Tue, 11 Aug 2026 07:20:05 -0400",
+      "is_read": false,
+      "file": "242ad0fc54ac27f01c7e89c2dd585486a580f552eb644b85a83fc76bd3629148.json"
+    },
+    {
+      "id": "51a539b17deb3dd826c6a4c39ffa314c4815cfd68c530142564be95a81332336",
+      "uid": "401285.7fKfu6Q2nuYvBuai4OvoKqS910zZ4GK+btG00QuDwto=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "💸 Markets A.M.: These Bonds Offer a Rare Buying Opportunity",
+      "subject_ja": "💸 マーケット午前: これらの債券は稀な購入機会を提供します",
+      "date": "Tue, 11 Aug 2026 06:40:02 -0400",
+      "is_read": false,
+      "file": "51a539b17deb3dd826c6a4c39ffa314c4815cfd68c530142564be95a81332336.json"
+    },
+    {
+      "id": "6eae201217e995093d9bffbd9ada5394943a16ce8eb92ebe69efe4736a1bfb44",
+      "uid": "401279.FWvaWAaicwmgC37JuTdGbgEtjJhXNeGh0DsNk2ZWQTQ=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: States Feel Trump's Pressure Over Voter Rolls",
+      "subject_ja": "10のポイント：有権者名簿をめぐりトランプ大統領の圧力を感じている州",
+      "date": "Tue, 11 Aug 2026 06:08:48 -0400",
+      "is_read": false,
+      "file": "6eae201217e995093d9bffbd9ada5394943a16ce8eb92ebe69efe4736a1bfb44.json"
+    },
+    {
+      "id": "86061ed02ef19ad8cf9e0363f206db96d14967b8aa18b6f052c274940312517b",
+      "uid": "401810.ETNacaSs0jZSIoqx57Lfy8kPdIf2upGbh4itbEQlQSE=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Power Stocks Lose Steam, Too Much Cash. Hectic European Travel",
+      "subject_ja": "WSJウェルス・アドバイザー・ブリーフィング：電力株は勢いを失い、現金が多すぎる。多忙なヨーロッパ旅行",
+      "date": "Thu, 13 Aug 2026 20:31:53 +1000",
+      "is_read": false,
+      "file": "86061ed02ef19ad8cf9e0363f206db96d14967b8aa18b6f052c274940312517b.json"
+    },
+    {
+      "id": "8cb866ac29bb8e37a25090e0a4efcbbdb19176b604e321d924ae87d667fa945c",
+      "uid": "401917.5Ei0YK38wZt2464z2ipl42y0AVc82EyQWbaO9i1KQaI=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket",
+      "subject_ja": "マンション取引に関する警告: メイン州の高級市場はハンプトンズやナンタケット島に似てきている",
+      "date": "Thu, 13 Aug 2026 20:15:20 -0400",
+      "is_read": false,
+      "file": "8cb866ac29bb8e37a25090e0a4efcbbdb19176b604e321d924ae87d667fa945c.json"
+    },
+    {
+      "id": "ed9d88cd90f57f71391febd05d55e7e6e6e1d2217251a01b714178ac556d6eaf",
+      "uid": "401743.T453xa8KA3dJD2UivtxejVBNttwsPp3KtifMbf+fwMA=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "subject_ja": "今日のウォール・ストリート・ジャーナル紙版",
+      "date": "Thu, 13 Aug 2026 17:09:50 +1000",
+      "is_read": false,
+      "file": "ed9d88cd90f57f71391febd05d55e7e6e6e1d2217251a01b714178ac556d6eaf.json"
+    },
+    {
+      "id": "2cb0ae34c2b3295f6dc25748c77c7ac2dec3691350b53b5b46541c120325e806",
+      "uid": "401873.DiXLnDMME50DKhRO1pS1eyEQThyK85gyfdrCVALoARI=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "New Highs",
+      "subject_ja": "新高値",
+      "date": "Thu, 13 Aug 2026 16:26:17 -0400",
+      "is_read": false,
+      "file": "2cb0ae34c2b3295f6dc25748c77c7ac2dec3691350b53b5b46541c120325e806.json"
+    },
+    {
+      "id": "955a7b6fcd18e9c08ed02ac825c7d484f49b8deb2cca9c8ff5baf688e06cb24e",
+      "uid": "401819.56InX7nCjTPdRNiNg4q5K01AJPCCNw4e969wax7MMTM=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: No One Wants to Talk About the Debt",
+      "subject_ja": "WSJ政治：誰も借金について話したがらない",
+      "date": "Thu, 13 Aug 2026 07:10:34 -0400",
+      "is_read": false,
+      "file": "955a7b6fcd18e9c08ed02ac825c7d484f49b8deb2cca9c8ff5baf688e06cb24e.json"
+    },
+    {
+      "id": "ae99ca655d9f5f144f1d91c9d6aea3536cda961c491fab6f5cded81a59919fda",
+      "uid": "401808.oXiyB6MX4gntQkeexLkrYpIoCmRndScOM3K0VczpcWQ=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🗾 Markets A.M.: Japanese Drama Is No Sideshow for U.S. Markets",
+      "subject_ja": "🗾 マーケット午前: 日本のドラマは米国市場にとって余興ではない",
+      "date": "Thu, 13 Aug 2026 06:23:37 -0400",
+      "is_read": false,
+      "file": "ae99ca655d9f5f144f1d91c9d6aea3536cda961c491fab6f5cded81a59919fda.json"
+    },
+    {
+      "id": "d29f2a0e324f526545ee2b0e0d47e764c5a4e64741e940f6fd2f1938bd8e6eae",
+      "uid": "401800.FPmMvEnTO7DUw9vdgRCgh0ahVCYuBJjBbg9TQmvg3rw=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Inside North Korea’s Secret U.S. Workforce ",
+      "subject_ja": "10 のポイント: 北朝鮮の秘密米国労働力の内部",
+      "date": "Thu, 13 Aug 2026 06:01:04 -0400",
+      "is_read": false,
+      "file": "d29f2a0e324f526545ee2b0e0d47e764c5a4e64741e940f6fd2f1938bd8e6eae.json"
+    },
+    {
+      "id": "29c87ef07433461191208aa4187c70593f598c2afbfa6a04e909bb4e8093da51",
+      "uid": "402445.cI4XmKc+2TAvFzW7Qohzwprytv,foommPCN1QYkGrzc=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: They Refused $26 Million From an AI Data Center",
+      "subject_ja": "10 のポイント: AI データセンターからの 2,600 万ドルの支払いを拒否",
+      "date": "Sun, 16 Aug 2026 07:06:23 -0400",
+      "is_read": false,
+      "file": "29c87ef07433461191208aa4187c70593f598c2afbfa6a04e909bb4e8093da51.json"
+    },
+    {
+      "id": "7e9216c0e94934a98bce36a19dc6a01ab473baa4b0652af2855616068d0212fe",
+      "uid": "402271.bzzOLdt6rPVQKs7GGfEOCiiuMTKTkjfopz0tNU+SMTw=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "subject_ja": "今日のウォール・ストリート・ジャーナル紙版",
+      "date": "Sat, 15 Aug 2026 17:09:49 +1000",
+      "is_read": false,
+      "file": "7e9216c0e94934a98bce36a19dc6a01ab473baa4b0652af2855616068d0212fe.json"
+    },
+    {
+      "id": "3f110933ab3143368bab1c47156e7147cfd701b4d1beb22974a3d7b2db8a19f3",
+      "uid": "402304.EocCSxWc54lt5wlAhePdw3oQ3,QyT0d+BiQNPkWWg64=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Even Billionaires Struggle to Join This Miami Club",
+      "subject_ja": "10 のポイント: 億万長者でもこのマイアミのクラブに入会するのは難しい",
+      "date": "Sat, 15 Aug 2026 07:03:57 -0400",
+      "is_read": false,
+      "file": "3f110933ab3143368bab1c47156e7147cfd701b4d1beb22974a3d7b2db8a19f3.json"
+    },
+    {
+      "id": "3b3c45b6dc5032c58be4192c1aaccd21dfc4854d175595d1c200f61d5f23d84c",
+      "uid": "402211.mffv7Vi43MCCtAT1wMEHNM7NYmgIIaNl6zA,AvDHaKo=",
+      "from_addr": "The Journal Collection <TheJournalCollection@em.wsj.com>",
+      "subject": "大原, don’t miss this subscriber-only mortgage perk",
+      "subject_ja": "大原さん、この加入者限定の住宅ローン特典をお見逃しなく",
+      "date": "Sat, 15 Aug 2026 01:34:21 +0000",
+      "is_read": false,
+      "file": "3b3c45b6dc5032c58be4192c1aaccd21dfc4854d175595d1c200f61d5f23d84c.json"
+    },
+    {
+      "id": "ecbd2b108896553e732f1a9bcd4280830b720764ca8eecc9a6733c3b477a91fa",
+      "uid": "401087.CnuKM6egMH1MYvstNsw,wUlBQ8,6trH7xS7cSi+28ZA=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Twin Funds Diverge, Private Equity Exits, Wine at 30,000 Feet",
+      "subject_ja": "WSJウェルス・アドバイザー・ブリーフィング: ツインファンドの分岐、未公開株の撤退、3万フィートのワイン",
+      "date": "Mon, 10 Aug 2026 20:32:07 +1000",
+      "is_read": false,
+      "file": "ecbd2b108896553e732f1a9bcd4280830b720764ca8eecc9a6733c3b477a91fa.json"
+    },
+    {
+      "id": "4fab8d393bc3aba8ffa796f766c44a382ab55eed8af6b6709576928b88685780",
+      "uid": "401032.UNbLoLNaSwA7EUVtjFOX5QeyMiJgTbemnDYWdTiDvMg=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "subject_ja": "今日のウォール・ストリート・ジャーナル紙版",
+      "date": "Mon, 10 Aug 2026 17:09:51 +1000",
+      "is_read": false,
+      "file": "4fab8d393bc3aba8ffa796f766c44a382ab55eed8af6b6709576928b88685780.json"
+    },
+    {
+      "id": "3e5898dcade19a704365dc97a881e1902e29eaa31fb0b286777a6c2e62270eb5",
+      "uid": "401133.ZDEymSY,x5PmIYUQopIq5SrczZCX03KvJMFixNHo4zI=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Dire Straits",
+      "subject_ja": "ダイア・ストレイツ",
+      "date": "Mon, 10 Aug 2026 16:22:07 -0400",
+      "is_read": false,
+      "file": "3e5898dcade19a704365dc97a881e1902e29eaa31fb0b286777a6c2e62270eb5.json"
+    },
+    {
+      "id": "ea5d30049e7df53514455e6e23407f396dc3cd7fb64c8897655a9afadc0917b8",
+      "uid": "401098.sLNzYDc2plohS+ScS6HrPeM+8NrIEj3fwzYHM6Ccgf8=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Why Is Iran Acting Like It Is Holding All the Cards in Hormuz Talks?",
+      "subject_ja": "WSJ政治：なぜイランはホルムズ会談ですべてのカードを握っているかのように振る舞うのか？",
+      "date": "Mon, 10 Aug 2026 07:15:13 -0400",
+      "is_read": false,
+      "file": "ea5d30049e7df53514455e6e23407f396dc3cd7fb64c8897655a9afadc0917b8.json"
+    },
+    {
+      "id": "a224eec6f3c43f56b417d3094c1b9f33dfcd9105996fedd78e8123f65315726d",
+      "uid": "401085.srIO7HLJae6NfNKP6,LAK1PyC71SnP6vwX5Vi3zaJLc=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🤢 Markets A.M.: When Food Scares Serve Up Healthy Profits",
+      "subject_ja": "🤢 午前中の市場: 食糧危機が健全な利益をもたらすとき",
+      "date": "Mon, 10 Aug 2026 06:24:00 -0400",
+      "is_read": false,
+      "file": "a224eec6f3c43f56b417d3094c1b9f33dfcd9105996fedd78e8123f65315726d.json"
+    },
+    {
+      "id": "52a2ec75e2347041ede3527a4b77bee6f27ff1d8ae6ae200ce4c9a1d2d949712",
+      "uid": "401081.pUUAuAlNKxMYGu7gQQdDsrg35g9TgSHFLH3mewF9Hmk=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Private Credit Stress Mounts as Returns Fall",
+      "subject_ja": "10 のポイント: 収益低下に伴い民間信用ストレスが増大",
+      "date": "Mon, 10 Aug 2026 06:12:54 -0400",
+      "is_read": false,
+      "file": "52a2ec75e2347041ede3527a4b77bee6f27ff1d8ae6ae200ce4c9a1d2d949712.json"
+    },
+    {
+      "id": "cc059fe233f6ec2136ce8fa3c2eee445bd62c0cc313f28794b2a6190fba4bc81",
+      "uid": "402094.PZ9bxlKaBO+39CJjU7e0KZ4Zb0qJdB8TtF7EPwaXVfE=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Inflation Protection on Sale, Tariff Refunds, Cuddly Mascots",
+      "subject_ja": "WSJウェルス・アドバイザー・ブリーフィング：インフレ保護セール、関税還付、かわいいマスコット",
+      "date": "Fri, 14 Aug 2026 20:31:55 +1000",
+      "is_read": false,
+      "file": "cc059fe233f6ec2136ce8fa3c2eee445bd62c0cc313f28794b2a6190fba4bc81.json"
+    },
+    {
+      "id": "827c90dbf4f3f5610fea4f1055d6c51ec244bdb0630b51e20af0b7628814b9a5",
+      "uid": "402029.iJP58WF+7kmf+FnS,7SEH7IJMGVpLC68imO8P9w3UqE=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "subject_ja": "今日のウォール・ストリート・ジャーナル紙版",
+      "date": "Fri, 14 Aug 2026 17:09:50 +1000",
+      "is_read": false,
+      "file": "827c90dbf4f3f5610fea4f1055d6c51ec244bdb0630b51e20af0b7628814b9a5.json"
+    },
+    {
+      "id": "751bcdfb74664a57cb36168de7f3a494c2f40508e5c0eddaf1dfac5f111bfc3b",
+      "uid": "402154.vtimJRASWi2pAtbrDQC5IQjlVqVEeB,LtFFCNOxHOjU=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Consumer Warning Lights",
+      "subject_ja": "消費者向け警告灯",
+      "date": "Fri, 14 Aug 2026 16:32:31 -0400",
+      "is_read": false,
+      "file": "751bcdfb74664a57cb36168de7f3a494c2f40508e5c0eddaf1dfac5f111bfc3b.json"
+    },
+    {
+      "id": "8ef8e58c0348ae66e1eea67ef0009d27d1553b4ef8237201a0e04125863cfe3f",
+      "uid": "402149.cHGr+C6EHN3INUQqeM4Zk4UWPcWRgjhy1d7WlyXAR7I=",
+      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+      "subject": "Maine Is Catching Up to the Hamptons and Nantucket",
+      "subject_ja": "メイン州がハンプトンズとナンタケットに追いつきつつある",
+      "date": "Fri, 14 Aug 2026 15:31:10 -0400",
+      "is_read": false,
+      "file": "8ef8e58c0348ae66e1eea67ef0009d27d1553b4ef8237201a0e04125863cfe3f.json"
+    },
+    {
+      "id": "430f95cf02a92482d6decef3bc6d80ab207711b67350241ba5020ffbfbc07d23",
+      "uid": "402121.s5HVkX23jWPPMtDk+FDOgAReS6575pT6Ch8pOUuTvQw=",
+      "from_addr": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Travel: About Europe’s EES 🛂",
+      "subject_ja": "WSJ Travel: ヨーロッパの EES について 🛂",
+      "date": "Fri, 14 Aug 2026 08:31:06 -0400",
+      "is_read": false,
+      "file": "430f95cf02a92482d6decef3bc6d80ab207711b67350241ba5020ffbfbc07d23.json"
+    },
+    {
+      "id": "ba89e43ad255d9ad7c8f04d8226e9d6b02f7090389d89b8a944c6c5e66e898c6",
+      "uid": "402104.edhxutPnYBjEGtYx,11LdcsnIJ6q3AWTnBfw,cad8FE=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Hakeem Jeffries Targets the Supreme Court",
+      "subject_ja": "WSJ政治：ハキーム・ジェフリーズ氏が最高裁判所を標的に",
+      "date": "Fri, 14 Aug 2026 07:08:16 -0400",
+      "is_read": false,
+      "file": "ba89e43ad255d9ad7c8f04d8226e9d6b02f7090389d89b8a944c6c5e66e898c6.json"
+    },
+    {
+      "id": "df24a5c519e5af18aafedcb241f4dd2f6898714632bed17761cb537980811e2d",
+      "uid": "402095.kEqFWci0YkHZ1LtY60N9bedUQdpLDEgwM24jbFeaMkU=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🌈 Markets A.M.: Companies Have Rarely Had Such Great Expectations",
+      "subject_ja": "🌈 午前の市場: 企業がこれほど大きな期待を抱くことはめったにありません",
+      "date": "Fri, 14 Aug 2026 06:32:53 -0400",
+      "is_read": false,
+      "file": "df24a5c519e5af18aafedcb241f4dd2f6898714632bed17761cb537980811e2d.json"
+    },
+    {
+      "id": "79b460bd7e0339ff63dd001f279acbc906fa70319d0acefe0836a8aad57de1fa",
+      "uid": "402089.ntDAFtZPArLhL5Lyq6sAUdXZ5iBQaubzzdQdBk3JJP8=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Inside Trump and Musk's Quiet Political Reunion",
+      "subject_ja": "10 のポイント: トランプとマスクの静かな政治的再会の内側",
+      "date": "Fri, 14 Aug 2026 06:10:35 -0400",
+      "is_read": false,
+      "file": "79b460bd7e0339ff63dd001f279acbc906fa70319d0acefe0836a8aad57de1fa.json"
+    },
+    {
+      "id": "e53f9d1dd3558ca29714bdbe613e4ce75640ac342baf142442e3f3b232da01f8",
+      "uid": "402079.,TXQs9KHCgyp,RH7yK7KbV3R+OMV9C+9KOBiWSEBwTg=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "The latest from Jason Zweig",
+      "subject_ja": "ジェイソン・ツヴァイクの最新作",
+      "date": "Fri, 14 Aug 2026 05:45:20 -0400",
+      "is_read": false,
+      "file": "e53f9d1dd3558ca29714bdbe613e4ce75640ac342baf142442e3f3b232da01f8.json"
+    }
+  ]
 }

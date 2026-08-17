@@ -1,7 +1,10 @@
 {
   "ok": true,
-  "step": "未実行",
+  "step": "完了",
   "error": "",
   "traceback": "",
-  "finished_at": ""
+  "finished_at": "2026-08-17T05:14:59.418944+00:00",
+  "added": 44,
+  "skipped": 40,
+  "server_count": 6134
 }
