@@ -1,5 +1,5 @@
 import type { DisplayLang, EmailIndexItem, EmailRecord } from "../types";
-import { sanitizeHtml } from "../sanitize";
+import { MailFrame } from "./MailFrame";
 
 type Props = {
   emails: EmailIndexItem[];
@@ -36,11 +36,12 @@ export function EmailStream({
             : item.subject;
         const bodyJa = record?.body_text_ja || translatedBodies[item.id] || "";
         const showJa = displayLang === "ja";
-        const html = !showJa && record?.body_html ? sanitizeHtml(record.body_html) : "";
+        const html = record?.body_html || "";
 
         return (
           <article
             key={item.id}
+            id={`mail-${item.id}`}
             className={`mail-card ${item.id === selectedId ? "selected" : ""} ${item.is_read ? "" : "unread"}`}
             onClick={() => onSelect(item.id)}
           >
@@ -69,22 +70,20 @@ export function EmailStream({
               </div>
             </div>
             {record ? (
-              showJa ? (
-                <div className="body" lang="ja" translate="no">
-                  {bodyJa || record.body_text || "（訳文はまだありません。原文表示に切り替えるか、再更新してください）"}
-                </div>
-              ) : html ? (
-                <div
-                  className="body html"
-                  lang="en"
-                  translate="yes"
-                  dangerouslySetInnerHTML={{ __html: html }}
-                />
-              ) : (
-                <div className="body" lang="en" translate="yes">
-                  {record.body_text || "(本文なし)"}
-                </div>
-              )
+              <>
+                {showJa && bodyJa ? (
+                  <div className="body" lang="ja" translate="no">
+                    {bodyJa}
+                  </div>
+                ) : null}
+                {html ? (
+                  <MailFrame html={html} title={subject || "mail"} />
+                ) : (
+                  <div className="body" lang={showJa ? "ja" : "en"}>
+                    {showJa ? bodyJa || record.body_text : record.body_text || "(本文なし)"}
+                  </div>
+                )}
+              </>
             ) : (
               <div className="meta">本文を読み込み中…</div>
             )}

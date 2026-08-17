@@ -1,7 +1,7 @@
 .shell {
   height: 100%;
   display: grid;
-  grid-template-rows: var(--header) 1fr;
+  grid-template-rows: var(--header) auto 1fr;
 }
 
 .topbar {
@@ -69,7 +69,7 @@
   position: relative;
   min-height: 0;
   display: grid;
-  grid-template-columns: minmax(260px, 34%) 1fr;
+  grid-template-columns: 1fr;
 }
 
 .settings-panel {
@@ -82,9 +82,62 @@
   overflow: auto;
 }
 
-.list-panel {
-  border-right: 1px solid var(--line);
-  background: rgba(255, 250, 242, 0.66);
+.picker-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--line);
+  background: var(--paper-2);
+}
+
+.picker {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  min-width: 0;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.picker-label {
+  flex-shrink: 0;
+}
+
+.picker select {
+  flex: 1;
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 8px 12px;
+  background: #fff;
+  color: var(--ink);
+}
+
+.picker-empty {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.mail-frame {
+  display: block;
+  width: 100%;
+  min-height: 240px;
+  margin-top: 12px;
+  border: 0;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.body.html {
+  white-space: normal;
+}
+
+.body.html img {
+  max-width: 100%;
+  height: auto;
 }
 
 .stream-panel {
@@ -306,20 +359,18 @@ textarea {
 
 @media (max-width: 820px) {
   .shell {
-    grid-template-rows: var(--header) 1fr var(--tabs);
+    grid-template-rows: var(--header) auto 1fr var(--tabs);
   }
 
   .workspace {
     grid-template-columns: 1fr;
   }
 
-  .list-panel,
   .stream-panel,
   .settings-panel {
     display: none;
   }
 
-  .workspace.show-list .list-panel,
   .workspace.show-stream .stream-panel,
   .workspace.show-settings .settings-panel {
     display: block;
@@ -327,7 +378,7 @@ textarea {
 
   .tabs {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 1fr 1fr;
     border-top: 1px solid var(--line);
     background: var(--paper-2);
     padding-bottom: var(--safe-bottom);

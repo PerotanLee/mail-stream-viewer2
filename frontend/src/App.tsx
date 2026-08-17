@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { EmailList } from "./components/EmailList";
+import { EmailPicker } from "./components/EmailPicker";
 import { EmailStream } from "./components/EmailStream";
 import { PageDownButton } from "./components/PageDownButton";
 import { SettingsPanel } from "./components/SettingsPanel";
@@ -21,7 +21,7 @@ import { translateEnJa } from "./translator";
 import type { AppSettings, Connection, EmailIndexItem, EmailRecord, PageDownPos } from "./types";
 import "./App.css";
 
-type Tab = "list" | "stream" | "settings";
+type Tab = "stream" | "settings";
 
 const emptyConnection: Connection = {
   owner: "PerotanLee",
@@ -78,6 +78,7 @@ export default function App() {
       setSettingsSha(sSha);
       lastUiSync.current = `${nextSettings.zoom}:${nextSettings.displayLang}`;
       setEmails(index.emails);
+      setSelectedId((current) => current ?? index.emails[0]?.id ?? null);
       setIndexSha(iSha);
       return index.emails;
     },
@@ -198,6 +199,9 @@ export default function App() {
         setError(explain(err));
       }
     }
+    window.requestAnimationFrame(() => {
+      document.getElementById(`mail-${id}`)?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
   }
 
   async function toggleRead(id: string, isRead: boolean) {
@@ -331,18 +335,20 @@ export default function App() {
           </button>
         </div>
       </header>
-      {busy || status ? <div className="banner">{status || "処理中…"}</div> : null}
-
-      <div className={workspaceClass}>
-        <aside className="panel list-panel">
-          <EmailList
+      <div className="subhead">
+        {busy || status ? <div className="banner">{status || "処理中…"}</div> : null}
+        <div className="picker-bar">
+          <EmailPicker
             emails={sorted}
             selectedId={selectedId}
             displayLang={settings.displayLang}
             translatedSubjects={translatedSubjects}
             onSelect={selectEmail}
           />
-        </aside>
+        </div>
+      </div>
+
+      <div className={workspaceClass}>
         <main
           className="panel stream-panel"
           style={{ ["--zoom" as string]: String(settings.zoom / 100) }}
@@ -381,9 +387,6 @@ export default function App() {
       </div>
 
       <nav className="tabs">
-        <button type="button" className={tab === "list" ? "active" : ""} onClick={() => setTab("list")}>
-          リスト
-        </button>
         <button type="button" className={tab === "stream" ? "active" : ""} onClick={() => setTab("stream")}>
           ストリーム
         </button>
