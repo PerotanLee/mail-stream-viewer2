@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5071 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:57:17.082839+00:00",
-  "added": 30,
+  "updated_at": "2026-08-17T06:57:18.133426+00:00",
+  "added": 31,
   "skipped": 1046,
   "scanned": 1077,
   "scan_total": 0,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "Axios Pro Rata: Frontier financing",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 30
+    "axios": 31
   }
 }
