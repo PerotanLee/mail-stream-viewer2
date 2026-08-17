@@ -1,15 +1,15 @@
 {
   "ok": false,
   "running": true,
-  "step": "UIDL一覧",
-  "phase": "uidl",
+  "step": "保存",
+  "phase": "save",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:27:35.804297+00:00",
+  "updated_at": "2026-08-17T06:27:36.963657+00:00",
   "added": 0,
-  "skipped": 0,
+  "skipped": 200,
   "server_count": 6143,
-  "scanned": 0,
+  "scanned": 200,
   "scan_total": 200,
   "current": ""
 }
