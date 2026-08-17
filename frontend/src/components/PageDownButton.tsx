@@ -50,7 +50,7 @@ export function PageDownButton({ streamRef, pos, onPos }: Props) {
   function pageDown() {
     const el = streamRef.current;
     if (!el) return;
-    el.scrollBy({ top: Math.floor(el.clientHeight * 0.9), behavior: "smooth" });
+    el.scrollBy({ top: Math.floor(el.clientHeight * 0.9) });
   }
 
   function onPointerDown(event: PointerEvent<HTMLButtonElement>) {

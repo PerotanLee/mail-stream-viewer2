@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { flushSync } from "react-dom";
 import { EmailPicker } from "./components/EmailPicker";
 import { EmailStream } from "./components/EmailStream";
 import { PageDownButton } from "./components/PageDownButton";
@@ -292,17 +293,32 @@ export default function App() {
   }
 
   async function markRead(id: string) {
+    const stream = streamRef.current;
+    const card = document.getElementById(`mail-${id}`);
+    const nextCard = card?.nextElementSibling as HTMLElement | null;
+    const anchorId = nextCard?.id || "";
+    const streamTop = stream?.getBoundingClientRect().top ?? 0;
+    const anchorOffset = nextCard ? nextCard.getBoundingClientRect().top - streamTop : null;
+
     pendingReadIds.current.add(id);
-    const next = emails.map((item) => (item.id === id ? { ...item, is_read: true } : item));
-    setEmails((prev) => prev.map((item) => (item.id === id ? { ...item, is_read: true } : item)));
-    setRecords((prev) => {
-      const copy = { ...prev };
-      delete copy[id];
-      return copy;
+    const shown = visible;
+    const idx = shown.findIndex((item) => item.id === id);
+    const followId = shown[idx + 1]?.id ?? shown[idx - 1]?.id ?? null;
+    flushSync(() => {
+      setEmails((prev) => prev.map((item) => (item.id === id ? { ...item, is_read: true } : item)));
+      setRecords((prev) => {
+        const copy = { ...prev };
+        delete copy[id];
+        return copy;
+      });
+      setSelectedId(followId);
     });
-    if (selectedId === id) {
-      const remaining = visibleItems(next, settings.senderFilter);
-      setSelectedId(remaining[0]?.id ?? null);
+    if (stream && anchorId && anchorOffset != null) {
+      const el = document.getElementById(anchorId);
+      if (el) {
+        const now = el.getBoundingClientRect().top - stream.getBoundingClientRect().top;
+        stream.scrollTop += now - anchorOffset;
+      }
     }
     setError("");
     queueReadFlush();

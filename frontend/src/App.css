@@ -182,6 +182,7 @@
   width: 100%;
   text-align: left;
   padding: 10px 12px;
+  overflow-anchor: none;
 }
 
 .mail-card.selected {
