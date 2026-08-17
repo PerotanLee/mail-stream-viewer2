@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=5069 from=Axios AI+ <ai.plus@axios.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:57:18.133426+00:00",
+  "updated_at": "2026-08-17T06:57:19.762810+00:00",
   "added": 31,
-  "skipped": 1046,
-  "scanned": 1077,
+  "skipped": 1047,
+  "scanned": 1079,
   "scan_total": 0,
-  "current": "Axios Pro Rata: Frontier financing",
+  "current": "Axios AI+ <ai.plus@axios.com>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 31
