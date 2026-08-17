@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "スキャン",
-  "phase": "scan",
+  "step": "保存",
+  "phase": "save",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T09:40:56.535896+00:00",
+  "updated_at": "2026-08-17T09:40:57.428884+00:00",
   "added": 1,
   "skipped": 1326,
   "scanned": 1327,
   "scan_total": 0,
-  "current": "直近1週間を超えたため終了",
+  "current": "",
   "added_by_filter": {
     "wsj": 1,
     "axios": 0
