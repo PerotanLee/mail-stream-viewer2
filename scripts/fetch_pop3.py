@@ -230,13 +230,15 @@ def parse_iso(raw: str) -> datetime | None:
 
 def load_cursor() -> tuple[datetime | None, int]:
     cursor = load_json(CURSOR_PATH, {})
+    last_run = load_json(LAST_RUN_PATH, {})
     last_at = parse_iso(str(cursor.get("last_fetch_at") or ""))
-    if last_at is None:
-        last_run = load_json(LAST_RUN_PATH, {})
-        if last_run.get("ok"):
-            last_at = parse_iso(str(last_run.get("finished_at") or last_run.get("updated_at") or ""))
+    if last_at is None and not last_run.get("running"):
+        last_at = parse_iso(str(last_run.get("finished_at") or last_run.get("updated_at") or ""))
+    newest_raw = cursor.get("newest_num")
+    if newest_raw in (None, "", 0, "0"):
+        newest_raw = last_run.get("newest_num")
     try:
-        newest_num = int(cursor.get("newest_num") or 0)
+        newest_num = int(newest_raw or 0)
     except (TypeError, ValueError):
         newest_num = 0
     return last_at, max(0, newest_num)
@@ -424,7 +426,10 @@ def main() -> int:
     }
     pop: poplib.POP3 | None = None
     try:
+        last_fetch_at, last_newest_num = load_cursor()
+        log(f"cursor last_fetch_at={last_fetch_at} newest_num={last_newest_num}")
         step = "設定読み込み"
+        extra["last_newest_num"] = last_newest_num
         write_run_report(ok=False, running=True, step=step, phase="setup", extra=extra, force=True)
         settings = load_json(SETTINGS_PATH, {"senderFilter": "", "zoom": 100, "displayLang": "ja"})
         sender_filter = str(settings.get("senderFilter") or "")
@@ -440,7 +445,6 @@ def main() -> int:
         known = {item["uid"]: item for item in emails if "uid" in item}
         seen = set(load_json(SEEN_PATH, {"uids": []}).get("uids") or [])
         week_cutoff = datetime.now(timezone.utc) - MAX_AGE
-        last_fetch_at, last_newest_num = load_cursor()
         scan_cutoff = week_cutoff
         if last_fetch_at is not None:
             scan_cutoff = max(week_cutoff, last_fetch_at - OVERLAP)
@@ -461,6 +465,7 @@ def main() -> int:
         step = "フィルタ開始"
         write_run_report(ok=False, running=True, step=step, phase="scan", extra=extra, force=True)
         newest_num, _octets = pop.stat()
+        extra["newest_num"] = newest_num
         stop_at = max(1, newest_num - MAX_SCAN + 1)
         scan_mode = "week"
         if last_newest_num > 0 and newest_num > last_newest_num:
@@ -612,7 +617,9 @@ def main() -> int:
             end_num, _octets = pop.stat()
         except Exception:
             end_num = newest_num
-        save_cursor(max(int(newest_num), int(end_num)))
+        saved_newest = max(int(newest_num), int(end_num))
+        extra["newest_num"] = saved_newest
+        save_cursor(saved_newest)
         write_run_report(ok=True, step="完了", phase="done", extra=extra, force=True)
         log(
             f"done added={added} by_filter={added_by_filter} "
