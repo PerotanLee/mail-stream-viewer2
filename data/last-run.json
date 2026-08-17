@@ -1,16 +1,16 @@
 {
   "ok": false,
   "running": true,
-  "step": "ヘッダー取得 num=5440",
+  "step": "スキャン",
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-17T06:54:27.016662+00:00",
+  "updated_at": "2026-08-17T06:54:47.141795+00:00",
   "added": 17,
-  "skipped": 690,
-  "scanned": 708,
+  "skipped": 740,
+  "scanned": 757,
   "scan_total": 0,
-  "current": "ヘッダー確認 #5440",
+  "current": "送信元フィルタ外 無印良品の家 <info-living@muji.net>",
   "added_by_filter": {
     "wsj": 0,
     "axios": 17
