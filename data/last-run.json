@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6241 from=Must Reads <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-18T00:23:47.079142+00:00",
-  "added": 2,
+  "updated_at": "2026-08-18T00:23:47.995799+00:00",
+  "added": 3,
   "skipped": 50,
   "scanned": 53,
-  "current": "Must Reads <account@seekingalpha.com>",
+  "current": "Nebius' 366% Revenue Growth And Other Top AI Stocks With Short Squeeze Potential",
   "added_by_filter": {
     "wsj": 1,
     "axios": 1,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 6236,
   "newest_num": 6293,
