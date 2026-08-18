@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6428 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-18T14:05:03.921764+00:00",
-  "added": 7,
+  "updated_at": "2026-08-18T14:05:05.039821+00:00",
+  "added": 8,
   "skipped": 31,
   "scanned": 39,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: How The Dodgers Owner’s Hidden Deals Backfired",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 3,
     "seekingalpha": 1
   },
