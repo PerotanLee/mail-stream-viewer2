@@ -222,7 +222,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "The State Of The American Consumer",
       "date": "Tue, 18 Aug 2026 07:46:55 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "2778353e390a69a5c06b81d08e9efda4d66b1278d6fb550f115c8d83672d68e8.json"
     },
     {
