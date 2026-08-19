@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6684 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-19T14:14:38.231123+00:00",
-  "added": 6,
+  "updated_at": "2026-08-19T14:14:39.437458+00:00",
+  "added": 7,
   "skipped": 21,
   "scanned": 28,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "🤷 Markets A.M.: Does ‘Less Is More’ Work for ETFs?",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 3,
     "seekingalpha": 1
   },
