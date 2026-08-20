@@ -325,6 +325,24 @@
       "file": "7d6ca1da96ea98620801fe634459ad7dba971cf06b65d42fff934f5a2de80eb4.json"
     },
     {
+      "id": "19500537f1f4131c469bb778eae8a16230c34f6a340263bdc948b5b34e9386d5",
+      "uid": "403540.gsO4Z5TivxXpeCry,BI4mjoNSHA8EiIopKYSxnQ321Q=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🌏 Bonds' new world",
+      "date": "Thu, 20 Aug 2026 07:28:57 -0400",
+      "is_read": false,
+      "file": "19500537f1f4131c469bb778eae8a16230c34f6a340263bdc948b5b34e9386d5.json"
+    },
+    {
+      "id": "164dae9d4d3cdd4998270891b3e2692ee5301960ec0881ac0d510f54e3452d5d",
+      "uid": "403539.AKCwOBP2nYZ3ln,qoQvfYPkZooGWMC1Vk+H0r2MCvjI=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "U.S. Declares 'Economic D-Day' On Iran",
+      "date": "Thu, 20 Aug 2026 07:23:46 -0400",
+      "is_read": false,
+      "file": "164dae9d4d3cdd4998270891b3e2692ee5301960ec0881ac0d510f54e3452d5d.json"
+    },
+    {
       "id": "f9a3bca6de8a2810b066d4d765cf00ba31638d20081f7b6add211202560f622b",
       "uid": "403532.S3D0pCv6LjCEl4eWlKKtV7U+O3pgKi7jg8rFow0soiY=",
       "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
@@ -449,16 +467,6 @@
       "date": "Thu, 13 Aug 2026 09:28:21 -0400",
       "is_read": true,
       "file": "dfb094b44fabbec7c2190f8234d4b522e3b3140057298b9cbeade5b10a40aa83.json"
-    },
-    {
-      "id": "dd2bc92d620dda27bdc94d092a381d5040cd1132867c12ce9a3f90a2e352d53f",
-      "uid": "401824.C06mfTyktu6eanbY+945P2KmwVjQYCGkcJ2O8oLHfEg=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🧐 Core issues",
-      "subject_ja": "",
-      "date": "Thu, 13 Aug 2026 07:28:51 -0400",
-      "is_read": true,
-      "file": "dd2bc92d620dda27bdc94d092a381d5040cd1132867c12ce9a3f90a2e352d53f.json"
     },
     {
       "id": "1db3f9822491f732f2af774680e9fbd4922609a31dfb6787ed61602efc091e60",
