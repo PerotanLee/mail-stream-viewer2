@@ -325,6 +325,24 @@
       "file": "7d6ca1da96ea98620801fe634459ad7dba971cf06b65d42fff934f5a2de80eb4.json"
     },
     {
+      "id": "40a127465c85e134bf6fe6ce4e6ea4e4c128e1311043ccacec5d66417ea16cb7",
+      "uid": "403560.X6NKEjHd5mq3TrjTD+alVciLTMeg,X,KiljT+uernXI=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Stripe's singularity",
+      "date": "Thu, 20 Aug 2026 10:04:46 -0400",
+      "is_read": false,
+      "file": "40a127465c85e134bf6fe6ce4e6ea4e4c128e1311043ccacec5d66417ea16cb7.json"
+    },
+    {
+      "id": "421a6ac07361310ca323346ce4625b709bfc55b141f6f3e84dfda0514df1fcad",
+      "uid": "403556.y6Y5dfoxxk7Vc3jW,ddsA0aVGizv5i2NgAr+9FnVtW0=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🏢 AI's data center problem",
+      "date": "Thu, 20 Aug 2026 09:28:18 -0400",
+      "is_read": false,
+      "file": "421a6ac07361310ca323346ce4625b709bfc55b141f6f3e84dfda0514df1fcad.json"
+    },
+    {
       "id": "19500537f1f4131c469bb778eae8a16230c34f6a340263bdc948b5b34e9386d5",
       "uid": "403540.gsO4Z5TivxXpeCry,BI4mjoNSHA8EiIopKYSxnQ321Q=",
       "from_addr": "Axios Markets <markets@axios.com>",
@@ -447,26 +465,6 @@
       "date": "Thu, 13 Aug 2026 11:58:37 -0400",
       "is_read": true,
       "file": "24b7d5b8126d6b76aba4470b8657d2c76139bad44e79767e1adaad4698e6ad8b.json"
-    },
-    {
-      "id": "271824e4a6210a8393ae0e528ed2ec1a47c48b699812b3479b0b6eb2f8b3efba",
-      "uid": "401843.Bmf5EtMl50ORG1RXrI26MvZWXMsbKW0BCyi4iNhYIBM=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Luka lucre",
-      "subject_ja": "",
-      "date": "Thu, 13 Aug 2026 09:45:30 -0400",
-      "is_read": true,
-      "file": "271824e4a6210a8393ae0e528ed2ec1a47c48b699812b3479b0b6eb2f8b3efba.json"
-    },
-    {
-      "id": "dfb094b44fabbec7c2190f8234d4b522e3b3140057298b9cbeade5b10a40aa83",
-      "uid": "401841.,tGl9c469kvgSptl6NwWhPRuYLjP9SIR0q1F8pjBoi4=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "💰 Agents meet liability",
-      "subject_ja": "",
-      "date": "Thu, 13 Aug 2026 09:28:21 -0400",
-      "is_read": true,
-      "file": "dfb094b44fabbec7c2190f8234d4b522e3b3140057298b9cbeade5b10a40aa83.json"
     },
     {
       "id": "1db3f9822491f732f2af774680e9fbd4922609a31dfb6787ed61602efc091e60",
