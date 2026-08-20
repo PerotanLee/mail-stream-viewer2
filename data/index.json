@@ -307,6 +307,60 @@
       "file": "c45c71675e567934a59c7a08c1fa433448b2b02c0bedab0e2c4acdd17dcddccd.json"
     },
     {
+      "id": "0e4aeb13cc498f8d8a953a812382b82bc241a4954d2ebc8c91b503a5e81c8a6c",
+      "uid": "403524.Kxbe2OJEqFQncEaip08lgcf2Vs89tDe0g0PkAi4iuB0=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Pharma M&A, Big Food’s Big Challenge, Dating Via LinkedIn",
+      "date": "Thu, 20 Aug 2026 20:31:59 +1000",
+      "is_read": false,
+      "file": "0e4aeb13cc498f8d8a953a812382b82bc241a4954d2ebc8c91b503a5e81c8a6c.json"
+    },
+    {
+      "id": "7d6ca1da96ea98620801fe634459ad7dba971cf06b65d42fff934f5a2de80eb4",
+      "uid": "403455.Wp1gPIxS58WgqEia50oLjNMgk,1O8EDl4iqsBJ5vdSY=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Thu, 20 Aug 2026 17:09:48 +1000",
+      "is_read": false,
+      "file": "7d6ca1da96ea98620801fe634459ad7dba971cf06b65d42fff934f5a2de80eb4.json"
+    },
+    {
+      "id": "f9a3bca6de8a2810b066d4d765cf00ba31638d20081f7b6add211202560f622b",
+      "uid": "403532.S3D0pCv6LjCEl4eWlKKtV7U+O3pgKi7jg8rFow0soiY=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Scott Bessent and the Art of the Treasury Tightrope",
+      "date": "Thu, 20 Aug 2026 07:01:57 -0400",
+      "is_read": false,
+      "file": "f9a3bca6de8a2810b066d4d765cf00ba31638d20081f7b6add211202560f622b.json"
+    },
+    {
+      "id": "55547174ae9457653b21b11214fe488740467d2299b099b78fba1f013eb26593",
+      "uid": "403525.PiKlmmv7Znfy3sscFoxwjx16+sxO50m,5tYbi,VajLA=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "💰 Markets A.M.: Here’s the Real Problem With Stock Buybacks",
+      "date": "Thu, 20 Aug 2026 06:34:08 -0400",
+      "is_read": false,
+      "file": "55547174ae9457653b21b11214fe488740467d2299b099b78fba1f013eb26593.json"
+    },
+    {
+      "id": "af3739c82eb825ceb27d9894fc69828c65980f4596cc4a1b879ee6400312935c",
+      "uid": "403517.VPamC9BeC+NXl77NVgt4tWVqkGlYc+err07r6ftIoDo=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Inside America’s $40 Trillion Debt Problem",
+      "date": "Thu, 20 Aug 2026 06:09:27 -0400",
+      "is_read": false,
+      "file": "af3739c82eb825ceb27d9894fc69828c65980f4596cc4a1b879ee6400312935c.json"
+    },
+    {
+      "id": "570436e85579150cbce0b12a185f51f11513b5eb19d88b90fd7de86aee4c158a",
+      "uid": "403505.h0F16+8OzjIFzRsCqM+Sq2h9JCyjVuKzbxN8etPKy5o=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🎯 Axios AM: AI scrambles election",
+      "date": "Thu, 20 Aug 2026 05:53:04 -0400",
+      "is_read": false,
+      "file": "570436e85579150cbce0b12a185f51f11513b5eb19d88b90fd7de86aee4c158a.json"
+    },
+    {
       "id": "f4bc3d59c30eb3862c8e5d4a3ded7fd2e9a03e695860a622c6bf0d0f87cfc1b9",
       "uid": "401932.gadKAJdwpwxrQe1YHJC9bxq,YKFUBnzy64n29MhN9io=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -315,16 +369,6 @@
       "date": "Thu, 13 Aug 2026 21:29:26 -0400",
       "is_read": true,
       "file": "f4bc3d59c30eb3862c8e5d4a3ded7fd2e9a03e695860a622c6bf0d0f87cfc1b9.json"
-    },
-    {
-      "id": "86061ed02ef19ad8cf9e0363f206db96d14967b8aa18b6f052c274940312517b",
-      "uid": "401810.ETNacaSs0jZSIoqx57Lfy8kPdIf2upGbh4itbEQlQSE=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Power Stocks Lose Steam, Too Much Cash. Hectic European Travel",
-      "subject_ja": "WSJウェルス・アドバイザー・ブリーフィング：電力株は勢いを失い、現金が多すぎる。多忙なヨーロッパ旅行",
-      "date": "Thu, 13 Aug 2026 20:31:53 +1000",
-      "is_read": true,
-      "file": "86061ed02ef19ad8cf9e0363f206db96d14967b8aa18b6f052c274940312517b.json"
     },
     {
       "id": "8cb866ac29bb8e37a25090e0a4efcbbdb19176b604e321d924ae87d667fa945c",
@@ -345,16 +389,6 @@
       "date": "Thu, 13 Aug 2026 17:33:38 -0400",
       "is_read": true,
       "file": "ed047a1e1994bdd5fbb4cdaa974a2a871f86d95edea22a82ab84c22e60855fe5.json"
-    },
-    {
-      "id": "ed9d88cd90f57f71391febd05d55e7e6e6e1d2217251a01b714178ac556d6eaf",
-      "uid": "401743.T453xa8KA3dJD2UivtxejVBNttwsPp3KtifMbf+fwMA=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "subject_ja": "今日のウォール・ストリート・ジャーナル紙版",
-      "date": "Thu, 13 Aug 2026 17:09:50 +1000",
-      "is_read": true,
-      "file": "ed9d88cd90f57f71391febd05d55e7e6e6e1d2217251a01b714178ac556d6eaf.json"
     },
     {
       "id": "2cb0ae34c2b3295f6dc25748c77c7ac2dec3691350b53b5b46541c120325e806",
@@ -425,46 +459,6 @@
       "date": "Thu, 13 Aug 2026 07:28:51 -0400",
       "is_read": true,
       "file": "dd2bc92d620dda27bdc94d092a381d5040cd1132867c12ce9a3f90a2e352d53f.json"
-    },
-    {
-      "id": "955a7b6fcd18e9c08ed02ac825c7d484f49b8deb2cca9c8ff5baf688e06cb24e",
-      "uid": "401819.56InX7nCjTPdRNiNg4q5K01AJPCCNw4e969wax7MMTM=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: No One Wants to Talk About the Debt",
-      "subject_ja": "WSJ政治：誰も借金について話したがらない",
-      "date": "Thu, 13 Aug 2026 07:10:34 -0400",
-      "is_read": true,
-      "file": "955a7b6fcd18e9c08ed02ac825c7d484f49b8deb2cca9c8ff5baf688e06cb24e.json"
-    },
-    {
-      "id": "ae99ca655d9f5f144f1d91c9d6aea3536cda961c491fab6f5cded81a59919fda",
-      "uid": "401808.oXiyB6MX4gntQkeexLkrYpIoCmRndScOM3K0VczpcWQ=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🗾 Markets A.M.: Japanese Drama Is No Sideshow for U.S. Markets",
-      "subject_ja": "🗾 マーケット午前: 日本のドラマは米国市場にとって余興ではない",
-      "date": "Thu, 13 Aug 2026 06:23:37 -0400",
-      "is_read": true,
-      "file": "ae99ca655d9f5f144f1d91c9d6aea3536cda961c491fab6f5cded81a59919fda.json"
-    },
-    {
-      "id": "d3e51caf1456c739de4ccc36d5a5ea03b9f2b3f41a603db2e05a36d41d5b9b27",
-      "uid": "401805.eiUrIjEv+NTtM,M0je+XxU30fmTuImt,5WNthddtbdU=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🦾 Axios AM: Big AI comeback",
-      "subject_ja": "",
-      "date": "Thu, 13 Aug 2026 06:09:16 -0400",
-      "is_read": true,
-      "file": "d3e51caf1456c739de4ccc36d5a5ea03b9f2b3f41a603db2e05a36d41d5b9b27.json"
-    },
-    {
-      "id": "d29f2a0e324f526545ee2b0e0d47e764c5a4e64741e940f6fd2f1938bd8e6eae",
-      "uid": "401800.FPmMvEnTO7DUw9vdgRCgh0ahVCYuBJjBbg9TQmvg3rw=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Inside North Korea’s Secret U.S. Workforce ",
-      "subject_ja": "10 のポイント: 北朝鮮の秘密米国労働力の内部",
-      "date": "Thu, 13 Aug 2026 06:01:04 -0400",
-      "is_read": true,
-      "file": "d29f2a0e324f526545ee2b0e0d47e764c5a4e64741e940f6fd2f1938bd8e6eae.json"
     },
     {
       "id": "1db3f9822491f732f2af774680e9fbd4922609a31dfb6787ed61602efc091e60",
