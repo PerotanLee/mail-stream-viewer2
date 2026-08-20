@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6371 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-20T11:17:52.897041+00:00",
-  "added": 1,
+  "updated_at": "2026-08-20T11:17:54.234880+00:00",
+  "added": 2,
   "skipped": 10,
   "scanned": 12,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "💰 Markets A.M.: Here’s the Real Problem With Stock Buybacks",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 0,
     "seekingalpha": 0
   },
