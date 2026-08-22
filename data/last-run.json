@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6662 from=\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-22T05:27:45.116508+00:00",
-  "added": 1,
+  "updated_at": "2026-08-22T05:27:46.204162+00:00",
+  "added": 2,
   "skipped": 82,
   "scanned": 84,
-  "current": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "current": "Stubborn Yields",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 1,
     "seekingalpha": 0
   },
