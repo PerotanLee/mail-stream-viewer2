@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6661 from=Must Reads <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-22T05:27:47.362035+00:00",
-  "added": 2,
+  "updated_at": "2026-08-22T05:27:48.293526+00:00",
+  "added": 3,
   "skipped": 82,
   "scanned": 85,
-  "current": "Must Reads <account@seekingalpha.com>",
+  "current": "Buying Marvell Before Broadcom Is A Big Mistake",
   "added_by_filter": {
     "wsj": 1,
     "axios": 1,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 6425,
   "newest_num": 6745,
