@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6609 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-22T05:28:21.352869+00:00",
-  "added": 15,
+  "updated_at": "2026-08-22T05:28:22.327334+00:00",
+  "added": 16,
   "skipped": 121,
   "scanned": 137,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "💥 Axios AM: America's debt explosion",
   "added_by_filter": {
     "wsj": 6,
-    "axios": 6,
+    "axios": 7,
     "seekingalpha": 3
   },
   "last_newest_num": 6425,
