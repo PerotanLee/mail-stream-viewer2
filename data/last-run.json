@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6615 from=Seeking Alpha <subscriptions@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-22T05:28:14.655846+00:00",
-  "added": 12,
+  "updated_at": "2026-08-22T05:28:15.695051+00:00",
+  "added": 13,
   "skipped": 118,
   "scanned": 131,
-  "current": "Seeking Alpha <subscriptions@seekingalpha.com>",
+  "current": "See what’s moving the markets this week",
   "added_by_filter": {
     "wsj": 4,
     "axios": 6,
-    "seekingalpha": 2
+    "seekingalpha": 3
   },
   "last_newest_num": 6425,
   "newest_num": 6745,
