@@ -316,6 +316,15 @@
       "file": "0e4aeb13cc498f8d8a953a812382b82bc241a4954d2ebc8c91b503a5e81c8a6c.json"
     },
     {
+      "id": "2aa902cb16674a9ac7e945c69a86c26a3de940eaf404f1e32f0819cceadb75ff",
+      "uid": "403597.L2DJ3wuMGclegdXiH0Pza9hyE+lWKfZ6p,GDesnvELk=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🥶 Walmart sparks a chill",
+      "date": "Thu, 20 Aug 2026 17:42:32 -0400",
+      "is_read": false,
+      "file": "2aa902cb16674a9ac7e945c69a86c26a3de940eaf404f1e32f0819cceadb75ff.json"
+    },
+    {
       "id": "7d6ca1da96ea98620801fe634459ad7dba971cf06b65d42fff934f5a2de80eb4",
       "uid": "403455.Wp1gPIxS58WgqEia50oLjNMgk,1O8EDl4iqsBJ5vdSY=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -433,36 +442,6 @@
       "file": "570436e85579150cbce0b12a185f51f11513b5eb19d88b90fd7de86aee4c158a.json"
     },
     {
-      "id": "f4bc3d59c30eb3862c8e5d4a3ded7fd2e9a03e695860a622c6bf0d0f87cfc1b9",
-      "uid": "401932.gadKAJdwpwxrQe1YHJC9bxq,YKFUBnzy64n29MhN9io=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "❤️ Axios Finish Line: Family ties",
-      "subject_ja": "",
-      "date": "Thu, 13 Aug 2026 21:29:26 -0400",
-      "is_read": true,
-      "file": "f4bc3d59c30eb3862c8e5d4a3ded7fd2e9a03e695860a622c6bf0d0f87cfc1b9.json"
-    },
-    {
-      "id": "8cb866ac29bb8e37a25090e0a4efcbbdb19176b604e321d924ae87d667fa945c",
-      "uid": "401917.5Ei0YK38wZt2464z2ipl42y0AVc82EyQWbaO9i1KQaI=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket",
-      "subject_ja": "マンション取引に関する警告: メイン州の高級市場はハンプトンズやナンタケット島に似てきている",
-      "date": "Thu, 13 Aug 2026 20:15:20 -0400",
-      "is_read": true,
-      "file": "8cb866ac29bb8e37a25090e0a4efcbbdb19176b604e321d924ae87d667fa945c.json"
-    },
-    {
-      "id": "ed047a1e1994bdd5fbb4cdaa974a2a871f86d95edea22a82ab84c22e60855fe5",
-      "uid": "401883.WH4LI+29+O8e1C6vEYckYKiRfwX9zJ,VzLJNVncqNFA=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🚙 U.S., China change lanes",
-      "subject_ja": "",
-      "date": "Thu, 13 Aug 2026 17:33:38 -0400",
-      "is_read": true,
-      "file": "ed047a1e1994bdd5fbb4cdaa974a2a871f86d95edea22a82ab84c22e60855fe5.json"
-    },
-    {
       "id": "1db3f9822491f732f2af774680e9fbd4922609a31dfb6787ed61602efc091e60",
       "uid": "402458.J5Sz4I2nh56B79i1LNv0Vcavua2B10O8zyFuD0gNHPc=",
       "from_addr": "noreply@axios.com",
@@ -521,16 +500,6 @@
       "date": "Sat, 15 Aug 2026 07:03:57 -0400",
       "is_read": true,
       "file": "3f110933ab3143368bab1c47156e7147cfd701b4d1beb22974a3d7b2db8a19f3.json"
-    },
-    {
-      "id": "3b3c45b6dc5032c58be4192c1aaccd21dfc4854d175595d1c200f61d5f23d84c",
-      "uid": "402211.mffv7Vi43MCCtAT1wMEHNM7NYmgIIaNl6zA,AvDHaKo=",
-      "from_addr": "The Journal Collection <TheJournalCollection@em.wsj.com>",
-      "subject": "大原, don’t miss this subscriber-only mortgage perk",
-      "subject_ja": "大原さん、この加入者限定の住宅ローン特典をお見逃しなく",
-      "date": "Sat, 15 Aug 2026 01:34:21 +0000",
-      "is_read": true,
-      "file": "3b3c45b6dc5032c58be4192c1aaccd21dfc4854d175595d1c200f61d5f23d84c.json"
     },
     {
       "id": "ce4e4c56e2696ba3b418a467a5a7e87495000355705a4a2f93b95ada05cc50dc",
@@ -666,164 +635,175 @@
       "file": "cb9e47ba9d8ab9377f8e757f60a74255aef7c4bc9b54025615846971cb72892b.json"
     },
     {
-      "id": "cc059fe233f6ec2136ce8fa3c2eee445bd62c0cc313f28794b2a6190fba4bc81",
-      "uid": "402094.PZ9bxlKaBO+39CJjU7e0KZ4Zb0qJdB8TtF7EPwaXVfE=",
+      "id": "1a02c59d411f056e84ea9b38d30935a3d5d42617b749302cd39bbfe336a04c0f",
+      "uid": "403807.suiA2bBiRwCAInq8X1jOw2KpNNhkXNy8brYd2pq0o88=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Inflation Protection on Sale, Tariff Refunds, Cuddly Mascots",
-      "subject_ja": "WSJウェルス・アドバイザー・ブリーフィング：インフレ保護セール、関税還付、かわいいマスコット",
-      "date": "Fri, 14 Aug 2026 20:31:55 +1000",
-      "is_read": true,
-      "file": "cc059fe233f6ec2136ce8fa3c2eee445bd62c0cc313f28794b2a6190fba4bc81.json"
+      "subject": "WSJ Wealth Adviser Briefing: Off-Grid Power Push, Meal-Kit Industry, Claw Machines",
+      "date": "Fri, 21 Aug 2026 20:31:51 +1000",
+      "is_read": false,
+      "file": "1a02c59d411f056e84ea9b38d30935a3d5d42617b749302cd39bbfe336a04c0f.json"
     },
     {
-      "id": "827c90dbf4f3f5610fea4f1055d6c51ec244bdb0630b51e20af0b7628814b9a5",
-      "uid": "402029.iJP58WF+7kmf+FnS,7SEH7IJMGVpLC68imO8P9w3UqE=",
+      "id": "4e01befb4c635f983b195729f4fe626bfbe99f3c6ce3b027a13c8da02ac69e35",
+      "uid": "403878.rc,1dBp6IQiGFgxhq2eEhsoAjbQ6KmvsrbelyFaH1hw=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🐂 Herd on the street",
+      "date": "Fri, 21 Aug 2026 17:36:28 -0400",
+      "is_read": false,
+      "file": "4e01befb4c635f983b195729f4fe626bfbe99f3c6ce3b027a13c8da02ac69e35.json"
+    },
+    {
+      "id": "1f2c212b1897f21e1bf744ac99c52ad1f463f631c64595cb59f2570b63fee4ac",
+      "uid": "403730.KH4FDlHn05fqqeSTXNR2diMufkPD8MqWXicrLMhkgXk=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "subject_ja": "今日のウォール・ストリート・ジャーナル紙版",
-      "date": "Fri, 14 Aug 2026 17:09:50 +1000",
-      "is_read": true,
-      "file": "827c90dbf4f3f5610fea4f1055d6c51ec244bdb0630b51e20af0b7628814b9a5.json"
+      "date": "Fri, 21 Aug 2026 17:09:50 +1000",
+      "is_read": false,
+      "file": "1f2c212b1897f21e1bf744ac99c52ad1f463f631c64595cb59f2570b63fee4ac.json"
     },
     {
-      "id": "34e9bdf3c696ab34504f8da322e69f40f577f101f3c63cf9d54b2e31044cc7c4",
-      "uid": "402157.icFFFh3hvw4m2fJONYpt7qTKR7liPbiTcT0Izbiw3qI=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🚁 Drone stocks take off",
-      "subject_ja": "",
-      "date": "Fri, 14 Aug 2026 16:50:39 -0400",
-      "is_read": true,
-      "file": "34e9bdf3c696ab34504f8da322e69f40f577f101f3c63cf9d54b2e31044cc7c4.json"
-    },
-    {
-      "id": "751bcdfb74664a57cb36168de7f3a494c2f40508e5c0eddaf1dfac5f111bfc3b",
-      "uid": "402154.vtimJRASWi2pAtbrDQC5IQjlVqVEeB,LtFFCNOxHOjU=",
+      "id": "880e0362c8d7a1b221d80c619930d768b082320efa1b5fe641436821a8b51931",
+      "uid": "403867.8SwN8kcCy+DCmVyJZoB5yM,EJXvS66Rbx4Ht2btqGQY=",
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Consumer Warning Lights",
-      "subject_ja": "消費者向け警告灯",
-      "date": "Fri, 14 Aug 2026 16:32:31 -0400",
-      "is_read": true,
-      "file": "751bcdfb74664a57cb36168de7f3a494c2f40508e5c0eddaf1dfac5f111bfc3b.json"
+      "subject": "Stubborn Yields",
+      "date": "Fri, 21 Aug 2026 16:30:39 -0400",
+      "is_read": false,
+      "file": "880e0362c8d7a1b221d80c619930d768b082320efa1b5fe641436821a8b51931.json"
     },
     {
-      "id": "8ef8e58c0348ae66e1eea67ef0009d27d1553b4ef8237201a0e04125863cfe3f",
-      "uid": "402149.cHGr+C6EHN3INUQqeM4Zk4UWPcWRgjhy1d7WlyXAR7I=",
+      "id": "ece03c8af8ca1bcc21338f76d7f4d61bc4828a79af573a1e2bd42022a2ab5a77",
+      "uid": "403865.,UPlKp7uGOD2Iqg8YqhiMGCDvqgdlkRxS+l9+wOQYtM=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Buying Marvell Before Broadcom Is A Big Mistake",
+      "date": "Fri, 21 Aug 2026 15:55:57 -0400",
+      "is_read": false,
+      "file": "ece03c8af8ca1bcc21338f76d7f4d61bc4828a79af573a1e2bd42022a2ab5a77.json"
+    },
+    {
+      "id": "161d78962c027f28ab8d57095de1cae2aaafd1dd110ec32106ae734e57c60809",
+      "uid": "403864.i4gu1k1yyua8bht3jfhjKR5iAOISd9x5GrLT61Fh9JE=",
       "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
-      "subject": "Maine Is Catching Up to the Hamptons and Nantucket",
-      "subject_ja": "メイン州がハンプトンズとナンタケットに追いつきつつある",
-      "date": "Fri, 14 Aug 2026 15:31:10 -0400",
-      "is_read": true,
-      "file": "8ef8e58c0348ae66e1eea67ef0009d27d1553b4ef8237201a0e04125863cfe3f.json"
+      "subject": "A Revolutionary War-Era Home Gets a $1 Million Restoration",
+      "date": "Fri, 21 Aug 2026 15:31:05 -0400",
+      "is_read": false,
+      "file": "161d78962c027f28ab8d57095de1cae2aaafd1dd110ec32106ae734e57c60809.json"
     },
     {
-      "id": "08a780d28d3c444acadb7d0486c17ab6b0b8fcf7324f29c599a2009d0e55154d",
-      "uid": "402148.ZVWD9WVrj6aR77K,U,z7wjf+Q28lKmoURt5sKPN9iJ8=",
+      "id": "f1ab5f50840a2e2564c253979bd618708f987751e80ad14a3c7dcd03761d1247",
+      "uid": "403863.7erDIvUJcOc,pBayIihg51SAp73rlj0jtiEvIp3UunY=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🏔️ Axios PM: Jet-setting Americans",
-      "subject_ja": "",
-      "date": "Fri, 14 Aug 2026 15:06:47 -0400",
-      "is_read": true,
-      "file": "08a780d28d3c444acadb7d0486c17ab6b0b8fcf7324f29c599a2009d0e55154d.json"
+      "subject": "🍔 Axios PM: Here's the beef",
+      "date": "Fri, 21 Aug 2026 15:00:46 -0400",
+      "is_read": false,
+      "file": "f1ab5f50840a2e2564c253979bd618708f987751e80ad14a3c7dcd03761d1247.json"
     },
     {
-      "id": "5cdf1a50188915f9d0d2762f30379643d7bf8f2847479fe2e7c0b26b1c11a1ab",
-      "uid": "402137.Fvl5tG0hoHylPITv6zBQuTfHXaxzpEGrwuiO6O8wh14=",
+      "id": "27569f0fccbd95328d64a4ca13cf1d69d15300b01c9d09050590d2d15a4d3cd0",
+      "uid": "403858.Xmg8ASvPujlpqjSIt0h5ZWmTpWevB,ZWT0,hxsxt+1g=",
       "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "💸 Retail sputters",
-      "subject_ja": "",
-      "date": "Fri, 14 Aug 2026 11:58:30 -0400",
-      "is_read": true,
-      "file": "5cdf1a50188915f9d0d2762f30379643d7bf8f2847479fe2e7c0b26b1c11a1ab.json"
+      "subject": "🌍 The next China shock",
+      "date": "Fri, 21 Aug 2026 12:08:58 -0400",
+      "is_read": false,
+      "file": "27569f0fccbd95328d64a4ca13cf1d69d15300b01c9d09050590d2d15a4d3cd0.json"
     },
     {
-      "id": "155b23d9710a2edb3369ea37eae7798f92987273561c047550e6a782baa2ac1c",
-      "uid": "402133.sUQdR9PU+62IFXWhkHmGPhEOelnAqtupRsSydhONg7I=",
+      "id": "f3c49c501cf6f60a9a024da459eb5f9a14c33e4c2f5e16722d1b62653a7cc746",
+      "uid": "403852.OM7LeF,lsFY5qdFJzcV52DDoJinX0z+Ih6U2Jqz237U=",
       "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Copperhead road",
-      "subject_ja": "",
-      "date": "Fri, 14 Aug 2026 10:11:51 -0400",
-      "is_read": true,
-      "file": "155b23d9710a2edb3369ea37eae7798f92987273561c047550e6a782baa2ac1c.json"
+      "subject": "Axios Pro Rata: Data center disconnect",
+      "date": "Fri, 21 Aug 2026 09:44:48 -0400",
+      "is_read": false,
+      "file": "f3c49c501cf6f60a9a024da459eb5f9a14c33e4c2f5e16722d1b62653a7cc746.json"
     },
     {
-      "id": "629719d5a104319f6e2f9176390ffbc3f75111b987fb6b4e92f2f18ef26be594",
-      "uid": "402129.RmD4GoQtakkP,L,REzFWJMrqImVqpX1ZGTcb3+BpFY0=",
+      "id": "fae99ebf4b624a150011437f6dd3d309f87440bdd803ea7897c7b6bd55a4c8b2",
+      "uid": "403849.nyOoMnRqiAtCbDLNEJw0wpfyA6b53FetxP9lhpRxsoo=",
       "from_addr": "AI+ Government <ai.plus.gov@axios.com>",
-      "subject": "🤝 Strange AI coalitions",
-      "subject_ja": "",
-      "date": "Fri, 14 Aug 2026 09:28:24 -0400",
-      "is_read": true,
-      "file": "629719d5a104319f6e2f9176390ffbc3f75111b987fb6b4e92f2f18ef26be594.json"
+      "subject": "📢 Data center messaging",
+      "date": "Fri, 21 Aug 2026 09:28:21 -0400",
+      "is_read": false,
+      "file": "fae99ebf4b624a150011437f6dd3d309f87440bdd803ea7897c7b6bd55a4c8b2.json"
     },
     {
-      "id": "430f95cf02a92482d6decef3bc6d80ab207711b67350241ba5020ffbfbc07d23",
-      "uid": "402121.s5HVkX23jWPPMtDk+FDOgAReS6575pT6Ch8pOUuTvQw=",
+      "id": "4c25a85c7a955b3525ac1abc0c948077a3d8ddf7816d6d4f9a570361d8915c3f",
+      "uid": "403840.9RPMz+kUPD5MkUUm2qNlum5kF8f0JQmVCFWf0FPRyWo=",
       "from_addr": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Travel: About Europe’s EES 🛂",
-      "subject_ja": "WSJ Travel: ヨーロッパの EES について 🛂",
-      "date": "Fri, 14 Aug 2026 08:31:06 -0400",
-      "is_read": true,
-      "file": "430f95cf02a92482d6decef3bc6d80ab207711b67350241ba5020ffbfbc07d23.json"
+      "subject": "WSJ Travel: 🛳️ A Widower’s Travel Dilemma",
+      "date": "Fri, 21 Aug 2026 08:39:31 -0400",
+      "is_read": false,
+      "file": "4c25a85c7a955b3525ac1abc0c948077a3d8ddf7816d6d4f9a570361d8915c3f.json"
     },
     {
-      "id": "c855cd6c40c7904b305975970e90b9c5d2099ea23a7fbcccb948c67e5e581725",
-      "uid": "402111.dKzQx2sgUtCBCz1xhgunEUrJRFuyRw+A+hEBiN+a42I=",
+      "id": "6fce246c9869dbd71ae8e2263c0825c8ae1dd0ea76f2d84848b2a587b65c3d4f",
+      "uid": "403837.iKa9RolE7akqkVLE6RzHdn8q3Hw6RKuyNPX+ZmapEWg=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Bessent, Bonds, Buybacks & Backstops",
+      "date": "Fri, 21 Aug 2026 08:25:29 -0400",
+      "is_read": false,
+      "file": "6fce246c9869dbd71ae8e2263c0825c8ae1dd0ea76f2d84848b2a587b65c3d4f.json"
+    },
+    {
+      "id": "48da2f01e5ef55f922f27487cb489149eacbd4c8ecaaac44747bb64a3f4f4472",
+      "uid": "403827.89lDbePbN5hsVS0da0FfmC5OjLzHR9LjTMa9k1qSkGo=",
       "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🐚 Soft shell",
-      "subject_ja": "",
-      "date": "Fri, 14 Aug 2026 07:29:01 -0400",
-      "is_read": true,
-      "file": "c855cd6c40c7904b305975970e90b9c5d2099ea23a7fbcccb948c67e5e581725.json"
+      "subject": "💵 Dollar danger",
+      "date": "Fri, 21 Aug 2026 07:29:01 -0400",
+      "is_read": false,
+      "file": "48da2f01e5ef55f922f27487cb489149eacbd4c8ecaaac44747bb64a3f4f4472.json"
     },
     {
-      "id": "ba89e43ad255d9ad7c8f04d8226e9d6b02f7090389d89b8a944c6c5e66e898c6",
-      "uid": "402104.edhxutPnYBjEGtYx,11LdcsnIJ6q3AWTnBfw,cad8FE=",
+      "id": "0bccfc0ff52348f04c44ba0c0e68ffdd25ec18a3d18231d9f7aab0d26ebd6434",
+      "uid": "403813.YrXXrD1E3dHJ3esTyTKKrgFBj5B9Yl8iNLOESG,hSI8=",
       "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Hakeem Jeffries Targets the Supreme Court",
-      "subject_ja": "WSJ政治：ハキーム・ジェフリーズ氏が最高裁判所を標的に",
-      "date": "Fri, 14 Aug 2026 07:08:16 -0400",
-      "is_read": true,
-      "file": "ba89e43ad255d9ad7c8f04d8226e9d6b02f7090389d89b8a944c6c5e66e898c6.json"
+      "subject": "WSJ Politics: The Ballroom Gets Its Day at the Supreme Court",
+      "date": "Fri, 21 Aug 2026 06:54:09 -0400",
+      "is_read": false,
+      "file": "0bccfc0ff52348f04c44ba0c0e68ffdd25ec18a3d18231d9f7aab0d26ebd6434.json"
     },
     {
-      "id": "df24a5c519e5af18aafedcb241f4dd2f6898714632bed17761cb537980811e2d",
-      "uid": "402095.kEqFWci0YkHZ1LtY60N9bedUQdpLDEgwM24jbFeaMkU=",
+      "id": "71a6a816e904e3a612915bb14126a18c4bc0a9bea52c9e2933f576d5b63b9565",
+      "uid": "403810.yhKM7NljpcA4UVX8wcPJ8CEXNbgr7xUcr8bbYKr0F6Q=",
+      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
+      "subject": "See what’s moving the markets this week",
+      "date": "Fri, 21 Aug 2026 06:42:21 -0400",
+      "is_read": false,
+      "file": "71a6a816e904e3a612915bb14126a18c4bc0a9bea52c9e2933f576d5b63b9565.json"
+    },
+    {
+      "id": "420df2326d7156f4686d544a8672c364e0e2d9ece41c6c100b521883b3051c22",
+      "uid": "403808.hIQzsUr3sqructaPlpPdPtIT+yK6wMpH,vHdLEvP6zc=",
       "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🌈 Markets A.M.: Companies Have Rarely Had Such Great Expectations",
-      "subject_ja": "🌈 午前の市場: 企業がこれほど大きな期待を抱くことはめったにありません",
-      "date": "Fri, 14 Aug 2026 06:32:53 -0400",
-      "is_read": true,
-      "file": "df24a5c519e5af18aafedcb241f4dd2f6898714632bed17761cb537980811e2d.json"
+      "subject": "🎂 Markets A.M.: How Index Funds Went From Being Mocked to Feared in 50 Years",
+      "date": "Fri, 21 Aug 2026 06:32:19 -0400",
+      "is_read": false,
+      "file": "420df2326d7156f4686d544a8672c364e0e2d9ece41c6c100b521883b3051c22.json"
     },
     {
-      "id": "79b460bd7e0339ff63dd001f279acbc906fa70319d0acefe0836a8aad57de1fa",
-      "uid": "402089.ntDAFtZPArLhL5Lyq6sAUdXZ5iBQaubzzdQdBk3JJP8=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Inside Trump and Musk's Quiet Political Reunion",
-      "subject_ja": "10 のポイント: トランプとマスクの静かな政治的再会の内側",
-      "date": "Fri, 14 Aug 2026 06:10:35 -0400",
-      "is_read": true,
-      "file": "79b460bd7e0339ff63dd001f279acbc906fa70319d0acefe0836a8aad57de1fa.json"
-    },
-    {
-      "id": "c7de17dc2cfd84eb756ea7ba01d73d50447dc7b8dba9419bca608fbc4d393550",
-      "uid": "402081.abLgG6oJoEj,4irL5iMjFEliIpfiqyrBOKJZ5FS3CmI=",
+      "id": "fe5b7e4fb41d3faab13efb76703ac9965226cbebb2ad85301ceaee2e6e5e12f8",
+      "uid": "403804.CVnvUe6VGh4T9nVoV11KGViWYMK9eOqTwXh0JtnFpcw=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "👀 Axios AM: New Bibi-Trump rift",
-      "subject_ja": "",
-      "date": "Fri, 14 Aug 2026 05:48:19 -0400",
-      "is_read": true,
-      "file": "c7de17dc2cfd84eb756ea7ba01d73d50447dc7b8dba9419bca608fbc4d393550.json"
+      "subject": "💥 Axios AM: America's debt explosion",
+      "date": "Fri, 21 Aug 2026 06:07:52 -0400",
+      "is_read": false,
+      "file": "fe5b7e4fb41d3faab13efb76703ac9965226cbebb2ad85301ceaee2e6e5e12f8.json"
     },
     {
-      "id": "e53f9d1dd3558ca29714bdbe613e4ce75640ac342baf142442e3f3b232da01f8",
-      "uid": "402079.,TXQs9KHCgyp,RH7yK7KbV3R+OMV9C+9KOBiWSEBwTg=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "The latest from Jason Zweig",
-      "subject_ja": "ジェイソン・ツヴァイクの最新作",
-      "date": "Fri, 14 Aug 2026 05:45:20 -0400",
-      "is_read": true,
-      "file": "e53f9d1dd3558ca29714bdbe613e4ce75640ac342baf142442e3f3b232da01f8.json"
+      "id": "0e21140a637079293c77aa445c66141680bd1c4916a48331ad393d76244898e3",
+      "uid": "403803.4iny2qM699csHNKNXNIpi4hOtpUjzCipkN,PP2l6h70=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: When Backing Data Centers Backfires",
+      "date": "Fri, 21 Aug 2026 06:05:15 -0400",
+      "is_read": false,
+      "file": "0e21140a637079293c77aa445c66141680bd1c4916a48331ad393d76244898e3.json"
+    },
+    {
+      "id": "4b72c00f01e3bdec327f1143c5d3a18976d0444d3cc8dda5277c3223e531e4d0",
+      "uid": "403778.XT4OuX1Mn2awJ5HM+m6XjMg2UAMS48KMEBdJAGEVjvc=",
+      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
+      "subject": "Investment News Quiz - Friday, Aug. 21",
+      "date": "Fri, 21 Aug 2026 05:06:55 -0400",
+      "is_read": false,
+      "file": "4b72c00f01e3bdec327f1143c5d3a18976d0444d3cc8dda5277c3223e531e4d0.json"
     }
   ]
 }
