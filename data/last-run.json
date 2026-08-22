@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6669 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-22T05:27:41.921916+00:00",
-  "added": 0,
+  "updated_at": "2026-08-22T05:27:43.159204+00:00",
+  "added": 1,
   "skipped": 76,
   "scanned": 77,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "🐂 Herd on the street",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 6425,
