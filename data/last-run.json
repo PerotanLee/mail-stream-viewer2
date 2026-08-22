@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6612 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-22T05:28:18.905099+00:00",
-  "added": 14,
+  "updated_at": "2026-08-22T05:28:19.890114+00:00",
+  "added": 15,
   "skipped": 119,
   "scanned": 134,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "WSJ Wealth Adviser Briefing: Off-Grid Power Push, Meal-Kit Industry, Claw Machines",
   "added_by_filter": {
-    "wsj": 5,
+    "wsj": 6,
     "axios": 6,
     "seekingalpha": 3
   },
