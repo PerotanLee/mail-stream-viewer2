@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6613 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-22T05:28:16.913943+00:00",
-  "added": 13,
+  "updated_at": "2026-08-22T05:28:17.811461+00:00",
+  "added": 14,
   "skipped": 119,
   "scanned": 133,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "🎂 Markets A.M.: How Index Funds Went From Being Mocked to Feared in 50 Years",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 6,
     "seekingalpha": 3
   },
