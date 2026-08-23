@@ -442,6 +442,15 @@
       "file": "570436e85579150cbce0b12a185f51f11513b5eb19d88b90fd7de86aee4c158a.json"
     },
     {
+      "id": "9f5c4467d84bdf6a1e67baa19d3f26293d16e100a1d5c4812c0c115e6a438f3b",
+      "uid": "404159.qC9zYLHK9TuWwqKrkyzji,MsgLlAsSjbu2dUvBTJ97g=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: The Family Feud at the Jack Daniel's Empire",
+      "date": "Sun, 23 Aug 2026 07:02:34 -0400",
+      "is_read": false,
+      "file": "9f5c4467d84bdf6a1e67baa19d3f26293d16e100a1d5c4812c0c115e6a438f3b.json"
+    },
+    {
       "id": "1db3f9822491f732f2af774680e9fbd4922609a31dfb6787ed61602efc091e60",
       "uid": "402458.J5Sz4I2nh56B79i1LNv0Vcavua2B10O8zyFuD0gNHPc=",
       "from_addr": "noreply@axios.com",
@@ -462,44 +471,49 @@
       "file": "79af7b8c627630d169089d725e5aa817cc91d1fc5f78bccbe6e07134e68e6a55.json"
     },
     {
-      "id": "29c87ef07433461191208aa4187c70593f598c2afbfa6a04e909bb4e8093da51",
-      "uid": "402445.cI4XmKc+2TAvFzW7Qohzwprytv,foommPCN1QYkGrzc=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: They Refused $26 Million From an AI Data Center",
-      "subject_ja": "10 のポイント: AI データセンターからの 2,600 万ドルの支払いを拒否",
-      "date": "Sun, 16 Aug 2026 07:06:23 -0400",
-      "is_read": true,
-      "file": "29c87ef07433461191208aa4187c70593f598c2afbfa6a04e909bb4e8093da51.json"
-    },
-    {
-      "id": "7e9216c0e94934a98bce36a19dc6a01ab473baa4b0652af2855616068d0212fe",
-      "uid": "402271.bzzOLdt6rPVQKs7GGfEOCiiuMTKTkjfopz0tNU+SMTw=",
+      "id": "2391b8308f4401a00227c0841e4167c237d11ccf95f862b7efc4ce2ccafd50d4",
+      "uid": "403983.MUd7VSX3B+m8yVPqUamAyBhY3+dEQ56tiKxXqnNnmfI=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "subject_ja": "今日のウォール・ストリート・ジャーナル紙版",
-      "date": "Sat, 15 Aug 2026 17:09:49 +1000",
-      "is_read": true,
-      "file": "7e9216c0e94934a98bce36a19dc6a01ab473baa4b0652af2855616068d0212fe.json"
+      "date": "Sat, 22 Aug 2026 17:09:50 +1000",
+      "is_read": false,
+      "file": "2391b8308f4401a00227c0841e4167c237d11ccf95f862b7efc4ce2ccafd50d4.json"
     },
     {
-      "id": "e530c37453c99e3a49f8adc9d71b451a254bfbb9fbe4b4a934f31a816e25ca64",
-      "uid": "402309.RnW0qh8iu75Z20dSXuuXQz,tOE2DoGnCBzUorWieqbs=",
+      "id": "8d62045776f20e69272e6f9c0e2c46ae1caf21690f007b7ad863811ae53e1055",
+      "uid": "404047.ZblJSh6W2qoaS0NnlEaibg3mRjiqSL,8R9RDqdxwcWA=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "9% Yields With Well-Covered And Growing Dividends For Early Retirement",
+      "date": "Sat, 22 Aug 2026 15:56:23 -0400",
+      "is_read": false,
+      "file": "8d62045776f20e69272e6f9c0e2c46ae1caf21690f007b7ad863811ae53e1055.json"
+    },
+    {
+      "id": "12238ab925352369e9d0c6fae3de88f931b703a2fec3738f38b6aea707fecf26",
+      "uid": "404040.ekhHNUCisrYQD4YKhvVhrSKzuTqkHEM9Pl6iIWOyQlk=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🧮 Axios AM: New college calculus",
-      "subject_ja": "",
-      "date": "Sat, 15 Aug 2026 07:33:09 -0400",
-      "is_read": true,
-      "file": "e530c37453c99e3a49f8adc9d71b451a254bfbb9fbe4b4a934f31a816e25ca64.json"
+      "subject": "🗳️ Axios AM — Scoop: AIPAC rupture",
+      "date": "Sat, 22 Aug 2026 08:54:23 -0400",
+      "is_read": false,
+      "file": "12238ab925352369e9d0c6fae3de88f931b703a2fec3738f38b6aea707fecf26.json"
     },
     {
-      "id": "3f110933ab3143368bab1c47156e7147cfd701b4d1beb22974a3d7b2db8a19f3",
-      "uid": "402304.EocCSxWc54lt5wlAhePdw3oQ3,QyT0d+BiQNPkWWg64=",
+      "id": "902c7335e153d2888200b2cf01f76eacb94a3346e5ab3b4dbaff2649038a8523",
+      "uid": "404032.E6lVa7ZqhMfggYHOvy2qaQEIU9XCSzb6OsyN2ewp7ys=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "What Moved Markets This Week",
+      "date": "Sat, 22 Aug 2026 07:23:24 -0400",
+      "is_read": false,
+      "file": "902c7335e153d2888200b2cf01f76eacb94a3346e5ab3b4dbaff2649038a8523.json"
+    },
+    {
+      "id": "40ee7d2e100daa94a33f65ac97bc032126b8db705f4f503fb9bfcd63ec43cbee",
+      "uid": "404029.rIYVmjosHcCsgC9qCr01rdKnkh57lrogc7qK5oRXdDY=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Even Billionaires Struggle to Join This Miami Club",
-      "subject_ja": "10 のポイント: 億万長者でもこのマイアミのクラブに入会するのは難しい",
-      "date": "Sat, 15 Aug 2026 07:03:57 -0400",
-      "is_read": true,
-      "file": "3f110933ab3143368bab1c47156e7147cfd701b4d1beb22974a3d7b2db8a19f3.json"
+      "subject": "The 10-Point: How a Big Bet Brought Moderna Back From the Brink",
+      "date": "Sat, 22 Aug 2026 07:04:07 -0400",
+      "is_read": false,
+      "file": "40ee7d2e100daa94a33f65ac97bc032126b8db705f4f503fb9bfcd63ec43cbee.json"
     },
     {
       "id": "ce4e4c56e2696ba3b418a467a5a7e87495000355705a4a2f93b95ada05cc50dc",
