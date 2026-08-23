@@ -739,7 +739,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Bessent, Bonds, Buybacks & Backstops",
       "date": "Fri, 21 Aug 2026 08:25:29 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "6fce246c9869dbd71ae8e2263c0825c8ae1dd0ea76f2d84848b2a587b65c3d4f.json"
     },
     {
