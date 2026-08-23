@@ -694,7 +694,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🍔 Axios PM: Here's the beef",
       "date": "Fri, 21 Aug 2026 15:00:46 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "f1ab5f50840a2e2564c253979bd618708f987751e80ad14a3c7dcd03761d1247.json"
     },
     {
