@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6156 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-24T04:44:49.003431+00:00",
-  "added": 1,
+  "updated_at": "2026-08-24T04:44:50.001739+00:00",
+  "added": 2,
   "skipped": 96,
   "scanned": 98,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "👀 Axios AM: Everything-in-play election",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 1
   },
   "last_newest_num": 6900,
