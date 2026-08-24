@@ -447,7 +447,7 @@
       "from_addr": "Must Reads <account@seekingalpha.com>",
       "subject": "Hedging Exposure In This Volatile Market",
       "date": "Sun, 23 Aug 2026 15:56:24 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "e7e6805cf3828d00fbc4def3384ade990c1b5646498c8758328c8ee8f419a3a1.json"
     },
     {
