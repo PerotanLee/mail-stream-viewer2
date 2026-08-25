@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=2745 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-25T02:40:21.472784+00:00",
-  "added": 5,
+  "updated_at": "2026-08-25T02:40:22.522025+00:00",
+  "added": 6,
   "skipped": 79,
   "scanned": 85,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🌡️ Axios PM: Keeping buildings cool",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 2,
+    "axios": 3,
     "seekingalpha": 1
   },
   "last_newest_num": 6253,
