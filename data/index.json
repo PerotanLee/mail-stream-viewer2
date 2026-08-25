@@ -523,137 +523,157 @@
       "file": "40ee7d2e100daa94a33f65ac97bc032126b8db705f4f503fb9bfcd63ec43cbee.json"
     },
     {
-      "id": "ce4e4c56e2696ba3b418a467a5a7e87495000355705a4a2f93b95ada05cc50dc",
-      "uid": "402677.X,okcmmE,C3YRyd02Vj3WWvb6wpmFpWhOZk9CehbQac=",
+      "id": "02e2d1327d05fa721bc31919a645521fbee8e203392054c55d23a3e7a9aa0e71",
+      "uid": "404384.j43XWg8hNYfgwwDOTKWzQ6rBcM3SCH8fOo3ScuDOdSE=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing; Pushing Private Funds, Big Tech’s Earnings, Pickle-Flavored Everything",
-      "subject_ja": "",
-      "date": "Mon, 17 Aug 2026 20:31:54 +1000",
-      "is_read": true,
-      "file": "ce4e4c56e2696ba3b418a467a5a7e87495000355705a4a2f93b95ada05cc50dc.json"
+      "subject": "WSJ Wealth Adviser Briefing: Stock Market Bargains, Bessent Gets Schooled, Marketers are Maxxing",
+      "date": "Mon, 24 Aug 2026 20:31:58 +1000",
+      "is_read": false,
+      "file": "02e2d1327d05fa721bc31919a645521fbee8e203392054c55d23a3e7a9aa0e71.json"
     },
     {
-      "id": "468e51f9591d61fbb5430aeb801f060e45145902f0d8073414f34a1860160d52",
-      "uid": "402737.nzmLNOTX2qy58cwPvplkkRb7YTJxGcGNGAv+Mn9M8IA=",
+      "id": "047bf0a5687002f0d8d03dbfc57616fb10ad942c05da36115dea6d2597ae8510",
+      "uid": "404470.TuPTI3RyHKfiDBM,iXjB3VenwtdSQ+ku61nh3bGaKvM=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics Special Edition: Trump vs. Canada Is Getting Personal",
+      "date": "Mon, 24 Aug 2026 18:53:37 -0400",
+      "is_read": false,
+      "file": "047bf0a5687002f0d8d03dbfc57616fb10ad942c05da36115dea6d2597ae8510.json"
+    },
+    {
+      "id": "074e120c94c6c18976f6000b0fa116d2681747cf6819d849e2d36993869a45f0",
+      "uid": "404451.PRih0AMMRf+yl71LZcZ5WVg3fHOgQyhLy7pAzFetLYM=",
       "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "⚡️ OpenAI's power play",
-      "date": "Mon, 17 Aug 2026 17:24:46 -0400",
-      "is_read": true,
-      "file": "468e51f9591d61fbb5430aeb801f060e45145902f0d8073414f34a1860160d52.json"
+      "subject": "🪧 Deere in union headlights",
+      "date": "Mon, 24 Aug 2026 17:10:44 -0400",
+      "is_read": false,
+      "file": "074e120c94c6c18976f6000b0fa116d2681747cf6819d849e2d36993869a45f0.json"
     },
     {
-      "id": "ec2d6a608c5ce103502f8f861997d3d1fe9036b39eab83b2a41b8c08b7ebc090",
-      "uid": "402622.puJVXSThLJr9+zaiLHFBm4P9Vf1D19RHUlgluP9Dsw0=",
+      "id": "fb065663814ec4e2ab10b8939ef8fb834dc54191dff00daa0f3d3a831cbd76ca",
+      "uid": "404324.Q1p2sgOSys1riMh76I3,mDQeCxgDBFHSkaAPmc0E,nA=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "subject_ja": "",
-      "date": "Mon, 17 Aug 2026 17:09:47 +1000",
-      "is_read": true,
-      "file": "ec2d6a608c5ce103502f8f861997d3d1fe9036b39eab83b2a41b8c08b7ebc090.json"
+      "date": "Mon, 24 Aug 2026 17:09:55 +1000",
+      "is_read": false,
+      "file": "fb065663814ec4e2ab10b8939ef8fb834dc54191dff00daa0f3d3a831cbd76ca.json"
     },
     {
-      "id": "dd55bc49301cdfb47d0b06405403eb32b20fe2187910ebe2b3b5bf8a29b90d70",
-      "uid": "402725.VYzaDZUrvKqUMRLlynolNo8PVrsMxYsHULQq3NkIqMQ=",
+      "id": "27b24d4991ae54da38ee3699729de27fd6ea9dd7e7d9a9e9066a120b0b2effc1",
+      "uid": "404439.3hsXhxfxcrvoOy0sUX,nUbeqjMU9wdQ2G1w,9jlMK1Y=",
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Yield Highs",
-      "date": "Mon, 17 Aug 2026 16:36:32 -0400",
-      "is_read": true,
-      "file": "dd55bc49301cdfb47d0b06405403eb32b20fe2187910ebe2b3b5bf8a29b90d70.json"
+      "subject": "Canada Tariffs, Again",
+      "date": "Mon, 24 Aug 2026 16:35:37 -0400",
+      "is_read": false,
+      "file": "27b24d4991ae54da38ee3699729de27fd6ea9dd7e7d9a9e9066a120b0b2effc1.json"
     },
     {
-      "id": "ea9189cf37ef32c458e5f203c9af48f66874a6cd1fc8fd97d4331b57fcba1e25",
-      "uid": "402718.ZpeqPBzYe3Cnyzul32od4jHjuHPdfAz45AApgPuzHAo=",
+      "id": "d2a439d676212d884a6ede55d48139c075567bb6d4d2d3009b05e2eefe990ae5",
+      "uid": "404435.QgMA5vONVRowB7Lv4ezwMLAMXCwC5U5N7BjE2t8RZss=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Nebius' 366% Revenue Growth And Other Top AI Stocks With Short Squeeze Potential",
-      "date": "Mon, 17 Aug 2026 15:56:28 -0400",
-      "is_read": true,
-      "file": "ea9189cf37ef32c458e5f203c9af48f66874a6cd1fc8fd97d4331b57fcba1e25.json"
+      "subject": "5 Best Gold And Silver Miner ETFs For A Precious Metals Rally",
+      "date": "Mon, 24 Aug 2026 15:55:52 -0400",
+      "is_read": false,
+      "file": "d2a439d676212d884a6ede55d48139c075567bb6d4d2d3009b05e2eefe990ae5.json"
     },
     {
-      "id": "b9f1df977e14da31bc451d5f60edf9c805c1884f20055d9558e61e53cdd339aa",
-      "uid": "402717.FUMB,gxdbXInzPwYTwTMf0hHgkDLLhLch60s+cSbIos=",
+      "id": "1a92bdbd26a508ee9c6e47d8257f996a159e6c1cfc021b939d47cdc5f3ff292e",
+      "uid": "404434.h,uUUuTaLlUIKirp3PouhOICtA1nDaVwzpZ2VjyBTf4=",
+      "from_addr": "Dan Primack <events@axios.com>",
+      "subject": "Secure your spot | Axios BFD in NYC on Nov. 17",
+      "date": "Mon, 24 Aug 2026 15:30:36 -0400",
+      "is_read": false,
+      "file": "1a92bdbd26a508ee9c6e47d8257f996a159e6c1cfc021b939d47cdc5f3ff292e.json"
+    },
+    {
+      "id": "7a9d96157cd55a4bfa1677a0cfbcd920442946c264d80ad4f7d8439d0ea85d13",
+      "uid": "404433.vB7o5R2Igr7VGF8BbYtUzO7YHn0koOfYAB8tfSls1B4=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "✈️ Axios PM: Roaming alone",
-      "date": "Mon, 17 Aug 2026 15:01:09 -0400",
-      "is_read": true,
-      "file": "b9f1df977e14da31bc451d5f60edf9c805c1884f20055d9558e61e53cdd339aa.json"
+      "subject": "🌡️ Axios PM: Keeping buildings cool",
+      "date": "Mon, 24 Aug 2026 15:00:56 -0400",
+      "is_read": false,
+      "file": "7a9d96157cd55a4bfa1677a0cfbcd920442946c264d80ad4f7d8439d0ea85d13.json"
     },
     {
-      "id": "acea2e4e092c42e3576950a385749a2b5d59f740d54844173bc3adbb49213a83",
-      "uid": "402714.6NmKhsFbIMyCmokRURGaUpZGOuPIXYfMmkWPKtkJzhA=",
+      "id": "d2ffb1deb7590a1c9530bfa7cebc408ad6b1d1e72a0e1f54869ef6160571cf2c",
+      "uid": "404430.7FX0KRJM9JW9vSDNULTdKzUSTVHt,p9lcS0OQiekd8A=",
       "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🇨🇳 China vs. the world",
-      "date": "Mon, 17 Aug 2026 11:58:28 -0400",
-      "is_read": true,
-      "file": "acea2e4e092c42e3576950a385749a2b5d59f740d54844173bc3adbb49213a83.json"
+      "subject": "⚠️ Escalation nation",
+      "date": "Mon, 24 Aug 2026 12:05:18 -0400",
+      "is_read": false,
+      "file": "d2ffb1deb7590a1c9530bfa7cebc408ad6b1d1e72a0e1f54869ef6160571cf2c.json"
     },
     {
-      "id": "974304c4d95a6bc9e314d917c1ce65194056bf332271d1c17ee4ba3fa1e9a025",
-      "uid": "402708.dS5,K9cTyVg1ipXxbCRc3,UZQlZRqsy,2XRkV9fGp,w=",
+      "id": "b37a6de5fec09786eccdbd8587833742989f2d291e859c7bb381cfb47f295bea",
+      "uid": "404422.mmcvDB59smV5QpCh10Jf+qHGUU+50+DvoZuxkBoS8CQ=",
       "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Founder flux",
-      "date": "Mon, 17 Aug 2026 10:03:14 -0400",
-      "is_read": true,
-      "file": "974304c4d95a6bc9e314d917c1ce65194056bf332271d1c17ee4ba3fa1e9a025.json"
+      "subject": "Axios Pro Rata: Canadian competition",
+      "date": "Mon, 24 Aug 2026 09:57:24 -0400",
+      "is_read": false,
+      "file": "b37a6de5fec09786eccdbd8587833742989f2d291e859c7bb381cfb47f295bea.json"
     },
     {
-      "id": "7a1db912f044ac05d73b1b108e6a2729f64e0daeff8432edec1e23306132bb3d",
-      "uid": "402706.LnPNJUz9OzIG9faOK4JuXH1SmNxLHS15G6kAmJztZ,o=",
+      "id": "8d11decf60f9a7426acc90674ffa75e6366f0d612174842ac927037e868fb5b9",
+      "uid": "404420.O,p0rxWIjMC3YpH63r0g6voyaO1QuYpzyqraKsRE8RE=",
       "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🤐 Prompts and privacy",
-      "date": "Mon, 17 Aug 2026 09:28:15 -0400",
-      "is_read": true,
-      "file": "7a1db912f044ac05d73b1b108e6a2729f64e0daeff8432edec1e23306132bb3d.json"
+      "subject": "💸 Anthropic's money question",
+      "date": "Mon, 24 Aug 2026 09:28:19 -0400",
+      "is_read": false,
+      "file": "8d11decf60f9a7426acc90674ffa75e6366f0d612174842ac927037e868fb5b9.json"
     },
     {
-      "id": "60287a11d4176b2ad6fbd18f178e4e2793a72899b001b827e76c518a4dc0506c",
-      "uid": "402691.fu,V1SIggkNmN8,,GJWhP1F2Q5Dmh4yxi1ELF,3RAYE=",
+      "id": "0f55f8ca202d5f6663078b3fafdb67922d2849ffbd99487fd72ac536d6fff5d7",
+      "uid": "404410.x5VZPgUrHlXm+nztsZsWMHlQjhmyq1rQRnMn+RtVGsM=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Cross-Border Economic Damage Ahead For U.S. And Canada",
+      "date": "Mon, 24 Aug 2026 08:06:13 -0400",
+      "is_read": false,
+      "file": "0f55f8ca202d5f6663078b3fafdb67922d2849ffbd99487fd72ac536d6fff5d7.json"
+    },
+    {
+      "id": "d24ea38b0b0b8492796c54080cff6a506a1e7ed4d42cdd90d8f345c3cba74a58",
+      "uid": "404397.,lZFKcOBuDwTS7a1skVnHsYNFe8q8hsu8MQYxhZ7dxU=",
       "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "⚠️ Yield signs",
-      "subject_ja": "",
-      "date": "Mon, 17 Aug 2026 07:28:56 -0400",
-      "is_read": true,
-      "file": "60287a11d4176b2ad6fbd18f178e4e2793a72899b001b827e76c518a4dc0506c.json"
+      "subject": "🚚 Diesel drama",
+      "date": "Mon, 24 Aug 2026 07:28:32 -0400",
+      "is_read": false,
+      "file": "d24ea38b0b0b8492796c54080cff6a506a1e7ed4d42cdd90d8f345c3cba74a58.json"
     },
     {
-      "id": "beafaa807c67515b6aae5605925542025db4141c7a5742d7942710b37c45c24e",
-      "uid": "402689.qiqMK2rEYmmeVuWEfrBytjGvBpWONk6XrguAyT3DQnI=",
+      "id": "d151532c9c9174dbed4e3c52cc9d1239b3fd34e22943e658ecb33bebf810f089",
+      "uid": "404393.L8tT+WojX9qQQ6BgZBrw6LFNQINnn0+O9Lys4HV64OA=",
       "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Pentagon Rotates Aircraft Carriers, Showing Toll of the Iran War",
-      "subject_ja": "",
-      "date": "Mon, 17 Aug 2026 07:14:10 -0400",
-      "is_read": true,
-      "file": "beafaa807c67515b6aae5605925542025db4141c7a5742d7942710b37c45c24e.json"
+      "subject": "WSJ Politics: Canada Digs In as More Countries Stand Up to Trump",
+      "date": "Mon, 24 Aug 2026 07:12:10 -0400",
+      "is_read": false,
+      "file": "d151532c9c9174dbed4e3c52cc9d1239b3fd34e22943e658ecb33bebf810f089.json"
     },
     {
-      "id": "0985d059047ba174d94b33448746ba17b1529af4547b98b69a48f5f085f81dd6",
-      "uid": "402675.OYn5WG3vkXKOin0FLK7GtUUBUmbH9AoRPZM8o+wqgcc=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🏚️ Markets A.M.: Home Improvement’s Hangover Could Last",
-      "subject_ja": "",
-      "date": "Mon, 17 Aug 2026 06:23:36 -0400",
-      "is_read": true,
-      "file": "0985d059047ba174d94b33448746ba17b1529af4547b98b69a48f5f085f81dd6.json"
+      "id": "638d79defdb15631f8d41c3c09f5865f107893374d55ff5cadf5e43f0a084294",
+      "uid": "404383.A8EORDneetBpHygLQDQmFeWnpVKU+9vyVufwyKpxECY=",
+      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
+      "subject": "🏠 Home Unaffordable Home",
+      "date": "Mon, 24 Aug 2026 06:17:20 -0400",
+      "is_read": false,
+      "file": "638d79defdb15631f8d41c3c09f5865f107893374d55ff5cadf5e43f0a084294.json"
     },
     {
-      "id": "b95891a8eacc9f6d6633ce9c99bb79c9dc137e614f5538c8c2ef072e321c0f03",
-      "uid": "402671.VJkW1nMMGvqI+z,K8LBiCqnHCO8zUoh7XohhduarjOI=",
+      "id": "e75b22936071a4328e154efcd5601d6e4c197f74f90662961fbc097901fc8a2f",
+      "uid": "404382.oBzBX09sxdL6xShWO,+k3l9qp4P4KQM,lo,0mRy,5d0=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Iran’s Secret Plan to Escalate War With U.S.",
-      "subject_ja": "",
-      "date": "Mon, 17 Aug 2026 06:10:29 -0400",
-      "is_read": true,
-      "file": "b95891a8eacc9f6d6633ce9c99bb79c9dc137e614f5538c8c2ef072e321c0f03.json"
+      "subject": "The 10-Point: Can Nvidia Keep the AI Party Going?",
+      "date": "Mon, 24 Aug 2026 06:13:37 -0400",
+      "is_read": false,
+      "file": "e75b22936071a4328e154efcd5601d6e4c197f74f90662961fbc097901fc8a2f.json"
     },
     {
-      "id": "cb9e47ba9d8ab9377f8e757f60a74255aef7c4bc9b54025615846971cb72892b",
-      "uid": "402661.1cQ5l54,HRco0Moms9lcBZENQWpHlEIJY18iy8TzNT8=",
+      "id": "e82e6149a21959d62c8d317afc43aa6cdaac99cb2993c70d8840b5bdda576b82",
+      "uid": "404371.JLf1A56,svxqIpWH,Kq+8NJFLeHBwGXsAUTcGIGiE24=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤗 Axios AM: Finding new friends",
-      "subject_ja": "",
-      "date": "Mon, 17 Aug 2026 05:41:50 -0400",
-      "is_read": true,
-      "file": "cb9e47ba9d8ab9377f8e757f60a74255aef7c4bc9b54025615846971cb72892b.json"
+      "subject": "🔎 Axios AM: Why crime cratered",
+      "date": "Mon, 24 Aug 2026 05:54:39 -0400",
+      "is_read": false,
+      "file": "e82e6149a21959d62c8d317afc43aa6cdaac99cb2993c70d8840b5bdda576b82.json"
     },
     {
       "id": "1a02c59d411f056e84ea9b38d30935a3d5d42617b749302cd39bbfe336a04c0f",
