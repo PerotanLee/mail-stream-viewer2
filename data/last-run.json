@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=2712 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-25T02:40:40.877540+00:00",
-  "added": 11,
+  "updated_at": "2026-08-25T02:40:41.915072+00:00",
+  "added": 12,
   "skipped": 106,
   "scanned": 118,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: Canada Digs In as More Countries Stand Up to Trump",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 7,
     "seekingalpha": 2
   },
