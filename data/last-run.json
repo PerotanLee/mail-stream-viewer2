@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=2750 from=\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-25T02:40:13.925994+00:00",
-  "added": 2,
+  "updated_at": "2026-08-25T02:40:14.959027+00:00",
+  "added": 3,
   "skipped": 77,
   "scanned": 80,
-  "current": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "current": "Canada Tariffs, Again",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 1,
     "seekingalpha": 0
   },
