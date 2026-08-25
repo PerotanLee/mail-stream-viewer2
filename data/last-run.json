@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
+  "step": "スキャン",
   "phase": "scan",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-25T04:57:01.316762+00:00",
+  "updated_at": "2026-08-25T04:57:06.125661+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 2846
+  "skipped": 17,
+  "scanned": 17,
+  "current": "前回取得以降を超えたため終了",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 2846,
+  "newest_num": 2841,
+  "scan_mode": "since",
+  "since": "2026-08-25T04:01:40.193170+00:00"
 }
