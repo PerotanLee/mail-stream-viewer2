@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=2735 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-25T02:40:27.744222+00:00",
-  "added": 7,
+  "updated_at": "2026-08-25T02:40:28.706813+00:00",
+  "added": 8,
   "skipped": 87,
   "scanned": 95,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "Axios Pro Rata: Canadian competition",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 4,
+    "axios": 5,
     "seekingalpha": 1
   },
   "last_newest_num": 6253,
