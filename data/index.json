@@ -172,6 +172,15 @@
       "file": "8dfd5354c85bceae38309565d25cebdaaf54607c0a2ee0b55804cf82755d0db6.json"
     },
     {
+      "id": "844bfa4a00792bfb6c95b272815388fcf56aaf9a88b17d603b05d41cacb361db",
+      "uid": "404732.nSuoDOlqetM,CL4QmIMa,aRwnnKhDgAWRPvJS7784SI=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Canada Strikes Back",
+      "date": "Tue, 25 Aug 2026 16:27:25 -0400",
+      "is_read": false,
+      "file": "844bfa4a00792bfb6c95b272815388fcf56aaf9a88b17d603b05d41cacb361db.json"
+    },
+    {
       "id": "7c414fd39253c50b6114375b4d48f7c1e5c036b67e9bffa49ddef8dc3cc7f6fd",
       "uid": "404714.3cxsf,QClfEnTRNBYZBS4OeqPGuUVI,OOyLiU7Gq+7c=",
       "from_addr": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
@@ -260,60 +269,6 @@
       "date": "Tue, 18 Aug 2026 17:39:04 -0400",
       "is_read": true,
       "file": "86ca9401cb1d99cc4bd0f696d23ee8eb5c89ff364eafbcb7f752551033624c36.json"
-    },
-    {
-      "id": "2dce7498eb60ba5e4e1e1ff21621b5d222508421e83ec0f7368713adedc61529",
-      "uid": "402996.f,KcoI5e6Kk4spDKbmH3d1Mybjb1NGYc3bAEMKeIz4g=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Yield Drag",
-      "date": "Tue, 18 Aug 2026 16:24:23 -0400",
-      "is_read": true,
-      "file": "2dce7498eb60ba5e4e1e1ff21621b5d222508421e83ec0f7368713adedc61529.json"
-    },
-    {
-      "id": "ee196c8383609a830923539e583bb72e206670f72e0eee632e5e5acb2f82debb",
-      "uid": "402990.TMTNyYIubq,4p8tizh1nh7cHH1UvhiQrVWNM8knKNFA=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Steven Cress Picks Lockheed Martin + Sandisk For Balance And Diversification, Growth And Income",
-      "date": "Tue, 18 Aug 2026 15:56:07 -0400",
-      "is_read": true,
-      "file": "ee196c8383609a830923539e583bb72e206670f72e0eee632e5e5acb2f82debb.json"
-    },
-    {
-      "id": "5d19baa01cb0d516b2b3a003f29422aea61de887aa60c61818b2770b11b9662a",
-      "uid": "402988.HT,m3DoeGscSWpYdebYc2Dc+wkXONxBqNfY5Mscc5MI=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "⚠️ Axios PM: Boards of doom",
-      "date": "Tue, 18 Aug 2026 15:01:25 -0400",
-      "is_read": true,
-      "file": "5d19baa01cb0d516b2b3a003f29422aea61de887aa60c61818b2770b11b9662a.json"
-    },
-    {
-      "id": "3e287a5df15204323e9ca4d3e927f0b2ce78bb646a716a1a821f84084a7b34e6",
-      "uid": "402986.A2fq1inkfjpS7iq2PoW1Z9FLNHyc6trhIMJW9VhkZeo=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: ‘Arthur’ Creator Marc Brown Sells Martha’s Vineyard Home for $6.4 Million",
-      "date": "Tue, 18 Aug 2026 14:20:56 -0400",
-      "is_read": true,
-      "file": "3e287a5df15204323e9ca4d3e927f0b2ce78bb646a716a1a821f84084a7b34e6.json"
-    },
-    {
-      "id": "4fb89e3960f15d33715035ef5c83d5f474b4b024aa0c1079f8ef49a00167ce24",
-      "uid": "402982.s3+79C1Y5AqowUGe+TKrclLMATLEXl0y8mGyBx2h1bE=",
-      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
-      "subject": "Cash for Old Chips",
-      "date": "Tue, 18 Aug 2026 12:06:11 -0400",
-      "is_read": true,
-      "file": "4fb89e3960f15d33715035ef5c83d5f474b4b024aa0c1079f8ef49a00167ce24.json"
-    },
-    {
-      "id": "2bd559828297ea5e6002602c2c12c5c134378e060cc3269d1ae86c392ba3a723",
-      "uid": "402980.vhCo2aKGgCxbK5W,ujR4MRlJO7QJN3Keo3MwJY3ALpE=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "💥 Bond shock",
-      "date": "Tue, 18 Aug 2026 11:58:52 -0400",
-      "is_read": true,
-      "file": "2bd559828297ea5e6002602c2c12c5c134378e060cc3269d1ae86c392ba3a723.json"
     },
     {
       "id": "0e4aeb13cc498f8d8a953a812382b82bc241a4954d2ebc8c91b503a5e81c8a6c",
