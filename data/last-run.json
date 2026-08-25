@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=2702 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-25T02:40:49.515135+00:00",
-  "added": 14,
+  "updated_at": "2026-08-25T02:40:50.600028+00:00",
+  "added": 15,
   "skipped": 113,
   "scanned": 128,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: Can Nvidia Keep the AI Party Going?",
   "added_by_filter": {
-    "wsj": 5,
+    "wsj": 6,
     "axios": 7,
     "seekingalpha": 2
   },
