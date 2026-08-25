@@ -172,6 +172,24 @@
       "file": "8dfd5354c85bceae38309565d25cebdaaf54607c0a2ee0b55804cf82755d0db6.json"
     },
     {
+      "id": "7c414fd39253c50b6114375b4d48f7c1e5c036b67e9bffa49ddef8dc3cc7f6fd",
+      "uid": "404714.3cxsf,QClfEnTRNBYZBS4OeqPGuUVI,OOyLiU7Gq+7c=",
+      "from_addr": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The Intelligent Investor: Are inflation-Fighting Bonds on Sale?",
+      "date": "Tue, 25 Aug 2026 11:02:00 -0400",
+      "is_read": false,
+      "file": "7c414fd39253c50b6114375b4d48f7c1e5c036b67e9bffa49ddef8dc3cc7f6fd.json"
+    },
+    {
+      "id": "5beaf4ea6cd165be46f1271b4c2b03bd9fd95b62517d0e73d9b20b5dead4f1c7",
+      "uid": "404712.Wo+zl1+tB5yQ7m,hY1G,pxpU6q3GI5f7buCuR8HByjs=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: PE's pastime",
+      "date": "Tue, 25 Aug 2026 10:05:41 -0400",
+      "is_read": false,
+      "file": "5beaf4ea6cd165be46f1271b4c2b03bd9fd95b62517d0e73d9b20b5dead4f1c7.json"
+    },
+    {
       "id": "8624e1c1b595230c83c4653bdbf1f9d8a073323b9178d9dd5c90d126e3a4633b",
       "uid": "404711.ohPQncvgyKXsGcT97EqClEO8uC5Sdsx5J+SeKVqx,cY=",
       "from_addr": "Axios AI+ <ai.plus@axios.com>",
@@ -296,15 +314,6 @@
       "date": "Tue, 18 Aug 2026 11:58:52 -0400",
       "is_read": true,
       "file": "2bd559828297ea5e6002602c2c12c5c134378e060cc3269d1ae86c392ba3a723.json"
-    },
-    {
-      "id": "deb55c444012519bfcf116e4adc65b8fafeb33c6bc0377c97cc3b0f0d49f6c2c",
-      "uid": "402977.4hsqD,rYxbzcObGce60VadYHFA27SyPpu02KMSj5of8=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Director dispute",
-      "date": "Tue, 18 Aug 2026 10:04:02 -0400",
-      "is_read": true,
-      "file": "deb55c444012519bfcf116e4adc65b8fafeb33c6bc0377c97cc3b0f0d49f6c2c.json"
     },
     {
       "id": "0e4aeb13cc498f8d8a953a812382b82bc241a4954d2ebc8c91b503a5e81c8a6c",
