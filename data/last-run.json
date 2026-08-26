@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=2909 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-26T13:22:24.882215+00:00",
-  "added": 1,
+  "updated_at": "2026-08-26T13:22:25.940553+00:00",
+  "added": 2,
   "skipped": 17,
   "scanned": 19,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "AI Demand's Big Test",
   "added_by_filter": {
     "wsj": 0,
     "axios": 1,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 2864,
   "newest_num": 2927,
