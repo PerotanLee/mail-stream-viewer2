@@ -1,13 +1,76 @@
 {
   "emails": [
     {
-      "id": "7a0fc49d51abdc58b6542c5d5c902c70aad64258c78c624a06c8534b3ee653ee",
-      "uid": "403230.0AUg1KwuILklcWvcl0+shUstP5h7,Gvpw8jm99u3Dd0=",
+      "id": "d18474348e9daba50aaa8a430975cd9757989a7c863da69904441781cb94fe98",
+      "uid": "404964.CGNID8b9hg2b6clm5Gy7vccIS2hqh976oxdM133DO9s=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Auto Insurance,  Misbehaving CEOs, British Pubs Crackdown",
-      "date": "Wed, 19 Aug 2026 20:31:53 +1000",
-      "is_read": true,
-      "file": "7a0fc49d51abdc58b6542c5d5c902c70aad64258c78c624a06c8534b3ee653ee.json"
+      "subject": "WSJ Wealth Adviser Briefing: Crazy Stock Market, Nvidia as Banker, Competitive Subway Riders",
+      "date": "Wed, 26 Aug 2026 20:32:00 +1000",
+      "is_read": false,
+      "file": "d18474348e9daba50aaa8a430975cd9757989a7c863da69904441781cb94fe98.json"
+    },
+    {
+      "id": "91fcc52af4712816d7f7b2ccb023bf54648e0761a67154fcf1d7c5d11a39523f",
+      "uid": "404980.ZEIVh7vc5YZ3NSoqP8PhR8WqNI2P,KVZPEzfJx8zFB0=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🤑 Trillions of dollars",
+      "date": "Wed, 26 Aug 2026 07:28:36 -0400",
+      "is_read": false,
+      "file": "91fcc52af4712816d7f7b2ccb023bf54648e0761a67154fcf1d7c5d11a39523f.json"
+    },
+    {
+      "id": "502c83eacb22a995d6c94bee73e46fee93454e0a6477b5e314bdbd733707daab",
+      "uid": "404974.kyHU4mofi7,4P0V2DpJeeZ+C7RQbHstgYF4P1,uqyNw=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "AI Demand's Big Test",
+      "date": "Wed, 26 Aug 2026 07:04:51 -0400",
+      "is_read": false,
+      "file": "502c83eacb22a995d6c94bee73e46fee93454e0a6477b5e314bdbd733707daab.json"
+    },
+    {
+      "id": "18a124ebc37c398231d8aa1fd8f29519126c1b1259ecd8da38aed3a8cf797fae",
+      "uid": "404968.xzESFXQgu5bByj817IyPt0lHzUurEKIkfCfaK23EDvw=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: What Darline Graham’s Win Means for Midterms",
+      "date": "Wed, 26 Aug 2026 06:51:54 -0400",
+      "is_read": false,
+      "file": "18a124ebc37c398231d8aa1fd8f29519126c1b1259ecd8da38aed3a8cf797fae.json"
+    },
+    {
+      "id": "b0dd8d20c74d33afe5234033686d41d0fecda321837ab4be506903bf9c0de252",
+      "uid": "404961.CgyqVHdhOuW3f1lZzdZZIsz6LtavE5JRtiWvF37DOFM=",
+      "from_addr": "Axios Defense <defense@axios.com>",
+      "subject": "🤖 Sandhills sci-fi",
+      "date": "Wed, 26 Aug 2026 06:30:24 -0400",
+      "is_read": false,
+      "file": "b0dd8d20c74d33afe5234033686d41d0fecda321837ab4be506903bf9c0de252.json"
+    },
+    {
+      "id": "7b4b739ed15278e2e33916a5adc24b08fbe4aaa2c8b8ac226f3cd7f86eeea378",
+      "uid": "404959.v32hQdKYX5wPUFe09y3bxRv9o6rOts1IJOizaaK3rUU=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "⚖️ Axios AM: Jeffries' Day 1 plans",
+      "date": "Wed, 26 Aug 2026 06:26:05 -0400",
+      "is_read": false,
+      "file": "7b4b739ed15278e2e33916a5adc24b08fbe4aaa2c8b8ac226f3cd7f86eeea378.json"
+    },
+    {
+      "id": "e32017b1f8908b7c32d193ff82084e44f0c79fea89c82fef7c91968d09e6ad25",
+      "uid": "404954.MvxN3vUpyzyFPU1NcNOjU8QO3G5bd0nW1d3ixyv4QB8=",
+      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
+      "subject": "🤖 Nvidia’s Return-on-Investment Dilemma",
+      "date": "Wed, 26 Aug 2026 06:16:00 -0400",
+      "is_read": false,
+      "file": "e32017b1f8908b7c32d193ff82084e44f0c79fea89c82fef7c91968d09e6ad25.json"
+    },
+    {
+      "id": "d70a595d10d4a02d7b799614500f97d743d439a7420863cecaf68a944c16743d",
+      "uid": "404949.6mFclIh8oFDc9VynzOHXO9AnKRAObS3mQx,RgemjdxQ=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: How a Teen Became the Fallen ‘Nostradamus of AI’",
+      "date": "Wed, 26 Aug 2026 06:11:05 -0400",
+      "is_read": false,
+      "file": "d70a595d10d4a02d7b799614500f97d743d439a7420863cecaf68a944c16743d.json"
     },
     {
       "id": "2c7a9dd74fc4ca1ce4f4cb0989654db5e034ba3927bc64b39db5188a6d11badf",
@@ -17,15 +80,6 @@
       "date": "Wed, 19 Aug 2026 17:20:21 -0400",
       "is_read": true,
       "file": "2c7a9dd74fc4ca1ce4f4cb0989654db5e034ba3927bc64b39db5188a6d11badf.json"
-    },
-    {
-      "id": "7e5b77e9d486f5361ae80be601afddf72295b38bb34bb0531faa5f41c7c7db1f",
-      "uid": "403164.5bZiEjn2SEFWAZAk4KYxkcDZYOjBExjLqQwEOSlqr,Q=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Wed, 19 Aug 2026 17:09:49 +1000",
-      "is_read": true,
-      "file": "7e5b77e9d486f5361ae80be601afddf72295b38bb34bb0531faa5f41c7c7db1f.json"
     },
     {
       "id": "cb089fb0b9fcaf5eb8d9b894b0e1e1af25be328da4d341ee6b95e6e3d8d5a505",
@@ -89,69 +143,6 @@
       "date": "Wed, 19 Aug 2026 09:28:17 -0400",
       "is_read": true,
       "file": "5ae1bcf8ce16d5207cd5e5bbb33def9ec0c27fb6b11640c98392e6f25daedbf9.json"
-    },
-    {
-      "id": "6ca4ef2d2d00d2530226bfb8f1cf2f7e50f360a8590c9775379e2064a7ce34b2",
-      "uid": "403249.GXzbd864LT+8afw4HygVgdCwFCaGrHPhTqM,P5hSwpQ=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🤨 Strange stock behavior",
-      "date": "Wed, 19 Aug 2026 07:28:32 -0400",
-      "is_read": true,
-      "file": "6ca4ef2d2d00d2530226bfb8f1cf2f7e50f360a8590c9775379e2064a7ce34b2.json"
-    },
-    {
-      "id": "a1394caa9860bf1d25b7ff1c7abc97af8322aad960ce2af35f4d0baf16b2a349",
-      "uid": "403248.Qd7YLLf,VI+1IY3pAKwa2LSxu5mR9cm2bUtNIFrMe4U=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Milestone For Humanoid Robot Makers",
-      "date": "Wed, 19 Aug 2026 07:28:27 -0400",
-      "is_read": true,
-      "file": "a1394caa9860bf1d25b7ff1c7abc97af8322aad960ce2af35f4d0baf16b2a349.json"
-    },
-    {
-      "id": "9a7a32da84afa0fbd5939e057fe04f949b1a0e53caf0cbfce08d9e8e472dd1a9",
-      "uid": "403243.Z02HGM2LnW4Ch+ZacngzLPu0zM8FDF4vtx+5p959lMA=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: The Great Bipartisan Data Center Smackdown Has Begun",
-      "date": "Wed, 19 Aug 2026 07:02:49 -0400",
-      "is_read": true,
-      "file": "9a7a32da84afa0fbd5939e057fe04f949b1a0e53caf0cbfce08d9e8e472dd1a9.json"
-    },
-    {
-      "id": "2d59b21a7a49234ef4da608f72149d25ee283bf34040f48b7371a2b52566bbf0",
-      "uid": "403234.uzdu3wBa,2cZ3sMMokheWL5DIzMAvoS9MnZG5ZY+N7E=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🤷 Markets A.M.: Does ‘Less Is More’ Work for ETFs?",
-      "date": "Wed, 19 Aug 2026 06:47:30 -0400",
-      "is_read": true,
-      "file": "2d59b21a7a49234ef4da608f72149d25ee283bf34040f48b7371a2b52566bbf0.json"
-    },
-    {
-      "id": "e287151831f96c7774b071e3c2013555ff04e493d3713b0d763aaaf70a9a8f4c",
-      "uid": "403229.uC5PZJu0U68QrUrgq2OnnSq1MLwBfimm8He0BEp+zdE=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "🌊 Troubled waters",
-      "date": "Wed, 19 Aug 2026 06:30:25 -0400",
-      "is_read": true,
-      "file": "e287151831f96c7774b071e3c2013555ff04e493d3713b0d763aaaf70a9a8f4c.json"
-    },
-    {
-      "id": "83fe584186266cc31795219640d849ebcfd9dfec817e8e8cc7087e3319d8e412",
-      "uid": "403225.M9wIwf7pXkN53fdUMy5bDQHqsMMaZMMbxpMPanoa4KY=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: A New Era in the Bond Market",
-      "date": "Wed, 19 Aug 2026 06:12:30 -0400",
-      "is_read": true,
-      "file": "83fe584186266cc31795219640d849ebcfd9dfec817e8e8cc7087e3319d8e412.json"
-    },
-    {
-      "id": "d5a359b3ae09006c7633de0ecdc6d92839c3dfa2a54fe9f64bfc87c1c93d37c7",
-      "uid": "403214.y2L1FLj7,+BOOu3nyrnHLjPvPI5rgF1BnKgB9geULuw=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🚨 Axios AM — Scoop: GOP's warning",
-      "date": "Wed, 19 Aug 2026 05:56:28 -0400",
-      "is_read": true,
-      "file": "d5a359b3ae09006c7633de0ecdc6d92839c3dfa2a54fe9f64bfc87c1c93d37c7.json"
     },
     {
       "id": "6f73bb8f10e6ca1e26d2bdb14ab74852389b7ab992db1062a3818a11e1d49a12",
