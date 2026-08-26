@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=2897 from=Axios Defense <defense@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-26T13:22:33.904613+00:00",
-  "added": 4,
+  "updated_at": "2026-08-26T13:22:35.060051+00:00",
+  "added": 5,
   "skipped": 26,
   "scanned": 31,
-  "current": "Axios Defense <defense@axios.com>",
+  "current": "🤖 Sandhills sci-fi",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 1
   },
   "last_newest_num": 2864,
