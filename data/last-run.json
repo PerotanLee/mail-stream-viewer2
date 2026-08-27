@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=2917 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-27T16:04:15.098898+00:00",
-  "added": 6,
+  "updated_at": "2026-08-27T16:04:16.266672+00:00",
+  "added": 7,
   "skipped": 15,
   "scanned": 22,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "Russia Eyes Ukraine Escalation",
   "added_by_filter": {
     "wsj": 1,
     "axios": 3,
-    "seekingalpha": 2
+    "seekingalpha": 3
   },
   "last_newest_num": 2908,
   "newest_num": 2938,
