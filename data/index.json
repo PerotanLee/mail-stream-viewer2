@@ -267,7 +267,7 @@
       "from_addr": "Alpha Picks <subscriptions@seekingalpha.com>",
       "subject": "Another Alpha Pick just delivered",
       "date": "Thu, 27 Aug 2026 11:38:32 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "8ae05029c7362c3cc0a99496ad64c3a977a154fcd56061ab1907b766047db1c7.json"
     },
     {
