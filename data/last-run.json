@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=2937 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-27T16:03:56.501527+00:00",
-  "added": 0,
+  "updated_at": "2026-08-27T16:03:57.821167+00:00",
+  "added": 1,
   "skipped": 1,
   "scanned": 2,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "⏰ Jackson Hole time",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 2908,
