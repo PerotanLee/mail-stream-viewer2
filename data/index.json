@@ -42,7 +42,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "💊 Axios PM: New cancer drug",
       "date": "Wed, 26 Aug 2026 15:01:19 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "df11c8414188cb33a174576134a4794c4ac94a7da8fcbef8f69e100a92de63d4.json"
     },
     {
