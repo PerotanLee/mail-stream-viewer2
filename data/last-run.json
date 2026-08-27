@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=2912 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-27T16:04:20.738144+00:00",
-  "added": 8,
+  "updated_at": "2026-08-27T16:04:22.184200+00:00",
+  "added": 9,
   "skipped": 18,
   "scanned": 27,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: Lawmakers Sound the Alarm on Flock and the 'Surveillance State'",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 4,
     "seekingalpha": 3
   },
