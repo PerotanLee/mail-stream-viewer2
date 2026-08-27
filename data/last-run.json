@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=2790 from=WSJ Real Estate <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-27T04:16:50.596261+00:00",
-  "added": 5,
+  "updated_at": "2026-08-27T04:16:51.618456+00:00",
+  "added": 6,
   "skipped": 111,
   "scanned": 117,
-  "current": "WSJ Real Estate <access@interactive.wsj.com>",
+  "current": "Mold is Driving People Crazy. And They Want Builders to Pay",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 3,
     "seekingalpha": 1
   },
