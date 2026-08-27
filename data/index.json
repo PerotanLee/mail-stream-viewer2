@@ -258,7 +258,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "⚠️ Axios PM: Cyberthreat warning",
       "date": "Thu, 27 Aug 2026 15:01:42 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "b26320f3cc64da9b8dc9cb3eb446ce2de0d7e8f5bec6263f961082dfca1b8e59.json"
     },
     {
