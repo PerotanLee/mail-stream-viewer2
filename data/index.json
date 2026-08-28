@@ -253,6 +253,33 @@
       "file": "96750facf3c070d558bb96b8541205fab8a007d91c474acac195952326f52a0f.json"
     },
     {
+      "id": "995e5c19d80ab8559b68624afaa2ef955c3d453121ca0358e02308443a15c3e6",
+      "uid": "405320.ojU44HBfoUSy6ApUnyEjqSuVPkbmRNc9bmkX1Mkcmrk=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "⚔️ AI arms race",
+      "date": "Thu, 27 Aug 2026 17:23:58 -0400",
+      "is_read": false,
+      "file": "995e5c19d80ab8559b68624afaa2ef955c3d453121ca0358e02308443a15c3e6.json"
+    },
+    {
+      "id": "aea000ea722cdc6c6b9ff421ab315fa31e64d072379e50639d74909e13c3612c",
+      "uid": "405307.F2GcRCR8HnpZycDQk1gzbl+mJJg6ZOePHH7KDgbH+mI=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Nvidia's Victory Lap",
+      "date": "Thu, 27 Aug 2026 16:35:55 -0400",
+      "is_read": false,
+      "file": "aea000ea722cdc6c6b9ff421ab315fa31e64d072379e50639d74909e13c3612c.json"
+    },
+    {
+      "id": "a17dee4734ad9c1b96569251b80296b056958214362bc1406b69ee761ffff4aa",
+      "uid": "405302.,,u75nrLzhF6hBzznZV,GrxIdtoHpWAI47mc9p2ekl0=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Don't Sleep On Software",
+      "date": "Thu, 27 Aug 2026 15:56:39 -0400",
+      "is_read": false,
+      "file": "a17dee4734ad9c1b96569251b80296b056958214362bc1406b69ee761ffff4aa.json"
+    },
+    {
       "id": "b26320f3cc64da9b8dc9cb3eb446ce2de0d7e8f5bec6263f961082dfca1b8e59",
       "uid": "405300.KAMPQ1uGADuANdz6V9AY6WWAIOAg+PxY0Msi+1WGY0o=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -350,33 +377,6 @@
       "date": "Thu, 27 Aug 2026 07:07:39 -0400",
       "is_read": true,
       "file": "70c470fd6ae4ccf66d3e6f7af8d1a757c793f25b625b6a3e0131ce3171f68753.json"
-    },
-    {
-      "id": "2aa902cb16674a9ac7e945c69a86c26a3de940eaf404f1e32f0819cceadb75ff",
-      "uid": "403597.L2DJ3wuMGclegdXiH0Pza9hyE+lWKfZ6p,GDesnvELk=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🥶 Walmart sparks a chill",
-      "date": "Thu, 20 Aug 2026 17:42:32 -0400",
-      "is_read": true,
-      "file": "2aa902cb16674a9ac7e945c69a86c26a3de940eaf404f1e32f0819cceadb75ff.json"
-    },
-    {
-      "id": "36a9b1fa4d896cc34156bca84da1561bd870d1b1ddef9cc691c572fb75c67258",
-      "uid": "403578.uzO,IMmHtvG4+NDx3WYzE13ZuGEM1v0vC0hks+S08Qw=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Yields Snap Back",
-      "date": "Thu, 20 Aug 2026 16:24:46 -0400",
-      "is_read": true,
-      "file": "36a9b1fa4d896cc34156bca84da1561bd870d1b1ddef9cc691c572fb75c67258.json"
-    },
-    {
-      "id": "6da757b1aa02c322ff7c5ba9393c66d42669763ba8199a890de330572259c33d",
-      "uid": "403575.ZDDEcFtI3bmIhm8sdX1e0DGXkqU5+HwxBYcDS9+X6GY=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Are These Top Stocks The Next AI Productivity Beneficiaries?",
-      "date": "Thu, 20 Aug 2026 15:56:41 -0400",
-      "is_read": true,
-      "file": "6da757b1aa02c322ff7c5ba9393c66d42669763ba8199a890de330572259c33d.json"
     },
     {
       "id": "e7e6805cf3828d00fbc4def3384ade990c1b5646498c8758328c8ee8f419a3a1",
