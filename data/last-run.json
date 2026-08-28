@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3201 from=AI+ Government <ai.plus.gov@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-28T15:40:23.173762+00:00",
-  "added": 1,
+  "updated_at": "2026-08-28T15:40:24.837886+00:00",
+  "added": 2,
   "skipped": 3,
   "scanned": 5,
-  "current": "AI+ Government <ai.plus.gov@axios.com>",
+  "current": "👀 Europe's AI gamble",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 0
   },
   "last_newest_num": 3153,
