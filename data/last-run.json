@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3172 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-28T15:40:41.613446+00:00",
-  "added": 6,
+  "updated_at": "2026-08-28T15:40:42.789254+00:00",
+  "added": 7,
   "skipped": 27,
   "scanned": 34,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "Warsh's First Jackson Hole Speech",
   "added_by_filter": {
     "wsj": 3,
     "axios": 3,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 3153,
   "newest_num": 3205,
