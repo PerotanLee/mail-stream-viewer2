@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3202 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-28T15:40:20.129663+00:00",
-  "added": 0,
+  "updated_at": "2026-08-28T15:40:21.656197+00:00",
+  "added": 1,
   "skipped": 3,
   "scanned": 4,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "Axios Pro Rata: FIFA fallout",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 3153,
