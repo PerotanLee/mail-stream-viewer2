@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3451 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-30T17:08:33.588223+00:00",
-  "added": 2,
+  "updated_at": "2026-08-30T17:08:34.585829+00:00",
+  "added": 3,
   "skipped": 13,
   "scanned": 16,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "Wall Street Week Ahead",
   "added_by_filter": {
     "wsj": 1,
     "axios": 1,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 3405,
   "newest_num": 3466,
