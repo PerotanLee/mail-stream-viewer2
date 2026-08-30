@@ -379,6 +379,33 @@
       "file": "70c470fd6ae4ccf66d3e6f7af8d1a757c793f25b625b6a3e0131ce3171f68753.json"
     },
     {
+      "id": "81196c0c6f4ffb6a9ecdf24caf1d21b9a02d7385e034417128a694ce9de4ee4f",
+      "uid": "405950.MBhlP9ygSA1XZ27rcEULJrWVQtutVwT,5a6vx613AGM=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🛒  Axios AM: Grocery apocalypse",
+      "date": "Sun, 30 Aug 2026 09:11:06 -0400",
+      "is_read": false,
+      "file": "81196c0c6f4ffb6a9ecdf24caf1d21b9a02d7385e034417128a694ce9de4ee4f.json"
+    },
+    {
+      "id": "e1e160d15335d1ded4a2dc49c4b54e3ccdc41e6135fc5d4bc2633e7f78d2ba50",
+      "uid": "405932.s3mbiMs8o8ZzVi7PSxlq68APdhJC,J7S42y9dHEsjGQ=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Syracuse’s Growing Enrollment Problem",
+      "date": "Sun, 30 Aug 2026 07:05:48 -0400",
+      "is_read": false,
+      "file": "e1e160d15335d1ded4a2dc49c4b54e3ccdc41e6135fc5d4bc2633e7f78d2ba50.json"
+    },
+    {
+      "id": "d7ed14a87a4cebc3862a9ce856096574a2e78de11599909418c79565d87ff139",
+      "uid": "405930.TjFom3C5aFOkUvTySISgL0eGQLF8s0EMw6qvBV9AiJo=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Wall Street Week Ahead",
+      "date": "Sun, 30 Aug 2026 07:01:14 -0400",
+      "is_read": false,
+      "file": "d7ed14a87a4cebc3862a9ce856096574a2e78de11599909418c79565d87ff139.json"
+    },
+    {
       "id": "e7e6805cf3828d00fbc4def3384ade990c1b5646498c8758328c8ee8f419a3a1",
       "uid": "404182.+PXV7ol9uyOcEYt25KDJ9,HiTVxqMsoRVFiskjH9L6E=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
@@ -386,33 +413,6 @@
       "date": "Sun, 23 Aug 2026 15:56:24 -0400",
       "is_read": true,
       "file": "e7e6805cf3828d00fbc4def3384ade990c1b5646498c8758328c8ee8f419a3a1.json"
-    },
-    {
-      "id": "0e874b6283a47e17aa453fca16a881b523ab92d031d31162265b10102e541272",
-      "uid": "404173.8HFJfplZ+LUiMvncKipa,8n3wGN1zfgFgdwnXtKvwuo=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "👀 Axios AM: Everything-in-play election",
-      "date": "Sun, 23 Aug 2026 09:11:11 -0400",
-      "is_read": true,
-      "file": "0e874b6283a47e17aa453fca16a881b523ab92d031d31162265b10102e541272.json"
-    },
-    {
-      "id": "53973d3e2c9c036ff8120ed938408500b1d422b5cf95d990fbf40d8ebb706e3f",
-      "uid": "404163.spsNDNggk6wZrLjB5FWuWviXEwR,SWG77h5tRSYQs0A=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Wall Street Week Ahead",
-      "date": "Sun, 23 Aug 2026 07:15:51 -0400",
-      "is_read": true,
-      "file": "53973d3e2c9c036ff8120ed938408500b1d422b5cf95d990fbf40d8ebb706e3f.json"
-    },
-    {
-      "id": "9f5c4467d84bdf6a1e67baa19d3f26293d16e100a1d5c4812c0c115e6a438f3b",
-      "uid": "404159.qC9zYLHK9TuWwqKrkyzji,MsgLlAsSjbu2dUvBTJ97g=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: The Family Feud at the Jack Daniel's Empire",
-      "date": "Sun, 23 Aug 2026 07:02:34 -0400",
-      "is_read": true,
-      "file": "9f5c4467d84bdf6a1e67baa19d3f26293d16e100a1d5c4812c0c115e6a438f3b.json"
     },
     {
       "id": "d754a86f9f35a6555240825ef5c49b4a7aa7e1b8341725fed3ebdbaa2e335476",
