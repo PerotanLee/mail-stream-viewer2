@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3349 from=Must Reads <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-30T04:44:46.744350+00:00",
-  "added": 0,
+  "updated_at": "2026-08-30T04:44:47.694540+00:00",
+  "added": 1,
   "skipped": 56,
   "scanned": 57,
-  "current": "Must Reads <account@seekingalpha.com>",
+  "current": "Emerging Market Surge: 3 Top Stocks For Diversity And Growth",
   "added_by_filter": {
     "wsj": 0,
     "axios": 0,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 3286,
   "newest_num": 3405,
