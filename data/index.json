@@ -384,7 +384,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🛒  Axios AM: Grocery apocalypse",
       "date": "Sun, 30 Aug 2026 09:11:06 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "81196c0c6f4ffb6a9ecdf24caf1d21b9a02d7385e034417128a694ce9de4ee4f.json"
     },
     {
