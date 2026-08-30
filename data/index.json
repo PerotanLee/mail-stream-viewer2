@@ -798,7 +798,7 @@
       "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
       "subject": "Investment News Quiz - Friday, Aug. 28",
       "date": "Fri, 28 Aug 2026 05:04:55 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "454a504d4d0d01375e01243f83b05e330b2d3cf5d1e9f394685db3978dbbf7d7.json"
     }
   ]
