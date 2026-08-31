@@ -478,6 +478,15 @@
       "file": "903b401e72061903bb7e004ba9e3e36f95e44d0b0409e7ee64fd821fa428b50f.json"
     },
     {
+      "id": "f8845a46280d0280b02f49557aa56c91e03bc1bac921c4916df9950f792417d4",
+      "uid": "406218.GfJ5LPo0hwzgfoRFrF3dmTvCWXqL9B0Ec4s+IaPU5Uk=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "⛰️ Fearing fiscal dominance",
+      "date": "Mon, 31 Aug 2026 11:59:56 -0400",
+      "is_read": false,
+      "file": "f8845a46280d0280b02f49557aa56c91e03bc1bac921c4916df9950f792417d4.json"
+    },
+    {
       "id": "b5ea73c1d46bd4d194a928d91ca736898de556926130781e554fa3ea34aa342c",
       "uid": "406213.9ivADCAPBWIErsvzoqGQD,STt1C0QgoJq0yAoOkkGDA=",
       "from_addr": "Dan Primack <dan@axios.com>",
@@ -611,24 +620,6 @@
       "date": "Mon, 24 Aug 2026 15:00:56 -0400",
       "is_read": true,
       "file": "7a9d96157cd55a4bfa1677a0cfbcd920442946c264d80ad4f7d8439d0ea85d13.json"
-    },
-    {
-      "id": "d2ffb1deb7590a1c9530bfa7cebc408ad6b1d1e72a0e1f54869ef6160571cf2c",
-      "uid": "404430.7FX0KRJM9JW9vSDNULTdKzUSTVHt,p9lcS0OQiekd8A=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "⚠️ Escalation nation",
-      "date": "Mon, 24 Aug 2026 12:05:18 -0400",
-      "is_read": true,
-      "file": "d2ffb1deb7590a1c9530bfa7cebc408ad6b1d1e72a0e1f54869ef6160571cf2c.json"
-    },
-    {
-      "id": "b37a6de5fec09786eccdbd8587833742989f2d291e859c7bb381cfb47f295bea",
-      "uid": "404422.mmcvDB59smV5QpCh10Jf+qHGUU+50+DvoZuxkBoS8CQ=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Canadian competition",
-      "date": "Mon, 24 Aug 2026 09:57:24 -0400",
-      "is_read": true,
-      "file": "b37a6de5fec09786eccdbd8587833742989f2d291e859c7bb381cfb47f295bea.json"
     },
     {
       "id": "a1e998a2e15737493f0f5665c072617febc74d424c2d247d6d08119a45b6c155",
