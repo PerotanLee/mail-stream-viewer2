@@ -546,7 +546,7 @@
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
       "subject": "The 10-Point: More Good Times Ahead for Corporate America",
       "date": "Mon, 31 Aug 2026 06:06:07 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "05d04f48d6a5c131802b79f73859aaafcc1ba4d9d47a2d10a89ceaadf33636ba.json"
     },
     {
