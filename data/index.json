@@ -528,7 +528,7 @@
       "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
       "subject": "Now up 348%. What are you waiting for?",
       "date": "Mon, 31 Aug 2026 06:34:32 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "ac3e236512b35946168b2b764eacb15e87985ca996c1a63b89651a573013f53b.json"
     },
     {
