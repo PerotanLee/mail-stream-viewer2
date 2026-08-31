@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3654 from=\"WSJ Markets A.M\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-31T13:42:58.023094+00:00",
-  "added": 7,
+  "updated_at": "2026-08-31T13:42:59.392199+00:00",
+  "added": 8,
   "skipped": 27,
   "scanned": 35,
-  "current": "\"WSJ Markets A.M\" <access@interactive.wsj.com>",
+  "current": "⚖️ Equal-Weight Funds Tip the Scales",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 3,
     "seekingalpha": 2
   },
