@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3643 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-31T13:43:05.314956+00:00",
-  "added": 9,
+  "updated_at": "2026-08-31T13:43:06.723489+00:00",
+  "added": 10,
   "skipped": 36,
   "scanned": 46,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🦾 Axios AM: AI's reputation cure",
   "added_by_filter": {
     "wsj": 4,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 2
   },
   "last_newest_num": 3630,
