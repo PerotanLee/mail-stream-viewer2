@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3657 from=Seeking Alpha <subscriptions@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-08-31T13:42:52.879993+00:00",
-  "added": 5,
+  "updated_at": "2026-08-31T13:42:53.944301+00:00",
+  "added": 6,
   "skipped": 26,
   "scanned": 32,
-  "current": "Seeking Alpha <subscriptions@seekingalpha.com>",
+  "current": "Now up 348%. What are you waiting for?",
   "added_by_filter": {
     "wsj": 1,
     "axios": 3,
-    "seekingalpha": 1
+    "seekingalpha": 2
   },
   "last_newest_num": 3630,
   "newest_num": 3688,
