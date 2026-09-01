@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3957 from=WSJ AI & Business <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-01T17:47:14.427953+00:00",
-  "added": 1,
+  "updated_at": "2026-09-01T17:47:15.539177+00:00",
+  "added": 2,
   "skipped": 1,
   "scanned": 3,
-  "current": "WSJ AI & Business <access@interactive.wsj.com>",
+  "current": "What Will Limit AI’s Growth",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 0,
     "seekingalpha": 1
   },
