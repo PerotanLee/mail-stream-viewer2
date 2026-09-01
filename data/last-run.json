@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=3934 from=Axios Markets <markets@axios.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-01T12:09:22.014278+00:00",
+  "updated_at": "2026-09-01T12:09:25.050203+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 3925
+  "skipped": 10,
+  "scanned": 11,
+  "current": "Axios Markets <markets@axios.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 3925,
+  "newest_num": 3944,
+  "scan_mode": "new",
+  "since": "2026-09-01T10:34:34.426070+00:00"
 }
