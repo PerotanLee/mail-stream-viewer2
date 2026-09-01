@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3922 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-01T10:40:30.551364+00:00",
-  "added": 0,
+  "updated_at": "2026-09-01T10:40:31.928777+00:00",
+  "added": 1,
   "skipped": 2,
   "scanned": 3,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "WSJ Wealth Adviser Briefing: Momentum Trade, Corporate Profits, European Heat Wave",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 0,
     "seekingalpha": 0
   },
