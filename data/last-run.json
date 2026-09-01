@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3907 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-01T10:26:12.479907+00:00",
-  "added": 1,
+  "updated_at": "2026-09-01T10:26:13.733134+00:00",
+  "added": 2,
   "skipped": 10,
   "scanned": 12,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🛢️ Axios AM: Trump's secret oil baron",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 3843,
