@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=3950 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-01T14:32:08.137124+00:00",
-  "added": 0,
+  "updated_at": "2026-09-01T14:32:09.720273+00:00",
+  "added": 1,
   "skipped": 3,
   "scanned": 4,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "Axios Pro Rata: Drone dispute",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 3944,
