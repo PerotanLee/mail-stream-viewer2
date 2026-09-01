@@ -154,15 +154,6 @@
       "file": "844bfa4a00792bfb6c95b272815388fcf56aaf9a88b17d603b05d41cacb361db.json"
     },
     {
-      "id": "7c414fd39253c50b6114375b4d48f7c1e5c036b67e9bffa49ddef8dc3cc7f6fd",
-      "uid": "404714.3cxsf,QClfEnTRNBYZBS4OeqPGuUVI,OOyLiU7Gq+7c=",
-      "from_addr": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The Intelligent Investor: Are inflation-Fighting Bonds on Sale?",
-      "date": "Tue, 25 Aug 2026 11:02:00 -0400",
-      "is_read": true,
-      "file": "7c414fd39253c50b6114375b4d48f7c1e5c036b67e9bffa49ddef8dc3cc7f6fd.json"
-    },
-    {
       "id": "932d06eaf99fa1da0d02eedbdd828067bbc9afd735084763aaafbe8291e0bbec",
       "uid": "406491.YQO9HVdYfHgEaybd0bRfJs6aRgk3hTCiGEBKg3HQ+ec=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -179,6 +170,33 @@
       "date": "Tue, 01 Sep 2026 17:09:50 +1000",
       "is_read": true,
       "file": "d2d017afe5fadeae64e86c9a81bc6b023aef1383c01916d273812b44ceced588.json"
+    },
+    {
+      "id": "c452278b9b6de8bd658d00199b2f680af6bc60df79aae299c211fb8b7ab3f215",
+      "uid": "406538.eS52o0RgoCIeHQc68QBNZDj8AQTJk6MoD3RKG3ZAk8M=",
+      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
+      "subject": "New pick just released. You're not too late.",
+      "date": "Tue, 01 Sep 2026 12:15:10 -0400",
+      "is_read": false,
+      "file": "c452278b9b6de8bd658d00199b2f680af6bc60df79aae299c211fb8b7ab3f215.json"
+    },
+    {
+      "id": "463501f8c357e9549ebd17777042b4e856f4cd3e42fb3fc48081f9257afdd74c",
+      "uid": "406536.os2VJ,4K711JCzORLTtXrNgxUlHtW2WKUZ97JRwEQnE=",
+      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
+      "subject": "What Will Limit AI’s Growth",
+      "date": "Tue, 01 Sep 2026 12:06:08 -0400",
+      "is_read": false,
+      "file": "463501f8c357e9549ebd17777042b4e856f4cd3e42fb3fc48081f9257afdd74c.json"
+    },
+    {
+      "id": "f7a96f9b3ed2b8bcb629f8302b7a72404a009091c09e22018bc91191626fe95a",
+      "uid": "406534.ZQtgCuL2nggUUzvL2FGn5S7hCn3PJC88OTs7uzqhbf8=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "💸 G20 growth divide",
+      "date": "Tue, 01 Sep 2026 11:58:32 -0400",
+      "is_read": false,
+      "file": "f7a96f9b3ed2b8bcb629f8302b7a72404a009091c09e22018bc91191626fe95a.json"
     },
     {
       "id": "0c3d14926a71d3b75f3156034fd0b1d6708e50b5fbf5625547c7b3eaa5f8a791",
