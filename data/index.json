@@ -181,33 +181,6 @@
       "file": "8624e1c1b595230c83c4653bdbf1f9d8a073323b9178d9dd5c90d126e3a4633b.json"
     },
     {
-      "id": "7f491dd3f6a96c69d8033d6754975c9f20e7ccd81538c5f05a212cf0f7221d44",
-      "uid": "404698.IcXzGhdBQi859gVHsWxw,X0aoSD7eTHdkoDJWaUoGr4=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Elon Musk's Hall Of Fame And Shame",
-      "date": "Tue, 25 Aug 2026 07:53:28 -0400",
-      "is_read": true,
-      "file": "7f491dd3f6a96c69d8033d6754975c9f20e7ccd81538c5f05a212cf0f7221d44.json"
-    },
-    {
-      "id": "3ce17e5bd7926d52208f48b2d632967fbea2846eb5a76d163590899fc648c027",
-      "uid": "404690.Va53WWYeGeqNMehVoi7h6+Wl,XVVrm2KMN7LLdbnmGo=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🥊  Fighting for cash",
-      "date": "Tue, 25 Aug 2026 07:28:34 -0400",
-      "is_read": true,
-      "file": "3ce17e5bd7926d52208f48b2d632967fbea2846eb5a76d163590899fc648c027.json"
-    },
-    {
-      "id": "5747c6c0bc55d839953c18c84bed1b7531393818acc865077c34502b7cdaabc4",
-      "uid": "404688.pMISyx2yLcXa4lUFZTZ9Q1fBTJvoR5ud5Gk3cReQYB4=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Abdul El-Sayed’s Wild Fox News Interview",
-      "date": "Tue, 25 Aug 2026 07:16:52 -0400",
-      "is_read": true,
-      "file": "5747c6c0bc55d839953c18c84bed1b7531393818acc865077c34502b7cdaabc4.json"
-    },
-    {
       "id": "932d06eaf99fa1da0d02eedbdd828067bbc9afd735084763aaafbe8291e0bbec",
       "uid": "406491.YQO9HVdYfHgEaybd0bRfJs6aRgk3hTCiGEBKg3HQ+ec=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -224,6 +197,42 @@
       "date": "Tue, 01 Sep 2026 17:09:50 +1000",
       "is_read": true,
       "file": "d2d017afe5fadeae64e86c9a81bc6b023aef1383c01916d273812b44ceced588.json"
+    },
+    {
+      "id": "681fbde8c9adb84403359d29ab947ed8c62f2f214efe7eb6f95a1850683d6d9f",
+      "uid": "406505.j98dClkictt6YFGJ8srR0AFY5LMaSeEbVJuqeR5TNI8=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🤔 Big profits, bigger questions",
+      "date": "Tue, 01 Sep 2026 07:29:21 -0400",
+      "is_read": false,
+      "file": "681fbde8c9adb84403359d29ab947ed8c62f2f214efe7eb6f95a1850683d6d9f.json"
+    },
+    {
+      "id": "f756fa04494ee47ad6a4aef1f4dfa3794170122c9a9b1d25458e27f961070c0a",
+      "uid": "406502.u79PbtC6pshoubtGN4Z5Lm8SaLzX15jfP82,l7KMS0A=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: The U.S. Tries to Squeeze Iran to Surrender",
+      "date": "Tue, 01 Sep 2026 07:12:11 -0400",
+      "is_read": false,
+      "file": "f756fa04494ee47ad6a4aef1f4dfa3794170122c9a9b1d25458e27f961070c0a.json"
+    },
+    {
+      "id": "3c743664ba8a48a144aac2782b4a5a9993e75389b28fb59526110ca934fd4129",
+      "uid": "406500.CQbY2vBZjux319zjF4Y0YvdntKn2ifQcy2Eikrit,gw=",
+      "from_addr": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ China: Taiwan’s Quiet Way With Tradition",
+      "date": "Tue, 01 Sep 2026 07:03:20 -0400",
+      "is_read": false,
+      "file": "3c743664ba8a48a144aac2782b4a5a9993e75389b28fb59526110ca934fd4129.json"
+    },
+    {
+      "id": "a77f9767ff4ee4ee6284c12414c56a6ca849a7776cb5a2237617d057896bef02",
+      "uid": "406496.Oktwj253w6mZT8IQ3tEzziA2+J4lJTGZni+SzFBcsgo=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "California Wildfire Bill Up For Vote",
+      "date": "Tue, 01 Sep 2026 07:00:48 -0400",
+      "is_read": false,
+      "file": "a77f9767ff4ee4ee6284c12414c56a6ca849a7776cb5a2237617d057896bef02.json"
     },
     {
       "id": "b4b11ec53fe609282b8d55fa1cf777d24ed2f1f62f5cc7b7b04348bb764bc8b1",
