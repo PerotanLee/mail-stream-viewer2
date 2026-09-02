@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=4171 from=Axios Defense <defense@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-02T12:19:43.936089+00:00",
-  "added": 4,
+  "updated_at": "2026-09-02T12:19:44.974042+00:00",
+  "added": 5,
   "skipped": 22,
   "scanned": 27,
-  "current": "Axios Defense <defense@axios.com>",
+  "current": "🛫 Where's the warplane?",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 1
   },
   "last_newest_num": 3959,
