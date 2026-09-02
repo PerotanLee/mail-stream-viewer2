@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=4205 from=Axios AI+ <ai.plus@axios.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-02T13:39:23.294258+00:00",
+  "updated_at": "2026-09-02T13:39:25.100084+00:00",
   "added": 0,
   "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 4201
+  "scanned": 1,
+  "current": "Axios AI+ <ai.plus@axios.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 4201,
+  "newest_num": 4205,
+  "scan_mode": "new",
+  "since": "2026-09-02T12:39:42.052115+00:00"
 }
