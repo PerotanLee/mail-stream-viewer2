@@ -231,7 +231,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🏎️ Axios PM: Supercar headaches",
       "date": "Tue, 01 Sep 2026 15:23:20 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "90e0e1ce9b1dcd4565196559f8f62d453aa4c57d899429336af0bd803e4170b5.json"
     },
     {
