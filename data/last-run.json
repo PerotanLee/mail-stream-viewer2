@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=4170 from=\"WSJ Markets A.M\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-02T12:19:46.309239+00:00",
-  "added": 5,
+  "updated_at": "2026-09-02T12:19:47.471600+00:00",
+  "added": 6,
   "skipped": 22,
   "scanned": 28,
-  "current": "\"WSJ Markets A.M\" <access@interactive.wsj.com>",
+  "current": "Markets A.M.: 🤖 Too Much of a Good AI Thing",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 2,
     "seekingalpha": 1
   },
