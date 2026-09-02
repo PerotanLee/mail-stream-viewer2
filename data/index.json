@@ -177,7 +177,7 @@
       "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
       "subject": "New pick just released. You're not too late.",
       "date": "Tue, 01 Sep 2026 12:15:10 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "c452278b9b6de8bd658d00199b2f680af6bc60df79aae299c211fb8b7ab3f215.json"
     },
     {
