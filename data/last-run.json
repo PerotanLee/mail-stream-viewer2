@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=4164 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-02T12:19:49.676449+00:00",
-  "added": 6,
+  "updated_at": "2026-09-02T12:19:50.809212+00:00",
+  "added": 7,
   "skipped": 27,
   "scanned": 34,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: U.S., Allies Clash Amid Global Bond Selloff",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 2,
     "seekingalpha": 1
   },
