@@ -10,15 +10,6 @@
       "file": "4c927506be1dd491be0c714aa128c518082727043eb9f60bd3d6bb4d1ded91e6.json"
     },
     {
-      "id": "48cd4d21b2dad276dbc3a24166b971fb04c423e625db4aa3fd1afa6ba0f9d202",
-      "uid": "405016.4oc8xgnV9MU9f1+SO71SX3owdpBD1CmaLw2wZPRrors=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Meta Settles",
-      "date": "Wed, 26 Aug 2026 16:38:18 -0400",
-      "is_read": true,
-      "file": "48cd4d21b2dad276dbc3a24166b971fb04c423e625db4aa3fd1afa6ba0f9d202.json"
-    },
-    {
       "id": "e2e09f9e34ed8a6cd49adceb9d0bc7a9ab71670abac5e6638c27e0524ad83588",
       "uid": "406799.MJPh8d8RMO6A+NMTJhRjwKc8sUTfZ6cWEL,2xABk+oE=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -35,6 +26,33 @@
       "date": "Wed, 02 Sep 2026 17:09:55 +1000",
       "is_read": true,
       "file": "df322934cdc21908d0144eed187fca49d2ab2f743cb1fbe5f28ce09408130411.json"
+    },
+    {
+      "id": "8a39e950b1ce22f8ad3b10c80909b577b44d6f07d2c41d8812639d06ddc19f0a",
+      "uid": "406885.ddXrVBLVP9msKsKiC6j1+7aSnmnlWkWac03f3Upe7Tg=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "💰 Chevron's Venezuela bet",
+      "date": "Wed, 02 Sep 2026 17:07:24 -0400",
+      "is_read": false,
+      "file": "8a39e950b1ce22f8ad3b10c80909b577b44d6f07d2c41d8812639d06ddc19f0a.json"
+    },
+    {
+      "id": "ec1843954ac2594833e4be0e1a77e7f0919c3256ee373011be0a6b086887f522",
+      "uid": "406883.QfRGWniHituBXqAluWi8EQWgHpPg3ORmKoEx8aiIe94=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: The Most Expensive Home on Martha’s Vineyard Sells for $43 Million",
+      "date": "Wed, 02 Sep 2026 17:02:10 -0400",
+      "is_read": false,
+      "file": "ec1843954ac2594833e4be0e1a77e7f0919c3256ee373011be0a6b086887f522.json"
+    },
+    {
+      "id": "a90460257565bf37778b001091b59853dd29289079708c86dcb230063cdf6a2a",
+      "uid": "406874.qG,kUHJrXcKUCO3mGRZj2FDeiEgdE4Z38mIszeJ4g6U=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Stocks Shrug",
+      "date": "Wed, 02 Sep 2026 16:31:04 -0400",
+      "is_read": false,
+      "file": "a90460257565bf37778b001091b59853dd29289079708c86dcb230063cdf6a2a.json"
     },
     {
       "id": "483f141e9870a45f51c6c76e4224472d97a203c19e434259920db387fc4ba65b",
