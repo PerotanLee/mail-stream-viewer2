@@ -1,23 +1,15 @@
 {
-  "ok": true,
-  "running": false,
-  "step": "完了",
-  "phase": "done",
+  "ok": false,
+  "running": true,
+  "step": "設定読み込み",
+  "phase": "setup",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-02T12:54:42.052386+00:00",
-  "finished_at": "2026-09-02T12:54:42.052386+00:00",
+  "updated_at": "2026-09-02T13:39:19.172522+00:00",
   "added": 0,
-  "skipped": 3,
-  "scanned": 3,
+  "skipped": 0,
+  "scanned": 0,
   "current": "",
-  "added_by_filter": {
-    "wsj": 0,
-    "axios": 0,
-    "seekingalpha": 0
-  },
-  "last_newest_num": 4198,
-  "newest_num": 4201,
-  "scan_mode": "new",
-  "since": "2026-09-02T12:18:58.636785+00:00"
+  "added_by_filter": {},
+  "last_newest_num": 4201
 }
