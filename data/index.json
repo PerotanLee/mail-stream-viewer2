@@ -159,7 +159,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "☎️ Axios Finish Line: Phone a friend",
       "date": "Tue, 01 Sep 2026 21:29:41 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "77b48c59e668f878334182e3e43c5b20e9be1a73229d227d90d5c47bf9907d3e.json"
     },
     {
