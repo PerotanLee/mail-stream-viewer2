@@ -19,24 +19,6 @@
       "file": "48cd4d21b2dad276dbc3a24166b971fb04c423e625db4aa3fd1afa6ba0f9d202.json"
     },
     {
-      "id": "8b0a024add0722ca8efc402afaef1abdb64b556a5a4afe09442db5f0ca4ec6a0",
-      "uid": "405010.nkKaruOQjzJNUnxWHu7FpOY7YdMSiukLXwT2nAO3brk=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Nvidia Earnings: Top AI Stocks And What We Need To See For A Rally",
-      "date": "Wed, 26 Aug 2026 15:55:32 -0400",
-      "is_read": true,
-      "file": "8b0a024add0722ca8efc402afaef1abdb64b556a5a4afe09442db5f0ca4ec6a0.json"
-    },
-    {
-      "id": "df11c8414188cb33a174576134a4794c4ac94a7da8fcbef8f69e100a92de63d4",
-      "uid": "405009.aptJHFBTEa5bw0EB99ePWCTqKSwodQyRmtB8d+zSSq0=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "💊 Axios PM: New cancer drug",
-      "date": "Wed, 26 Aug 2026 15:01:19 -0400",
-      "is_read": true,
-      "file": "df11c8414188cb33a174576134a4794c4ac94a7da8fcbef8f69e100a92de63d4.json"
-    },
-    {
       "id": "e2e09f9e34ed8a6cd49adceb9d0bc7a9ab71670abac5e6638c27e0524ad83588",
       "uid": "406799.MJPh8d8RMO6A+NMTJhRjwKc8sUTfZ6cWEL,2xABk+oE=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -53,6 +35,24 @@
       "date": "Wed, 02 Sep 2026 17:09:55 +1000",
       "is_read": true,
       "file": "df322934cdc21908d0144eed187fca49d2ab2f743cb1fbe5f28ce09408130411.json"
+    },
+    {
+      "id": "483f141e9870a45f51c6c76e4224472d97a203c19e434259920db387fc4ba65b",
+      "uid": "406869.7VkIUo0GYY3noWIerCfH46r5xkkh3gru59FL,iK02xg=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Micron's 2028 Risk Is Fading",
+      "date": "Wed, 02 Sep 2026 16:05:24 -0400",
+      "is_read": false,
+      "file": "483f141e9870a45f51c6c76e4224472d97a203c19e434259920db387fc4ba65b.json"
+    },
+    {
+      "id": "b890b585991c8d7b9cdc050950ba7549aaa9cc9dd77e9b3a484ad2ab92004d1e",
+      "uid": "406865.xd0D0d,1XZV3BZ5CBEHW7wifwniSmO4mL++FKJXR3zc=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🫣 Axios PM: America's trust bust",
+      "date": "Wed, 02 Sep 2026 15:22:34 -0400",
+      "is_read": false,
+      "file": "b890b585991c8d7b9cdc050950ba7549aaa9cc9dd77e9b3a484ad2ab92004d1e.json"
     },
     {
       "id": "9f2305af1d395d3c18e09ad29a78c7200f78e497bd18b63905b2b1941579c799",
