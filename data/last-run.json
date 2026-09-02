@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=4205 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-02T13:39:25.100084+00:00",
-  "added": 0,
+  "updated_at": "2026-09-02T13:39:26.545283+00:00",
+  "added": 1,
   "skipped": 0,
   "scanned": 1,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "🚨 Frontier AI's disconnect",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 4201,
