@@ -1,15 +1,6 @@
 {
   "emails": [
     {
-      "id": "d18474348e9daba50aaa8a430975cd9757989a7c863da69904441781cb94fe98",
-      "uid": "404964.CGNID8b9hg2b6clm5Gy7vccIS2hqh976oxdM133DO9s=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Crazy Stock Market, Nvidia as Banker, Competitive Subway Riders",
-      "date": "Wed, 26 Aug 2026 20:32:00 +1000",
-      "is_read": true,
-      "file": "d18474348e9daba50aaa8a430975cd9757989a7c863da69904441781cb94fe98.json"
-    },
-    {
       "id": "4c927506be1dd491be0c714aa128c518082727043eb9f60bd3d6bb4d1ded91e6",
       "uid": "405028.w82zSbQLKIga0aMYxetYO2uC0KMdAUIxrPbXmOAAzJM=",
       "from_addr": "Axios Closer <closer@axios.com>",
@@ -82,76 +73,94 @@
       "file": "584a6e99f4b196edb346475a11507fbe16a0a536871077963c64712847c18998.json"
     },
     {
-      "id": "91fcc52af4712816d7f7b2ccb023bf54648e0761a67154fcf1d7c5d11a39523f",
-      "uid": "404980.ZEIVh7vc5YZ3NSoqP8PhR8WqNI2P,KVZPEzfJx8zFB0=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🤑 Trillions of dollars",
-      "date": "Wed, 26 Aug 2026 07:28:36 -0400",
-      "is_read": true,
-      "file": "91fcc52af4712816d7f7b2ccb023bf54648e0761a67154fcf1d7c5d11a39523f.json"
+      "id": "e2e09f9e34ed8a6cd49adceb9d0bc7a9ab71670abac5e6638c27e0524ad83588",
+      "uid": "406799.MJPh8d8RMO6A+NMTJhRjwKc8sUTfZ6cWEL,2xABk+oE=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Jersey Mike’s, Retailers Ditch Variety, Supercar Tourists",
+      "date": "Wed, 02 Sep 2026 20:31:53 +1000",
+      "is_read": false,
+      "file": "e2e09f9e34ed8a6cd49adceb9d0bc7a9ab71670abac5e6638c27e0524ad83588.json"
     },
     {
-      "id": "502c83eacb22a995d6c94bee73e46fee93454e0a6477b5e314bdbd733707daab",
-      "uid": "404974.kyHU4mofi7,4P0V2DpJeeZ+C7RQbHstgYF4P1,uqyNw=",
+      "id": "df322934cdc21908d0144eed187fca49d2ab2f743cb1fbe5f28ce09408130411",
+      "uid": "406717.W6R72asRPOVdMXe786237C36N4re0AIfJHR2xwFTkLo=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Wed, 02 Sep 2026 17:09:55 +1000",
+      "is_read": false,
+      "file": "df322934cdc21908d0144eed187fca49d2ab2f743cb1fbe5f28ce09408130411.json"
+    },
+    {
+      "id": "b5632460de7f549dca4f15eaac3eef7b42bf16e5f144cf781d64e4984ec84f24",
+      "uid": "406826.mRPXZ5N9lfS+CRB2bcUA4khG3mlcbYej13pGynoJUlE=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "AI Demand's Big Test",
-      "date": "Wed, 26 Aug 2026 07:04:51 -0400",
-      "is_read": true,
-      "file": "502c83eacb22a995d6c94bee73e46fee93454e0a6477b5e314bdbd733707daab.json"
+      "subject": "It's Getting Costlier At The Pump",
+      "date": "Wed, 02 Sep 2026 07:52:48 -0400",
+      "is_read": false,
+      "file": "b5632460de7f549dca4f15eaac3eef7b42bf16e5f144cf781d64e4984ec84f24.json"
     },
     {
-      "id": "18a124ebc37c398231d8aa1fd8f29519126c1b1259ecd8da38aed3a8cf797fae",
-      "uid": "404968.xzESFXQgu5bByj817IyPt0lHzUurEKIkfCfaK23EDvw=",
+      "id": "96b85140b416a78084d93c79aa2ebe78619d25bc4e9163ecb05877befa1298b6",
+      "uid": "406819.lKrbK2eoQgSflw6A8DTsdWFMSO6QPFtltb9bpIenmVI=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "💸 Coupon clipped",
+      "date": "Wed, 02 Sep 2026 07:28:34 -0400",
+      "is_read": false,
+      "file": "96b85140b416a78084d93c79aa2ebe78619d25bc4e9163ecb05877befa1298b6.json"
+    },
+    {
+      "id": "6c9e5cdb8e6c787c1aa92ee2e083405b5950ad12757a11639bdedcece8e8eb8a",
+      "uid": "406812.IJa0RvR8Q0BaI5Yszc9LOnOyVq,HeMd0hb3wCuz1ljo=",
       "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: What Darline Graham’s Win Means for Midterms",
-      "date": "Wed, 26 Aug 2026 06:51:54 -0400",
-      "is_read": true,
-      "file": "18a124ebc37c398231d8aa1fd8f29519126c1b1259ecd8da38aed3a8cf797fae.json"
+      "subject": "WSJ Politics: Do Democrats Have a Hasan Piker Problem?",
+      "date": "Wed, 02 Sep 2026 07:06:08 -0400",
+      "is_read": false,
+      "file": "6c9e5cdb8e6c787c1aa92ee2e083405b5950ad12757a11639bdedcece8e8eb8a.json"
     },
     {
-      "id": "b0dd8d20c74d33afe5234033686d41d0fecda321837ab4be506903bf9c0de252",
-      "uid": "404961.CgyqVHdhOuW3f1lZzdZZIsz6LtavE5JRtiWvF37DOFM=",
+      "id": "5b3d480ab615cb7d98da9077382edee35cf0315bd3b3e2db3cd2de0788a6f43f",
+      "uid": "406798.yuyN95erogDkKbWAn21QeKRhf4Uc7IgKTymo0eA6nkA=",
       "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "🤖 Sandhills sci-fi",
-      "date": "Wed, 26 Aug 2026 06:30:24 -0400",
-      "is_read": true,
-      "file": "b0dd8d20c74d33afe5234033686d41d0fecda321837ab4be506903bf9c0de252.json"
+      "subject": "🛫 Where's the warplane?",
+      "date": "Wed, 02 Sep 2026 06:30:22 -0400",
+      "is_read": false,
+      "file": "5b3d480ab615cb7d98da9077382edee35cf0315bd3b3e2db3cd2de0788a6f43f.json"
     },
     {
-      "id": "7b4b739ed15278e2e33916a5adc24b08fbe4aaa2c8b8ac226f3cd7f86eeea378",
-      "uid": "404959.v32hQdKYX5wPUFe09y3bxRv9o6rOts1IJOizaaK3rUU=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "⚖️ Axios AM: Jeffries' Day 1 plans",
-      "date": "Wed, 26 Aug 2026 06:26:05 -0400",
-      "is_read": true,
-      "file": "7b4b739ed15278e2e33916a5adc24b08fbe4aaa2c8b8ac226f3cd7f86eeea378.json"
+      "id": "1529b62506cf8e607d8c0bcfef78dbbcfbf00f891db9c23015a1990bdb8686af",
+      "uid": "406797.8FkbbJqa9l56zFeqNaxA3FwjBRQ+wSNYWQQk71HvpoA=",
+      "from_addr": "\"WSJ Markets A.M\" <access@interactive.wsj.com>",
+      "subject": "Markets A.M.: 🤖 Too Much of a Good AI Thing",
+      "date": "Wed, 02 Sep 2026 06:28:28 -0400",
+      "is_read": false,
+      "file": "1529b62506cf8e607d8c0bcfef78dbbcfbf00f891db9c23015a1990bdb8686af.json"
     },
     {
-      "id": "e32017b1f8908b7c32d193ff82084e44f0c79fea89c82fef7c91968d09e6ad25",
-      "uid": "404954.MvxN3vUpyzyFPU1NcNOjU8QO3G5bd0nW1d3ixyv4QB8=",
-      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
-      "subject": "🤖 Nvidia’s Return-on-Investment Dilemma",
-      "date": "Wed, 26 Aug 2026 06:16:00 -0400",
-      "is_read": true,
-      "file": "e32017b1f8908b7c32d193ff82084e44f0c79fea89c82fef7c91968d09e6ad25.json"
-    },
-    {
-      "id": "d70a595d10d4a02d7b799614500f97d743d439a7420863cecaf68a944c16743d",
-      "uid": "404949.6mFclIh8oFDc9VynzOHXO9AnKRAObS3mQx,RgemjdxQ=",
+      "id": "a5402c5982d6ee5918f9caeff5a4e2cc70488cd4285161bf6b524b6a46002ed3",
+      "uid": "406790.5fP9LCZTG2SahWANp2k9cwK9h49LZiU3NsLiLqoXKEc=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: How a Teen Became the Fallen ‘Nostradamus of AI’",
-      "date": "Wed, 26 Aug 2026 06:11:05 -0400",
-      "is_read": true,
-      "file": "d70a595d10d4a02d7b799614500f97d743d439a7420863cecaf68a944c16743d.json"
+      "subject": "The 10-Point: U.S., Allies Clash Amid Global Bond Selloff",
+      "date": "Wed, 02 Sep 2026 06:08:00 -0400",
+      "is_read": false,
+      "file": "a5402c5982d6ee5918f9caeff5a4e2cc70488cd4285161bf6b524b6a46002ed3.json"
     },
     {
-      "id": "844bfa4a00792bfb6c95b272815388fcf56aaf9a88b17d603b05d41cacb361db",
-      "uid": "404732.nSuoDOlqetM,CL4QmIMa,aRwnnKhDgAWRPvJS7784SI=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Canada Strikes Back",
-      "date": "Tue, 25 Aug 2026 16:27:25 -0400",
-      "is_read": true,
-      "file": "844bfa4a00792bfb6c95b272815388fcf56aaf9a88b17d603b05d41cacb361db.json"
+      "id": "275e4ef9e97e5857b728eca79876d6e751fb02532a92176ab4463a42f7dfc9c1",
+      "uid": "406783.kUA0D1GfVTB5Ag,DFCO,+lyteEm3uhcM0QPRvlyELM4=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🪖 Axios AM: Hegseth's Pentagon storm",
+      "date": "Wed, 02 Sep 2026 06:00:26 -0400",
+      "is_read": false,
+      "file": "275e4ef9e97e5857b728eca79876d6e751fb02532a92176ab4463a42f7dfc9c1.json"
+    },
+    {
+      "id": "77b48c59e668f878334182e3e43c5b20e9be1a73229d227d90d5c47bf9907d3e",
+      "uid": "406621.2bAnqLonTKKMV7a9jyu0nkUZrqsRVXfAdl3X69EXxOU=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "☎️ Axios Finish Line: Phone a friend",
+      "date": "Tue, 01 Sep 2026 21:29:41 -0400",
+      "is_read": false,
+      "file": "77b48c59e668f878334182e3e43c5b20e9be1a73229d227d90d5c47bf9907d3e.json"
     },
     {
       "id": "932d06eaf99fa1da0d02eedbdd828067bbc9afd735084763aaafbe8291e0bbec",
@@ -163,6 +172,24 @@
       "file": "932d06eaf99fa1da0d02eedbdd828067bbc9afd735084763aaafbe8291e0bbec.json"
     },
     {
+      "id": "2a7f2050df556c8fb4f3d8a83ae8a27638adc14ca5d191453224dd02447cafae",
+      "uid": "406585.LinXwHkI8Xkp6KXM,zhC1yYPF9rvmxvxtpMh,fhg8Cs=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: California clanger",
+      "date": "Tue, 01 Sep 2026 19:01:46 -0400",
+      "is_read": false,
+      "file": "2a7f2050df556c8fb4f3d8a83ae8a27638adc14ca5d191453224dd02447cafae.json"
+    },
+    {
+      "id": "ffa8d03d8af3f6a4b924a2ef2b8aa70cedbbaeb595ffa5c4d87c98ea162e198e",
+      "uid": "406577.m6r7fYSo7Z+V7qgEmprsNOroYpIRV57xPF96zXEDcns=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Travis Kelce Buys Lakefront Ohio Home for $5.35 Million",
+      "date": "Tue, 01 Sep 2026 18:11:38 -0400",
+      "is_read": false,
+      "file": "ffa8d03d8af3f6a4b924a2ef2b8aa70cedbbaeb595ffa5c4d87c98ea162e198e.json"
+    },
+    {
       "id": "d2d017afe5fadeae64e86c9a81bc6b023aef1383c01916d273812b44ceced588",
       "uid": "406417.Mm7Ik8mlxssXAmPuuVPOyALgQlvVV1fdHlmllRXJaSU=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -170,6 +197,42 @@
       "date": "Tue, 01 Sep 2026 17:09:50 +1000",
       "is_read": true,
       "file": "d2d017afe5fadeae64e86c9a81bc6b023aef1383c01916d273812b44ceced588.json"
+    },
+    {
+      "id": "79f1ee35bfb6a2faa667df8cf42baaf59581ad7562d611cf9ded559e8b87831a",
+      "uid": "406563.aSbh3Q5GqRsd9owhNV43oXaRExR6nMwNW8GEMOuTI4Q=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "📈 Yields of yore",
+      "date": "Tue, 01 Sep 2026 17:06:45 -0400",
+      "is_read": false,
+      "file": "79f1ee35bfb6a2faa667df8cf42baaf59581ad7562d611cf9ded559e8b87831a.json"
+    },
+    {
+      "id": "e266ceff644ccdbeb55c231f5ba317cb668ab30acdab6dfde4a127b9b94af3cb",
+      "uid": "406551.9Qptg5z+VhtXahZbrNBIhGCwWY7haReDuTAyBDf1x,s=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Oil Contagion",
+      "date": "Tue, 01 Sep 2026 16:16:06 -0400",
+      "is_read": false,
+      "file": "e266ceff644ccdbeb55c231f5ba317cb668ab30acdab6dfde4a127b9b94af3cb.json"
+    },
+    {
+      "id": "dcd5ba1bbb7e4eeea8ffa26e0b26e4cf166e113542288ce09096a4afff9118f4",
+      "uid": "406547.UrcdZMYLW+6Q2PFIbIC9jBmDCckUQATAxk21sPS04tY=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "AI Exhaustion? 3 Healthcare Stocks With 38% EPS Growth That Could Be The Cure",
+      "date": "Tue, 01 Sep 2026 15:56:27 -0400",
+      "is_read": false,
+      "file": "dcd5ba1bbb7e4eeea8ffa26e0b26e4cf166e113542288ce09096a4afff9118f4.json"
+    },
+    {
+      "id": "90e0e1ce9b1dcd4565196559f8f62d453aa4c57d899429336af0bd803e4170b5",
+      "uid": "406544.xK,QKopwRAKovcSXvkxp9UEnV,bwFj,nD6sGuHHetiA=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🏎️ Axios PM: Supercar headaches",
+      "date": "Tue, 01 Sep 2026 15:23:20 -0400",
+      "is_read": false,
+      "file": "90e0e1ce9b1dcd4565196559f8f62d453aa4c57d899429336af0bd803e4170b5.json"
     },
     {
       "id": "c452278b9b6de8bd658d00199b2f680af6bc60df79aae299c211fb8b7ab3f215",
