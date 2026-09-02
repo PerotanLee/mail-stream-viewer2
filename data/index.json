@@ -64,15 +64,6 @@
       "file": "fb0bfba634ad93139288fd0764f7b5cdf24065ec2803b747cd51f79968af9d13.json"
     },
     {
-      "id": "584a6e99f4b196edb346475a11507fbe16a0a536871077963c64712847c18998",
-      "uid": "404999.E33HCZ+Dij,70OSkN7UmXv35bcWrE3GhSXAHSucuKlQ=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "💡 Bill Gates' warning",
-      "date": "Wed, 26 Aug 2026 09:37:00 -0400",
-      "is_read": true,
-      "file": "584a6e99f4b196edb346475a11507fbe16a0a536871077963c64712847c18998.json"
-    },
-    {
       "id": "e2e09f9e34ed8a6cd49adceb9d0bc7a9ab71670abac5e6638c27e0524ad83588",
       "uid": "406799.MJPh8d8RMO6A+NMTJhRjwKc8sUTfZ6cWEL,2xABk+oE=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -89,6 +80,15 @@
       "date": "Wed, 02 Sep 2026 17:09:55 +1000",
       "is_read": true,
       "file": "df322934cdc21908d0144eed187fca49d2ab2f743cb1fbe5f28ce09408130411.json"
+    },
+    {
+      "id": "8d9a306a014513a492da05268c81b0519d0240ca4f3d1c2b5adf5e86b6f6b6ae",
+      "uid": "406839.EiqTobiqK4nNsvtcJsHUcnC5tPpnBnr,JHGW4a9Evpg=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🚨 Frontier AI's disconnect",
+      "date": "Wed, 02 Sep 2026 09:28:17 -0400",
+      "is_read": false,
+      "file": "8d9a306a014513a492da05268c81b0519d0240ca4f3d1c2b5adf5e86b6f6b6ae.json"
     },
     {
       "id": "b5632460de7f549dca4f15eaac3eef7b42bf16e5f144cf781d64e4984ec84f24",
