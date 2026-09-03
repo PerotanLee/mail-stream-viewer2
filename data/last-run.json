@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=4423 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-03T12:19:57.906121+00:00",
-  "added": 5,
+  "updated_at": "2026-09-03T12:19:58.965076+00:00",
+  "added": 6,
   "skipped": 27,
   "scanned": 33,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: U.S. Extends Middle East Deployments Into 2027",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 1,
     "seekingalpha": 1
   },
