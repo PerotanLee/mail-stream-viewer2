@@ -501,7 +501,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Tesla Cybercab In Focus",
       "date": "Thu, 03 Sep 2026 07:35:18 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "d247770e62d90e5b02197e2802a412cec2f01ea390d3b770bacfd3c8ce126fd4.json"
     },
     {
