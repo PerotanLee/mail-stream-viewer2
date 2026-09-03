@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=4290 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-03T04:21:35.813141+00:00",
-  "added": 0,
+  "updated_at": "2026-09-03T04:21:37.171009+00:00",
+  "added": 1,
   "skipped": 48,
   "scanned": 49,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🇳🇵Axios Finish Line: Nepali heroes",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 4241,
