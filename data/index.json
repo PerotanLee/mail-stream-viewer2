@@ -478,31 +478,13 @@
       "file": "978549fad108fdef872c4d32bd132046dffa5a8cb8d3a85b9168287277bfa8a5.json"
     },
     {
-      "id": "e7ced467ce29c8350c72e4c76e0c72f24f450129e91cce8e710341bd4f462272",
-      "uid": "405268.fccxVgIZRao9oAUmeNhbBuegSo1bd1T4RJUVNIawWZM=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Russia Eyes Ukraine Escalation",
-      "date": "Thu, 27 Aug 2026 07:34:00 -0400",
-      "is_read": true,
-      "file": "e7ced467ce29c8350c72e4c76e0c72f24f450129e91cce8e710341bd4f462272.json"
-    },
-    {
-      "id": "bcef52cadcabac6481e726053d12e741a508a89e6ee6acc07b0a3eb3472a3afa",
-      "uid": "405266.MMkp+LHdfr1y9s4uHxPMZygmM6q4jMCqkunqggxjP0I=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "💸 Nvidia's blockbuster report",
-      "date": "Thu, 27 Aug 2026 07:28:43 -0400",
-      "is_read": true,
-      "file": "bcef52cadcabac6481e726053d12e741a508a89e6ee6acc07b0a3eb3472a3afa.json"
-    },
-    {
-      "id": "70c470fd6ae4ccf66d3e6f7af8d1a757c793f25b625b6a3e0131ce3171f68753",
-      "uid": "405263.sXg+8Hc395HKu6TuO5SwSOksgVn7qMhbZVwz2FFujE0=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Lawmakers Sound the Alarm on Flock and the 'Surveillance State'",
-      "date": "Thu, 27 Aug 2026 07:07:39 -0400",
-      "is_read": true,
-      "file": "70c470fd6ae4ccf66d3e6f7af8d1a757c793f25b625b6a3e0131ce3171f68753.json"
+      "id": "58f4e8e452f1b40fb4152353bfb4a70941052bc843285eb84bffcbc2d537b94d",
+      "uid": "407113.Ezj0JiRrkOmPQXWnMYK6zuK6OBckKB7aT8Itd9KEaNs=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Bond-Selloff Surprise, Gift Tax, Airport Line-Cutting",
+      "date": "Thu, 03 Sep 2026 20:31:53 +1000",
+      "is_read": false,
+      "file": "58f4e8e452f1b40fb4152353bfb4a70941052bc843285eb84bffcbc2d537b94d.json"
     },
     {
       "id": "54a26ede957d6585594d0769cb9d09d4fa2e05972efcfec7b31a146a048b2a49",
@@ -512,6 +494,60 @@
       "date": "Thu, 03 Sep 2026 17:09:57 +1000",
       "is_read": true,
       "file": "54a26ede957d6585594d0769cb9d09d4fa2e05972efcfec7b31a146a048b2a49.json"
+    },
+    {
+      "id": "d247770e62d90e5b02197e2802a412cec2f01ea390d3b770bacfd3c8ce126fd4",
+      "uid": "407131.Aafn8q+aED+w+9SQIsDshIoLVv0lsY7fQjVZkcYClJU=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Tesla Cybercab In Focus",
+      "date": "Thu, 03 Sep 2026 07:35:18 -0400",
+      "is_read": false,
+      "file": "d247770e62d90e5b02197e2802a412cec2f01ea390d3b770bacfd3c8ce126fd4.json"
+    },
+    {
+      "id": "11c9dbae21442ec90a354cc529b5c2aae30c8bf9c9897e0b7153cc1315d5db48",
+      "uid": "407129.twRl9cgUx7R7Q3whRNqBUcbKHykH1HjRvsII4ofL54A=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🛢️ Oil demands attention",
+      "date": "Thu, 03 Sep 2026 07:28:36 -0400",
+      "is_read": false,
+      "file": "11c9dbae21442ec90a354cc529b5c2aae30c8bf9c9897e0b7153cc1315d5db48.json"
+    },
+    {
+      "id": "16ffa9f08f132c35f255a867f990ded6a585b4ecfb893325e4d4e24269bc775c",
+      "uid": "407124.+LG5Q3QbvIEixew1,l1pjl1J9AB,sx1HLn7N,rX6Pq4=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Tillis Wants Hegseth Fired. Is the Pentagon Chief in Trouble?",
+      "date": "Thu, 03 Sep 2026 07:06:36 -0400",
+      "is_read": false,
+      "file": "16ffa9f08f132c35f255a867f990ded6a585b4ecfb893325e4d4e24269bc775c.json"
+    },
+    {
+      "id": "1efb6d29054e2c8a8e4813c22e919793889efac824b48f13ae9db43df780949c",
+      "uid": "407111.drQ5U+3wp1mUc0WFIv8Iytfi8,jCYAND6d5Q25je4pU=",
+      "from_addr": "\"WSJ Markets A.M\" <access@interactive.wsj.com>",
+      "subject": "📉 Markets A.M.: Help Wanted, Just Not That Much",
+      "date": "Thu, 03 Sep 2026 06:26:34 -0400",
+      "is_read": false,
+      "file": "1efb6d29054e2c8a8e4813c22e919793889efac824b48f13ae9db43df780949c.json"
+    },
+    {
+      "id": "7daea0cb0d5f578f43d4e2ba4bf0ad267104da3c8fabf73e797b2fc8e6df184f",
+      "uid": "407100.wW+qRW9bwFcTVJoDYt5QrLTiTiX4aGSWtgQqCB3l5pU=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: U.S. Extends Middle East Deployments Into 2027",
+      "date": "Thu, 03 Sep 2026 06:03:08 -0400",
+      "is_read": false,
+      "file": "7daea0cb0d5f578f43d4e2ba4bf0ad267104da3c8fabf73e797b2fc8e6df184f.json"
+    },
+    {
+      "id": "1390b46ccf405f8d92228019c7da1b52c98ad40aaa71c465dfa4d537736ddbdc",
+      "uid": "407098.uSaB+M8dM6bm9Lfo+3BkLQXtC5wd7pwcrwMC6sPFZdY=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🚨 Axios AM: Sam's sobering siren",
+      "date": "Thu, 03 Sep 2026 06:02:39 -0400",
+      "is_read": false,
+      "file": "1390b46ccf405f8d92228019c7da1b52c98ad40aaa71c465dfa4d537736ddbdc.json"
     },
     {
       "id": "abf848d94291218f38df1b65bb8b6577302ba1b370596e0f141e0817583834e4",
