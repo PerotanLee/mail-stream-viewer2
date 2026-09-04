@@ -888,7 +888,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Nonfarm Payrolls Data Looms",
       "date": "Fri, 04 Sep 2026 07:08:56 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "9e1d3b9afdf357df3c9dac4aab1f502409339314d1e4378f5cb7795269189a22.json"
     },
     {
