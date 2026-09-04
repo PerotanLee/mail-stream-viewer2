@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=4466 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-04T06:14:02.515204+00:00",
-  "added": 7,
+  "updated_at": "2026-09-04T06:14:03.684435+00:00",
+  "added": 8,
   "skipped": 135,
   "scanned": 143,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "📈 AI accounting 101",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 5,
+    "axios": 6,
     "seekingalpha": 1
   },
   "last_newest_num": 4455,
