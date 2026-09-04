@@ -811,15 +811,6 @@
       "file": "5121ad1366c61558037040d9a1126bb9916d251721b10ef9047ea35a15d646c9.json"
     },
     {
-      "id": "54b64f64deec021cfdc754a41017d3138baa2e167e692afa550bea4112f4a7f6",
-      "uid": "405622.FhEGArE8HpYbdaAUOXCJloDYM3NkygteI4D,qI1kRiQ=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🏔️ Hike in play",
-      "date": "Fri, 28 Aug 2026 11:58:21 -0400",
-      "is_read": true,
-      "file": "54b64f64deec021cfdc754a41017d3138baa2e167e692afa550bea4112f4a7f6.json"
-    },
-    {
       "id": "03916e72e241c5a3f7e1a97ea0591ff9d970b54cd57655e82db56a38479a3418",
       "uid": "407426.1+wxrkjYciCfEJ55xPWV,q4vTih3NdFB45Nrhq9om8s=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -836,6 +827,15 @@
       "date": "Fri, 04 Sep 2026 17:09:49 +1000",
       "is_read": true,
       "file": "b5b5210caac88ee48fb5e8c1678e3951ffca5ab31c644744b07105ae05bcd442.json"
+    },
+    {
+      "id": "e499e0cfe0f05da3420e2c7193944a68e80e6aadbbdc54372a67f2200ca0e460",
+      "uid": "407479.kJ337U7aoPLwIlrOXf808fMpJm5t0R8D6gUHl7iPWvw=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🪨 Rock-solid jobs",
+      "date": "Fri, 04 Sep 2026 11:58:32 -0400",
+      "is_read": false,
+      "file": "e499e0cfe0f05da3420e2c7193944a68e80e6aadbbdc54372a67f2200ca0e460.json"
     },
     {
       "id": "7d2ee47e3852d727828debbdbfe5e042300a6a4525f79221352f23676b0c5a1b",
