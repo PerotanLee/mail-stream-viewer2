@@ -757,15 +757,6 @@
       "file": "d60b1a78caf621ecff9ba926cadfebbbff46e4d1e236014d6167d0a9fb7bf19a.json"
     },
     {
-      "id": "a1e998a2e15737493f0f5665c072617febc74d424c2d247d6d08119a45b6c155",
-      "uid": "405573.U+ag6jDBwXvqvuEcWDTqzUia6T4GU7mePvXj+4pKGaU=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Nvidia’s Gamble, Drawn Out Trade Fight, Marmot Terrorists",
-      "date": "Fri, 28 Aug 2026 20:31:54 +1000",
-      "is_read": true,
-      "file": "a1e998a2e15737493f0f5665c072617febc74d424c2d247d6d08119a45b6c155.json"
-    },
-    {
       "id": "210a02ff974b226228c10a6d0143471cf923fc5a45d87efba60f870392718099",
       "uid": "405644.amYx2OhBvsQIOtxdaMKZhYuKlalQfa0fKrM3n6u3RY4=",
       "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
@@ -782,15 +773,6 @@
       "date": "Fri, 28 Aug 2026 17:15:52 -0400",
       "is_read": true,
       "file": "3c0972f60765dcd58d603db89249b4eaf0ae9133303df1b5ae11d077f6b79295.json"
-    },
-    {
-      "id": "b68c6ec8eafae48616c5d25293c23b1dff74a63a439105d7cd53712053a6ecaf",
-      "uid": "405484.OzjW60tbQFX,jvR6BhdOlqeioYeCndNjew8deZF6X4g=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Fri, 28 Aug 2026 17:09:51 +1000",
-      "is_read": true,
-      "file": "b68c6ec8eafae48616c5d25293c23b1dff74a63a439105d7cd53712053a6ecaf.json"
     },
     {
       "id": "9074cf6cba54059dd794bf0c76fac1fd44d1128e5b1092cb8a9bcb924b7af7ea",
@@ -838,112 +820,130 @@
       "file": "54b64f64deec021cfdc754a41017d3138baa2e167e692afa550bea4112f4a7f6.json"
     },
     {
-      "id": "5b1c0336928a237c7d503f98b870e69d82b19959fecfa663f2eca703798137e4",
-      "uid": "405615.byrfhgRSlyt6u9ldMgmeZZiqXNhTCVvRiyHnAQdxtnc=",
+      "id": "03916e72e241c5a3f7e1a97ea0591ff9d970b54cd57655e82db56a38479a3418",
+      "uid": "407426.1+wxrkjYciCfEJ55xPWV,q4vTih3NdFB45Nrhq9om8s=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: AI-Proof Assets, Don’t Let Fund Names Fool You, Preppy Style",
+      "date": "Fri, 04 Sep 2026 20:31:58 +1000",
+      "is_read": false,
+      "file": "03916e72e241c5a3f7e1a97ea0591ff9d970b54cd57655e82db56a38479a3418.json"
+    },
+    {
+      "id": "b5b5210caac88ee48fb5e8c1678e3951ffca5ab31c644744b07105ae05bcd442",
+      "uid": "407336.ZEDpp8FcYppHX4KspDPEWq6r1hQW2DplYiZcWO2bCAU=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Fri, 04 Sep 2026 17:09:49 +1000",
+      "is_read": false,
+      "file": "b5b5210caac88ee48fb5e8c1678e3951ffca5ab31c644744b07105ae05bcd442.json"
+    },
+    {
+      "id": "7d2ee47e3852d727828debbdbfe5e042300a6a4525f79221352f23676b0c5a1b",
+      "uid": "407476.O70jv4PSzpAPnovnNBHZsAT2Mmnu9gr6x3G1D3Zd,dM=",
       "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: FIFA fallout",
-      "date": "Fri, 28 Aug 2026 09:35:22 -0400",
-      "is_read": true,
-      "file": "5b1c0336928a237c7d503f98b870e69d82b19959fecfa663f2eca703798137e4.json"
+      "subject": "Axios Pro Rata: Controlling Anthropic",
+      "date": "Fri, 04 Sep 2026 10:05:23 -0400",
+      "is_read": false,
+      "file": "7d2ee47e3852d727828debbdbfe5e042300a6a4525f79221352f23676b0c5a1b.json"
     },
     {
-      "id": "c6865768cbcee166c9908926357b13dcc84dade83cad88c64c0a71745a83022d",
-      "uid": "405614.EpMKh89o+4xM38+8xc3hUDFSVK9a4MftrU4GrWT,o1Q=",
+      "id": "fc82f6826e22daa7082dd0e761c2e883674eefd143c113438bc824f65f6ed751",
+      "uid": "407473.BBzg0zy,AYKZvN8DwYp6kfkgZGf6z,I9qPPXI6Bws3o=",
       "from_addr": "AI+ Government <ai.plus.gov@axios.com>",
-      "subject": "👀 Europe's AI gamble",
-      "date": "Fri, 28 Aug 2026 09:28:21 -0400",
-      "is_read": true,
-      "file": "c6865768cbcee166c9908926357b13dcc84dade83cad88c64c0a71745a83022d.json"
+      "subject": "🤖 Drifting toward guardrails",
+      "date": "Fri, 04 Sep 2026 09:28:15 -0400",
+      "is_read": false,
+      "file": "fc82f6826e22daa7082dd0e761c2e883674eefd143c113438bc824f65f6ed751.json"
     },
     {
-      "id": "e710cf01c46e8918eac617b1d6ff830e37796308f77af126479f966179051ad6",
-      "uid": "405613.TOqmKHxt3te52mt421gj5gGvY9poMd,Tj2TwGSC8Ljk=",
+      "id": "e24eacacbf3d7dc8f99c3fd7bd68a2223517b9cada0c92fb2223291adb784356",
+      "uid": "407472.Ar,T5AtHKzGk7lBv,YUDTJwh1i0XC3qLqJGHDulKIog=",
       "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
       "subject": "The latest from Jason Zweig",
-      "date": "Fri, 28 Aug 2026 09:15:18 -0400",
-      "is_read": true,
-      "file": "e710cf01c46e8918eac617b1d6ff830e37796308f77af126479f966179051ad6.json"
+      "date": "Fri, 04 Sep 2026 09:15:19 -0400",
+      "is_read": false,
+      "file": "e24eacacbf3d7dc8f99c3fd7bd68a2223517b9cada0c92fb2223291adb784356.json"
     },
     {
-      "id": "2376629eca40138dc38e902d53532dd1331929ad38336183a2d7cd8879455563",
-      "uid": "405606.Fmw7BctkpB9I3LuG4TbWaPRIl6gW02uFXBeCMZQ2Yow=",
+      "id": "5289ad145274bca2a2ac7e6ac44600ec43ebcd5d7fa0958f7f0628f2aebeb094",
+      "uid": "407464.6EJDOg+V,HAhIR16VW0ZsziJhuJLqJc3bsVPfjOjhpk=",
       "from_addr": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Travel: Exotic New Airline Routes for 2027 ✈️",
-      "date": "Fri, 28 Aug 2026 08:31:03 -0400",
-      "is_read": true,
-      "file": "2376629eca40138dc38e902d53532dd1331929ad38336183a2d7cd8879455563.json"
+      "subject": "WSJ Travel: Travel Hacks for Your Next Trip 💡",
+      "date": "Fri, 04 Sep 2026 08:31:08 -0400",
+      "is_read": false,
+      "file": "5289ad145274bca2a2ac7e6ac44600ec43ebcd5d7fa0958f7f0628f2aebeb094.json"
     },
     {
-      "id": "d5b77ed9e94781d14c6c24f141d54e36de5913cadc22167b8d37cb1f61bc0d63",
-      "uid": "405594.D9+RbpUZzBorGP3SruAPTPtJEejt7mG7rlAUhRnPDcY=",
+      "id": "23c9a9566f99fb972b7afc477430061a48cf43f0a061d0e07e4beff6a7e7a90c",
+      "uid": "407447.v699LFYK4nJd14fFEX6TDwvdwZL3esyUWVPpv6wbAt8=",
       "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🏡 Housing mirage",
-      "date": "Fri, 28 Aug 2026 07:28:34 -0400",
-      "is_read": true,
-      "file": "d5b77ed9e94781d14c6c24f141d54e36de5913cadc22167b8d37cb1f61bc0d63.json"
+      "subject": "🔀 Correlation breakdown!",
+      "date": "Fri, 04 Sep 2026 07:29:05 -0400",
+      "is_read": false,
+      "file": "23c9a9566f99fb972b7afc477430061a48cf43f0a061d0e07e4beff6a7e7a90c.json"
     },
     {
-      "id": "5912891a39c0837eab99027be871076e9da2dda64a0c59d1a50b470cba85c268",
-      "uid": "405583.su8qOMLfHidYvfi8MnPZ2amz7b3diU7Zx4Olze+F0Rk=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: The Spy Meeting That Has the Whole World Talking",
-      "date": "Fri, 28 Aug 2026 07:02:11 -0400",
-      "is_read": true,
-      "file": "5912891a39c0837eab99027be871076e9da2dda64a0c59d1a50b470cba85c268.json"
-    },
-    {
-      "id": "58048986785f88a84ef36a4ba39574c28b97b4250d8b94f8587457b6c4a9de49",
-      "uid": "405579.ib9U2uqOKhyxCwCJyq3S7o0N8Zy351qxpwpl,aE1p0g=",
+      "id": "9e1d3b9afdf357df3c9dac4aab1f502409339314d1e4378f5cb7795269189a22",
+      "uid": "407443.J1mxYf1karDEsCXDhMyalurylVdRZyuu2m7km4P9efI=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Warsh's First Jackson Hole Speech",
-      "date": "Fri, 28 Aug 2026 06:56:48 -0400",
-      "is_read": true,
-      "file": "58048986785f88a84ef36a4ba39574c28b97b4250d8b94f8587457b6c4a9de49.json"
+      "subject": "Nonfarm Payrolls Data Looms",
+      "date": "Fri, 04 Sep 2026 07:08:56 -0400",
+      "is_read": false,
+      "file": "9e1d3b9afdf357df3c9dac4aab1f502409339314d1e4378f5cb7795269189a22.json"
     },
     {
-      "id": "de189fc4473fff0911cfff29b36b73ca941f03b666d2a5fcbad815aee0307007",
-      "uid": "405575.day,H,vcm9EGlh3pwWNSZE61VVl1O8dVV,6k8WPS2nU=",
+      "id": "f76287a716027de478a20772ed83cc2de0b44a83225b68de94e58d13aa86c38a",
+      "uid": "407440.knPhVJY42NBk,rkBmZZtzstIHlFXm4,JebVaXXII0ZI=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Vance’s 2028 Audition With Voters Has Started",
+      "date": "Fri, 04 Sep 2026 07:04:25 -0400",
+      "is_read": false,
+      "file": "f76287a716027de478a20772ed83cc2de0b44a83225b68de94e58d13aa86c38a.json"
+    },
+    {
+      "id": "3e9fb830530d9aeddf9b608d0896dcd22482ee5e345ffe0777753256e943278d",
+      "uid": "407431.jkIthBxSrInjj+ioPUAlUqv1QAeE68u+XTdUan2gNoI=",
       "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
       "subject": "See what’s moving the markets this week",
-      "date": "Fri, 28 Aug 2026 06:42:20 -0400",
-      "is_read": true,
-      "file": "de189fc4473fff0911cfff29b36b73ca941f03b666d2a5fcbad815aee0307007.json"
+      "date": "Fri, 04 Sep 2026 06:42:19 -0400",
+      "is_read": false,
+      "file": "3e9fb830530d9aeddf9b608d0896dcd22482ee5e345ffe0777753256e943278d.json"
     },
     {
-      "id": "678d14ec3bc1da8a958f0b03c7f2f3ecbc212a522c1e61a2eccca59f75e8442a",
-      "uid": "405567.,Vgi1WfOPwvBb,Heri5Vy1g1JF2yXttnToPZTdJaOno=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "💪 Axios AM: Nvidia almighty",
-      "date": "Fri, 28 Aug 2026 06:16:13 -0400",
-      "is_read": true,
-      "file": "678d14ec3bc1da8a958f0b03c7f2f3ecbc212a522c1e61a2eccca59f75e8442a.json"
-    },
-    {
-      "id": "48e7f98af01746c1be81c6ba4be84ace0cc277de9f679facfe2054cfefb3d536",
-      "uid": "405566.YAs8O+EXp45mm8YwCXI3+9DvrR6OGs+Rc3R9cmAzpio=",
+      "id": "0362f10a3c034377c4f6e6fffe9466ad56173d13589802556a4b1c9041e0168c",
+      "uid": "407424.B+riKdkWArJlKuzxfTgR1l0iL4,sEwvQqp+0LOKwVPI=",
       "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
-      "subject": "💊 Following Fast on the Biotech Rally",
-      "date": "Fri, 28 Aug 2026 06:15:26 -0400",
-      "is_read": true,
-      "file": "48e7f98af01746c1be81c6ba4be84ace0cc277de9f679facfe2054cfefb3d536.json"
+      "subject": "Markets A.M.: 💸Corporate Pension Funds Are Feeling Fit",
+      "date": "Fri, 04 Sep 2026 06:20:20 -0400",
+      "is_read": false,
+      "file": "0362f10a3c034377c4f6e6fffe9466ad56173d13589802556a4b1c9041e0168c.json"
     },
     {
-      "id": "18cecde90304120a5cca138a5c46689cc3093f00fb342483268593c5808bce59",
-      "uid": "405565.CvPXQi,OK4CXXwGwg,y59T5ic3qtwzU7YcssmhQBvnY=",
+      "id": "3f1d8670321d9709c3a6ebc4b09e7bc856c77743a14f382fa66d541915b60656",
+      "uid": "407423.jF56bYf6EebNTDUvmWxWUqReg0HaWWnnABpurfFAv60=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🕵️ Axios AM: AI's black box",
+      "date": "Fri, 04 Sep 2026 06:14:58 -0400",
+      "is_read": false,
+      "file": "3f1d8670321d9709c3a6ebc4b09e7bc856c77743a14f382fa66d541915b60656.json"
+    },
+    {
+      "id": "0d70f67476fead7e46ba2dd76b4ee1986b5969c5644627aec17a3e1df3868fa9",
+      "uid": "407419.BbJbhXuDgHSwGv4zWFgcgpQ5Ror5dNgrXpbdJ8TKU,s=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Trump’s Corporate Donors Fear Congressional Subpoenas",
-      "date": "Fri, 28 Aug 2026 06:13:21 -0400",
-      "is_read": true,
-      "file": "18cecde90304120a5cca138a5c46689cc3093f00fb342483268593c5808bce59.json"
+      "subject": "The 10-Point: Inside John Fetterman’s Revolving-Door Office",
+      "date": "Fri, 04 Sep 2026 06:08:32 -0400",
+      "is_read": false,
+      "file": "0d70f67476fead7e46ba2dd76b4ee1986b5969c5644627aec17a3e1df3868fa9.json"
     },
     {
-      "id": "454a504d4d0d01375e01243f83b05e330b2d3cf5d1e9f394685db3978dbbf7d7",
-      "uid": "405536.904XPykLxbplN2NiuSNLEPepcmUv2qde9Eax60Jz34s=",
+      "id": "d621079a20a78ebe0af8dc2df83730d5a85d9617a660d6185975401eb7b6bce1",
+      "uid": "407381.J+OwM4d4VlfWTYF56EJ0q,VT908nxybJq5XNoDgbJKQ=",
       "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
-      "subject": "Investment News Quiz - Friday, Aug. 28",
-      "date": "Fri, 28 Aug 2026 05:04:55 -0400",
-      "is_read": true,
-      "file": "454a504d4d0d01375e01243f83b05e330b2d3cf5d1e9f394685db3978dbbf7d7.json"
+      "subject": "Investment News Quiz - Friday, Sep. 4",
+      "date": "Fri, 04 Sep 2026 05:01:59 -0400",
+      "is_read": false,
+      "file": "d621079a20a78ebe0af8dc2df83730d5a85d9617a660d6185975401eb7b6bce1.json"
     }
   ]
 }
