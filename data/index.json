@@ -379,103 +379,13 @@
       "file": "5a6dc0d8148211091aca8aa9610c0f94c70f5de4da8e13cc6172fbf5dafdd288.json"
     },
     {
-      "id": "995e5c19d80ab8559b68624afaa2ef955c3d453121ca0358e02308443a15c3e6",
-      "uid": "405320.ojU44HBfoUSy6ApUnyEjqSuVPkbmRNc9bmkX1Mkcmrk=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "⚔️ AI arms race",
-      "date": "Thu, 27 Aug 2026 17:23:58 -0400",
-      "is_read": true,
-      "file": "995e5c19d80ab8559b68624afaa2ef955c3d453121ca0358e02308443a15c3e6.json"
-    },
-    {
-      "id": "aea000ea722cdc6c6b9ff421ab315fa31e64d072379e50639d74909e13c3612c",
-      "uid": "405307.F2GcRCR8HnpZycDQk1gzbl+mJJg6ZOePHH7KDgbH+mI=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Nvidia's Victory Lap",
-      "date": "Thu, 27 Aug 2026 16:35:55 -0400",
-      "is_read": true,
-      "file": "aea000ea722cdc6c6b9ff421ab315fa31e64d072379e50639d74909e13c3612c.json"
-    },
-    {
-      "id": "a17dee4734ad9c1b96569251b80296b056958214362bc1406b69ee761ffff4aa",
-      "uid": "405302.,,u75nrLzhF6hBzznZV,GrxIdtoHpWAI47mc9p2ekl0=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Don't Sleep On Software",
-      "date": "Thu, 27 Aug 2026 15:56:39 -0400",
-      "is_read": true,
-      "file": "a17dee4734ad9c1b96569251b80296b056958214362bc1406b69ee761ffff4aa.json"
-    },
-    {
-      "id": "b26320f3cc64da9b8dc9cb3eb446ce2de0d7e8f5bec6263f961082dfca1b8e59",
-      "uid": "405300.KAMPQ1uGADuANdz6V9AY6WWAIOAg+PxY0Msi+1WGY0o=",
+      "id": "cf581fb7a357ec6a5d21a31c0b065dc7a3bff691ad27da9de52ef6666984e3a0",
+      "uid": "407235.6o7xubdhH8aMFI+q1flg4Hy5tzpX6Ku9PT6YpxklxGc=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "⚠️ Axios PM: Cyberthreat warning",
-      "date": "Thu, 27 Aug 2026 15:01:42 -0400",
-      "is_read": true,
-      "file": "b26320f3cc64da9b8dc9cb3eb446ce2de0d7e8f5bec6263f961082dfca1b8e59.json"
-    },
-    {
-      "id": "e371b34cd842206f64492b529d625702c90daf0e52f9933103ac82b58fdb59ab",
-      "uid": "405299.X+e1ckkOPRrTAeqh5xKG9AWsIy,ngoYReyQG0EnEfGY=",
-      "from_addr": "Axios Media Trends Executive <mediatrends-executive@axios.com>",
-      "subject": "The Business Behind the Live Events Boom",
-      "date": "Thu, 27 Aug 2026 15:01:24 -0400",
-      "is_read": true,
-      "file": "e371b34cd842206f64492b529d625702c90daf0e52f9933103ac82b58fdb59ab.json"
-    },
-    {
-      "id": "418750dde970033015f0c3cf910f27fe50cabdfc75ff27bfce1f45bb96e30282",
-      "uid": "405293.TsiIMRLf6DqRsLQCAntLfQf6uiAPL0qJTmXu9WSdGWE=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "⏰ Jackson Hole time",
-      "date": "Thu, 27 Aug 2026 11:58:35 -0400",
-      "is_read": true,
-      "file": "418750dde970033015f0c3cf910f27fe50cabdfc75ff27bfce1f45bb96e30282.json"
-    },
-    {
-      "id": "8ae05029c7362c3cc0a99496ad64c3a977a154fcd56061ab1907b766047db1c7",
-      "uid": "405292.GR9Vy29O6Z6XsCfZNuApn3tcncxj0uP5tZspwgheBrM=",
-      "from_addr": "Alpha Picks <subscriptions@seekingalpha.com>",
-      "subject": "Another Alpha Pick just delivered",
-      "date": "Thu, 27 Aug 2026 11:38:32 -0400",
-      "is_read": true,
-      "file": "8ae05029c7362c3cc0a99496ad64c3a977a154fcd56061ab1907b766047db1c7.json"
-    },
-    {
-      "id": "1f1fb919566d8454003c39b554d4705d84c11d1df9c0d782470264f9919ef9f1",
-      "uid": "405289.eIYTNnMwX0ZWgD2GK+fa3qUdOZgwJJ85aKIfAtL0Co0=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Requiem for an office park",
-      "date": "Thu, 27 Aug 2026 09:51:25 -0400",
-      "is_read": true,
-      "file": "1f1fb919566d8454003c39b554d4705d84c11d1df9c0d782470264f9919ef9f1.json"
-    },
-    {
-      "id": "360d64ee12b53a8922d01baecad912fb2b495df68e175b4d8ea9b009d0c726fd",
-      "uid": "405288.h3teOWCmXklhjrIbblm4IJbq0Sd4hRj1qrcx8kTMzcM=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🚨 Big Tech's big resistance",
-      "date": "Thu, 27 Aug 2026 09:28:18 -0400",
-      "is_read": true,
-      "file": "360d64ee12b53a8922d01baecad912fb2b495df68e175b4d8ea9b009d0c726fd.json"
-    },
-    {
-      "id": "a5b88d4b91ddd748cdd737e0ab6e6d2cab034b24afe196f6d52e53ff639d853d",
-      "uid": "405287.ZVe5SMQi4JHVGmqsEN8APNU,8Pp,ik3oynCvvPC7lnM=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Healthcare Exec Lists $18.25 Million French Chateau-Style Home Outside Atlanta",
-      "date": "Thu, 27 Aug 2026 09:26:29 -0400",
-      "is_read": true,
-      "file": "a5b88d4b91ddd748cdd737e0ab6e6d2cab034b24afe196f6d52e53ff639d853d.json"
-    },
-    {
-      "id": "978549fad108fdef872c4d32bd132046dffa5a8cb8d3a85b9168287277bfa8a5",
-      "uid": "405279.xW6ZD2kZJpm0Rh0Gii6HdAkm,wlCQDeBDFNLx3hcMYs=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "Hedging, barbells, and smart strategies for a volatile market",
-      "date": "Thu, 27 Aug 2026 08:47:35 -0400",
-      "is_read": true,
-      "file": "978549fad108fdef872c4d32bd132046dffa5a8cb8d3a85b9168287277bfa8a5.json"
+      "subject": "📱 Axios Finish Line: Smartphone revolt",
+      "date": "Thu, 03 Sep 2026 21:29:22 -0400",
+      "is_read": false,
+      "file": "cf581fb7a357ec6a5d21a31c0b065dc7a3bff691ad27da9de52ef6666984e3a0.json"
     },
     {
       "id": "58f4e8e452f1b40fb4152353bfb4a70941052bc843285eb84bffcbc2d537b94d",
@@ -487,6 +397,15 @@
       "file": "58f4e8e452f1b40fb4152353bfb4a70941052bc843285eb84bffcbc2d537b94d.json"
     },
     {
+      "id": "5d0fd938ee879da4e9e07693acebe0b9e403892a1d8d355f79f98c6ef781f533",
+      "uid": "407178.KDex0fVBDv0,CTsxslkDzMd7Ozp93MLQn4B2LM1U3,8=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🤝 Nvidia's big hug",
+      "date": "Thu, 03 Sep 2026 17:37:45 -0400",
+      "is_read": false,
+      "file": "5d0fd938ee879da4e9e07693acebe0b9e403892a1d8d355f79f98c6ef781f533.json"
+    },
+    {
       "id": "54a26ede957d6585594d0769cb9d09d4fa2e05972efcfec7b31a146a048b2a49",
       "uid": "407051.JLRTAQZTXauXAzrGUbf0RD+4V23D+fPyH5v2w8+yhTw=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -494,6 +413,60 @@
       "date": "Thu, 03 Sep 2026 17:09:57 +1000",
       "is_read": true,
       "file": "54a26ede957d6585594d0769cb9d09d4fa2e05972efcfec7b31a146a048b2a49.json"
+    },
+    {
+      "id": "9e3115c19e7a8abe86ca49cca85b2cef4fe2d85e125bd92be800e05e52f99490",
+      "uid": "407165.QRJRsjZoIVkpjGFA7lVzGIadhY5Bzk5RYpW2g066Fso=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Calmer Waters",
+      "date": "Thu, 03 Sep 2026 16:46:06 -0400",
+      "is_read": false,
+      "file": "9e3115c19e7a8abe86ca49cca85b2cef4fe2d85e125bd92be800e05e52f99490.json"
+    },
+    {
+      "id": "3365405cde155df65e681dab9c1be4e0d17a66e8af502744d8fe511039681577",
+      "uid": "407159.Wgssp3qhQWmDdGfR5zuhi9wN4N,PNx5JaILdfRcJ1C0=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Top Stocks Averaging 100% Forward EPS Growth To Combat AI Capex Fatigue",
+      "date": "Thu, 03 Sep 2026 16:05:32 -0400",
+      "is_read": false,
+      "file": "3365405cde155df65e681dab9c1be4e0d17a66e8af502744d8fe511039681577.json"
+    },
+    {
+      "id": "0444b59203a9e7d89c427b960be34eddb779880ac4a07c37c74f345122560f43",
+      "uid": "407155.vfzIKZMzng4YRL6Mp07ntgJGxk2pWEgpLEcfFMcJwu4=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🚨Axios PM: \"The AGI era\"",
+      "date": "Thu, 03 Sep 2026 15:51:56 -0400",
+      "is_read": false,
+      "file": "0444b59203a9e7d89c427b960be34eddb779880ac4a07c37c74f345122560f43.json"
+    },
+    {
+      "id": "f22f95f8cfcbf8fbfce6616b948e3690328771aefffa3872b498830345863584",
+      "uid": "407152.p69wbkAww5L0RmH1e9Qwnl9ne,5k0RLHMwS6+qnGGfA=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "⚾ Fed's strike zone",
+      "date": "Thu, 03 Sep 2026 11:59:42 -0400",
+      "is_read": false,
+      "file": "f22f95f8cfcbf8fbfce6616b948e3690328771aefffa3872b498830345863584.json"
+    },
+    {
+      "id": "b5da12091d775b679ad27f99a8889a43e99bab7bec5ed71392e4bd0ba893248d",
+      "uid": "407151.c1qg+IM7NNHQunTLs4BkjYksGWFLL6qY0noI0K5uh7M=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Driscoll dollars",
+      "date": "Thu, 03 Sep 2026 10:01:18 -0400",
+      "is_read": false,
+      "file": "b5da12091d775b679ad27f99a8889a43e99bab7bec5ed71392e4bd0ba893248d.json"
+    },
+    {
+      "id": "a05f8fa493e46fc72250d7f70a5925604d27026196ab9de71ac420cb33dc4b94",
+      "uid": "407150.3tguo5GWZHgDpChIQ+j0Mlt,Nz3trhBPHrPXZ1,tL20=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "📈 AI accounting 101",
+      "date": "Thu, 03 Sep 2026 09:30:34 -0400",
+      "is_read": false,
+      "file": "a05f8fa493e46fc72250d7f70a5925604d27026196ab9de71ac420cb33dc4b94.json"
     },
     {
       "id": "d247770e62d90e5b02197e2802a412cec2f01ea390d3b770bacfd3c8ce126fd4",
