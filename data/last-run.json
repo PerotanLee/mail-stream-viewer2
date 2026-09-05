@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=4771 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-05T07:28:09.356664+00:00",
-  "added": 1,
+  "updated_at": "2026-09-05T07:28:10.635062+00:00",
+  "added": 2,
   "skipped": 97,
   "scanned": 99,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "🤖 Cybercab's inauspicious start",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 4757,
