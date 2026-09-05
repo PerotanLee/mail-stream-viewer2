@@ -816,7 +816,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "☀️ Axios PM: Summer's expensive end",
       "date": "Fri, 04 Sep 2026 15:32:33 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "845d251d314e83ddc04cbc97bae5c26d8f4a69b7d9d98722d4933fed0e652103.json"
     },
     {
