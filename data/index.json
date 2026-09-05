@@ -568,33 +568,6 @@
       "file": "78784592e7a956f75423495522b253baef9db6bd123b43c5faddcf583c191ea3.json"
     },
     {
-      "id": "23f5954163f5683fbb010587358ccfba90fcb161d10111eb55b9d6b2a7eab053",
-      "uid": "405795.dGWlkc4EnDrLsTyMAxooEB79sED6smDZ84dqsC5o3cM=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "😱 Axios AM: Nightmare AI swarm",
-      "date": "Sat, 29 Aug 2026 09:15:49 -0400",
-      "is_read": true,
-      "file": "23f5954163f5683fbb010587358ccfba90fcb161d10111eb55b9d6b2a7eab053.json"
-    },
-    {
-      "id": "6803b0a66b1b39ebdfbaa987b7e9962fb5426772fcbd4f5df4faf2d9ff7ede24",
-      "uid": "405780.Wz8A2B5A6FwjFLEm72NPud+CF9M7OGILtjRVtFsn1QM=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: The Business Savvy of Dolly Parton",
-      "date": "Sat, 29 Aug 2026 07:11:19 -0400",
-      "is_read": true,
-      "file": "6803b0a66b1b39ebdfbaa987b7e9962fb5426772fcbd4f5df4faf2d9ff7ede24.json"
-    },
-    {
-      "id": "dc2cedb6accbf918120d746bc975b95f822818c832c801be3045c1f8fd357ed6",
-      "uid": "405774.VxbKHM6bi4sm7WHA70cZJmXg9C+bTPVtfh3AuTJpEwY=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "What Moved Markets This Week",
-      "date": "Sat, 29 Aug 2026 06:46:35 -0400",
-      "is_read": true,
-      "file": "dc2cedb6accbf918120d746bc975b95f822818c832c801be3045c1f8fd357ed6.json"
-    },
-    {
       "id": "5bf52007529b5bf5e3eb752ed0500d0cd7a6a60dfeb0939681257cf9235ee901",
       "uid": "407632.WjWaqtmRyIPVZlgIMYBPtU1+X616qWnlfco6Eeq9tak=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -602,6 +575,33 @@
       "date": "Sat, 05 Sep 2026 17:09:48 +1000",
       "is_read": false,
       "file": "5bf52007529b5bf5e3eb752ed0500d0cd7a6a60dfeb0939681257cf9235ee901.json"
+    },
+    {
+      "id": "2088b8213fcf93afb3f6dfce1898462f8a9e16969662ff356335f2a4712a015a",
+      "uid": "407688.CYuklXlDC02crY5iMDT2TsimbOdL6JHE9sAaqTAaYsg=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🪞 Axios AM: The all-about-me campaign",
+      "date": "Sat, 05 Sep 2026 09:27:10 -0400",
+      "is_read": false,
+      "file": "2088b8213fcf93afb3f6dfce1898462f8a9e16969662ff356335f2a4712a015a.json"
+    },
+    {
+      "id": "23c0a422e5c36b87dc08316b28eac7b3fbd6e17672e5272474176553985dc5cc",
+      "uid": "407675.,jJIVdOXUZFuF1S1bkSCiyOBNBq6eigEJED8FgLR0Ck=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: How Nvidia Chips Helped Broker a Peace Deal",
+      "date": "Sat, 05 Sep 2026 07:07:35 -0400",
+      "is_read": false,
+      "file": "23c0a422e5c36b87dc08316b28eac7b3fbd6e17672e5272474176553985dc5cc.json"
+    },
+    {
+      "id": "43ba2621a7369bd5674d927f7f417aeb7e2395dba9627611324b2e300a18a541",
+      "uid": "407668.YHyglIMifbx6RnpidhZZKUKvpQ5WKLIxCQ81EVI0VK4=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "What Moved Markets This Week",
+      "date": "Sat, 05 Sep 2026 06:50:00 -0400",
+      "is_read": false,
+      "file": "43ba2621a7369bd5674d927f7f417aeb7e2395dba9627611324b2e300a18a541.json"
     },
     {
       "id": "03d922e9a8cc919898a2dd4cb0519a965c1bc059a996c343e56d49da81906c83",
