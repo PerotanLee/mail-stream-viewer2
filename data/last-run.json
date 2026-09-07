@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5026 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-07T00:14:44.490922+00:00",
-  "added": 2,
+  "updated_at": "2026-09-07T00:14:45.654385+00:00",
+  "added": 3,
   "skipped": 52,
   "scanned": 55,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: Iranian Money Is Flowing Through U.S. Banks",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 1,
     "seekingalpha": 1
   },
