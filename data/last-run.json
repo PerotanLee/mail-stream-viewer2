@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5506 from=Must Reads <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-08T20:11:39.295872+00:00",
-  "added": 0,
+  "updated_at": "2026-09-08T20:11:40.738282+00:00",
+  "added": 1,
   "skipped": 1,
   "scanned": 2,
-  "current": "Must Reads <account@seekingalpha.com>",
+  "current": "Momentum, Fear & The Case For Buying The Dip",
   "added_by_filter": {
     "wsj": 0,
     "axios": 0,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 5490,
   "newest_num": 5507,
