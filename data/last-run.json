@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5457 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-08T15:04:54.535566+00:00",
-  "added": 8,
+  "updated_at": "2026-09-08T15:04:55.710243+00:00",
+  "added": 9,
   "skipped": 25,
   "scanned": 34,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "👻 Markets A.M.: Do You Need an Inflation Tax Break?",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 3,
     "seekingalpha": 2
   },
