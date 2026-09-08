@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5450 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-08T15:05:00.849447+00:00",
-  "added": 10,
+  "updated_at": "2026-09-08T15:05:02.052458+00:00",
+  "added": 11,
   "skipped": 30,
   "scanned": 41,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: The Stock Market’s Breezy Summer Is Over",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 4,
     "seekingalpha": 2
   },
