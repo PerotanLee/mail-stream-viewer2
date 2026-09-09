@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=5712 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-09T11:00:30.573407+00:00",
+  "updated_at": "2026-09-09T11:00:32.158695+00:00",
   "added": 0,
   "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 5680
+  "scanned": 1,
+  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 5680,
+  "newest_num": 5712,
+  "scan_mode": "new",
+  "since": "2026-09-09T09:03:35.440897+00:00"
 }
