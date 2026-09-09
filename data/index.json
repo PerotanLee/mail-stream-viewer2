@@ -19,6 +19,15 @@
       "file": "f737f8b7d72d80def70c306a9a47050a372c708f71ce7a24925342e7c8c19654.json"
     },
     {
+      "id": "f2fb1c8169721d49d86b717d57e44217b539d907f6bd2e3f58a3bdfae152aed2",
+      "uid": "408704.8iG7ehlUSMMNs8iG1h6z4n2HfW0dfQcU+FJlpxyYiLk=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "📱 Axios PM: New iPhone folds",
+      "date": "Wed, 09 Sep 2026 15:22:23 -0400",
+      "is_read": false,
+      "file": "f2fb1c8169721d49d86b717d57e44217b539d907f6bd2e3f58a3bdfae152aed2.json"
+    },
+    {
       "id": "516bf7163edd64ba30134d0b47cc8d0894d3339338a2cc3f56466db0eb35e4ae",
       "uid": "408695.dCAHG2eqeYncTPNW,Ly7kDrpoQPEUlC7QLShqceymSg=",
       "from_addr": "Axios Macro <macro@axios.com>",
@@ -170,15 +179,6 @@
       "date": "Wed, 02 Sep 2026 16:05:24 -0400",
       "is_read": true,
       "file": "483f141e9870a45f51c6c76e4224472d97a203c19e434259920db387fc4ba65b.json"
-    },
-    {
-      "id": "b890b585991c8d7b9cdc050950ba7549aaa9cc9dd77e9b3a484ad2ab92004d1e",
-      "uid": "406865.xd0D0d,1XZV3BZ5CBEHW7wifwniSmO4mL++FKJXR3zc=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🫣 Axios PM: America's trust bust",
-      "date": "Wed, 02 Sep 2026 15:22:34 -0400",
-      "is_read": true,
-      "file": "b890b585991c8d7b9cdc050950ba7549aaa9cc9dd77e9b3a484ad2ab92004d1e.json"
     },
     {
       "id": "90e4817dfeca810e43915ec6ed63e93f09e5a5131a46c0a0f3e3b24f7f4c931b",
