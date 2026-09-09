@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5518 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-09T03:12:01.477693+00:00",
-  "added": 1,
+  "updated_at": "2026-09-09T03:12:02.576477+00:00",
+  "added": 2,
   "skipped": 71,
   "scanned": 73,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "🎲 Robinhood doubles down",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 0
   },
   "last_newest_num": 5507,
