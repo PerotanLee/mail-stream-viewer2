@@ -190,6 +190,15 @@
       "file": "275e4ef9e97e5857b728eca79876d6e751fb02532a92176ab4463a42f7dfc9c1.json"
     },
     {
+      "id": "90e4817dfeca810e43915ec6ed63e93f09e5a5131a46c0a0f3e3b24f7f4c931b",
+      "uid": "408485.2BGVXr4hDrYqxZNlNWXwLnQzHYKa9bzBAw62hs+sXCg=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🥊 Axios Finish Line: Fight better",
+      "date": "Tue, 08 Sep 2026 21:29:19 -0400",
+      "is_read": false,
+      "file": "90e4817dfeca810e43915ec6ed63e93f09e5a5131a46c0a0f3e3b24f7f4c931b.json"
+    },
+    {
       "id": "6b0f6212ef2d237a9761d4ca18b9e36cb643870b9314bd2864eed41dbf382867",
       "uid": "408361.k,T7N1KXWmgOJiJiO56BZ5B5E87kS0TiUKYupOpxTVs=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -199,6 +208,15 @@
       "file": "6b0f6212ef2d237a9761d4ca18b9e36cb643870b9314bd2864eed41dbf382867.json"
     },
     {
+      "id": "2028a5d3231e05dc40c87852b3934c79e1a0f79b0bd8a677355aad0ca9c51b80",
+      "uid": "408432.it7HBtJ73+H4+D9l9jaQTPncU3auxnR8YHGMhJOPrxw=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🎲 Robinhood doubles down",
+      "date": "Tue, 08 Sep 2026 17:28:53 -0400",
+      "is_read": false,
+      "file": "2028a5d3231e05dc40c87852b3934c79e1a0f79b0bd8a677355aad0ca9c51b80.json"
+    },
+    {
       "id": "04187d6a0582f98907583086e7b44019dcd1d3b528c1252539473642140d4f1e",
       "uid": "408285.MGmgi59kUROAint6UpYFrNyBDLpM11xPtjKXfBMy,cI=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -206,6 +224,15 @@
       "date": "Tue, 08 Sep 2026 17:10:08 +1000",
       "is_read": true,
       "file": "04187d6a0582f98907583086e7b44019dcd1d3b528c1252539473642140d4f1e.json"
+    },
+    {
+      "id": "a9857b905e8c72cc95c37c92f4d4e6d6eb643a08eb702e24091b1c56e71d8765",
+      "uid": "408420.Z7X,J7ceIR1EjnT0M0T6eMWTYV8VRjsR3G5cpuPsgl4=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Border Battle",
+      "date": "Tue, 08 Sep 2026 16:36:01 -0400",
+      "is_read": false,
+      "file": "a9857b905e8c72cc95c37c92f4d4e6d6eb643a08eb702e24091b1c56e71d8765.json"
     },
     {
       "id": "d95bbfe2b43839c41aab2b323e49457789403021fab38cdf153658e3cf4a7ba9",
@@ -341,51 +368,6 @@
       "date": "Tue, 08 Sep 2026 06:03:32 -0400",
       "is_read": true,
       "file": "ff1dab92a6bb2965d7e96eeb9e68ea21798bb4334829b4a74802c57158b5eadf.json"
-    },
-    {
-      "id": "77b48c59e668f878334182e3e43c5b20e9be1a73229d227d90d5c47bf9907d3e",
-      "uid": "406621.2bAnqLonTKKMV7a9jyu0nkUZrqsRVXfAdl3X69EXxOU=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "☎️ Axios Finish Line: Phone a friend",
-      "date": "Tue, 01 Sep 2026 21:29:41 -0400",
-      "is_read": true,
-      "file": "77b48c59e668f878334182e3e43c5b20e9be1a73229d227d90d5c47bf9907d3e.json"
-    },
-    {
-      "id": "2a7f2050df556c8fb4f3d8a83ae8a27638adc14ca5d191453224dd02447cafae",
-      "uid": "406585.LinXwHkI8Xkp6KXM,zhC1yYPF9rvmxvxtpMh,fhg8Cs=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: California clanger",
-      "date": "Tue, 01 Sep 2026 19:01:46 -0400",
-      "is_read": true,
-      "file": "2a7f2050df556c8fb4f3d8a83ae8a27638adc14ca5d191453224dd02447cafae.json"
-    },
-    {
-      "id": "ffa8d03d8af3f6a4b924a2ef2b8aa70cedbbaeb595ffa5c4d87c98ea162e198e",
-      "uid": "406577.m6r7fYSo7Z+V7qgEmprsNOroYpIRV57xPF96zXEDcns=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Travis Kelce Buys Lakefront Ohio Home for $5.35 Million",
-      "date": "Tue, 01 Sep 2026 18:11:38 -0400",
-      "is_read": true,
-      "file": "ffa8d03d8af3f6a4b924a2ef2b8aa70cedbbaeb595ffa5c4d87c98ea162e198e.json"
-    },
-    {
-      "id": "79f1ee35bfb6a2faa667df8cf42baaf59581ad7562d611cf9ded559e8b87831a",
-      "uid": "406563.aSbh3Q5GqRsd9owhNV43oXaRExR6nMwNW8GEMOuTI4Q=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "📈 Yields of yore",
-      "date": "Tue, 01 Sep 2026 17:06:45 -0400",
-      "is_read": true,
-      "file": "79f1ee35bfb6a2faa667df8cf42baaf59581ad7562d611cf9ded559e8b87831a.json"
-    },
-    {
-      "id": "e266ceff644ccdbeb55c231f5ba317cb668ab30acdab6dfde4a127b9b94af3cb",
-      "uid": "406551.9Qptg5z+VhtXahZbrNBIhGCwWY7haReDuTAyBDf1x,s=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Oil Contagion",
-      "date": "Tue, 01 Sep 2026 16:16:06 -0400",
-      "is_read": true,
-      "file": "e266ceff644ccdbeb55c231f5ba317cb668ab30acdab6dfde4a127b9b94af3cb.json"
     },
     {
       "id": "cf581fb7a357ec6a5d21a31c0b065dc7a3bff691ad27da9de52ef6666984e3a0",
