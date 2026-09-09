@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5711 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-09T11:00:35.269059+00:00",
-  "added": 1,
+  "updated_at": "2026-09-09T11:00:36.710392+00:00",
+  "added": 2,
   "skipped": 0,
   "scanned": 2,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "Ternus' First Test As Apple CEO",
   "added_by_filter": {
     "wsj": 1,
     "axios": 0,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 5680,
   "newest_num": 5712,
