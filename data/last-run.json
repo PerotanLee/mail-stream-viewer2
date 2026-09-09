@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5725 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-09T17:23:01.022042+00:00",
-  "added": 4,
+  "updated_at": "2026-09-09T17:23:02.321577+00:00",
+  "added": 5,
   "skipped": 9,
   "scanned": 14,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "🛢️Chilly scenes of winter",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 0
   },
   "last_newest_num": 5712,
