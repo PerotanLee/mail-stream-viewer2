@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5708 from=Axios Defense <defense@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-09T11:00:40.770886+00:00",
-  "added": 3,
+  "updated_at": "2026-09-09T11:00:41.984904+00:00",
+  "added": 4,
   "skipped": 1,
   "scanned": 5,
-  "current": "Axios Defense <defense@axios.com>",
+  "current": "⚡ Laser lock-in",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 1
   },
   "last_newest_num": 5680,
