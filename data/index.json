@@ -343,6 +343,42 @@
       "file": "775ea122a62760c61f676e875e813ea4ce98c1bb000e451ae46c39598e45a6e0.json"
     },
     {
+      "id": "dcf0fceef17314b04c736241a67b82551d342e36f22ed0918f3eb7daa4f32c0b",
+      "uid": "409006.Hed2wydVXACGbCOdzYNd8Dj0uYwd2ogjkHeHAVRHgO8=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Oracle Earnings Preview: Chart Has Improved, But Free Cash Flow Is Still Grim",
+      "date": "Thu, 10 Sep 2026 16:05:30 -0400",
+      "is_read": false,
+      "file": "dcf0fceef17314b04c736241a67b82551d342e36f22ed0918f3eb7daa4f32c0b.json"
+    },
+    {
+      "id": "d48efb216a5f237441aa963db56cd790b93447fb9198579f59cac4baa20c9d3e",
+      "uid": "409003.LGUE,EOXyTcX,6FVA7DgzWyWxNF02S2flk3GQe1NnFs=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🚙 Axios PM: New driving trend",
+      "date": "Thu, 10 Sep 2026 15:15:30 -0400",
+      "is_read": false,
+      "file": "d48efb216a5f237441aa963db56cd790b93447fb9198579f59cac4baa20c9d3e.json"
+    },
+    {
+      "id": "73229d1d1c38d9021a6817129f3b767333ebde5f037204ed84b166708840ac19",
+      "uid": "409001.1pMfLZ5cPe21GDPhJWIJ,vsbyJJHFVtTVUnoAt,F45I=",
+      "from_addr": "Axios Live <events@axios.com>",
+      "subject": "🌎 RSVP | New events added to Axios House at Climate Week & UNGA | Sept. 21–23",
+      "date": "Thu, 10 Sep 2026 14:15:21 -0400",
+      "is_read": false,
+      "file": "73229d1d1c38d9021a6817129f3b767333ebde5f037204ed84b166708840ac19.json"
+    },
+    {
+      "id": "2feaa3233c96bee4ebba19a298cde9d64e0a7909a7c9e141a2d0fb3a5047c9a8",
+      "uid": "408994.CGFJHSREC5yQYavat,ACrf4aSJYrrZyAyHKLq5TP6Mg=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "💸 Stimmy redux",
+      "date": "Thu, 10 Sep 2026 12:02:04 -0400",
+      "is_read": false,
+      "file": "2feaa3233c96bee4ebba19a298cde9d64e0a7909a7c9e141a2d0fb3a5047c9a8.json"
+    },
+    {
       "id": "3567aa01d6c09421e0ad40b189471fc97495629a25a292be5e4aa1c1a38fcaa2",
       "uid": "408990.xXwQyKgUxWMeLd4zNSehpHbsva,cagsp+mG8CQvd1UY=",
       "from_addr": "Dan Primack <dan@axios.com>",
@@ -440,33 +476,6 @@
       "date": "Thu, 03 Sep 2026 16:46:06 -0400",
       "is_read": true,
       "file": "9e3115c19e7a8abe86ca49cca85b2cef4fe2d85e125bd92be800e05e52f99490.json"
-    },
-    {
-      "id": "3365405cde155df65e681dab9c1be4e0d17a66e8af502744d8fe511039681577",
-      "uid": "407159.Wgssp3qhQWmDdGfR5zuhi9wN4N,PNx5JaILdfRcJ1C0=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Top Stocks Averaging 100% Forward EPS Growth To Combat AI Capex Fatigue",
-      "date": "Thu, 03 Sep 2026 16:05:32 -0400",
-      "is_read": true,
-      "file": "3365405cde155df65e681dab9c1be4e0d17a66e8af502744d8fe511039681577.json"
-    },
-    {
-      "id": "0444b59203a9e7d89c427b960be34eddb779880ac4a07c37c74f345122560f43",
-      "uid": "407155.vfzIKZMzng4YRL6Mp07ntgJGxk2pWEgpLEcfFMcJwu4=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🚨Axios PM: \"The AGI era\"",
-      "date": "Thu, 03 Sep 2026 15:51:56 -0400",
-      "is_read": true,
-      "file": "0444b59203a9e7d89c427b960be34eddb779880ac4a07c37c74f345122560f43.json"
-    },
-    {
-      "id": "f22f95f8cfcbf8fbfce6616b948e3690328771aefffa3872b498830345863584",
-      "uid": "407152.p69wbkAww5L0RmH1e9Qwnl9ne,5k0RLHMwS6+qnGGfA=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "⚾ Fed's strike zone",
-      "date": "Thu, 03 Sep 2026 11:59:42 -0400",
-      "is_read": true,
-      "file": "f22f95f8cfcbf8fbfce6616b948e3690328771aefffa3872b498830345863584.json"
     },
     {
       "id": "4ef96a30c8e7f5d31050953855d0a4a9087fd4ec4c6e13968c48d36ba70876b4",
