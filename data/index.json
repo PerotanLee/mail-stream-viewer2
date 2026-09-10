@@ -1,6 +1,15 @@
 {
   "emails": [
     {
+      "id": "cf9f095df71758237980b313021ba2ec2d5ff49936852571aebae2cef5d8303e",
+      "uid": "408772.KTNtDkx4rnchP4YrfU9Bk4g2qD8kh9K25npupYKJriw=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "📚 Axios Finish Line: Book club boom",
+      "date": "Wed, 09 Sep 2026 21:29:26 -0400",
+      "is_read": false,
+      "file": "cf9f095df71758237980b313021ba2ec2d5ff49936852571aebae2cef5d8303e.json"
+    },
+    {
       "id": "f0cc44ed09fd07f36fba0fa8fd31d5eb0e3a497ad19a4bf72f635d1e0f46fea6",
       "uid": "408661.SUxETod9WPfOmtIEqsTRUXx9lr2KChzVo1Q8noieLsk=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -125,60 +134,6 @@
       "date": "Wed, 09 Sep 2026 06:03:13 -0400",
       "is_read": true,
       "file": "cfa0014056489ffb3a5094a312eff3719283f6dcf57f2f3280a3636b253d8fbd.json"
-    },
-    {
-      "id": "b57ab928761c9dec6e1bd42f919870c54945af59383d54998dbdf95da8676d90",
-      "uid": "406946.KTLgXTbXbW+TShR5+b7zwEjr9NwkgBUwoqAlnlAdikI=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🇳🇵Axios Finish Line: Nepali heroes",
-      "date": "Wed, 02 Sep 2026 21:28:43 -0400",
-      "is_read": true,
-      "file": "b57ab928761c9dec6e1bd42f919870c54945af59383d54998dbdf95da8676d90.json"
-    },
-    {
-      "id": "a6a14707f01cb214d034978bfd88b7923f343f027e7bae44ecc13c7d010ee815",
-      "uid": "406901.lsau64PgoegkXORVpJW8OtlivjjhGjTK,k+lc7tkqDw=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: The Quiet Ohio Enclave Known for Prestige, Privacy and Now Travis Kelce",
-      "date": "Wed, 02 Sep 2026 18:50:35 -0400",
-      "is_read": true,
-      "file": "a6a14707f01cb214d034978bfd88b7923f343f027e7bae44ecc13c7d010ee815.json"
-    },
-    {
-      "id": "8a39e950b1ce22f8ad3b10c80909b577b44d6f07d2c41d8812639d06ddc19f0a",
-      "uid": "406885.ddXrVBLVP9msKsKiC6j1+7aSnmnlWkWac03f3Upe7Tg=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "💰 Chevron's Venezuela bet",
-      "date": "Wed, 02 Sep 2026 17:07:24 -0400",
-      "is_read": true,
-      "file": "8a39e950b1ce22f8ad3b10c80909b577b44d6f07d2c41d8812639d06ddc19f0a.json"
-    },
-    {
-      "id": "ec1843954ac2594833e4be0e1a77e7f0919c3256ee373011be0a6b086887f522",
-      "uid": "406883.QfRGWniHituBXqAluWi8EQWgHpPg3ORmKoEx8aiIe94=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: The Most Expensive Home on Martha’s Vineyard Sells for $43 Million",
-      "date": "Wed, 02 Sep 2026 17:02:10 -0400",
-      "is_read": true,
-      "file": "ec1843954ac2594833e4be0e1a77e7f0919c3256ee373011be0a6b086887f522.json"
-    },
-    {
-      "id": "a90460257565bf37778b001091b59853dd29289079708c86dcb230063cdf6a2a",
-      "uid": "406874.qG,kUHJrXcKUCO3mGRZj2FDeiEgdE4Z38mIszeJ4g6U=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Stocks Shrug",
-      "date": "Wed, 02 Sep 2026 16:31:04 -0400",
-      "is_read": true,
-      "file": "a90460257565bf37778b001091b59853dd29289079708c86dcb230063cdf6a2a.json"
-    },
-    {
-      "id": "483f141e9870a45f51c6c76e4224472d97a203c19e434259920db387fc4ba65b",
-      "uid": "406869.7VkIUo0GYY3noWIerCfH46r5xkkh3gru59FL,iK02xg=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Micron's 2028 Risk Is Fading",
-      "date": "Wed, 02 Sep 2026 16:05:24 -0400",
-      "is_read": true,
-      "file": "483f141e9870a45f51c6c76e4224472d97a203c19e434259920db387fc4ba65b.json"
     },
     {
       "id": "90e4817dfeca810e43915ec6ed63e93f09e5a5131a46c0a0f3e3b24f7f4c931b",
