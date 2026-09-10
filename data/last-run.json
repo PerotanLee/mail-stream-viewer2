@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5943 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-10T14:08:53.416273+00:00",
-  "added": 7,
+  "updated_at": "2026-09-10T14:08:54.394023+00:00",
+  "added": 8,
   "skipped": 31,
   "scanned": 39,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: Americans Battle Government Over Stolen Crypto",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 3,
     "seekingalpha": 1
   },
