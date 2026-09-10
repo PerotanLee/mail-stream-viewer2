@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=5989 from=Axios Live <events@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-10T20:13:05.136322+00:00",
-  "added": 2,
+  "updated_at": "2026-09-10T20:13:06.416803+00:00",
+  "added": 3,
   "skipped": 3,
   "scanned": 6,
-  "current": "Axios Live <events@axios.com>",
+  "current": "🌎 RSVP | New events added to Axios House at Climate Week & UNGA | Sept. 21–23",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 1
   },
   "last_newest_num": 5981,
