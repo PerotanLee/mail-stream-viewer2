@@ -325,6 +325,15 @@
       "file": "ff1dab92a6bb2965d7e96eeb9e68ea21798bb4334829b4a74802c57158b5eadf.json"
     },
     {
+      "id": "38fae3618bf71c39bf02ee3539e3dc131f8b14df184a5f698de096fbd958377d",
+      "uid": "409076.Y2ZhhLYlSzdjtGe3De8Auizc+4P,L602Bf,HWVHxc0k=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🛶 Axios Finish Line: Glacial life lessons",
+      "date": "Thu, 10 Sep 2026 21:29:24 -0400",
+      "is_read": false,
+      "file": "38fae3618bf71c39bf02ee3539e3dc131f8b14df184a5f698de096fbd958377d.json"
+    },
+    {
       "id": "a84dfdfdf7aca30b49ae48ffe4f3d94ddc0812747a9d414c947314453da0916f",
       "uid": "408952.aKV,N9vfoKa+0mYMD+UHVPiDehw1O9dgu6rrGRJ5Zd8=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -334,6 +343,15 @@
       "file": "a84dfdfdf7aca30b49ae48ffe4f3d94ddc0812747a9d414c947314453da0916f.json"
     },
     {
+      "id": "d3a2f60f7352f74d4bf9064d6fd352042f4d035b407ad38e139767455c28720a",
+      "uid": "409058.3e6H8GQ60UdQfn2WYOSmoZpteAs7MATDu9fkAnBk,qY=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: College Athletes Used to Live in Dorms. Now They’re Buying Million-Dollar Homes",
+      "date": "Thu, 10 Sep 2026 20:07:22 -0400",
+      "is_read": false,
+      "file": "d3a2f60f7352f74d4bf9064d6fd352042f4d035b407ad38e139767455c28720a.json"
+    },
+    {
       "id": "775ea122a62760c61f676e875e813ea4ce98c1bb000e451ae46c39598e45a6e0",
       "uid": "408874.CINRdRsx5qLOeY0dIftFW1eKmxGMxRnjnTVW6ayu2aY=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -341,6 +359,24 @@
       "date": "Thu, 10 Sep 2026 17:10:07 +1000",
       "is_read": true,
       "file": "775ea122a62760c61f676e875e813ea4ce98c1bb000e451ae46c39598e45a6e0.json"
+    },
+    {
+      "id": "18bb0a052d1348c74da016bb88ac5ee42134ba085a0fd4d3eade6fed72378059",
+      "uid": "409013.C6XhXod2mKIb4ee1x8DKMdsjm+jdL7COMHTlXBvxdyo=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🧘 Nvidia CEO downplays AI fears",
+      "date": "Thu, 10 Sep 2026 16:54:56 -0400",
+      "is_read": false,
+      "file": "18bb0a052d1348c74da016bb88ac5ee42134ba085a0fd4d3eade6fed72378059.json"
+    },
+    {
+      "id": "3cc00ce884f486355573175727feeed2c82743923d467974b4a1ae76e141a4fe",
+      "uid": "409010.ZALKc+QLx0auHc1RTHZJpIqFNmxIO7,Y8gyznS4wiGA=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Bond Selloff Continues",
+      "date": "Thu, 10 Sep 2026 16:31:46 -0400",
+      "is_read": false,
+      "file": "3cc00ce884f486355573175727feeed2c82743923d467974b4a1ae76e141a4fe.json"
     },
     {
       "id": "dcf0fceef17314b04c736241a67b82551d342e36f22ed0918f3eb7daa4f32c0b",
@@ -449,33 +485,6 @@
       "date": "Thu, 10 Sep 2026 05:45:54 -0400",
       "is_read": true,
       "file": "beb1bef7e82e964887f882bd0faaa9a49c33de140c1354cc76fee27fb2520d5c.json"
-    },
-    {
-      "id": "cf581fb7a357ec6a5d21a31c0b065dc7a3bff691ad27da9de52ef6666984e3a0",
-      "uid": "407235.6o7xubdhH8aMFI+q1flg4Hy5tzpX6Ku9PT6YpxklxGc=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "📱 Axios Finish Line: Smartphone revolt",
-      "date": "Thu, 03 Sep 2026 21:29:22 -0400",
-      "is_read": true,
-      "file": "cf581fb7a357ec6a5d21a31c0b065dc7a3bff691ad27da9de52ef6666984e3a0.json"
-    },
-    {
-      "id": "5d0fd938ee879da4e9e07693acebe0b9e403892a1d8d355f79f98c6ef781f533",
-      "uid": "407178.KDex0fVBDv0,CTsxslkDzMd7Ozp93MLQn4B2LM1U3,8=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🤝 Nvidia's big hug",
-      "date": "Thu, 03 Sep 2026 17:37:45 -0400",
-      "is_read": true,
-      "file": "5d0fd938ee879da4e9e07693acebe0b9e403892a1d8d355f79f98c6ef781f533.json"
-    },
-    {
-      "id": "9e3115c19e7a8abe86ca49cca85b2cef4fe2d85e125bd92be800e05e52f99490",
-      "uid": "407165.QRJRsjZoIVkpjGFA7lVzGIadhY5Bzk5RYpW2g066Fso=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Calmer Waters",
-      "date": "Thu, 03 Sep 2026 16:46:06 -0400",
-      "is_read": true,
-      "file": "9e3115c19e7a8abe86ca49cca85b2cef4fe2d85e125bd92be800e05e52f99490.json"
     },
     {
       "id": "4ef96a30c8e7f5d31050953855d0a4a9087fd4ec4c6e13968c48d36ba70876b4",
