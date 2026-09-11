@@ -384,7 +384,7 @@
       "from_addr": "Must Reads <account@seekingalpha.com>",
       "subject": "Oracle Earnings Preview: Chart Has Improved, But Free Cash Flow Is Still Grim",
       "date": "Thu, 10 Sep 2026 16:05:30 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "dcf0fceef17314b04c736241a67b82551d342e36f22ed0918f3eb7daa4f32c0b.json"
     },
     {
