@@ -586,6 +586,15 @@
       "file": "1c7a72f5400e94d8d76a4050ed6df95e1c1c012a26d8207aba3e035abff118e7.json"
     },
     {
+      "id": "db6e41a8e628337ed6d2f154801b203f2e55ecc383f0fbcba481660299df9695",
+      "uid": "409943.y,Py70FCK6VMy4ZqS,Tg7gdT9K+YFwcY2YC3svc01tM=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "😈 Nothing to see here",
+      "date": "Mon, 14 Sep 2026 17:36:09 -0400",
+      "is_read": false,
+      "file": "db6e41a8e628337ed6d2f154801b203f2e55ecc383f0fbcba481660299df9695.json"
+    },
+    {
       "id": "30bfceb28735fafa88c4f1049382c9a395abe84e408441b61db429f2b05efb84",
       "uid": "409821.xeuP4DjaCywmfhCIACxO1KgswR7GB1ol0UnhPqTA6og=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -593,6 +602,51 @@
       "date": "Mon, 14 Sep 2026 17:10:08 +1000",
       "is_read": true,
       "file": "30bfceb28735fafa88c4f1049382c9a395abe84e408441b61db429f2b05efb84.json"
+    },
+    {
+      "id": "5d7526d7eca08b90c7689ec964902cbe45a7d6f89d5645ceb461bbd522aa3a77",
+      "uid": "409932.6EFwSRFZQbdvuKwwYm8dDwmr,R9Yw5GmTl5ncNwNz00=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Trump Shrugs Off AI Freakout",
+      "date": "Mon, 14 Sep 2026 16:38:02 -0400",
+      "is_read": false,
+      "file": "5d7526d7eca08b90c7689ec964902cbe45a7d6f89d5645ceb461bbd522aa3a77.json"
+    },
+    {
+      "id": "2a07f980d3c22704019e5fdf78a77cf8a1864a9e3a760d61d7fc04f1fbc9a2c8",
+      "uid": "409929.vglT2MHocljSr+kkoFYK5eiqpSp6n2XVDDVcjm0wFIw=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Beyond Nvidia: Finding Opportunity In The AI Buildout",
+      "date": "Mon, 14 Sep 2026 16:05:28 -0400",
+      "is_read": false,
+      "file": "2a07f980d3c22704019e5fdf78a77cf8a1864a9e3a760d61d7fc04f1fbc9a2c8.json"
+    },
+    {
+      "id": "c7c191da2037565a6a930355abf446c65458fb9af15828d802a0f252a8af80b3",
+      "uid": "409925.SRJkPYjqh7XoNuG85A6ZoB8vGt4E7JtWhNJ310z+OQw=",
+      "from_addr": "Axios Live <events@axios.com>",
+      "subject": "🌎 Don't miss out | Join us for day 1 of Axios House at Climate Week and UNGA",
+      "date": "Mon, 14 Sep 2026 15:30:33 -0400",
+      "is_read": false,
+      "file": "c7c191da2037565a6a930355abf446c65458fb9af15828d802a0f252a8af80b3.json"
+    },
+    {
+      "id": "37c678943903ecc94341cd27fb460206e3b172da4d676b715c3e1e659af4c238",
+      "uid": "409924.HQyiK72b8QV4I73yd1RAgHPmowo2sK3Iz0gGp3n3Uhs=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios PM: Anthropic IPO on course",
+      "date": "Mon, 14 Sep 2026 15:16:53 -0400",
+      "is_read": false,
+      "file": "37c678943903ecc94341cd27fb460206e3b172da4d676b715c3e1e659af4c238.json"
+    },
+    {
+      "id": "75b91c6991bf6d5ef5a2792f58f92d9d7e095c49291da968594e4d14a363021a",
+      "uid": "409919.kSnQtyblBIEEWO8YmTRI9duuOK21egDEf3EehzFiWCU=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🗣️ Warsh's comms task",
+      "date": "Mon, 14 Sep 2026 12:01:35 -0400",
+      "is_read": false,
+      "file": "75b91c6991bf6d5ef5a2792f58f92d9d7e095c49291da968594e4d14a363021a.json"
     },
     {
       "id": "b88473b9cf6fe48e97f035b88ff8ed68dd9da715085c86011e009688747dddf9",
@@ -674,24 +728,6 @@
       "date": "Mon, 14 Sep 2026 05:57:13 -0400",
       "is_read": true,
       "file": "ab8260c85f997c8beda84947b4b3b6fd2cd3bb7926ad2558c3cce25626db774e.json"
-    },
-    {
-      "id": "270d0b693ccab7429d88589915af4e630dc3cb80d7fbbab7ced0a7bb0f2a9058",
-      "uid": "408119.UMogg6cmByAQntkz9BE06eQH6KE6xQFqZmccwOYcxVI=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Tax Loss Harvesting: Tax Alpha With Raul Shah",
-      "date": "Mon, 07 Sep 2026 16:05:23 -0400",
-      "is_read": true,
-      "file": "270d0b693ccab7429d88589915af4e630dc3cb80d7fbbab7ced0a7bb0f2a9058.json"
-    },
-    {
-      "id": "76c27d3a24cbc3780dcee4d1beb9e068635668dba52e81b8b1e468032bffce65",
-      "uid": "408115.0SczCQD+IeMb2AZBsh3U76hut7D8egpL6BEw39qZb9A=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤑 Axios PM: Iran war cost",
-      "date": "Mon, 07 Sep 2026 15:00:53 -0400",
-      "is_read": true,
-      "file": "76c27d3a24cbc3780dcee4d1beb9e068635668dba52e81b8b1e468032bffce65.json"
     },
     {
       "id": "3a22ab8a0d7c5715e17eb14e1348802dcf8103d1ca711cab82d046b2a63e0219",
