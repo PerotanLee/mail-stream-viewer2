@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6234 from=\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-14T04:17:46.140336+00:00",
-  "added": 20,
+  "updated_at": "2026-09-14T04:17:47.228266+00:00",
+  "added": 21,
   "skipped": 341,
   "scanned": 362,
-  "current": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "current": "The latest from Jason Zweig",
   "added_by_filter": {
-    "wsj": 7,
+    "wsj": 8,
     "axios": 8,
     "seekingalpha": 5
   },
