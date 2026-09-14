@@ -501,7 +501,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🚦 Axios AM: Hitting AI brakes",
       "date": "Sun, 13 Sep 2026 09:05:55 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "a898d1ea9e5be8544c033f0b0eba4353035490cd21247391944ef47c348a4e0e.json"
     },
     {
