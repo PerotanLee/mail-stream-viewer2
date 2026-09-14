@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6220 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-14T04:17:53.595962+00:00",
-  "added": 22,
+  "updated_at": "2026-09-14T04:17:54.591784+00:00",
+  "added": 23,
   "skipped": 353,
   "scanned": 376,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "🤯 Oil, bonds, stocks — oh my!",
   "added_by_filter": {
     "wsj": 9,
-    "axios": 8,
+    "axios": 9,
     "seekingalpha": 5
   },
   "last_newest_num": 6122,
