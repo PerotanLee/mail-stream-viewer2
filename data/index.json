@@ -577,6 +577,69 @@
       "file": "058b78e705b2d24bc24425687658b3c43fd834844e09e061b2de93ab6bc91afa.json"
     },
     {
+      "id": "1c7a72f5400e94d8d76a4050ed6df95e1c1c012a26d8207aba3e035abff118e7",
+      "uid": "409879.GWa6bHXxyVzUWhqFLq4KGQnxrkMfuVpBqtsokl8+rLI=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Nest Egg Protection, Microsoft's Fixer, Mallorca's Tourist Backlash",
+      "date": "Mon, 14 Sep 2026 20:32:17 +1000",
+      "is_read": false,
+      "file": "1c7a72f5400e94d8d76a4050ed6df95e1c1c012a26d8207aba3e035abff118e7.json"
+    },
+    {
+      "id": "30bfceb28735fafa88c4f1049382c9a395abe84e408441b61db429f2b05efb84",
+      "uid": "409821.xeuP4DjaCywmfhCIACxO1KgswR7GB1ol0UnhPqTA6og=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Mon, 14 Sep 2026 17:10:08 +1000",
+      "is_read": false,
+      "file": "30bfceb28735fafa88c4f1049382c9a395abe84e408441b61db429f2b05efb84.json"
+    },
+    {
+      "id": "0aab0855bb8a64837fa63f7fad3956135ca7c03399cadc69d3d178b02954acbc",
+      "uid": "409897.FunxP7X+dN7OEJSw9rvb+CdsGiJAFymco5JRqWUm9Bw=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🤷‍♀️ Stocks shrugged",
+      "date": "Mon, 14 Sep 2026 07:28:40 -0400",
+      "is_read": false,
+      "file": "0aab0855bb8a64837fa63f7fad3956135ca7c03399cadc69d3d178b02954acbc.json"
+    },
+    {
+      "id": "6a688a49bb138e5829b12d0947875aaee4e8abf47184579f9ad469bd8c3c4747",
+      "uid": "409892.,LV+M8yG,,jdxg8hvTyRP9mgIyYeiQlLVXJ60BScaeI=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: With 50 Days to the Midterms, It All Might Come Down to One Thing",
+      "date": "Mon, 14 Sep 2026 07:12:09 -0400",
+      "is_read": false,
+      "file": "6a688a49bb138e5829b12d0947875aaee4e8abf47184579f9ad469bd8c3c4747.json"
+    },
+    {
+      "id": "663e4f0fc8ffdd4918176717e50c04283da4ce6c91a77b057cc927210f503194",
+      "uid": "409882.Ku6gdZA4BX6CA0l5J0YavQKILF5StbCjw9qRml4VDvQ=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🗳️ Markets A.M.: Stocks Have the Midterm Blues",
+      "date": "Mon, 14 Sep 2026 06:40:45 -0400",
+      "is_read": false,
+      "file": "663e4f0fc8ffdd4918176717e50c04283da4ce6c91a77b057cc927210f503194.json"
+    },
+    {
+      "id": "432f828a34a7d63e61bd85faab9ccef4b0dc71553ac72edb005c6fd2be723e54",
+      "uid": "409875.LgK8dJD5BA1D0DTfPLUCqxF6efbWTiy5yyJh14eA8v8=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Investors Are Back at the Mall",
+      "date": "Mon, 14 Sep 2026 06:06:26 -0400",
+      "is_read": false,
+      "file": "432f828a34a7d63e61bd85faab9ccef4b0dc71553ac72edb005c6fd2be723e54.json"
+    },
+    {
+      "id": "ab8260c85f997c8beda84947b4b3b6fd2cd3bb7926ad2558c3cce25626db774e",
+      "uid": "409868.AIfmw82QC0ix8MYuF3tCFjAGIjGF6xu8v+qAewc5Blc=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "✨ Axios AM: AI paralysis",
+      "date": "Mon, 14 Sep 2026 05:57:13 -0400",
+      "is_read": false,
+      "file": "ab8260c85f997c8beda84947b4b3b6fd2cd3bb7926ad2558c3cce25626db774e.json"
+    },
+    {
       "id": "270d0b693ccab7429d88589915af4e630dc3cb80d7fbbab7ced0a7bb0f2a9058",
       "uid": "408119.UMogg6cmByAQntkz9BE06eQH6KE6xQFqZmccwOYcxVI=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
@@ -593,15 +656,6 @@
       "date": "Mon, 07 Sep 2026 15:00:53 -0400",
       "is_read": true,
       "file": "76c27d3a24cbc3780dcee4d1beb9e068635668dba52e81b8b1e468032bffce65.json"
-    },
-    {
-      "id": "be7193822960ac15b29c1d17f25ab67a1b2e1a5927782120ffc0c1414fb0da6c",
-      "uid": "408082.cQHpfyrYOvWELoPCc+fK2iu,KoVo2QOhaElGLqHifqo=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🫏 Axios AM: Blue wave rising",
-      "date": "Mon, 07 Sep 2026 06:46:17 -0400",
-      "is_read": true,
-      "file": "be7193822960ac15b29c1d17f25ab67a1b2e1a5927782120ffc0c1414fb0da6c.json"
     },
     {
       "id": "3a22ab8a0d7c5715e17eb14e1348802dcf8103d1ca711cab82d046b2a63e0219",
