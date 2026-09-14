@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6213 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-14T04:17:58.882668+00:00",
-  "added": 24,
+  "updated_at": "2026-09-14T04:17:59.782279+00:00",
+  "added": 25,
   "skipped": 358,
   "scanned": 383,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "CPI To Signal Fed's Next Move",
   "added_by_filter": {
     "wsj": 10,
     "axios": 9,
-    "seekingalpha": 5
+    "seekingalpha": 6
   },
   "last_newest_num": 6122,
   "newest_num": 6595,
