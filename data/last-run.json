@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6202 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-14T04:18:04.999133+00:00",
-  "added": 26,
+  "updated_at": "2026-09-14T04:18:05.991947+00:00",
+  "added": 27,
   "skipped": 367,
   "scanned": 394,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "WSJ Wealth Adviser Briefing: IPO AI Hype, Drug Alternatives Stalled, Windows on the World",
   "added_by_filter": {
-    "wsj": 10,
+    "wsj": 11,
     "axios": 9,
     "seekingalpha": 7
   },
