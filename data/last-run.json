@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6197 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-14T04:18:10.119549+00:00",
-  "added": 28,
+  "updated_at": "2026-09-14T04:18:11.076027+00:00",
+  "added": 29,
   "skipped": 370,
   "scanned": 399,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: Sept. 11 Changed the World Order",
   "added_by_filter": {
-    "wsj": 12,
+    "wsj": 13,
     "axios": 9,
     "seekingalpha": 7
   },
