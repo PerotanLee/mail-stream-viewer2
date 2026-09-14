@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6216 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-14T04:17:56.385523+00:00",
-  "added": 23,
+  "updated_at": "2026-09-14T04:17:57.358695+00:00",
+  "added": 24,
   "skipped": 356,
   "scanned": 380,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: JD Vance Stole the Show",
   "added_by_filter": {
-    "wsj": 9,
+    "wsj": 10,
     "axios": 9,
     "seekingalpha": 5
   },
