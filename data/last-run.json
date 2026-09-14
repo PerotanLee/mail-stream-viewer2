@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6236 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-14T04:17:41.411016+00:00",
-  "added": 18,
+  "updated_at": "2026-09-14T04:17:42.753953+00:00",
+  "added": 19,
   "skipped": 341,
   "scanned": 360,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "Axios Pro Rata: Dollars and doom",
   "added_by_filter": {
     "wsj": 7,
-    "axios": 6,
+    "axios": 7,
     "seekingalpha": 5
   },
   "last_newest_num": 6122,
