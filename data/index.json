@@ -681,7 +681,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "📈 Axios PM: Inflation sticks around",
       "date": "Fri, 11 Sep 2026 15:15:28 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "6c7ec00cce03f902c46edf4ce0dee4186cb12cb5425b4798dc4bbc82e297b481.json"
     },
     {
