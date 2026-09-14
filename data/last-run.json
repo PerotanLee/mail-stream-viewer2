@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6260 from=\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-14T04:17:19.546864+00:00",
-  "added": 10,
+  "updated_at": "2026-09-14T04:17:20.631729+00:00",
+  "added": 11,
   "skipped": 325,
   "scanned": 336,
-  "current": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "current": "Mansion Deals Alert: An Aspen Mansion Rented by Celebs Like Rihanna Sells for $63.5 Million",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 3,
     "seekingalpha": 4
   },
