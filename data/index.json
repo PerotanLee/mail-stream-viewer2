@@ -645,7 +645,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Inflation Pressures Continue",
       "date": "Fri, 11 Sep 2026 16:31:46 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "4f9402179d22cf1286274ba1716c50a322ebccb106dc05724af9f648fc1e1b7e.json"
     },
     {
