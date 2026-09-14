@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6255 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-14T04:17:22.640430+00:00",
-  "added": 11,
+  "updated_at": "2026-09-14T04:17:23.740434+00:00",
+  "added": 12,
   "skipped": 329,
   "scanned": 341,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "💸 Diesel's impact",
   "added_by_filter": {
     "wsj": 4,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 4
   },
   "last_newest_num": 6122,
