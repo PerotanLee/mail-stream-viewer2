@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=6732 from=Axios Closer <closer@axios.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-14T23:46:32.600312+00:00",
+  "updated_at": "2026-09-14T23:46:37.161576+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 6713
+  "skipped": 24,
+  "scanned": 25,
+  "current": "Axios Closer <closer@axios.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 6713,
+  "newest_num": 6756,
+  "scan_mode": "new",
+  "since": "2026-09-14T15:20:50.376956+00:00"
 }
