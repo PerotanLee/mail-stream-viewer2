@@ -627,7 +627,7 @@
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
       "date": "Fri, 11 Sep 2026 17:10:20 +1000",
-      "is_read": false,
+      "is_read": true,
       "file": "e56208b8ce83ecce38cbb64c03b0165c34c4bb343094773fd5481c8f168e14c3.json"
     },
     {
