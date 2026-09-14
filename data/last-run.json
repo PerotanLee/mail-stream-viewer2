@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6198 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-14T04:18:07.969765+00:00",
-  "added": 27,
+  "updated_at": "2026-09-14T04:18:08.928568+00:00",
+  "added": 28,
   "skipped": 370,
   "scanned": 398,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "☹️ Markets A.M.: The Corporate Name Game Could Cost You",
   "added_by_filter": {
-    "wsj": 11,
+    "wsj": 12,
     "axios": 9,
     "seekingalpha": 7
   },
