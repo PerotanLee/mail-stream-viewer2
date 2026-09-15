@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6928 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-15T13:25:17.708950+00:00",
-  "added": 1,
+  "updated_at": "2026-09-15T13:25:18.800989+00:00",
+  "added": 2,
   "skipped": 16,
   "scanned": 18,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "😱 1 fear, 2 trades",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 1
   },
   "last_newest_num": 6919,
