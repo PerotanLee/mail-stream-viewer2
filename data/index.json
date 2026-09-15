@@ -681,7 +681,7 @@
       "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
       "subject": "Alpha Picks is up 347%—new pick out tomorrow",
       "date": "Mon, 14 Sep 2026 08:50:14 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "9ef9a33240e82b1844934c2af64ccd81ba3fe81b03e0bc1dd4f587617ad60c17.json"
     },
     {
