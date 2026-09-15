@@ -163,6 +163,42 @@
       "file": "e269733e248d3575143a474a439ed08ca42c4a30d3b43303167fe4456c7ba8dc.json"
     },
     {
+      "id": "bbbeb5e55b3897dedf3a43f313a0135da62ab7288c20d66c801374516edb8e86",
+      "uid": "410178.ipov4oHVpOLJBMwDDrCtLV+5qJsakr73XDg9TtW9pi0=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Energy Emerges As The Latest Market Shock",
+      "date": "Tue, 15 Sep 2026 07:30:45 -0400",
+      "is_read": false,
+      "file": "bbbeb5e55b3897dedf3a43f313a0135da62ab7288c20d66c801374516edb8e86.json"
+    },
+    {
+      "id": "795d5ba2b39d4961b1cc4ba8e245fc293329489643e3af285ebb9f86adb5bcfd",
+      "uid": "410177.2Q6lvoUfYW3tb8QQRR2Ena,v2ECa5uB+tYcKoIS7QjE=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "😱 1 fear, 2 trades",
+      "date": "Tue, 15 Sep 2026 07:28:33 -0400",
+      "is_read": false,
+      "file": "795d5ba2b39d4961b1cc4ba8e245fc293329489643e3af285ebb9f86adb5bcfd.json"
+    },
+    {
+      "id": "3e4fcb4b58f99c5ea23065503279aea293895a9dfff6bdc51ef9d4e7b4a4779b",
+      "uid": "410171.6U0YtpY5HP48rHJ6gdU3YiwWTDBp8qtPUlZCnW0c21A=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Bo French’s Tweet and the Tempest in Texas",
+      "date": "Tue, 15 Sep 2026 07:04:26 -0400",
+      "is_read": false,
+      "file": "3e4fcb4b58f99c5ea23065503279aea293895a9dfff6bdc51ef9d4e7b4a4779b.json"
+    },
+    {
+      "id": "cc35c48ccd55b38a23b530b1c47ee79faf362a432cd1b8d5f0c59a219c65389a",
+      "uid": "410170.IVWkbjKlA9vBsPwORDCETuQohBzrHXg7RVY35WvgDWQ=",
+      "from_addr": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ China: The Crisis Hiding in Plain Sight",
+      "date": "Tue, 15 Sep 2026 07:03:04 -0400",
+      "is_read": false,
+      "file": "cc35c48ccd55b38a23b530b1c47ee79faf362a432cd1b8d5f0c59a219c65389a.json"
+    },
+    {
       "id": "76148dc8c554327cc4a69f06d7eedab008b6e69221b851b20f737a237d66ab4f",
       "uid": "410164.2gvWZdtzqMYu8c7CuovJKFlrDISRp1MX97HdPS0jbAw=",
       "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
@@ -287,51 +323,6 @@
       "date": "Tue, 08 Sep 2026 09:28:15 -0400",
       "is_read": true,
       "file": "1ab0ad97284172afdf8b9b189050856ace0ece0118ae8d62dc134f23cb47b33a.json"
-    },
-    {
-      "id": "aee5640180db45236a24eea5947e2a79d448d45d67d7383c055e7e8b40d39c35",
-      "uid": "408389.cbWp,YgOVxWjxi8ZR88zDaMJzsvsciKtbC5wlWgouEc=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "September updates: New tools and feature enhancements are live",
-      "date": "Tue, 08 Sep 2026 08:48:53 -0400",
-      "is_read": true,
-      "file": "aee5640180db45236a24eea5947e2a79d448d45d67d7383c055e7e8b40d39c35.json"
-    },
-    {
-      "id": "d04910ceadf102f1739383debf8a39e7da0de8b4e22bf96395c6bc94072d0c3c",
-      "uid": "408376.TJl3GjY3ywjDQxTGuAfkg9mv44mWe8oUgdZywfNmo0M=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "😱 Imagining the unthinkable",
-      "date": "Tue, 08 Sep 2026 07:31:33 -0400",
-      "is_read": true,
-      "file": "d04910ceadf102f1739383debf8a39e7da0de8b4e22bf96395c6bc94072d0c3c.json"
-    },
-    {
-      "id": "9eaae688b9603336fbf66446c0c2adf583b99535e99ffb8c06220419702a6339",
-      "uid": "408373.BOZDlwuAGjsvOz0IQa71C6f5j1eKmmlcDsXxQsXv6dY=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "A Not-So-Neighborly Trade War",
-      "date": "Tue, 08 Sep 2026 07:18:07 -0400",
-      "is_read": true,
-      "file": "9eaae688b9603336fbf66446c0c2adf583b99535e99ffb8c06220419702a6339.json"
-    },
-    {
-      "id": "b6effd47121e30c090a7dc3baf311ac95c66da7299a2fa4a71e23f26675d67e2",
-      "uid": "408370.uJcPm0PTP2G5nMH8dFsvTBI8p2yVlwUSgvCrT+xBmwI=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Jared Kushner, One of World’s Most Powerful Diplomats",
-      "date": "Tue, 08 Sep 2026 07:06:33 -0400",
-      "is_read": true,
-      "file": "b6effd47121e30c090a7dc3baf311ac95c66da7299a2fa4a71e23f26675d67e2.json"
-    },
-    {
-      "id": "2c8354eb3451a4a11ed5e4b84da81e3700ace451e0bfa79ea8853fad8fb3c0a9",
-      "uid": "408369.XutFiHp1ZmPJUD6cY6b,WmsSsGx3CCuhwVYBE952mJs=",
-      "from_addr": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ China: Xi's Favorite Theory of U.S. Rivalry",
-      "date": "Tue, 08 Sep 2026 07:03:37 -0400",
-      "is_read": true,
-      "file": "2c8354eb3451a4a11ed5e4b84da81e3700ace451e0bfa79ea8853fad8fb3c0a9.json"
     },
     {
       "id": "38fae3618bf71c39bf02ee3539e3dc131f8b14df184a5f698de096fbd958377d",
