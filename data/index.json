@@ -145,6 +145,15 @@
       "file": "cfa0014056489ffb3a5094a312eff3719283f6dcf57f2f3280a3636b253d8fbd.json"
     },
     {
+      "id": "619dd6d4fa23f41ea8167536a9356ffc0e2a1f4c4f0502f2af126ce01273ba77",
+      "uid": "410161.PCY2iC7gyzVZxy6u6s1ScsjCzsd0BX55QrbOTsEZEi0=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Mortgage Bonds, Mall Values, Retiring to Low-Tax States",
+      "date": "Tue, 15 Sep 2026 20:32:02 +1000",
+      "is_read": false,
+      "file": "619dd6d4fa23f41ea8167536a9356ffc0e2a1f4c4f0502f2af126ce01273ba77.json"
+    },
+    {
       "id": "e269733e248d3575143a474a439ed08ca42c4a30d3b43303167fe4456c7ba8dc",
       "uid": "410087.gNbnfa0GvgUocFxu79dwcSIKA+1WMVpWxqnLNiuXCUI=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -154,6 +163,42 @@
       "file": "e269733e248d3575143a474a439ed08ca42c4a30d3b43303167fe4456c7ba8dc.json"
     },
     {
+      "id": "76148dc8c554327cc4a69f06d7eedab008b6e69221b851b20f737a237d66ab4f",
+      "uid": "410164.2gvWZdtzqMYu8c7CuovJKFlrDISRp1MX97HdPS0jbAw=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "📈 Markets A.M.: Stock Investors Should Root for a Rate Hike. Yeah, Really.",
+      "date": "Tue, 15 Sep 2026 06:38:22 -0400",
+      "is_read": false,
+      "file": "76148dc8c554327cc4a69f06d7eedab008b6e69221b851b20f737a237d66ab4f.json"
+    },
+    {
+      "id": "06dcea0da579d929de8aa5121ac1b3d6077beac8206f896eb4453d5174b436b8",
+      "uid": "410155.FwOgZY0,sXbrjHXqDjcR5w4CrgHl42RTKMugrYSDwWk=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🥊 Axios AM: Trump's war on doomers",
+      "date": "Tue, 15 Sep 2026 06:08:35 -0400",
+      "is_read": false,
+      "file": "06dcea0da579d929de8aa5121ac1b3d6077beac8206f896eb4453d5174b436b8.json"
+    },
+    {
+      "id": "b1da32a6910b2047f07e6b8ae05b3d1326c746f48fe7361fde849bda3d358835",
+      "uid": "410147.6m6N10HlxSmDsG06hdwTijxfrl8Ox6G9sGSbRP7yNqo=",
+      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+      "subject": "Welcome to WSJ Economics",
+      "date": "Tue, 15 Sep 2026 06:00:05 -0400",
+      "is_read": false,
+      "file": "b1da32a6910b2047f07e6b8ae05b3d1326c746f48fe7361fde849bda3d358835.json"
+    },
+    {
+      "id": "1c2a06b3f460e770518ff0b22daf997160c62ce419cddb3db59e209e16b69426",
+      "uid": "410146.5LxcR6skQg6UFu+dMB1R2rDmVH6b+t25zsH3zGzMjjQ=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: The Wild Card in a Turbulent Bond Market",
+      "date": "Tue, 15 Sep 2026 05:59:04 -0400",
+      "is_read": false,
+      "file": "1c2a06b3f460e770518ff0b22daf997160c62ce419cddb3db59e209e16b69426.json"
+    },
+    {
       "id": "90e4817dfeca810e43915ec6ed63e93f09e5a5131a46c0a0f3e3b24f7f4c931b",
       "uid": "408485.2BGVXr4hDrYqxZNlNWXwLnQzHYKa9bzBAw62hs+sXCg=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -161,15 +206,6 @@
       "date": "Tue, 08 Sep 2026 21:29:19 -0400",
       "is_read": true,
       "file": "90e4817dfeca810e43915ec6ed63e93f09e5a5131a46c0a0f3e3b24f7f4c931b.json"
-    },
-    {
-      "id": "6b0f6212ef2d237a9761d4ca18b9e36cb643870b9314bd2864eed41dbf382867",
-      "uid": "408361.k,T7N1KXWmgOJiJiO56BZ5B5E87kS0TiUKYupOpxTVs=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Supercharged ETFs, Retirement Tax, ‘Everywhere Millionaires’",
-      "date": "Tue, 08 Sep 2026 20:31:55 +1000",
-      "is_read": true,
-      "file": "6b0f6212ef2d237a9761d4ca18b9e36cb643870b9314bd2864eed41dbf382867.json"
     },
     {
       "id": "2028a5d3231e05dc40c87852b3934c79e1a0f79b0bd8a677355aad0ca9c51b80",
@@ -296,33 +332,6 @@
       "date": "Tue, 08 Sep 2026 07:03:37 -0400",
       "is_read": true,
       "file": "2c8354eb3451a4a11ed5e4b84da81e3700ace451e0bfa79ea8853fad8fb3c0a9.json"
-    },
-    {
-      "id": "b116abc233cd47d3b49a79041689e11b34d9380a022f94af7e18c35da4654110",
-      "uid": "408356.weSVA6UhhbWZBOtFrM1rN38bRRFsK1NbduowQJf14,U=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "👻 Markets A.M.: Do You Need an Inflation Tax Break?",
-      "date": "Tue, 08 Sep 2026 06:16:20 -0400",
-      "is_read": true,
-      "file": "b116abc233cd47d3b49a79041689e11b34d9380a022f94af7e18c35da4654110.json"
-    },
-    {
-      "id": "bee0c872d775f837659cec8a9654291622b83a537873e135225e4989c5dcc394",
-      "uid": "408351.EWv2RgDQx5y,lkBPDnRd4qgiTqF,mFm8+IfYt3goONA=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🥊 Axios AM: Jeffries' next fight",
-      "date": "Tue, 08 Sep 2026 06:08:09 -0400",
-      "is_read": true,
-      "file": "bee0c872d775f837659cec8a9654291622b83a537873e135225e4989c5dcc394.json"
-    },
-    {
-      "id": "ff1dab92a6bb2965d7e96eeb9e68ea21798bb4334829b4a74802c57158b5eadf",
-      "uid": "408349.tE2W1tM,VaTTJK80VIxhbLeO8xWciy1ttSRT47x8m8Q=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: The Stock Market’s Breezy Summer Is Over",
-      "date": "Tue, 08 Sep 2026 06:03:32 -0400",
-      "is_read": true,
-      "file": "ff1dab92a6bb2965d7e96eeb9e68ea21798bb4334829b4a74802c57158b5eadf.json"
     },
     {
       "id": "38fae3618bf71c39bf02ee3539e3dc131f8b14df184a5f698de096fbd958377d",
