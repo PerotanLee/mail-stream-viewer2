@@ -163,6 +163,24 @@
       "file": "e269733e248d3575143a474a439ed08ca42c4a30d3b43303167fe4456c7ba8dc.json"
     },
     {
+      "id": "6bd27070c2b3cb8cb7a9d8b7b00ff9de80ff68ff2cd991a454cb48158f4bf8a6",
+      "uid": "410202.opKq2qrzjN241Poc7vlk1sA9AYBEqhN0H9MM3yQv9tc=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Safety first",
+      "date": "Tue, 15 Sep 2026 10:04:52 -0400",
+      "is_read": false,
+      "file": "6bd27070c2b3cb8cb7a9d8b7b00ff9de80ff68ff2cd991a454cb48158f4bf8a6.json"
+    },
+    {
+      "id": "b867ad546e79bd6cd8a1290039fc7c4b98d71112eb722993ed02c5d87ac644c0",
+      "uid": "410200.odyggWC9JrUKWmMwZ,usCdKYSk8zc+ZTkIFk3KwrxP0=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "💭 AI in Dreamland",
+      "date": "Tue, 15 Sep 2026 09:28:31 -0400",
+      "is_read": false,
+      "file": "b867ad546e79bd6cd8a1290039fc7c4b98d71112eb722993ed02c5d87ac644c0.json"
+    },
+    {
       "id": "bbbeb5e55b3897dedf3a43f313a0135da62ab7288c20d66c801374516edb8e86",
       "uid": "410178.ipov4oHVpOLJBMwDDrCtLV+5qJsakr73XDg9TtW9pi0=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
@@ -305,24 +323,6 @@
       "date": "Tue, 08 Sep 2026 12:02:57 -0400",
       "is_read": true,
       "file": "edac1449f9f63014c907a076aae2bc0ba6ade26298e76e431df7a90b3e468fab.json"
-    },
-    {
-      "id": "2554126f5fd23092344bb59fee2b1636ffe572e146670766742c332a54b22d06",
-      "uid": "408394.V+vH+dks01jrVbGXcg2eErYf33fd3QNb0zJI5SJvwvI=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Pay-to-play",
-      "date": "Tue, 08 Sep 2026 09:43:11 -0400",
-      "is_read": true,
-      "file": "2554126f5fd23092344bb59fee2b1636ffe572e146670766742c332a54b22d06.json"
-    },
-    {
-      "id": "1ab0ad97284172afdf8b9b189050856ace0ece0118ae8d62dc134f23cb47b33a",
-      "uid": "408392.hZ9qjLnFT,B2HjZ21ZOh6oA3dG6pGVgOddNEBGLXOk8=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🧑‍⚖️ Good judgment required",
-      "date": "Tue, 08 Sep 2026 09:28:15 -0400",
-      "is_read": true,
-      "file": "1ab0ad97284172afdf8b9b189050856ace0ece0118ae8d62dc134f23cb47b33a.json"
     },
     {
       "id": "38fae3618bf71c39bf02ee3539e3dc131f8b14df184a5f698de096fbd958377d",
