@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=6780 from=Mike Allen <mike@axios.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-15T02:14:02.756270+00:00",
+  "updated_at": "2026-09-15T02:14:05.712777+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 6756
+  "skipped": 9,
+  "scanned": 10,
+  "current": "Mike Allen <mike@axios.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 6756,
+  "newest_num": 6789,
+  "scan_mode": "new",
+  "since": "2026-09-14T23:31:55.006054+00:00"
 }
