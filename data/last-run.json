@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6957 from=WSJ AI & Business <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-16T05:10:30.291199+00:00",
-  "added": 6,
+  "updated_at": "2026-09-16T05:10:31.350759+00:00",
+  "added": 7,
   "skipped": 122,
   "scanned": 129,
-  "current": "WSJ AI & Business <access@interactive.wsj.com>",
+  "current": "AI’s Language Problem",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 3,
     "seekingalpha": 2
   },
