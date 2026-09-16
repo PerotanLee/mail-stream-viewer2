@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7175 from=Axios Defense <defense@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-16T12:17:06.756780+00:00",
-  "added": 5,
+  "updated_at": "2026-09-16T12:17:07.812680+00:00",
+  "added": 6,
   "skipped": 26,
   "scanned": 32,
-  "current": "Axios Defense <defense@axios.com>",
+  "current": "📈 Drone deluge",
   "added_by_filter": {
     "wsj": 3,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 1
   },
   "last_newest_num": 7126,
