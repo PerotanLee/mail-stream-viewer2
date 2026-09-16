@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6953 from=\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-16T05:10:35.299358+00:00",
-  "added": 8,
+  "updated_at": "2026-09-16T05:10:36.279343+00:00",
+  "added": 9,
   "skipped": 124,
   "scanned": 133,
-  "current": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
+  "current": "The Intelligent Investor: Leverage or Luck?",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 4,
     "seekingalpha": 2
   },
