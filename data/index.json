@@ -1,6 +1,15 @@
 {
   "emails": [
     {
+      "id": "e445ca0660ac3ac770447f851ba3c25090863d885913459606110cd15420e1fb",
+      "uid": "410476.Tt8pBbFNBWL2ugB+j2upi1V4D6KAK2iz3qRFPvQHLaU=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Bond Yields, Fuel Crisis, Cricket Gets an Upgrade",
+      "date": "Wed, 16 Sep 2026 20:31:56 +1000",
+      "is_read": false,
+      "file": "e445ca0660ac3ac770447f851ba3c25090863d885913459606110cd15420e1fb.json"
+    },
+    {
       "id": "574a9cadb8a83edbd03fe65a97771914d8322f72085cceacec669042ef5b796a",
       "uid": "410408.C+5,36VW,7CLk6PsvQ1L,7Dqal2aRPoq0vawQzuCgSg=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -8,6 +17,69 @@
       "date": "Wed, 16 Sep 2026 17:10:07 +1000",
       "is_read": true,
       "file": "574a9cadb8a83edbd03fe65a97771914d8322f72085cceacec669042ef5b796a.json"
+    },
+    {
+      "id": "749cfdc8b9d1109e8eeaecaa815a4aa8b2b892005d20bc17753d2e17b89a604b",
+      "uid": "410504.v15Ex2Llylj37QoO8lkvXSwvya6BEm6tckta7czUOlk=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Time For A Fed Rate Hike?",
+      "date": "Wed, 16 Sep 2026 07:54:59 -0400",
+      "is_read": false,
+      "file": "749cfdc8b9d1109e8eeaecaa815a4aa8b2b892005d20bc17753d2e17b89a604b.json"
+    },
+    {
+      "id": "ffd4bf3545b6663fd46dd2086c77f30aaba657d139abf810fa621a2b62493ff0",
+      "uid": "410498.0p339HkzXrcszMdqlqjb4R2pxVuTRsFCfmuY8L,jThE=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "📈 Uncomfortably high",
+      "date": "Wed, 16 Sep 2026 07:28:43 -0400",
+      "is_read": false,
+      "file": "ffd4bf3545b6663fd46dd2086c77f30aaba657d139abf810fa621a2b62493ff0.json"
+    },
+    {
+      "id": "d286b031611a017889b859ec5470deec94d7f26f05be011af5d1b99fcfa856d2",
+      "uid": "410492.4SmcwKl8fQ5cuWfNcGRIegim4enbnDeJI42EpH+RKRM=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Will the Trump-Xi Dinner Bring AI Enemies Musk and Altman to the Table?",
+      "date": "Wed, 16 Sep 2026 07:07:11 -0400",
+      "is_read": false,
+      "file": "d286b031611a017889b859ec5470deec94d7f26f05be011af5d1b99fcfa856d2.json"
+    },
+    {
+      "id": "a0e0535119d328eb714781e758874c1350d46d87678259341695a715290e9a4a",
+      "uid": "410481.Wo1nNJM9w,vocNdpjRvuEtPwW,x5jgpRBlStmLDb3mw=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🚦 Markets A.M.: An AI Slowdown Has To Happen Regardless of Safety",
+      "date": "Wed, 16 Sep 2026 06:40:38 -0400",
+      "is_read": false,
+      "file": "a0e0535119d328eb714781e758874c1350d46d87678259341695a715290e9a4a.json"
+    },
+    {
+      "id": "3a672c574b64e735770c55510f748b66979d9118d4404b6c91222d15102edeba",
+      "uid": "410475.lxYqR8M+eDzqctvZpmJ1ztije5Ms1EGdb4JYvvKnrTo=",
+      "from_addr": "Axios Defense <defense@axios.com>",
+      "subject": "📈 Drone deluge",
+      "date": "Wed, 16 Sep 2026 06:30:18 -0400",
+      "is_read": false,
+      "file": "3a672c574b64e735770c55510f748b66979d9118d4404b6c91222d15102edeba.json"
+    },
+    {
+      "id": "097d32a298c76b043031d61173e2bb3a1d71b699edebc37591205f0904a6ddba",
+      "uid": "410468.QNgjFe91QP3ugw854LDgYfcvmA2ZbamZIeUYGG03Bm4=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: American Businesses Have No Idea How to Set Prices",
+      "date": "Wed, 16 Sep 2026 06:09:55 -0400",
+      "is_read": false,
+      "file": "097d32a298c76b043031d61173e2bb3a1d71b699edebc37591205f0904a6ddba.json"
+    },
+    {
+      "id": "20d215f6c3219522df7fe90d8bed056330cd60c72422837600ed02ecec1dac0b",
+      "uid": "410459.F2cR+annwzEWLhSXbiRfiDB77GmaHF5MDSoNgal51f4=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "👀 Axios AM: Powerful AI holdouts",
+      "date": "Wed, 16 Sep 2026 05:54:02 -0400",
+      "is_read": false,
+      "file": "20d215f6c3219522df7fe90d8bed056330cd60c72422837600ed02ecec1dac0b.json"
     },
     {
       "id": "7b33db30ad7520e67aa30f097155353903ae00e6025b03458ebd2e1c0e30ea39",
@@ -26,15 +98,6 @@
       "date": "Wed, 09 Sep 2026 21:29:26 -0400",
       "is_read": true,
       "file": "cf9f095df71758237980b313021ba2ec2d5ff49936852571aebae2cef5d8303e.json"
-    },
-    {
-      "id": "f0cc44ed09fd07f36fba0fa8fd31d5eb0e3a497ad19a4bf72f635d1e0f46fea6",
-      "uid": "408661.SUxETod9WPfOmtIEqsTRUXx9lr2KChzVo1Q8noieLsk=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Stocks' Breezy Summer Ends, Pensions, Kicker Pay",
-      "date": "Wed, 09 Sep 2026 20:31:57 +1000",
-      "is_read": true,
-      "file": "f0cc44ed09fd07f36fba0fa8fd31d5eb0e3a497ad19a4bf72f635d1e0f46fea6.json"
     },
     {
       "id": "f2fb1c8169721d49d86b717d57e44217b539d907f6bd2e3f58a3bdfae152aed2",
@@ -80,69 +143,6 @@
       "date": "Wed, 09 Sep 2026 09:28:15 -0400",
       "is_read": true,
       "file": "7da4ff9d551e49f22b5c80e4bb8fd876f105e2a6d67f3f48f8926d571bce4469.json"
-    },
-    {
-      "id": "b15faefe5d862992840e050c32dcc21cc5adc78d3386ad1af54be626038c8061",
-      "uid": "408678.N6q187tCBAOxanGFc+ypCzrag,ts3,mi4IcJ6Ky0VaQ=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🛢️Chilly scenes of winter",
-      "date": "Wed, 09 Sep 2026 07:28:52 -0400",
-      "is_read": true,
-      "file": "b15faefe5d862992840e050c32dcc21cc5adc78d3386ad1af54be626038c8061.json"
-    },
-    {
-      "id": "33e8abbaeb67144793f4a3c2d5726d3c540e4b09cd0e83f97020ed64a5afb5f7",
-      "uid": "408665.NlZbSMQtRGsZ+CjYQJZyMxFzjz,g5pJdxfQuCINl0JY=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: All You Need to Know About the GOP Convention",
-      "date": "Wed, 09 Sep 2026 06:55:19 -0400",
-      "is_read": true,
-      "file": "33e8abbaeb67144793f4a3c2d5726d3c540e4b09cd0e83f97020ed64a5afb5f7.json"
-    },
-    {
-      "id": "30566326e634774719913ee95d81e78131a14224740d9c230abf0ce1ccb8f065",
-      "uid": "408664.,8NhMA72v4kLmq0VgQhkCfMkYyt9Ie8a7GD8nEdybpg=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Ternus' First Test As Apple CEO",
-      "date": "Wed, 09 Sep 2026 06:50:26 -0400",
-      "is_read": true,
-      "file": "30566326e634774719913ee95d81e78131a14224740d9c230abf0ce1ccb8f065.json"
-    },
-    {
-      "id": "8d68bbd9fa8343337cc7e2066d43eb90faa281512601728737a9536e20d1cc77",
-      "uid": "408660.Mm5autkUp6V,+L11StP,SWl4jtJM3lVDns9ogKt7nxM=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "⚡ Laser lock-in",
-      "date": "Wed, 09 Sep 2026 06:30:32 -0400",
-      "is_read": true,
-      "file": "8d68bbd9fa8343337cc7e2066d43eb90faa281512601728737a9536e20d1cc77.json"
-    },
-    {
-      "id": "d73c96baba8bf594a6a4273f0680e96389c045a2b874e49cc37d3a3bd880242c",
-      "uid": "408657.TSqqm+MC5aX8M2bNsy98gg306t3qMwyU,pF+njGtHm8=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "⛓️‍💥 Markets A.M.: Watch the AI Boom’s Weakest Link",
-      "date": "Wed, 09 Sep 2026 06:20:25 -0400",
-      "is_read": true,
-      "file": "d73c96baba8bf594a6a4273f0680e96389c045a2b874e49cc37d3a3bd880242c.json"
-    },
-    {
-      "id": "21c4634fc48de205e0b77e784b2258fded1da7ddc4e496f595ddff61523fb754",
-      "uid": "408650.YQz9ByULg,RsaL2vo7pSarcmKf8O5UL15iJPgT,qPvU=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "👀 Axios AM: Trump, alone",
-      "date": "Wed, 09 Sep 2026 06:04:44 -0400",
-      "is_read": true,
-      "file": "21c4634fc48de205e0b77e784b2258fded1da7ddc4e496f595ddff61523fb754.json"
-    },
-    {
-      "id": "cfa0014056489ffb3a5094a312eff3719283f6dcf57f2f3280a3636b253d8fbd",
-      "uid": "408648.motm3iRuKD6YkUiLMNm6fwmlrsXAkYXjYbZYKyGccm4=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: An Anthropic Exit Over ‘Out-of-Control’ AI Fears",
-      "date": "Wed, 09 Sep 2026 06:03:13 -0400",
-      "is_read": true,
-      "file": "cfa0014056489ffb3a5094a312eff3719283f6dcf57f2f3280a3636b253d8fbd.json"
     },
     {
       "id": "d7bfc9c50131559cb014712bc45d18ed239c5b06d2f43aca31657b2404a1d63d",
