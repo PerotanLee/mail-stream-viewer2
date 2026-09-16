@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=6955 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-16T05:10:32.722434+00:00",
-  "added": 7,
+  "updated_at": "2026-09-16T05:10:33.891407+00:00",
+  "added": 8,
   "skipped": 123,
   "scanned": 131,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "🤖 AI growth runway",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 2
   },
   "last_newest_num": 6950,
