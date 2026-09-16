@@ -19,6 +19,42 @@
       "file": "574a9cadb8a83edbd03fe65a97771914d8322f72085cceacec669042ef5b796a.json"
     },
     {
+      "id": "1033fa958f338ad6dadb34da1f6f2c10c51d413554dfed7b2bfa1c73f1ce816e",
+      "uid": "410524.M7SRKcCH9uw2ZWspIjYWVH+TWtRxAtzIwD5XQ2Ffv4o=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "💼 Brighter hiring mood",
+      "date": "Wed, 16 Sep 2026 12:01:51 -0400",
+      "is_read": false,
+      "file": "1033fa958f338ad6dadb34da1f6f2c10c51d413554dfed7b2bfa1c73f1ce816e.json"
+    },
+    {
+      "id": "90aef5c1e1f0eed90d1602b1b7f672b125759fb13f7cd66a591d66216828f0d9",
+      "uid": "410520.bjYD85LWxsSygMRO6lOYGRdh2YHFNi4OOL7HUi77b,I=",
+      "from_addr": "WSJ Real Estate <access@interactive.wsj.com>",
+      "subject": "Malls Are Now the Top Performer in Commercial Real Estate",
+      "date": "Wed, 16 Sep 2026 10:02:25 -0400",
+      "is_read": false,
+      "file": "90aef5c1e1f0eed90d1602b1b7f672b125759fb13f7cd66a591d66216828f0d9.json"
+    },
+    {
+      "id": "eb355b80fd51f95abb60d214cba29a9c5dec73beb247d486683e681ba5cda7f5",
+      "uid": "410517.voe0UX7JgInxPHWNTtsDr8yHLseY,a+VXZA+VKJAF3s=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: \"Disappointingly limited\"",
+      "date": "Wed, 16 Sep 2026 09:39:51 -0400",
+      "is_read": false,
+      "file": "eb355b80fd51f95abb60d214cba29a9c5dec73beb247d486683e681ba5cda7f5.json"
+    },
+    {
+      "id": "72f8f66309efad75a5d2a81b94f61fee7043e954edf10461f276f14f17829148",
+      "uid": "410515.RS5ZeV,N2AAs8h8EmY3qzdNwAyNIP5mZhXfHK1yfJU4=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "❌ Just say no",
+      "date": "Wed, 16 Sep 2026 09:28:17 -0400",
+      "is_read": false,
+      "file": "72f8f66309efad75a5d2a81b94f61fee7043e954edf10461f276f14f17829148.json"
+    },
+    {
       "id": "749cfdc8b9d1109e8eeaecaa815a4aa8b2b892005d20bc17753d2e17b89a604b",
       "uid": "410504.v15Ex2Llylj37QoO8lkvXSwvya6BEm6tckta7czUOlk=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
@@ -107,42 +143,6 @@
       "date": "Wed, 09 Sep 2026 15:22:23 -0400",
       "is_read": true,
       "file": "f2fb1c8169721d49d86b717d57e44217b539d907f6bd2e3f58a3bdfae152aed2.json"
-    },
-    {
-      "id": "516bf7163edd64ba30134d0b47cc8d0894d3339338a2cc3f56466db0eb35e4ae",
-      "uid": "408695.dCAHG2eqeYncTPNW,Ly7kDrpoQPEUlC7QLShqceymSg=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🔬 Ludicrous precision",
-      "date": "Wed, 09 Sep 2026 12:02:35 -0400",
-      "is_read": true,
-      "file": "516bf7163edd64ba30134d0b47cc8d0894d3339338a2cc3f56466db0eb35e4ae.json"
-    },
-    {
-      "id": "8a0823300f43a9159d3ba8a34a9d68c8e2d423f96f680e66405e4cfee96a1ba0",
-      "uid": "408693.FNTqBau8RTyeMLsqmoJMKfZ2F,LoT99prKljeJtzALc=",
-      "from_addr": "WSJ Real Estate <access@interactive.wsj.com>",
-      "subject": "25 Years Post Sept. 11 Attack, Lower Manhattan is Booming",
-      "date": "Wed, 09 Sep 2026 10:06:12 -0400",
-      "is_read": true,
-      "file": "8a0823300f43a9159d3ba8a34a9d68c8e2d423f96f680e66405e4cfee96a1ba0.json"
-    },
-    {
-      "id": "de25c512ea9bf0266a16a808a89834d6ee1ec50a6ab217ad5a57f6b616257c20",
-      "uid": "408691.CPFJa+,CW1vUyLbkDec,LYqQ9WLsUpwt94MnFNqKnm0=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Can LIV live?",
-      "date": "Wed, 09 Sep 2026 09:35:18 -0400",
-      "is_read": true,
-      "file": "de25c512ea9bf0266a16a808a89834d6ee1ec50a6ab217ad5a57f6b616257c20.json"
-    },
-    {
-      "id": "7da4ff9d551e49f22b5c80e4bb8fd876f105e2a6d67f3f48f8926d571bce4469",
-      "uid": "408689.EPzpX2RVgGBS9e6y9BnLnJVabiQJqxLsEWdqeOLbzKI=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🤖 Zuck's private agent",
-      "date": "Wed, 09 Sep 2026 09:28:15 -0400",
-      "is_read": true,
-      "file": "7da4ff9d551e49f22b5c80e4bb8fd876f105e2a6d67f3f48f8926d571bce4469.json"
     },
     {
       "id": "d7bfc9c50131559cb014712bc45d18ed239c5b06d2f43aca31657b2404a1d63d",
