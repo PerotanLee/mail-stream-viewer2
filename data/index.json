@@ -145,6 +145,15 @@
       "file": "cfa0014056489ffb3a5094a312eff3719283f6dcf57f2f3280a3636b253d8fbd.json"
     },
     {
+      "id": "d7bfc9c50131559cb014712bc45d18ed239c5b06d2f43aca31657b2404a1d63d",
+      "uid": "410298.s7eSbY1EavjnAaiXRHskIYy6KvDol0eXIoaqOHKOq58=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🧭 Axios Finish Line: Trust your compass",
+      "date": "Tue, 15 Sep 2026 21:29:25 -0400",
+      "is_read": false,
+      "file": "d7bfc9c50131559cb014712bc45d18ed239c5b06d2f43aca31657b2404a1d63d.json"
+    },
+    {
       "id": "619dd6d4fa23f41ea8167536a9356ffc0e2a1f4c4f0502f2af126ce01273ba77",
       "uid": "410161.PCY2iC7gyzVZxy6u6s1ScsjCzsd0BX55QrbOTsEZEi0=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -154,6 +163,15 @@
       "file": "619dd6d4fa23f41ea8167536a9356ffc0e2a1f4c4f0502f2af126ce01273ba77.json"
     },
     {
+      "id": "93eda63a1e09b2bdb843343fc2bd628e655a7646b39b6639ae4614cd84df7ad7",
+      "uid": "410247.C1ZL6+YRn7s,HzNC,B1Tgr6g,n8xmf5eCXodNLpllAA=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "👎 Crypto's lack of clarity",
+      "date": "Tue, 15 Sep 2026 17:42:05 -0400",
+      "is_read": false,
+      "file": "93eda63a1e09b2bdb843343fc2bd628e655a7646b39b6639ae4614cd84df7ad7.json"
+    },
+    {
       "id": "e269733e248d3575143a474a439ed08ca42c4a30d3b43303167fe4456c7ba8dc",
       "uid": "410087.gNbnfa0GvgUocFxu79dwcSIKA+1WMVpWxqnLNiuXCUI=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -161,6 +179,69 @@
       "date": "Tue, 15 Sep 2026 17:10:02 +1000",
       "is_read": true,
       "file": "e269733e248d3575143a474a439ed08ca42c4a30d3b43303167fe4456c7ba8dc.json"
+    },
+    {
+      "id": "c370800e210f3096467242be0f9c7ac94c4e0a298d889b6491c08f9eba4264d4",
+      "uid": "410229.TFtyc3tVqa1XKyhJZhnk071M36ZQNzWNbtd6oD9pe+0=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Oil Prices Climb Higher",
+      "date": "Tue, 15 Sep 2026 16:25:40 -0400",
+      "is_read": false,
+      "file": "c370800e210f3096467242be0f9c7ac94c4e0a298d889b6491c08f9eba4264d4.json"
+    },
+    {
+      "id": "c23b26c3e6c355b99c72b5c9580204a8e1f7b4cb374657255236fce2a6ff6743",
+      "uid": "410224.lee2XhbRY8tsokiCTeQmDPnFTcXQjsNZ4QjO3jqvxTM=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "6 Top Stocks With Strong Earnings Growth Trading Well Below 52-Week Highs",
+      "date": "Tue, 15 Sep 2026 16:05:24 -0400",
+      "is_read": false,
+      "file": "c23b26c3e6c355b99c72b5c9580204a8e1f7b4cb374657255236fce2a6ff6743.json"
+    },
+    {
+      "id": "1d7098dbc61a749d1cc3eb3736134c6a177783e6387dfef39459c4c261c4e5a9",
+      "uid": "410223.3vpP+3cY7oGqXtA10FCRaA3A4IWY9QOaRZfyIwV1vP0=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🌊  Axios PM: Quiet storm season",
+      "date": "Tue, 15 Sep 2026 15:15:31 -0400",
+      "is_read": false,
+      "file": "1d7098dbc61a749d1cc3eb3736134c6a177783e6387dfef39459c4c261c4e5a9.json"
+    },
+    {
+      "id": "5eb0aa834770d7e5f35adb805480117775775c2eaa8d032f5462689c33ddc049",
+      "uid": "410212.bFZuuzhOfaHax3y65qMdgIWsLPwskNyEZhJWMjWlI20=",
+      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
+      "subject": "New pick just released. You're not too late.",
+      "date": "Tue, 15 Sep 2026 12:15:04 -0400",
+      "is_read": false,
+      "file": "5eb0aa834770d7e5f35adb805480117775775c2eaa8d032f5462689c33ddc049.json"
+    },
+    {
+      "id": "0bf0201b94837a637f3b0b74bc42b90c75d7ed78ecb38b24620fc0e09087dd15",
+      "uid": "410211.+1EnP7DR05zj5gj5BBewXwClxoJA9z5EaejKzXu3sGU=",
+      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
+      "subject": "AI’s Language Problem",
+      "date": "Tue, 15 Sep 2026 12:06:07 -0400",
+      "is_read": false,
+      "file": "0bf0201b94837a637f3b0b74bc42b90c75d7ed78ecb38b24620fc0e09087dd15.json"
+    },
+    {
+      "id": "f8f7eec0444018acedf3aef251ec1db897c641fef7f3b59d634c9a53d3380b5e",
+      "uid": "410209.4UE,j2JtBwwrE2gnZBfdYS1kjdQ8vrwfdV5D6HURVnQ=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🤖 AI growth runway",
+      "date": "Tue, 15 Sep 2026 12:02:44 -0400",
+      "is_read": false,
+      "file": "f8f7eec0444018acedf3aef251ec1db897c641fef7f3b59d634c9a53d3380b5e.json"
+    },
+    {
+      "id": "9262ec05b6966d74104ab5aceb1aac431d2e9f6406551ef8b02b9953b5ea3025",
+      "uid": "410207.0pfCmzFdOuvwlO6RbEytNAqlvrkCmaKjSgqS9QcK2zM=",
+      "from_addr": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The Intelligent Investor: Leverage or Luck?",
+      "date": "Tue, 15 Sep 2026 11:02:35 -0400",
+      "is_read": false,
+      "file": "9262ec05b6966d74104ab5aceb1aac431d2e9f6406551ef8b02b9953b5ea3025.json"
     },
     {
       "id": "6bd27070c2b3cb8cb7a9d8b7b00ff9de80ff68ff2cd991a454cb48158f4bf8a6",
@@ -251,78 +332,6 @@
       "date": "Tue, 15 Sep 2026 05:59:04 -0400",
       "is_read": true,
       "file": "1c2a06b3f460e770518ff0b22daf997160c62ce419cddb3db59e209e16b69426.json"
-    },
-    {
-      "id": "90e4817dfeca810e43915ec6ed63e93f09e5a5131a46c0a0f3e3b24f7f4c931b",
-      "uid": "408485.2BGVXr4hDrYqxZNlNWXwLnQzHYKa9bzBAw62hs+sXCg=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🥊 Axios Finish Line: Fight better",
-      "date": "Tue, 08 Sep 2026 21:29:19 -0400",
-      "is_read": true,
-      "file": "90e4817dfeca810e43915ec6ed63e93f09e5a5131a46c0a0f3e3b24f7f4c931b.json"
-    },
-    {
-      "id": "2028a5d3231e05dc40c87852b3934c79e1a0f79b0bd8a677355aad0ca9c51b80",
-      "uid": "408432.it7HBtJ73+H4+D9l9jaQTPncU3auxnR8YHGMhJOPrxw=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🎲 Robinhood doubles down",
-      "date": "Tue, 08 Sep 2026 17:28:53 -0400",
-      "is_read": true,
-      "file": "2028a5d3231e05dc40c87852b3934c79e1a0f79b0bd8a677355aad0ca9c51b80.json"
-    },
-    {
-      "id": "a9857b905e8c72cc95c37c92f4d4e6d6eb643a08eb702e24091b1c56e71d8765",
-      "uid": "408420.Z7X,J7ceIR1EjnT0M0T6eMWTYV8VRjsR3G5cpuPsgl4=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Border Battle",
-      "date": "Tue, 08 Sep 2026 16:36:01 -0400",
-      "is_read": true,
-      "file": "a9857b905e8c72cc95c37c92f4d4e6d6eb643a08eb702e24091b1c56e71d8765.json"
-    },
-    {
-      "id": "d95bbfe2b43839c41aab2b323e49457789403021fab38cdf153658e3cf4a7ba9",
-      "uid": "408417.i1zfTU65O9DhtyrwYU9MrBDfGjTYEgiWjY9qxohLcOs=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Momentum, Fear & The Case For Buying The Dip",
-      "date": "Tue, 08 Sep 2026 16:05:28 -0400",
-      "is_read": true,
-      "file": "d95bbfe2b43839c41aab2b323e49457789403021fab38cdf153658e3cf4a7ba9.json"
-    },
-    {
-      "id": "4b756c2aaab769e45f08c2cb45f5cf4328b9e1dbae628b884111a20a1d0c2db0",
-      "uid": "408414.kqHqKJwWlyI52bV6TBzEHWXNkat3ISfwV9DJjZeWrnA=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: The Most Expensive Home for Sale in Iowa Lists for $10.2 Million",
-      "date": "Tue, 08 Sep 2026 15:45:16 -0400",
-      "is_read": true,
-      "file": "4b756c2aaab769e45f08c2cb45f5cf4328b9e1dbae628b884111a20a1d0c2db0.json"
-    },
-    {
-      "id": "d826302bd500b45126d084f28dcb3f6cc8b4460c33db09957354897037046a14",
-      "uid": "408412.c2yYye4LLYMbbvHpPkyiahmJbijIufiC3NtcX3RBgsU=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "📚 Axios PM: K-12 report card",
-      "date": "Tue, 08 Sep 2026 15:32:48 -0400",
-      "is_read": true,
-      "file": "d826302bd500b45126d084f28dcb3f6cc8b4460c33db09957354897037046a14.json"
-    },
-    {
-      "id": "6040422ffc8092c45cb6a774f5f9b27ba681edd816dbead8059dd98c53b7b0f0",
-      "uid": "408407.kqj4lYWazq5He7lRocn3O6MieAQpqJZQOd9FPmGynlA=",
-      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
-      "subject": "Betting Big on AI to Remake a Business",
-      "date": "Tue, 08 Sep 2026 13:01:45 -0400",
-      "is_read": true,
-      "file": "6040422ffc8092c45cb6a774f5f9b27ba681edd816dbead8059dd98c53b7b0f0.json"
-    },
-    {
-      "id": "edac1449f9f63014c907a076aae2bc0ba6ade26298e76e431df7a90b3e468fab",
-      "uid": "408402.OGEJakMw0jTuqNB1yVtJFJBc876NfOW4mzhaGw,n1uk=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "❌ New trade stakes",
-      "date": "Tue, 08 Sep 2026 12:02:57 -0400",
-      "is_read": true,
-      "file": "edac1449f9f63014c907a076aae2bc0ba6ade26298e76e431df7a90b3e468fab.json"
     },
     {
       "id": "38fae3618bf71c39bf02ee3539e3dc131f8b14df184a5f698de096fbd958377d",
