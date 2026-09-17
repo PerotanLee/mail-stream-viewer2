@@ -1,6 +1,15 @@
 {
   "emails": [
     {
+      "id": "db0886b04e2ac91e3d0f91e9a85f3b7b0d8d5cc64eb7b1906df6f8d033c9e3d9",
+      "uid": "410602.gZc+WTHS5Yz5IwXfVN,HQyNXIan1lfpizBLvAdzmfEs=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🐕 Axios Finish Line: How dogs read us",
+      "date": "Wed, 16 Sep 2026 21:29:21 -0400",
+      "is_read": false,
+      "file": "db0886b04e2ac91e3d0f91e9a85f3b7b0d8d5cc64eb7b1906df6f8d033c9e3d9.json"
+    },
+    {
       "id": "e445ca0660ac3ac770447f851ba3c25090863d885913459606110cd15420e1fb",
       "uid": "410476.Tt8pBbFNBWL2ugB+j2upi1V4D6KAK2iz3qRFPvQHLaU=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -10,6 +19,24 @@
       "file": "e445ca0660ac3ac770447f851ba3c25090863d885913459606110cd15420e1fb.json"
     },
     {
+      "id": "d9893be1ca4d4831138a15ca1f0e5756d3a64c48f2ee3618672a1eeb7dcc42f5",
+      "uid": "410552.HYi0tdWEMWx7oQ55gxnwURxXE50NpMvHzlZFP+7iqx4=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🏛️ Fed hike No. 1",
+      "date": "Wed, 16 Sep 2026 17:25:30 -0400",
+      "is_read": false,
+      "file": "d9893be1ca4d4831138a15ca1f0e5756d3a64c48f2ee3618672a1eeb7dcc42f5.json"
+    },
+    {
+      "id": "287a1ef1c9904d7bfcdf2ea4208339c3abf075a8fea4a343e5eedf6b1a8ff760",
+      "uid": "410549.FalfQgnUyZsxl7nIdp8NlGj8qpW65LSvmkz7wt1lXDI=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: A Lifelong Love of Disney Inspired This $15.45 Million California Home",
+      "date": "Wed, 16 Sep 2026 17:15:16 -0400",
+      "is_read": false,
+      "file": "287a1ef1c9904d7bfcdf2ea4208339c3abf075a8fea4a343e5eedf6b1a8ff760.json"
+    },
+    {
       "id": "574a9cadb8a83edbd03fe65a97771914d8322f72085cceacec669042ef5b796a",
       "uid": "410408.C+5,36VW,7CLk6PsvQ1L,7Dqal2aRPoq0vawQzuCgSg=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -17,6 +44,24 @@
       "date": "Wed, 16 Sep 2026 17:10:07 +1000",
       "is_read": true,
       "file": "574a9cadb8a83edbd03fe65a97771914d8322f72085cceacec669042ef5b796a.json"
+    },
+    {
+      "id": "f324787cc9a04290f5285fc09d3f7ee92fb05b32df186f7097faf6fb50404910",
+      "uid": "410538.M0JuwKNsewxkVuWYX4y4kSq,jh27G8,7,69tVx4Jg2M=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Fed Hikes Rates, Defying Trump",
+      "date": "Wed, 16 Sep 2026 16:31:35 -0400",
+      "is_read": false,
+      "file": "f324787cc9a04290f5285fc09d3f7ee92fb05b32df186f7097faf6fb50404910.json"
+    },
+    {
+      "id": "5c86ba0f5d58b4c4a2db534d30307be810d828be37e4d1ebeb7aa11fe17550a1",
+      "uid": "410533.sBVOfOY1jthLp+QBa3V+CGqMf4z+BN7isM4gX0zR,D0=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "The 10-Year Treasury Just Hit 5%: Here's What I'd Buy And Avoid",
+      "date": "Wed, 16 Sep 2026 16:05:20 -0400",
+      "is_read": false,
+      "file": "5c86ba0f5d58b4c4a2db534d30307be810d828be37e4d1ebeb7aa11fe17550a1.json"
     },
     {
       "id": "3360d11d76835976e937bc6c03b96215ff782952481919288c395559262e8134",
@@ -134,24 +179,6 @@
       "date": "Wed, 16 Sep 2026 05:54:02 -0400",
       "is_read": true,
       "file": "20d215f6c3219522df7fe90d8bed056330cd60c72422837600ed02ecec1dac0b.json"
-    },
-    {
-      "id": "7b33db30ad7520e67aa30f097155353903ae00e6025b03458ebd2e1c0e30ea39",
-      "uid": "408809.Ka5raRfL6dQFZSsC+qCh7gW1kXUbmb597XwtSFuoRw0=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: $5,000 Pledge Is Trump's Biggest Election Gambit",
-      "date": "Wed, 09 Sep 2026 23:11:59 -0400",
-      "is_read": true,
-      "file": "7b33db30ad7520e67aa30f097155353903ae00e6025b03458ebd2e1c0e30ea39.json"
-    },
-    {
-      "id": "cf9f095df71758237980b313021ba2ec2d5ff49936852571aebae2cef5d8303e",
-      "uid": "408772.KTNtDkx4rnchP4YrfU9Bk4g2qD8kh9K25npupYKJriw=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "📚 Axios Finish Line: Book club boom",
-      "date": "Wed, 09 Sep 2026 21:29:26 -0400",
-      "is_read": true,
-      "file": "cf9f095df71758237980b313021ba2ec2d5ff49936852571aebae2cef5d8303e.json"
     },
     {
       "id": "d7bfc9c50131559cb014712bc45d18ed239c5b06d2f43aca31657b2404a1d63d",
