@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "保存",
+  "phase": "save",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-17T09:47:09.790062+00:00",
+  "updated_at": "2026-09-17T09:47:10.937578+00:00",
   "added": 0,
   "skipped": 0,
   "scanned": 0,
   "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 7418
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 7418,
+  "newest_num": 7418,
+  "scan_mode": "none",
+  "since": "2026-09-17T09:31:10.568512+00:00"
 }
