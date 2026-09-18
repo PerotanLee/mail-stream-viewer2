@@ -411,7 +411,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Shake It Off",
       "date": "Thu, 17 Sep 2026 16:43:07 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "5eb0028c44234fb1a09dfa2b223e2b5b87279693f3853c2c1b138ebf4fb229d9.json"
     },
     {
