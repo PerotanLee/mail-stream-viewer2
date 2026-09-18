@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7420 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T04:00:56.974187+00:00",
-  "added": 17,
+  "updated_at": "2026-09-18T04:00:58.078623+00:00",
+  "added": 18,
   "skipped": 155,
   "scanned": 173,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: What a Fed Rate Hike Means for Your Money",
   "added_by_filter": {
-    "wsj": 5,
+    "wsj": 6,
     "axios": 9,
     "seekingalpha": 3
   },
