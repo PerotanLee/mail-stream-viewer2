@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7439 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T04:00:47.008213+00:00",
-  "added": 14,
+  "updated_at": "2026-09-18T04:00:47.929894+00:00",
+  "added": 15,
   "skipped": 139,
   "scanned": 154,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: The Trillion-Dollar Question: Did Warsh Really Seek Trump’s Blessing to Hike Rates?",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 9,
     "seekingalpha": 3
   },
