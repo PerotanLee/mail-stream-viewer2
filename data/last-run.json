@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7718 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T18:12:46.461913+00:00",
-  "added": 11,
+  "updated_at": "2026-09-18T18:12:47.931734+00:00",
+  "added": 12,
   "skipped": 47,
   "scanned": 59,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "🔪 Markets A.M.: How to Tell Whether a Plunging Stock Will Keep Plunging",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 5,
     "seekingalpha": 2
   },
