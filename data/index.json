@@ -820,6 +820,24 @@
       "file": "e4e3f5d6c1d28d9187558419455d65c09cb3cb6e6611d25297f44d55a0d2a94e.json"
     },
     {
+      "id": "861bfd649502f89283b4976bb0600e142b3155448542fa719d8fca04e05e270d",
+      "uid": "411193.abcBFURn+kFvfvodEXtLMhqHByRZRJqyBIOTc38ox4M=",
+      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+      "subject": "A Custom-Built Home for Under $1 Million? It's Not Impossible.",
+      "date": "Fri, 18 Sep 2026 15:31:06 -0400",
+      "is_read": false,
+      "file": "861bfd649502f89283b4976bb0600e142b3155448542fa719d8fca04e05e270d.json"
+    },
+    {
+      "id": "cc60276ae0347b32e0bd91967cb8fb96e5a1387fb6b550a505aeeb3754ac0cb0",
+      "uid": "411192.dohngrWfMYwV0,OVB10qKubYSV8aaVrhhZc0L3rCgsA=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios PM: Meta's AI hit",
+      "date": "Fri, 18 Sep 2026 15:01:33 -0400",
+      "is_read": false,
+      "file": "cc60276ae0347b32e0bd91967cb8fb96e5a1387fb6b550a505aeeb3754ac0cb0.json"
+    },
+    {
       "id": "5033dd63d68833bcb7d48a316993df0d72912ad23ea88c890a73439d3aa10e3f",
       "uid": "411181.jFAmuLS,Cs,2YUIgppS0bB4fwrJEaUgw90Qdoh3b7nU=",
       "from_addr": "Axios Macro <macro@axios.com>",
@@ -989,24 +1007,6 @@
       "date": "Fri, 11 Sep 2026 16:05:29 -0400",
       "is_read": true,
       "file": "7e358d40c09ee5328eda1e9f7f1df743c61ab0392c0afd91f558c2dbb2737866.json"
-    },
-    {
-      "id": "d25577fbdebf5b84ea9f8592ad0e013c5bf83eb08cfe1e3e09df2fe4bf5a8716",
-      "uid": "409303.txY6VOfS4qsaSjCLvxf9KLRXy+jz35XCOZU244NvjNc=",
-      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
-      "subject": "College Athletes Use NIL Earnings to Buy Million-Dollar Homes",
-      "date": "Fri, 11 Sep 2026 15:31:05 -0400",
-      "is_read": true,
-      "file": "d25577fbdebf5b84ea9f8592ad0e013c5bf83eb08cfe1e3e09df2fe4bf5a8716.json"
-    },
-    {
-      "id": "6c7ec00cce03f902c46edf4ce0dee4186cb12cb5425b4798dc4bbc82e297b481",
-      "uid": "409302.SFh5ga8C8WovMaTs+prGJg79QGoY1xxsZSWvNyAWUKA=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "📈 Axios PM: Inflation sticks around",
-      "date": "Fri, 11 Sep 2026 15:15:28 -0400",
-      "is_read": true,
-      "file": "6c7ec00cce03f902c46edf4ce0dee4186cb12cb5425b4798dc4bbc82e297b481.json"
     }
   ]
 }
