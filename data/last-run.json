@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7483 from=Axios Media Trends Executive <mediatrends-executive@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T04:00:17.343078+00:00",
-  "added": 5,
+  "updated_at": "2026-09-18T04:00:18.708571+00:00",
+  "added": 6,
   "skipped": 104,
   "scanned": 110,
-  "current": "Axios Media Trends Executive <mediatrends-executive@axios.com>",
+  "current": "Who Sets AI’s Content Rules?",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 2,
+    "axios": 3,
     "seekingalpha": 1
   },
   "last_newest_num": 7418,
