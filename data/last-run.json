@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7780 from=WSJ Homes <wsj-homes@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T19:56:08.324424+00:00",
-  "added": 0,
+  "updated_at": "2026-09-18T19:56:09.834730+00:00",
+  "added": 1,
   "skipped": 1,
   "scanned": 2,
-  "current": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+  "current": "A Custom-Built Home for Under $1 Million? It's Not Impossible.",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 0,
     "seekingalpha": 0
   },
