@@ -802,13 +802,148 @@
       "file": "ab8260c85f997c8beda84947b4b3b6fd2cd3bb7926ad2558c3cce25626db774e.json"
     },
     {
-      "id": "3a22ab8a0d7c5715e17eb14e1348802dcf8103d1ca711cab82d046b2a63e0219",
-      "uid": "409249.UG94YADA1sdrUgy6nYcIHPucJx+rMeyLy8wCoX3tn9o=",
+      "id": "a019d03203063a0d77d3c2108277cf60ea600f48a47f9fb6d1cc56898d3b9968",
+      "uid": "411123.iby1kwUHhBTLIZEJKhShelr6ghDb0p1Dl5hMxSmQ6X4=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: IPO AI Hype, Drug Alternatives Stalled, Windows on the World",
-      "date": "Fri, 11 Sep 2026 20:32:03 +1000",
-      "is_read": true,
-      "file": "3a22ab8a0d7c5715e17eb14e1348802dcf8103d1ca711cab82d046b2a63e0219.json"
+      "subject": "WSJ Wealth Adviser Briefing: Private Equity Woes, Exuberant Energy Traders, Ed Sheeran’s Tour",
+      "date": "Fri, 18 Sep 2026 20:32:13 +1000",
+      "is_read": false,
+      "file": "a019d03203063a0d77d3c2108277cf60ea600f48a47f9fb6d1cc56898d3b9968.json"
+    },
+    {
+      "id": "e4e3f5d6c1d28d9187558419455d65c09cb3cb6e6611d25297f44d55a0d2a94e",
+      "uid": "411038.,gQKzTCDIM+0pePq8zGZALFDX7Yw0OwvvzYfpMv0qA8=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Fri, 18 Sep 2026 17:10:06 +1000",
+      "is_read": false,
+      "file": "e4e3f5d6c1d28d9187558419455d65c09cb3cb6e6611d25297f44d55a0d2a94e.json"
+    },
+    {
+      "id": "5033dd63d68833bcb7d48a316993df0d72912ad23ea88c890a73439d3aa10e3f",
+      "uid": "411181.jFAmuLS,Cs,2YUIgppS0bB4fwrJEaUgw90Qdoh3b7nU=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🌏 Global hiking club",
+      "date": "Fri, 18 Sep 2026 12:03:17 -0400",
+      "is_read": false,
+      "file": "5033dd63d68833bcb7d48a316993df0d72912ad23ea88c890a73439d3aa10e3f.json"
+    },
+    {
+      "id": "d2250d761aafddd9d88635bdf33f8157bfc078b3499fc677b14a34154a431b6a",
+      "uid": "411174.0lCAz5+A03hhGPjxA3q6MROWpk2YV8cMFp93LvcSZUc=",
+      "from_addr": "Axios <newsletters@axios.com>",
+      "subject": "🎙️Hasan Piker on “The Axios Show”",
+      "date": "Fri, 18 Sep 2026 11:01:12 -0400",
+      "is_read": false,
+      "file": "d2250d761aafddd9d88635bdf33f8157bfc078b3499fc677b14a34154a431b6a.json"
+    },
+    {
+      "id": "1f0930b90fb4ceb7e887eead0d024d4030430a5c86ff04d9970934445533735b",
+      "uid": "411167.O7fB,qUVn6PJrkKMLPMnQKoCcxG1wFISF6CPlrnOyFU=",
+      "from_addr": "AI+ Government <ai.plus.gov@axios.com>",
+      "subject": "👀 Policing the labs",
+      "date": "Fri, 18 Sep 2026 09:28:18 -0400",
+      "is_read": false,
+      "file": "1f0930b90fb4ceb7e887eead0d024d4030430a5c86ff04d9970934445533735b.json"
+    },
+    {
+      "id": "c229d55291e193e71610c304b0f18c7ea82e155b2295d461fa2d985c2e6261d8",
+      "uid": "411166.WO1V9lDFu,BJx0HmscC6+INWEp94e5qWZZkt7BhT3Wo=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Slowdown",
+      "date": "Fri, 18 Sep 2026 09:22:44 -0400",
+      "is_read": false,
+      "file": "c229d55291e193e71610c304b0f18c7ea82e155b2295d461fa2d985c2e6261d8.json"
+    },
+    {
+      "id": "19a394fc62675ae65a93d769160bdabca27321756880fdb2d80432a957be7ba8",
+      "uid": "411164.wt0IHyQ4guuRiC9hpVSAj4pK+qf14CFmWYYRRit6s6Q=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "The latest from Jason Zweig",
+      "date": "Fri, 18 Sep 2026 09:15:20 -0400",
+      "is_read": false,
+      "file": "19a394fc62675ae65a93d769160bdabca27321756880fdb2d80432a957be7ba8.json"
+    },
+    {
+      "id": "be8d8a8c9e57c6f5af038d9b57ebadc26a31b7b815ddb279ebf382039f35f755",
+      "uid": "411157.y8c91BKv87SOwISDvS+xERx088iqw0GkN5gNT,jOV48=",
+      "from_addr": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Travel: A Lost and Found Win—With a Twist 🤔",
+      "date": "Fri, 18 Sep 2026 08:31:09 -0400",
+      "is_read": false,
+      "file": "be8d8a8c9e57c6f5af038d9b57ebadc26a31b7b815ddb279ebf382039f35f755.json"
+    },
+    {
+      "id": "c3521c1a0828486ed890b250e4165a77331ba93ca1d1a654f83a5c9ef1e9495b",
+      "uid": "411156.GzVMjeWh8jfbHqZTsJVDUpxldGWoNX7DHr32acSM6zg=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "The U.S. Foreclosure Map Is Shifting",
+      "date": "Fri, 18 Sep 2026 08:14:48 -0400",
+      "is_read": false,
+      "file": "c3521c1a0828486ed890b250e4165a77331ba93ca1d1a654f83a5c9ef1e9495b.json"
+    },
+    {
+      "id": "aedc84ce9d02f4d5b6aa342ecededb64c8e0230311b7130aca27e6a8d55bd90f",
+      "uid": "411144.oNSXo024+w,XTslmhx8js46ZNWSJ8x9rvFWKJo0jvow=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🤩 Wall Street's brave face",
+      "date": "Fri, 18 Sep 2026 07:28:39 -0400",
+      "is_read": false,
+      "file": "aedc84ce9d02f4d5b6aa342ecededb64c8e0230311b7130aca27e6a8d55bd90f.json"
+    },
+    {
+      "id": "b6fdb58c384af2dc25c4d78948eb787f571c93e0de569eb29886592b0857c1b2",
+      "uid": "411136.v2L3EJ7F2OMjQfWCuUb4LSu5t4LQ9kprpCRytptmvKU=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Republicans Are in a Midterm Bind. An Avalanche of Ad Cash Could Help.",
+      "date": "Fri, 18 Sep 2026 07:05:02 -0400",
+      "is_read": false,
+      "file": "b6fdb58c384af2dc25c4d78948eb787f571c93e0de569eb29886592b0857c1b2.json"
+    },
+    {
+      "id": "b88aa96f10cfbe72da47badc2a8c7c1c06fa657ee6d416c2a65004bf6bf3ae0d",
+      "uid": "411127.Wcvog8o6fW9tfNJccJdLe26fVSG6wTeNDD8EOieEyQs=",
+      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
+      "subject": "See what’s moving the markets this week",
+      "date": "Fri, 18 Sep 2026 06:59:18 -0400",
+      "is_read": false,
+      "file": "b88aa96f10cfbe72da47badc2a8c7c1c06fa657ee6d416c2a65004bf6bf3ae0d.json"
+    },
+    {
+      "id": "ef4768f23ba2e7de1868009c18eef658126c56a1d61c043b558682a6b4be67ab",
+      "uid": "411122.h8sm9zVKL8bgXFSkq6,vvloYXHR6DAlPC9YkOEpKoAs=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🔪 Markets A.M.: How to Tell Whether a Plunging Stock Will Keep Plunging",
+      "date": "Fri, 18 Sep 2026 06:30:38 -0400",
+      "is_read": false,
+      "file": "ef4768f23ba2e7de1868009c18eef658126c56a1d61c043b558682a6b4be67ab.json"
+    },
+    {
+      "id": "19104a147b60c01b7960b2801e8f89bb2ec72466b8c8e5e57b7f931cedb8d567",
+      "uid": "411116.QvM1DN6iL3359a+VPotEjsg+mxn06MH5j54gGGOuFJk=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: The Super Donor Quarterbacking Michigan Sports",
+      "date": "Fri, 18 Sep 2026 06:08:07 -0400",
+      "is_read": false,
+      "file": "19104a147b60c01b7960b2801e8f89bb2ec72466b8c8e5e57b7f931cedb8d567.json"
+    },
+    {
+      "id": "4e47a429d5dbfdd3a11c9eddf1f6c409cdbd79512360476b46732d3296e616fb",
+      "uid": "411112.GQjcW3jZcsaMuj83gHARPdDFlw3iGhyWyQFY5WdA+D4=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "👀 Axios AM: AOC's 2028 ally",
+      "date": "Fri, 18 Sep 2026 05:58:33 -0400",
+      "is_read": false,
+      "file": "4e47a429d5dbfdd3a11c9eddf1f6c409cdbd79512360476b46732d3296e616fb.json"
+    },
+    {
+      "id": "b2df9caa00944f58172e80c2ef5e09079d0e92a2e73383db619afc98bad2d9b3",
+      "uid": "411088.wd0sIYbpu2RtmuVoocaX74C7EhxlJqa8ZR3JOfAIT,s=",
+      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
+      "subject": "Investment News Quiz - Friday, Sep. 18",
+      "date": "Fri, 18 Sep 2026 05:04:24 -0400",
+      "is_read": false,
+      "file": "b2df9caa00944f58172e80c2ef5e09079d0e92a2e73383db619afc98bad2d9b3.json"
     },
     {
       "id": "859d3dd67516e6a4f4264fe962bee6201cf4477c0c7aa126184803df088a1760",
@@ -818,15 +953,6 @@
       "date": "Fri, 11 Sep 2026 18:00:54 -0400",
       "is_read": false,
       "file": "859d3dd67516e6a4f4264fe962bee6201cf4477c0c7aa126184803df088a1760.json"
-    },
-    {
-      "id": "e56208b8ce83ecce38cbb64c03b0165c34c4bb343094773fd5481c8f168e14c3",
-      "uid": "409170.vEj0Na3234F61FoHg05ePZHajZJ0fo6MHCfJvmEDkRU=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Fri, 11 Sep 2026 17:10:20 +1000",
-      "is_read": true,
-      "file": "e56208b8ce83ecce38cbb64c03b0165c34c4bb343094773fd5481c8f168e14c3.json"
     },
     {
       "id": "3baac5b1ed2f5e8cbb4cb0128b022e4f33e4196fe745d5d9f9e09a1a9cff5637",
@@ -881,123 +1007,6 @@
       "date": "Fri, 11 Sep 2026 15:15:28 -0400",
       "is_read": true,
       "file": "6c7ec00cce03f902c46edf4ce0dee4186cb12cb5425b4798dc4bbc82e297b481.json"
-    },
-    {
-      "id": "0d44b09bece5f3bb12f0aabcd0c4070eb3d5beb67404cf6542b40256ec792555",
-      "uid": "409299.Gep0WiMU,Ok3wV28162l6OAaKM881yRRrBMaSNALRNk=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🥾 Hike time",
-      "date": "Fri, 11 Sep 2026 12:02:08 -0400",
-      "is_read": true,
-      "file": "0d44b09bece5f3bb12f0aabcd0c4070eb3d5beb67404cf6542b40256ec792555.json"
-    },
-    {
-      "id": "feb4fad549c38cde48b40736342d2927385bb2f37bc8570ac034c03637f22b75",
-      "uid": "409290.9bvNPwp6EQ3HxvscNpFjgde7gJzAI26Tk5FIcTkg+KU=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Dollars and doom",
-      "date": "Fri, 11 Sep 2026 10:02:34 -0400",
-      "is_read": true,
-      "file": "feb4fad549c38cde48b40736342d2927385bb2f37bc8570ac034c03637f22b75.json"
-    },
-    {
-      "id": "7021352696f42ecc4a201909e129b9c2eba9503fbc7b5592c0338fa1560b9250",
-      "uid": "409289.KfjFNwP1ADs6QvyqMe,YTYB19hNqAHx,p,+HPc5gRsk=",
-      "from_addr": "AI+ Government <ai.plus.gov@axios.com>",
-      "subject": "⚠️ AI alarm bells",
-      "date": "Fri, 11 Sep 2026 09:28:15 -0400",
-      "is_read": true,
-      "file": "7021352696f42ecc4a201909e129b9c2eba9503fbc7b5592c0338fa1560b9250.json"
-    },
-    {
-      "id": "70a173ca013489dbcfacd595a67e96f8bd66be818cb74fa8b0543a5e9df44532",
-      "uid": "409288.cYJI3AX8G12,n4ZHCxqZJrQxjPTEemT7,HX4Fmvm0bk=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "The latest from Jason Zweig",
-      "date": "Fri, 11 Sep 2026 09:20:06 -0400",
-      "is_read": false,
-      "file": "70a173ca013489dbcfacd595a67e96f8bd66be818cb74fa8b0543a5e9df44532.json"
-    },
-    {
-      "id": "b7121295d053a5d576b09a22920c17ab207dccdad0d8d6feee6d568ac51219ba",
-      "uid": "409283.3ESSPydax0PReNxzjP+k7mzl77fQ04e58qQwrGqusvc=",
-      "from_addr": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Travel: Domestic First Class: Worth the Splurge? 💸",
-      "date": "Fri, 11 Sep 2026 08:31:08 -0400",
-      "is_read": true,
-      "file": "b7121295d053a5d576b09a22920c17ab207dccdad0d8d6feee6d568ac51219ba.json"
-    },
-    {
-      "id": "7edf5307e24a1d97a59dba5ad47f14916f03c17aa67094f339cae33110635e51",
-      "uid": "409270.iHKreZ1RTQlxOExaxL2lrCUWFTiiEu5YqVnCTflL7B0=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🤯 Oil, bonds, stocks — oh my!",
-      "date": "Fri, 11 Sep 2026 07:28:43 -0400",
-      "is_read": true,
-      "file": "7edf5307e24a1d97a59dba5ad47f14916f03c17aa67094f339cae33110635e51.json"
-    },
-    {
-      "id": "e5f6674861ed448f75b22447387bdb132e5864c9224e40b5d6911d4bffb4a88e",
-      "uid": "409265.OC,5KhsDWhXb6bokECxdNL1ap,80,2vblr9EiN9Thhk=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: JD Vance Stole the Show",
-      "date": "Fri, 11 Sep 2026 07:06:09 -0400",
-      "is_read": true,
-      "file": "e5f6674861ed448f75b22447387bdb132e5864c9224e40b5d6911d4bffb4a88e.json"
-    },
-    {
-      "id": "b4aafdd9c74fb9cfdb0101f0c6402eb29fe96c9dffcf23e0a913388f68491304",
-      "uid": "409262.ExQALjC3PFa8G3lRBbMKqAkWzBA8LSD50e2dU9du,jI=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "CPI To Signal Fed's Next Move",
-      "date": "Fri, 11 Sep 2026 07:04:46 -0400",
-      "is_read": true,
-      "file": "b4aafdd9c74fb9cfdb0101f0c6402eb29fe96c9dffcf23e0a913388f68491304.json"
-    },
-    {
-      "id": "97a8b1edc1af9702abdafa6f52f7c3aca2b239ae9871a67dfda750a1acd0a646",
-      "uid": "409251.hfRV4J,B2xbP145DJUFk+DhX4SAKLF5FtgYWjFqMT6o=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "See what’s moving the markets this week",
-      "date": "Fri, 11 Sep 2026 06:43:21 -0400",
-      "is_read": true,
-      "file": "97a8b1edc1af9702abdafa6f52f7c3aca2b239ae9871a67dfda750a1acd0a646.json"
-    },
-    {
-      "id": "a57159430f2bfe4486398bdd973da459d8d480f8580da98c0771f9d0b0da939d",
-      "uid": "409245.ugOtKf3CiEh6z0H4cYWbD6OkLp5dlKG+EHK,X3UUsas=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "☹️ Markets A.M.: The Corporate Name Game Could Cost You",
-      "date": "Fri, 11 Sep 2026 06:17:01 -0400",
-      "is_read": true,
-      "file": "a57159430f2bfe4486398bdd973da459d8d480f8580da98c0771f9d0b0da939d.json"
-    },
-    {
-      "id": "6f8ac55a88c5a836d65cb2bd8b16472c040ee8b0b08713e5e45ac4d69732c02c",
-      "uid": "409244.CeopYRpXbrB2t1Utyq3,wIDP+GxIoBac5vXVZt8a1Z8=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Sept. 11 Changed the World Order",
-      "date": "Fri, 11 Sep 2026 06:13:45 -0400",
-      "is_read": true,
-      "file": "6f8ac55a88c5a836d65cb2bd8b16472c040ee8b0b08713e5e45ac4d69732c02c.json"
-    },
-    {
-      "id": "f6d5d98ca83157acf03e7479298b53588c0082dfe8ae23ed3a241bc6a1d1dfae",
-      "uid": "409237.E+1cSRZH0Uf3rgij685v72lJmpSwvZi+PAtTlluXh9k=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🎤 Axios AM: MAGA's millennial messenger",
-      "date": "Fri, 11 Sep 2026 05:57:02 -0400",
-      "is_read": true,
-      "file": "f6d5d98ca83157acf03e7479298b53588c0082dfe8ae23ed3a241bc6a1d1dfae.json"
-    },
-    {
-      "id": "bb5f5536dbfb9820b6697dadca91688412d211bc2dc6b71d41c9b5d611d3f29d",
-      "uid": "409215.wql4MRyO4DMqo3rcE5t,RD2T6wkjihGySQM6UFII++U=",
-      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
-      "subject": "Investment News Quiz - Friday, Sep. 11",
-      "date": "Fri, 11 Sep 2026 05:03:38 -0400",
-      "is_read": true,
-      "file": "bb5f5536dbfb9820b6697dadca91688412d211bc2dc6b71d41c9b5d611d3f29d.json"
     }
   ]
 }
