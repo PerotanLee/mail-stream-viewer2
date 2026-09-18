@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7748 from=\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T18:12:28.031469+00:00",
-  "added": 5,
+  "updated_at": "2026-09-18T18:12:29.018989+00:00",
+  "added": 6,
   "skipped": 23,
   "scanned": 29,
-  "current": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Travel: A Lost and Found Win—With a Twist 🤔",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 4,
     "seekingalpha": 0
   },
