@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7432 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T04:00:52.458562+00:00",
-  "added": 16,
+  "updated_at": "2026-09-18T04:00:53.399618+00:00",
+  "added": 17,
   "skipped": 144,
   "scanned": 161,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "WSJ Wealth Adviser Briefing: Customized 401Ks, Corporate Price Confusion, Aging Rock Stars",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 9,
     "seekingalpha": 3
   },
