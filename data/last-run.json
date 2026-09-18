@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7445 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T04:00:43.078687+00:00",
-  "added": 13,
+  "updated_at": "2026-09-18T04:00:44.142657+00:00",
+  "added": 14,
   "skipped": 134,
   "scanned": 148,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "🛢️ Higher for longer",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 8,
+    "axios": 9,
     "seekingalpha": 3
   },
   "last_newest_num": 7418,
