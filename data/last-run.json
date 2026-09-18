@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7480 from=Axios Live <events@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T04:00:22.735365+00:00",
-  "added": 7,
+  "updated_at": "2026-09-18T04:00:23.712523+00:00",
+  "added": 8,
   "skipped": 105,
   "scanned": 113,
-  "current": "Axios Live <events@axios.com>",
+  "current": "🌎 Last call to join us at Axios House Climate Week and UNGA | Sept. 21 - 23",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 4,
+    "axios": 5,
     "seekingalpha": 1
   },
   "last_newest_num": 7418,
