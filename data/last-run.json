@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7461 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T04:00:33.396860+00:00",
-  "added": 10,
+  "updated_at": "2026-09-18T04:00:34.545635+00:00",
+  "added": 11,
   "skipped": 121,
   "scanned": 132,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "👀 Six more cases",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 7,
+    "axios": 8,
     "seekingalpha": 1
   },
   "last_newest_num": 7418,
