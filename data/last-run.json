@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7465 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T04:00:29.938833+00:00",
-  "added": 9,
+  "updated_at": "2026-09-18T04:00:31.409787+00:00",
+  "added": 10,
   "skipped": 118,
   "scanned": 128,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "🚂 Axios Pro Rata: Derailing a megamerger",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 6,
+    "axios": 7,
     "seekingalpha": 1
   },
   "last_newest_num": 7418,
