@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7719 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T18:12:43.799901+00:00",
-  "added": 10,
+  "updated_at": "2026-09-18T18:12:45.185103+00:00",
+  "added": 11,
   "skipped": 47,
   "scanned": 58,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "WSJ Wealth Adviser Briefing: Private Equity Woes, Exuberant Energy Traders, Ed Sheeran’s Tour",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 5,
     "seekingalpha": 2
   },
