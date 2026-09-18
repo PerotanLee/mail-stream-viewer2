@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7482 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-18T04:00:19.821315+00:00",
-  "added": 6,
+  "updated_at": "2026-09-18T04:00:21.140885+00:00",
+  "added": 7,
   "skipped": 104,
   "scanned": 111,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🇮🇷 Axios PM: Trump at crossroads",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 1
   },
   "last_newest_num": 7418,
