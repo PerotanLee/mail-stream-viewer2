@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7789 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-19T06:05:18.742432+00:00",
-  "added": 0,
+  "updated_at": "2026-09-19T06:05:19.816408+00:00",
+  "added": 1,
   "skipped": 77,
   "scanned": 78,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "🚫 U.S. auto's China plea",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 7781,
