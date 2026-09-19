@@ -811,6 +811,15 @@
       "file": "a019d03203063a0d77d3c2108277cf60ea600f48a47f9fb6d1cc56898d3b9968.json"
     },
     {
+      "id": "a2c15147c76750b3699cf02add45096857e728dfb744bafb023dc5543a09f6cd",
+      "uid": "411207.Vlwk3B9ThOvabucVG8Ss7gD4eSwrAtucc1Uuhh,u6a4=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🚫 U.S. auto's China plea",
+      "date": "Fri, 18 Sep 2026 17:35:56 -0400",
+      "is_read": false,
+      "file": "a2c15147c76750b3699cf02add45096857e728dfb744bafb023dc5543a09f6cd.json"
+    },
+    {
       "id": "e4e3f5d6c1d28d9187558419455d65c09cb3cb6e6611d25297f44d55a0d2a94e",
       "uid": "411038.,gQKzTCDIM+0pePq8zGZALFDX7Yw0OwvvzYfpMv0qA8=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -818,6 +827,24 @@
       "date": "Fri, 18 Sep 2026 17:10:06 +1000",
       "is_read": false,
       "file": "e4e3f5d6c1d28d9187558419455d65c09cb3cb6e6611d25297f44d55a0d2a94e.json"
+    },
+    {
+      "id": "44e433adc44a04c74a141a10eb5ab916e61d7b7c2f80d77af80d3920faeb90b9",
+      "uid": "411201.dbzv,91wzS,r2bUL4Wey5B,kw7Dk6oLTeQR1CNWsdv4=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Buffett Completes Succession Plan",
+      "date": "Fri, 18 Sep 2026 16:38:31 -0400",
+      "is_read": false,
+      "file": "44e433adc44a04c74a141a10eb5ab916e61d7b7c2f80d77af80d3920faeb90b9.json"
+    },
+    {
+      "id": "9111d0c2046f11223646f6721fe3a72abb49a9be6ea67ea6bb614b316c9b59ae",
+      "uid": "411196.UxzmXal2RkGtPJvAbWHndEtLsJczeWBfu3q5X,cBHRw=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "The Global Fuel Crisis Has Arrived: Why 3 Refiners Could Be The Biggest Winners",
+      "date": "Fri, 18 Sep 2026 16:05:31 -0400",
+      "is_read": false,
+      "file": "9111d0c2046f11223646f6721fe3a72abb49a9be6ea67ea6bb614b316c9b59ae.json"
     },
     {
       "id": "861bfd649502f89283b4976bb0600e142b3155448542fa719d8fca04e05e270d",
@@ -962,51 +989,6 @@
       "date": "Fri, 18 Sep 2026 05:04:24 -0400",
       "is_read": false,
       "file": "b2df9caa00944f58172e80c2ef5e09079d0e92a2e73383db619afc98bad2d9b3.json"
-    },
-    {
-      "id": "859d3dd67516e6a4f4264fe962bee6201cf4477c0c7aa126184803df088a1760",
-      "uid": "409321.+WHEh0gX7,oNCLuznwmUGVJqeneFW3sHXqzRYANAE3Y=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: An Aspen Mansion Rented by Celebs Like Rihanna Sells for $63.5 Million",
-      "date": "Fri, 11 Sep 2026 18:00:54 -0400",
-      "is_read": false,
-      "file": "859d3dd67516e6a4f4264fe962bee6201cf4477c0c7aa126184803df088a1760.json"
-    },
-    {
-      "id": "3baac5b1ed2f5e8cbb4cb0128b022e4f33e4196fe745d5d9f9e09a1a9cff5637",
-      "uid": "409312.xs8HfYjtzMWwn9MK2SrR,+i2E14HGmIervP+LgGzUuc=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "💸 Diesel's impact",
-      "date": "Fri, 11 Sep 2026 16:48:10 -0400",
-      "is_read": true,
-      "file": "3baac5b1ed2f5e8cbb4cb0128b022e4f33e4196fe745d5d9f9e09a1a9cff5637.json"
-    },
-    {
-      "id": "4f9402179d22cf1286274ba1716c50a322ebccb106dc05724af9f648fc1e1b7e",
-      "uid": "409309.zZZIayWamrTqe+sp95rgdvD,kGk3iWJw9Aw3ewVOwmk=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Inflation Pressures Continue",
-      "date": "Fri, 11 Sep 2026 16:31:46 -0400",
-      "is_read": true,
-      "file": "4f9402179d22cf1286274ba1716c50a322ebccb106dc05724af9f648fc1e1b7e.json"
-    },
-    {
-      "id": "420c6ffdc4cca221ff9b73ba12a11bf3885c481d396661deabf0eea49572a014",
-      "uid": "409307.a4x9MCPJPcF3F1NWyxCrzLV6l3Y6yqHOjiHvEl,yK98=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: The Most Expensive Home Ever Sold in Park City Fetches $37 Million",
-      "date": "Fri, 11 Sep 2026 16:26:21 -0400",
-      "is_read": true,
-      "file": "420c6ffdc4cca221ff9b73ba12a11bf3885c481d396661deabf0eea49572a014.json"
-    },
-    {
-      "id": "7e358d40c09ee5328eda1e9f7f1df743c61ab0392c0afd91f558c2dbb2737866",
-      "uid": "409306.ERkTh+Dyp9SNa2fx,ittdHOD2CgmofBlMz14EEYRWJ0=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "It's September: Brace For Impact With Top Growth And Income Stocks",
-      "date": "Fri, 11 Sep 2026 16:05:29 -0400",
-      "is_read": true,
-      "file": "7e358d40c09ee5328eda1e9f7f1df743c61ab0392c0afd91f558c2dbb2737866.json"
     }
   ]
 }
