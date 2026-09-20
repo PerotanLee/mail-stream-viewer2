@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7929 from=Must Reads <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-20T06:17:35.277850+00:00",
-  "added": 0,
+  "updated_at": "2026-09-20T06:17:36.539831+00:00",
+  "added": 1,
   "skipped": 57,
   "scanned": 58,
-  "current": "Must Reads <account@seekingalpha.com>",
+  "current": "Broadcom: A New Buying Opportunity Emerged",
   "added_by_filter": {
     "wsj": 0,
     "axios": 0,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 7868,
   "newest_num": 7986,
