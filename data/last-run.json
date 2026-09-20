@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7925 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-20T06:17:40.281599+00:00",
-  "added": 2,
+  "updated_at": "2026-09-20T06:17:41.421510+00:00",
+  "added": 3,
   "skipped": 59,
   "scanned": 62,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "⛽ Axios AM: Global gas crunch",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 1
   },
   "last_newest_num": 7868,
