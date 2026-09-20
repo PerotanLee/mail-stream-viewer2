@@ -550,6 +550,24 @@
       "file": "0abf85bcefe24882d28b0f420b7c681c1a009f4aca3755be41eb2d8fa0a848a4.json"
     },
     {
+      "id": "1aaa4bfda3568990c49300c254e644fe77f7fb001bb23e46cfa18f59a68f1676",
+      "uid": "411533.1FSP6eGtg6CJkoYVYXEElZ2viJZ4Ky3TKHAkcrc2Jv0=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios AM: Your agent arrives",
+      "date": "Sun, 20 Sep 2026 08:40:37 -0400",
+      "is_read": false,
+      "file": "1aaa4bfda3568990c49300c254e644fe77f7fb001bb23e46cfa18f59a68f1676.json"
+    },
+    {
+      "id": "02a77b76bf1111a2f76404434e8947cf814699428476b09314ffdc7cb29d9a38",
+      "uid": "411527.ETY+QjbP6qxLimooOD5Lt1TZ0XSQd0tGOw53cIf9hwQ=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: The Organized-Crime Racket Targeting SNAP",
+      "date": "Sun, 20 Sep 2026 07:24:07 -0400",
+      "is_read": false,
+      "file": "02a77b76bf1111a2f76404434e8947cf814699428476b09314ffdc7cb29d9a38.json"
+    },
+    {
       "id": "36c18a28ea74cf62e7d78d02239a0cbe955ecf61bccc3c6578202b3492cdff4a",
       "uid": "411509.Al4kVAGO5anQ7jmcxDQt0XuW0eMUlxkHX5oGyPT8fkc=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
@@ -566,24 +584,6 @@
       "date": "Sun, 13 Sep 2026 16:05:25 -0400",
       "is_read": true,
       "file": "7c8387b10dad1e758e3e2ff83fb39db563ebca1ba2a4286760efd55f84c905a0.json"
-    },
-    {
-      "id": "a898d1ea9e5be8544c033f0b0eba4353035490cd21247391944ef47c348a4e0e",
-      "uid": "409654.OIwEs4rBlnjg3PjkvgTStsfg0jv65VG0iv9LFTr6kyY=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🚦 Axios AM: Hitting AI brakes",
-      "date": "Sun, 13 Sep 2026 09:05:55 -0400",
-      "is_read": true,
-      "file": "a898d1ea9e5be8544c033f0b0eba4353035490cd21247391944ef47c348a4e0e.json"
-    },
-    {
-      "id": "7efa7684d5ae5c60f5223f9b9ffa949cb32a64c158a7c6df1a6dbb787a73f956",
-      "uid": "409639.M4O953NKJia99aZyDy3jAOY3fyHtcDEz8WXhUm9LmMI=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Canada’s Audacious Pivot to Europe",
-      "date": "Sun, 13 Sep 2026 07:03:56 -0400",
-      "is_read": true,
-      "file": "7efa7684d5ae5c60f5223f9b9ffa949cb32a64c158a7c6df1a6dbb787a73f956.json"
     },
     {
       "id": "1529a85808e0350e00fb0a0063585a8b8f0e6804e934843b11878d292dc7713b",
