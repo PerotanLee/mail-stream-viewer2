@@ -586,58 +586,58 @@
       "file": "9bd512d51441e08a631553668c7a19daea3bae42c40067b438b15293ec76c5b9.json"
     },
     {
-      "id": "854485cf593203a1c095d6ae87b42b7b9eeb900bee4beae9cc96dddcf2e83872",
-      "uid": "409439.MIkJb8BkgiJFQ0eZKUWbJXFy9Jm,v4wZaytBd62aOLg=",
+      "id": "1529a85808e0350e00fb0a0063585a8b8f0e6804e934843b11878d292dc7713b",
+      "uid": "411320.AM9I2cXGOdcEdtOaSyea9seXhAwAfsCLm7iPJByadJU=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Sat, 12 Sep 2026 17:09:58 +1000",
-      "is_read": true,
-      "file": "854485cf593203a1c095d6ae87b42b7b9eeb900bee4beae9cc96dddcf2e83872.json"
-    },
-    {
-      "id": "b5d4163f18cb27b12f32ef33a29b9ea6c830a08fd5dbb8a8fd1eb699268a2de7",
-      "uid": "409505.iU6ohs3MxjdoXIvhu3Ad3Eoxrd9mq,arWodv,pUS+qw=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "I Own 9 Of The Top 10 Stocks For H2 2026: Why I'm Staying The Course",
-      "date": "Sat, 12 Sep 2026 16:05:28 -0400",
+      "date": "Sat, 19 Sep 2026 17:10:09 +1000",
       "is_read": false,
-      "file": "b5d4163f18cb27b12f32ef33a29b9ea6c830a08fd5dbb8a8fd1eb699268a2de7.json"
+      "file": "1529a85808e0350e00fb0a0063585a8b8f0e6804e934843b11878d292dc7713b.json"
     },
     {
-      "id": "bc808f82bd3866b911058b7a2e4de84e610c219a654a932cef5191a3cc391027",
-      "uid": "409498.ddF8zJevEui0B1fn,j4ZoBfPvj8azZpke1f4R2iLp0Y=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "🗣️ CTO sit-down",
-      "date": "Sat, 12 Sep 2026 12:00:08 -0400",
-      "is_read": true,
-      "file": "bc808f82bd3866b911058b7a2e4de84e610c219a654a932cef5191a3cc391027.json"
+      "id": "3210d995bf58bd465e31b6556da87b6291ae7bcdf8ce83e9702a3486ab936beb",
+      "uid": "411390.Ci9Rv+xN6n1KQzLDiELakeTZYoCBa1XNeHvG8lWi4Tc=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Broadcom: A New Buying Opportunity Emerged",
+      "date": "Sat, 19 Sep 2026 16:05:32 -0400",
+      "is_read": false,
+      "file": "3210d995bf58bd465e31b6556da87b6291ae7bcdf8ce83e9702a3486ab936beb.json"
     },
     {
-      "id": "7334f665dbd7203d9437d1fe4fd57b82e7caf0d385b228f5b0792ae295eaf3ff",
-      "uid": "409496.oa2V0KUuHuu+ssWBVWDWysikA3SFEcqAZl5RQ1AChws=",
+      "id": "cbdeff7405c94f741eb5ac0694624cbb08e42465c213cd4f97d885e732db3bff",
+      "uid": "411386.90vWnp8VaTJCE5SfYmPCrbwp81yBH7tvt813FDgJKks=",
+      "from_addr": "The Journal Collection <TheJournalCollection@em.wsj.com>",
+      "subject": "Where 2027 Takes You, with Oceania ",
+      "date": "Sat, 19 Sep 2026 16:00:55 +0000",
+      "is_read": false,
+      "file": "cbdeff7405c94f741eb5ac0694624cbb08e42465c213cd4f97d885e732db3bff.json"
+    },
+    {
+      "id": "ced5b78f4df6602877a42f46add74e15f8f057aa7fbf5c4849d15bcc970cdce8",
+      "uid": "411381.YQDSUOcJOIl0+0WuToujh6Y1akh5FxVu8hVHPxDu5sE=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤖 Axios AM: Not too late",
-      "date": "Sat, 12 Sep 2026 09:17:16 -0400",
-      "is_read": true,
-      "file": "7334f665dbd7203d9437d1fe4fd57b82e7caf0d385b228f5b0792ae295eaf3ff.json"
+      "subject": "⛽ Axios AM: Global gas crunch",
+      "date": "Sat, 19 Sep 2026 09:04:05 -0400",
+      "is_read": false,
+      "file": "ced5b78f4df6602877a42f46add74e15f8f057aa7fbf5c4849d15bcc970cdce8.json"
     },
     {
-      "id": "5896007ce64fc0eee78867d4ad86eb57d815fa3683bf86fa980d9b729210e9a1",
-      "uid": "409491.zNX87t4LXHFLrpF1YjaypG0FSm4P8QL361yP9kkm8nQ=",
+      "id": "fbd4cbc0650f8f31dafba5f9792d64f2ba37d3490d4882e9f48a1925e84f0d91",
+      "uid": "411366.u9J0ebFcjyyMJ3EDXnevBEEN,MntFeHQv5IzOdZ2T4U=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: A New Buffett Takes On Berkshire",
+      "date": "Sat, 19 Sep 2026 07:09:42 -0400",
+      "is_read": false,
+      "file": "fbd4cbc0650f8f31dafba5f9792d64f2ba37d3490d4882e9f48a1925e84f0d91.json"
+    },
+    {
+      "id": "549f8f9d5034e558b3e78c78dfd0804e1ba704f2029e6f4364d991a250dea4b4",
+      "uid": "411359.slWms8CojYbyUPoL7vW2fVIJhW1zfwFukrSPs7grrGY=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "What Moved Markets This Week",
-      "date": "Sat, 12 Sep 2026 08:13:35 -0400",
-      "is_read": true,
-      "file": "5896007ce64fc0eee78867d4ad86eb57d815fa3683bf86fa980d9b729210e9a1.json"
-    },
-    {
-      "id": "058b78e705b2d24bc24425687658b3c43fd834844e09e061b2de93ab6bc91afa",
-      "uid": "409482.71cVLFMy+yodCXYwwNx0O9iLepAilyS17uZP2MEngYk=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: America’s Great AI Freakout",
-      "date": "Sat, 12 Sep 2026 07:05:53 -0400",
-      "is_read": true,
-      "file": "058b78e705b2d24bc24425687658b3c43fd834844e09e061b2de93ab6bc91afa.json"
+      "date": "Sat, 19 Sep 2026 06:54:35 -0400",
+      "is_read": false,
+      "file": "549f8f9d5034e558b3e78c78dfd0804e1ba704f2029e6f4364d991a250dea4b4.json"
     },
     {
       "id": "0f73d1dd210dfe8a224a3203cb8091325e0c71316cc4a3cef8412903dc0614dd",
