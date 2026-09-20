@@ -550,6 +550,15 @@
       "file": "0abf85bcefe24882d28b0f420b7c681c1a009f4aca3755be41eb2d8fa0a848a4.json"
     },
     {
+      "id": "36c18a28ea74cf62e7d78d02239a0cbe955ecf61bccc3c6578202b3492cdff4a",
+      "uid": "411509.Al4kVAGO5anQ7jmcxDQt0XuW0eMUlxkHX5oGyPT8fkc=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Wall Street Week Ahead",
+      "date": "Sun, 20 Sep 2026 05:41:55 -0400",
+      "is_read": false,
+      "file": "36c18a28ea74cf62e7d78d02239a0cbe955ecf61bccc3c6578202b3492cdff4a.json"
+    },
+    {
       "id": "7c8387b10dad1e758e3e2ff83fb39db563ebca1ba2a4286760efd55f84c905a0",
       "uid": "409661.IAYV6q93kmvq,V6Ta+GyWR2W1amJvBRmpvESi9fuGVE=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
@@ -575,15 +584,6 @@
       "date": "Sun, 13 Sep 2026 07:03:56 -0400",
       "is_read": true,
       "file": "7efa7684d5ae5c60f5223f9b9ffa949cb32a64c158a7c6df1a6dbb787a73f956.json"
-    },
-    {
-      "id": "9bd512d51441e08a631553668c7a19daea3bae42c40067b438b15293ec76c5b9",
-      "uid": "409632.zYgt4mjkGrDo3EVXYVlVBuh2DtUp1gI8GJd7si92Cfc=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Wall Street Week Ahead",
-      "date": "Sun, 13 Sep 2026 06:14:08 -0400",
-      "is_read": true,
-      "file": "9bd512d51441e08a631553668c7a19daea3bae42c40067b438b15293ec76c5b9.json"
     },
     {
       "id": "1529a85808e0350e00fb0a0063585a8b8f0e6804e934843b11878d292dc7713b",
