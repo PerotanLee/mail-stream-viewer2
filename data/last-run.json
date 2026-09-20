@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=7927 from=The Journal Collection <TheJournalCollection@em.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-20T06:17:37.918364+00:00",
-  "added": 1,
+  "updated_at": "2026-09-20T06:17:38.920919+00:00",
+  "added": 2,
   "skipped": 58,
   "scanned": 60,
-  "current": "The Journal Collection <TheJournalCollection@em.wsj.com>",
+  "current": "Where 2027 Takes You, with Oceania ",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 0,
     "seekingalpha": 1
   },
