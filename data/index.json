@@ -600,7 +600,7 @@
       "from_addr": "Must Reads <account@seekingalpha.com>",
       "subject": "Broadcom: A New Buying Opportunity Emerged",
       "date": "Sat, 19 Sep 2026 16:05:32 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "3210d995bf58bd465e31b6556da87b6291ae7bcdf8ce83e9702a3486ab936beb.json"
     },
     {
