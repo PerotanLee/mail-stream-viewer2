@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=7929 from=Must Reads <account@seekingalpha.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-20T06:17:24.890265+00:00",
+  "updated_at": "2026-09-20T06:17:35.277850+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 7868
+  "skipped": 57,
+  "scanned": 58,
+  "current": "Must Reads <account@seekingalpha.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 7868,
+  "newest_num": 7986,
+  "scan_mode": "new",
+  "since": "2026-09-19T06:08:55.379515+00:00"
 }
