@@ -555,7 +555,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🤖 Axios AM: Your agent arrives",
       "date": "Sun, 20 Sep 2026 08:40:37 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "1aaa4bfda3568990c49300c254e644fe77f7fb001bb23e46cfa18f59a68f1676.json"
     },
     {
