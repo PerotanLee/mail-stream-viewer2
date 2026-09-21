@@ -640,6 +640,15 @@
       "file": "549f8f9d5034e558b3e78c78dfd0804e1ba704f2029e6f4364d991a250dea4b4.json"
     },
     {
+      "id": "5216ab2d5ea87a7ebc57a43ff77835ec6f550c7185c47a308623c23bf34f7a66",
+      "uid": "411707.2FbLJDmv2+9+G342fcZKGu4XBGZjD+5IOmuIs8ULd+c=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Wacky ETFs, Crypto Focus, Hamptons Helicopters",
+      "date": "Mon, 21 Sep 2026 20:32:09 +1000",
+      "is_read": false,
+      "file": "5216ab2d5ea87a7ebc57a43ff77835ec6f550c7185c47a308623c23bf34f7a66.json"
+    },
+    {
       "id": "bb37690767fa14f86eec37a2ee9a420f2525a7416502d43901935109258f65d0",
       "uid": "411662.gXJmTtZI,9jviZOr8vYnThwjaL5iEThZe5bzyock5u4=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -647,6 +656,42 @@
       "date": "Mon, 21 Sep 2026 17:09:53 +1000",
       "is_read": true,
       "file": "bb37690767fa14f86eec37a2ee9a420f2525a7416502d43901935109258f65d0.json"
+    },
+    {
+      "id": "84c11831493cbf03ba5755f06b51c6245e87ef1d4dd4d91227325ee5ada09cd5",
+      "uid": "411725.6MHypYPPh+40m+lkIo6PadK1tfS4T9W,zFooCpscO9Y=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Busy Week For Geopolitics",
+      "date": "Mon, 21 Sep 2026 07:46:55 -0400",
+      "is_read": false,
+      "file": "84c11831493cbf03ba5755f06b51c6245e87ef1d4dd4d91227325ee5ada09cd5.json"
+    },
+    {
+      "id": "1f16d93c2a5c3bbdabb89409288426c853b741fd3f62aee89fc6f0a864f168b1",
+      "uid": "411721.GXFgKMvdqECdNmex0eLPQB9fP3Iph4pzeNgQUpDZQQA=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🤖 Too interconnected to fail",
+      "date": "Mon, 21 Sep 2026 07:28:57 -0400",
+      "is_read": false,
+      "file": "1f16d93c2a5c3bbdabb89409288426c853b741fd3f62aee89fc6f0a864f168b1.json"
+    },
+    {
+      "id": "2cb07adb40ad552826413d4a3739c4186d29402a7b032699fb0adb2eaec183f1",
+      "uid": "411720.E98AobG1m04xukJRc2rKZSowr5F,QMEWmR1a95FZzXM=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: The Midterm Sprint Is Here. Senate Polls Show a Lot of Blue.",
+      "date": "Mon, 21 Sep 2026 07:24:45 -0400",
+      "is_read": false,
+      "file": "2cb07adb40ad552826413d4a3739c4186d29402a7b032699fb0adb2eaec183f1.json"
+    },
+    {
+      "id": "70b909fc725837cd586d9e1885122cf3c0762967d505acd45d4805ea82d16df7",
+      "uid": "411709.NoX8dlgEqlRIG6Pn59x38pejIna5rCIfPLvkMiZeppg=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🔧 Markets A.M.: Auto Parts Retailers Can Turn the Corner",
+      "date": "Mon, 21 Sep 2026 06:37:59 -0400",
+      "is_read": false,
+      "file": "70b909fc725837cd586d9e1885122cf3c0762967d505acd45d4805ea82d16df7.json"
     },
     {
       "id": "0862c79f903d20621d805aa4596f956807647a769fe2d757a39273d00b558d44",
@@ -674,15 +719,6 @@
       "date": "Mon, 14 Sep 2026 21:29:26 -0400",
       "is_read": true,
       "file": "0f73d1dd210dfe8a224a3203cb8091325e0c71316cc4a3cef8412903dc0614dd.json"
-    },
-    {
-      "id": "1c7a72f5400e94d8d76a4050ed6df95e1c1c012a26d8207aba3e035abff118e7",
-      "uid": "409879.GWa6bHXxyVzUWhqFLq4KGQnxrkMfuVpBqtsokl8+rLI=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Nest Egg Protection, Microsoft's Fixer, Mallorca's Tourist Backlash",
-      "date": "Mon, 14 Sep 2026 20:32:17 +1000",
-      "is_read": true,
-      "file": "1c7a72f5400e94d8d76a4050ed6df95e1c1c012a26d8207aba3e035abff118e7.json"
     },
     {
       "id": "db6e41a8e628337ed6d2f154801b203f2e55ecc383f0fbcba481660299df9695",
@@ -764,42 +800,6 @@
       "date": "Mon, 14 Sep 2026 08:50:14 -0400",
       "is_read": true,
       "file": "9ef9a33240e82b1844934c2af64ccd81ba3fe81b03e0bc1dd4f587617ad60c17.json"
-    },
-    {
-      "id": "947e34a9736dfb82c54a3babb1ba368f6028610f3cd2257b327d19b38f3566e7",
-      "uid": "409902.yfQDCcQR1PXHq8TVN5I3RZMXZt12ufO97zI9vylhLUo=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "FOMO To FOBE (Fear Of Being Extinct)",
-      "date": "Mon, 14 Sep 2026 07:57:42 -0400",
-      "is_read": true,
-      "file": "947e34a9736dfb82c54a3babb1ba368f6028610f3cd2257b327d19b38f3566e7.json"
-    },
-    {
-      "id": "0aab0855bb8a64837fa63f7fad3956135ca7c03399cadc69d3d178b02954acbc",
-      "uid": "409897.FunxP7X+dN7OEJSw9rvb+CdsGiJAFymco5JRqWUm9Bw=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🤷‍♀️ Stocks shrugged",
-      "date": "Mon, 14 Sep 2026 07:28:40 -0400",
-      "is_read": true,
-      "file": "0aab0855bb8a64837fa63f7fad3956135ca7c03399cadc69d3d178b02954acbc.json"
-    },
-    {
-      "id": "6a688a49bb138e5829b12d0947875aaee4e8abf47184579f9ad469bd8c3c4747",
-      "uid": "409892.,LV+M8yG,,jdxg8hvTyRP9mgIyYeiQlLVXJ60BScaeI=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: With 50 Days to the Midterms, It All Might Come Down to One Thing",
-      "date": "Mon, 14 Sep 2026 07:12:09 -0400",
-      "is_read": true,
-      "file": "6a688a49bb138e5829b12d0947875aaee4e8abf47184579f9ad469bd8c3c4747.json"
-    },
-    {
-      "id": "663e4f0fc8ffdd4918176717e50c04283da4ce6c91a77b057cc927210f503194",
-      "uid": "409882.Ku6gdZA4BX6CA0l5J0YavQKILF5StbCjw9qRml4VDvQ=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🗳️ Markets A.M.: Stocks Have the Midterm Blues",
-      "date": "Mon, 14 Sep 2026 06:40:45 -0400",
-      "is_read": true,
-      "file": "663e4f0fc8ffdd4918176717e50c04283da4ce6c91a77b057cc927210f503194.json"
     },
     {
       "id": "a019d03203063a0d77d3c2108277cf60ea600f48a47f9fb6d1cc56898d3b9968",
