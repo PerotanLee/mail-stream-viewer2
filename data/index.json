@@ -649,6 +649,24 @@
       "file": "bb37690767fa14f86eec37a2ee9a420f2525a7416502d43901935109258f65d0.json"
     },
     {
+      "id": "0862c79f903d20621d805aa4596f956807647a769fe2d757a39273d00b558d44",
+      "uid": "411704.bzleUO+S1dVOh7Og1tr7yKuS8ndgb2bHnfDeG9x7IO4=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: What Voters Want From the Midterms",
+      "date": "Mon, 21 Sep 2026 06:08:32 -0400",
+      "is_read": false,
+      "file": "0862c79f903d20621d805aa4596f956807647a769fe2d757a39273d00b558d44.json"
+    },
+    {
+      "id": "aa9088b38e96d63a77dd32f20d610538c1070b2157f8ee7fc07d5869d6fc10b4",
+      "uid": "411701.meX2GOPCpK78qcf1bnLDpK+oC4Exz7s4S6SLQI43B+E=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🔮 Axios AM: Trump's future foretold",
+      "date": "Mon, 21 Sep 2026 05:55:45 -0400",
+      "is_read": false,
+      "file": "aa9088b38e96d63a77dd32f20d610538c1070b2157f8ee7fc07d5869d6fc10b4.json"
+    },
+    {
       "id": "0f73d1dd210dfe8a224a3203cb8091325e0c71316cc4a3cef8412903dc0614dd",
       "uid": "409998.rmQoPld1i+TtwNIqXPAXXjKDnLGWjcbTzdFHL+pDikk=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -782,24 +800,6 @@
       "date": "Mon, 14 Sep 2026 06:40:45 -0400",
       "is_read": true,
       "file": "663e4f0fc8ffdd4918176717e50c04283da4ce6c91a77b057cc927210f503194.json"
-    },
-    {
-      "id": "432f828a34a7d63e61bd85faab9ccef4b0dc71553ac72edb005c6fd2be723e54",
-      "uid": "409875.LgK8dJD5BA1D0DTfPLUCqxF6efbWTiy5yyJh14eA8v8=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Investors Are Back at the Mall",
-      "date": "Mon, 14 Sep 2026 06:06:26 -0400",
-      "is_read": true,
-      "file": "432f828a34a7d63e61bd85faab9ccef4b0dc71553ac72edb005c6fd2be723e54.json"
-    },
-    {
-      "id": "ab8260c85f997c8beda84947b4b3b6fd2cd3bb7926ad2558c3cce25626db774e",
-      "uid": "409868.AIfmw82QC0ix8MYuF3tCFjAGIjGF6xu8v+qAewc5Blc=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "✨ Axios AM: AI paralysis",
-      "date": "Mon, 14 Sep 2026 05:57:13 -0400",
-      "is_read": true,
-      "file": "ab8260c85f997c8beda84947b4b3b6fd2cd3bb7926ad2558c3cce25626db774e.json"
     },
     {
       "id": "a019d03203063a0d77d3c2108277cf60ea600f48a47f9fb6d1cc56898d3b9968",
