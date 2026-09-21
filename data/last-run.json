@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=8152 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-21T10:18:28.580749+00:00",
+  "updated_at": "2026-09-21T10:18:30.724322+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 8119
+  "skipped": 2,
+  "scanned": 3,
+  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 8119,
+  "newest_num": 8154,
+  "scan_mode": "new",
+  "since": "2026-09-21T07:12:48.083258+00:00"
 }
