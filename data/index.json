@@ -550,6 +550,15 @@
       "file": "0abf85bcefe24882d28b0f420b7c681c1a009f4aca3755be41eb2d8fa0a848a4.json"
     },
     {
+      "id": "0808ff4a9098171bc0df4b042093199d612c3aa03ab4c521e73ce0e4eba22297",
+      "uid": "411543.ST1HeSwt5rt2VVP218ebkMSLRmEacqppJXtQh0FFv,o=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Software Is Officially Back From The Dead",
+      "date": "Sun, 20 Sep 2026 16:05:32 -0400",
+      "is_read": false,
+      "file": "0808ff4a9098171bc0df4b042093199d612c3aa03ab4c521e73ce0e4eba22297.json"
+    },
+    {
       "id": "1aaa4bfda3568990c49300c254e644fe77f7fb001bb23e46cfa18f59a68f1676",
       "uid": "411533.1FSP6eGtg6CJkoYVYXEElZ2viJZ4Ky3TKHAkcrc2Jv0=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -575,15 +584,6 @@
       "date": "Sun, 20 Sep 2026 05:41:55 -0400",
       "is_read": true,
       "file": "36c18a28ea74cf62e7d78d02239a0cbe955ecf61bccc3c6578202b3492cdff4a.json"
-    },
-    {
-      "id": "7c8387b10dad1e758e3e2ff83fb39db563ebca1ba2a4286760efd55f84c905a0",
-      "uid": "409661.IAYV6q93kmvq,V6Ta+GyWR2W1amJvBRmpvESi9fuGVE=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Data Center Boom Accelerates: 3 Top AI Stocks Averaging 296% Forward EPS Growth",
-      "date": "Sun, 13 Sep 2026 16:05:25 -0400",
-      "is_read": true,
-      "file": "7c8387b10dad1e758e3e2ff83fb39db563ebca1ba2a4286760efd55f84c905a0.json"
     },
     {
       "id": "1529a85808e0350e00fb0a0063585a8b8f0e6804e934843b11878d292dc7713b",
@@ -640,6 +640,15 @@
       "file": "549f8f9d5034e558b3e78c78dfd0804e1ba704f2029e6f4364d991a250dea4b4.json"
     },
     {
+      "id": "bb37690767fa14f86eec37a2ee9a420f2525a7416502d43901935109258f65d0",
+      "uid": "411662.gXJmTtZI,9jviZOr8vYnThwjaL5iEThZe5bzyock5u4=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Mon, 21 Sep 2026 17:09:53 +1000",
+      "is_read": false,
+      "file": "bb37690767fa14f86eec37a2ee9a420f2525a7416502d43901935109258f65d0.json"
+    },
+    {
       "id": "0f73d1dd210dfe8a224a3203cb8091325e0c71316cc4a3cef8412903dc0614dd",
       "uid": "409998.rmQoPld1i+TtwNIqXPAXXjKDnLGWjcbTzdFHL+pDikk=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -665,15 +674,6 @@
       "date": "Mon, 14 Sep 2026 17:36:09 -0400",
       "is_read": true,
       "file": "db6e41a8e628337ed6d2f154801b203f2e55ecc383f0fbcba481660299df9695.json"
-    },
-    {
-      "id": "30bfceb28735fafa88c4f1049382c9a395abe84e408441b61db429f2b05efb84",
-      "uid": "409821.xeuP4DjaCywmfhCIACxO1KgswR7GB1ol0UnhPqTA6og=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Mon, 14 Sep 2026 17:10:08 +1000",
-      "is_read": true,
-      "file": "30bfceb28735fafa88c4f1049382c9a395abe84e408441b61db429f2b05efb84.json"
     },
     {
       "id": "5d7526d7eca08b90c7689ec964902cbe45a7d6f89d5645ceb461bbd522aa3a77",
