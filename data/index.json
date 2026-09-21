@@ -663,7 +663,7 @@
       "from_addr": "Colin Demarest <events@axios.com>",
       "subject": "Join Axios for coffee and convos on the future of flight  | Oct. 14 in Dallas, Texas",
       "date": "Mon, 21 Sep 2026 15:15:03 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "c2abd96b32a45b3e384056f27665d98d0665a0aa037b91277ce0af3e45421cc7.json"
     },
     {
