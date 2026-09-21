@@ -658,6 +658,24 @@
       "file": "bb37690767fa14f86eec37a2ee9a420f2525a7416502d43901935109258f65d0.json"
     },
     {
+      "id": "6f683e4ae3ac1eba64674ec8541c13b807349e6cefd4d7b7dbc1b28325fe9d43",
+      "uid": "411737.mC6dR,uhbLZlBFGJOI0R0OfKXIabhWJcMYX5Wa5KKqU=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Antitrust argument",
+      "date": "Mon, 21 Sep 2026 09:56:23 -0400",
+      "is_read": false,
+      "file": "6f683e4ae3ac1eba64674ec8541c13b807349e6cefd4d7b7dbc1b28325fe9d43.json"
+    },
+    {
+      "id": "edaaa3f2b2f57f43ce3261256f03c28483e421d5f6adb7fbc0f2c2ad5dbca7f0",
+      "uid": "411736.tOjHmxDf1DLl5PI8gmapTcr97axfM0nL5Qp+kIPXWGA=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🤖 Trump's new AI czar",
+      "date": "Mon, 21 Sep 2026 09:28:17 -0400",
+      "is_read": false,
+      "file": "edaaa3f2b2f57f43ce3261256f03c28483e421d5f6adb7fbc0f2c2ad5dbca7f0.json"
+    },
+    {
       "id": "84c11831493cbf03ba5755f06b51c6245e87ef1d4dd4d91227325ee5ada09cd5",
       "uid": "411725.6MHypYPPh+40m+lkIo6PadK1tfS4T9W,zFooCpscO9Y=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
@@ -773,24 +791,6 @@
       "date": "Mon, 14 Sep 2026 12:01:35 -0400",
       "is_read": true,
       "file": "75b91c6991bf6d5ef5a2792f58f92d9d7e095c49291da968594e4d14a363021a.json"
-    },
-    {
-      "id": "b88473b9cf6fe48e97f035b88ff8ed68dd9da715085c86011e009688747dddf9",
-      "uid": "409916.9Pt+dKWhWk9VSzdu1EMX0gPeBZdN,aqkFhD5sHRpwtg=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Pacing the IPO frontier",
-      "date": "Mon, 14 Sep 2026 09:59:01 -0400",
-      "is_read": true,
-      "file": "b88473b9cf6fe48e97f035b88ff8ed68dd9da715085c86011e009688747dddf9.json"
-    },
-    {
-      "id": "df274ac7c964bf422ffc58481ef5b46e6b3367d5629bfdf731e5cd52a928404a",
-      "uid": "409915.FUA+nrV6CCIvAxjOsY0XmfTHd0ha,MGFIZXHFL1rBpY=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "✋ Slowing it down",
-      "date": "Mon, 14 Sep 2026 09:28:25 -0400",
-      "is_read": true,
-      "file": "df274ac7c964bf422ffc58481ef5b46e6b3367d5629bfdf731e5cd52a928404a.json"
     },
     {
       "id": "a019d03203063a0d77d3c2108277cf60ea600f48a47f9fb6d1cc56898d3b9968",
