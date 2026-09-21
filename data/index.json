@@ -663,7 +663,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Busy Week For Geopolitics",
       "date": "Mon, 21 Sep 2026 07:46:55 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "84c11831493cbf03ba5755f06b51c6245e87ef1d4dd4d91227325ee5ada09cd5.json"
     },
     {
