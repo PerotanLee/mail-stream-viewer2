@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8303 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-22T11:26:33.850629+00:00",
-  "added": 0,
+  "updated_at": "2026-09-22T11:26:35.105847+00:00",
+  "added": 1,
   "skipped": 3,
   "scanned": 4,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: Trump’s Second Term Is Made-for-TV, but Now the Cameras Are Off",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 0,
     "seekingalpha": 0
   },
