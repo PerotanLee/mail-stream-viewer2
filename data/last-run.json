@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8204 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-22T05:53:15.668023+00:00",
-  "added": 1,
+  "updated_at": "2026-09-22T05:53:16.652857+00:00",
+  "added": 2,
   "skipped": 45,
   "scanned": 47,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "🛒 Agentic turf war",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 0
   },
   "last_newest_num": 8193,
