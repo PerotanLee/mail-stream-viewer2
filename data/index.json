@@ -681,7 +681,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Tech Leads A Rally",
       "date": "Mon, 21 Sep 2026 16:45:30 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "2057c293e95a5158799556d1e1b157154e26f70f2bfe042a336f8a5f818cde93.json"
     },
     {
