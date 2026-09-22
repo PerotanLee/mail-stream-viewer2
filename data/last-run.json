@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8198 from=\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-22T05:53:18.489738+00:00",
-  "added": 2,
+  "updated_at": "2026-09-22T05:53:19.511642+00:00",
+  "added": 3,
   "skipped": 50,
   "scanned": 53,
-  "current": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "current": "Tech Leads A Rally",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 2,
     "seekingalpha": 0
   },
