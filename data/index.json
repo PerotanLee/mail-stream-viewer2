@@ -190,6 +190,33 @@
       "file": "37613cdb15e4e56df4cb067bb9607afc01895259e381b66e1a644737bce3732c.json"
     },
     {
+      "id": "546527425ff7ccce1a551254a2daa43ba84e25606a0be145eb42c7a1218b7d03",
+      "uid": "411883.adcB3+4kffryVVXmzNM,3Z5RMZvSmQebPtKV3mes+mg=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: After Nasdaq High, Markets Eye Trump and Trade",
+      "date": "Tue, 22 Sep 2026 06:04:23 -0400",
+      "is_read": false,
+      "file": "546527425ff7ccce1a551254a2daa43ba84e25606a0be145eb42c7a1218b7d03.json"
+    },
+    {
+      "id": "c2f130df2016310241400b11d96946ad808d147f28dc28f42e215cf486f97003",
+      "uid": "411882.bVTuoIGCVufP6SgXXGw1FN66vpjDc4sjvv+PqqchG,s=",
+      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Economics: Round Two of the Oil Shock Is Coming",
+      "date": "Tue, 22 Sep 2026 06:04:08 -0400",
+      "is_read": false,
+      "file": "c2f130df2016310241400b11d96946ad808d147f28dc28f42e215cf486f97003.json"
+    },
+    {
+      "id": "b6407c0ef32537bfb4e0dce95582db3ed0bba6f06a645eedbeb9c7f21c0d2eea",
+      "uid": "411878.oa,aghF40gaHx59R29tTY,W+0n,GjfrfpYSHLE3wnB0=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "☎️ Axios AM: AI's red phone",
+      "date": "Tue, 22 Sep 2026 05:48:53 -0400",
+      "is_read": false,
+      "file": "b6407c0ef32537bfb4e0dce95582db3ed0bba6f06a645eedbeb9c7f21c0d2eea.json"
+    },
+    {
       "id": "d7bfc9c50131559cb014712bc45d18ed239c5b06d2f43aca31657b2404a1d63d",
       "uid": "410298.s7eSbY1EavjnAaiXRHskIYy6KvDol0eXIoaqOHKOq58=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -341,33 +368,6 @@
       "date": "Tue, 15 Sep 2026 06:38:22 -0400",
       "is_read": true,
       "file": "76148dc8c554327cc4a69f06d7eedab008b6e69221b851b20f737a237d66ab4f.json"
-    },
-    {
-      "id": "06dcea0da579d929de8aa5121ac1b3d6077beac8206f896eb4453d5174b436b8",
-      "uid": "410155.FwOgZY0,sXbrjHXqDjcR5w4CrgHl42RTKMugrYSDwWk=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🥊 Axios AM: Trump's war on doomers",
-      "date": "Tue, 15 Sep 2026 06:08:35 -0400",
-      "is_read": true,
-      "file": "06dcea0da579d929de8aa5121ac1b3d6077beac8206f896eb4453d5174b436b8.json"
-    },
-    {
-      "id": "b1da32a6910b2047f07e6b8ae05b3d1326c746f48fe7361fde849bda3d358835",
-      "uid": "410147.6m6N10HlxSmDsG06hdwTijxfrl8Ox6G9sGSbRP7yNqo=",
-      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
-      "subject": "Welcome to WSJ Economics",
-      "date": "Tue, 15 Sep 2026 06:00:05 -0400",
-      "is_read": true,
-      "file": "b1da32a6910b2047f07e6b8ae05b3d1326c746f48fe7361fde849bda3d358835.json"
-    },
-    {
-      "id": "1c2a06b3f460e770518ff0b22daf997160c62ce419cddb3db59e209e16b69426",
-      "uid": "410146.5LxcR6skQg6UFu+dMB1R2rDmVH6b+t25zsH3zGzMjjQ=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: The Wild Card in a Turbulent Bond Market",
-      "date": "Tue, 15 Sep 2026 05:59:04 -0400",
-      "is_read": true,
-      "file": "1c2a06b3f460e770518ff0b22daf997160c62ce419cddb3db59e209e16b69426.json"
     },
     {
       "id": "20d8047ca0d885fea7671feb4c7755dec306e2778785971f3710d4c34d3c0599",
