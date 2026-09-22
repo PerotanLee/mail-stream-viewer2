@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8313 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-22T18:30:18.153544+00:00",
-  "added": 6,
+  "updated_at": "2026-09-22T18:30:19.298427+00:00",
+  "added": 7,
   "skipped": 15,
   "scanned": 22,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "New Power Dynamics In Hollywood",
   "added_by_filter": {
     "wsj": 2,
     "axios": 3,
-    "seekingalpha": 1
+    "seekingalpha": 2
   },
   "last_newest_num": 8306,
   "newest_num": 8334,
