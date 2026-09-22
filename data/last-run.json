@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8290 from=\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-22T10:22:19.943568+00:00",
-  "added": 1,
+  "updated_at": "2026-09-22T10:22:21.278715+00:00",
+  "added": 2,
   "skipped": 3,
   "scanned": 5,
-  "current": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Economics: Round Two of the Oil Shock Is Coming",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 0,
     "seekingalpha": 0
   },
