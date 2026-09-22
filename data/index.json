@@ -640,6 +640,15 @@
       "file": "549f8f9d5034e558b3e78c78dfd0804e1ba704f2029e6f4364d991a250dea4b4.json"
     },
     {
+      "id": "f6a70c7cc28a850032eea2c62a22517159e21e6284bb2d0b79d642cb4f9467c6",
+      "uid": "411802.kq2jMLNmIAFrb,o3axlxwpzz+DC93Ij+mazNtnYEHYw=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "📖 Axios Finish Line: Ask your elders",
+      "date": "Mon, 21 Sep 2026 21:29:51 -0400",
+      "is_read": false,
+      "file": "f6a70c7cc28a850032eea2c62a22517159e21e6284bb2d0b79d642cb4f9467c6.json"
+    },
+    {
       "id": "5216ab2d5ea87a7ebc57a43ff77835ec6f550c7185c47a308623c23bf34f7a66",
       "uid": "411707.2FbLJDmv2+9+G342fcZKGu4XBGZjD+5IOmuIs8ULd+c=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -649,6 +658,15 @@
       "file": "5216ab2d5ea87a7ebc57a43ff77835ec6f550c7185c47a308623c23bf34f7a66.json"
     },
     {
+      "id": "7a9a0dce7aadcc183ec81df2ecc54d39034ea0a9560e9a8042a946c0ccd137be",
+      "uid": "411772.,AKyU8PSq,Wy5pDqLBrrLsAgdXyYChUedrQvuJRTV3Q=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🛒 Agentic turf war",
+      "date": "Mon, 21 Sep 2026 17:48:47 -0400",
+      "is_read": false,
+      "file": "7a9a0dce7aadcc183ec81df2ecc54d39034ea0a9560e9a8042a946c0ccd137be.json"
+    },
+    {
       "id": "bb37690767fa14f86eec37a2ee9a420f2525a7416502d43901935109258f65d0",
       "uid": "411662.gXJmTtZI,9jviZOr8vYnThwjaL5iEThZe5bzyock5u4=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -656,6 +674,24 @@
       "date": "Mon, 21 Sep 2026 17:09:53 +1000",
       "is_read": true,
       "file": "bb37690767fa14f86eec37a2ee9a420f2525a7416502d43901935109258f65d0.json"
+    },
+    {
+      "id": "2057c293e95a5158799556d1e1b157154e26f70f2bfe042a336f8a5f818cde93",
+      "uid": "411760.nnTZ8H2RXvuaJXi5EnDg,WFdFL2,CPSsqAy+CdbIE1k=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Tech Leads A Rally",
+      "date": "Mon, 21 Sep 2026 16:45:30 -0400",
+      "is_read": false,
+      "file": "2057c293e95a5158799556d1e1b157154e26f70f2bfe042a336f8a5f818cde93.json"
+    },
+    {
+      "id": "37d15093583af855788e99127dd51288fe254aeeded94654628ee0ea03bc4ce4",
+      "uid": "411756.jblhalh83puiDd70wtR4iz,jUT2z28+8+GgH6gof7DY=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Look At REITs As Dividend Income Machines",
+      "date": "Mon, 21 Sep 2026 16:05:23 -0400",
+      "is_read": false,
+      "file": "37d15093583af855788e99127dd51288fe254aeeded94654628ee0ea03bc4ce4.json"
     },
     {
       "id": "c2abd96b32a45b3e384056f27665d98d0665a0aa037b91277ce0af3e45421cc7",
@@ -755,42 +791,6 @@
       "date": "Mon, 21 Sep 2026 05:55:45 -0400",
       "is_read": true,
       "file": "aa9088b38e96d63a77dd32f20d610538c1070b2157f8ee7fc07d5869d6fc10b4.json"
-    },
-    {
-      "id": "0f73d1dd210dfe8a224a3203cb8091325e0c71316cc4a3cef8412903dc0614dd",
-      "uid": "409998.rmQoPld1i+TtwNIqXPAXXjKDnLGWjcbTzdFHL+pDikk=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🪄 Axios Finish Line: Simplify your life",
-      "date": "Mon, 14 Sep 2026 21:29:26 -0400",
-      "is_read": true,
-      "file": "0f73d1dd210dfe8a224a3203cb8091325e0c71316cc4a3cef8412903dc0614dd.json"
-    },
-    {
-      "id": "db6e41a8e628337ed6d2f154801b203f2e55ecc383f0fbcba481660299df9695",
-      "uid": "409943.y,Py70FCK6VMy4ZqS,Tg7gdT9K+YFwcY2YC3svc01tM=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "😈 Nothing to see here",
-      "date": "Mon, 14 Sep 2026 17:36:09 -0400",
-      "is_read": true,
-      "file": "db6e41a8e628337ed6d2f154801b203f2e55ecc383f0fbcba481660299df9695.json"
-    },
-    {
-      "id": "5d7526d7eca08b90c7689ec964902cbe45a7d6f89d5645ceb461bbd522aa3a77",
-      "uid": "409932.6EFwSRFZQbdvuKwwYm8dDwmr,R9Yw5GmTl5ncNwNz00=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Trump Shrugs Off AI Freakout",
-      "date": "Mon, 14 Sep 2026 16:38:02 -0400",
-      "is_read": true,
-      "file": "5d7526d7eca08b90c7689ec964902cbe45a7d6f89d5645ceb461bbd522aa3a77.json"
-    },
-    {
-      "id": "2a07f980d3c22704019e5fdf78a77cf8a1864a9e3a760d61d7fc04f1fbc9a2c8",
-      "uid": "409929.vglT2MHocljSr+kkoFYK5eiqpSp6n2XVDDVcjm0wFIw=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Beyond Nvidia: Finding Opportunity In The AI Buildout",
-      "date": "Mon, 14 Sep 2026 16:05:28 -0400",
-      "is_read": true,
-      "file": "2a07f980d3c22704019e5fdf78a77cf8a1864a9e3a760d61d7fc04f1fbc9a2c8.json"
     },
     {
       "id": "a019d03203063a0d77d3c2108277cf60ea600f48a47f9fb6d1cc56898d3b9968",
