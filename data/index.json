@@ -199,6 +199,78 @@
       "file": "37613cdb15e4e56df4cb067bb9607afc01895259e381b66e1a644737bce3732c.json"
     },
     {
+      "id": "54457f6fffe9221cfbf198a0c93c93fb4e78d61bcc5e10a519431acfc5b354b1",
+      "uid": "411927.7mhCOzfDehF+KbzmzkTEODHo5l2BTQjmhpZrwZdx4ns=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: French Soccer Legend Thierry Henry Lists New York Penthouse for $25 Million",
+      "date": "Tue, 22 Sep 2026 13:09:52 -0400",
+      "is_read": false,
+      "file": "54457f6fffe9221cfbf198a0c93c93fb4e78d61bcc5e10a519431acfc5b354b1.json"
+    },
+    {
+      "id": "ff8c2525295b50e948965939c8a05e2ccf447d88003aebc26b8a1c95d7c53ff8",
+      "uid": "411924.sDbHLyeEbjYGDjro8SkZ+Zn+7HIZrI,FJW++Li67E5I=",
+      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
+      "subject": "AI’s Legal Jeopardy",
+      "date": "Tue, 22 Sep 2026 12:06:07 -0400",
+      "is_read": false,
+      "file": "ff8c2525295b50e948965939c8a05e2ccf447d88003aebc26b8a1c95d7c53ff8.json"
+    },
+    {
+      "id": "f91c8532f9853f4326e9b3c701d980d7c3557cd2b53359c5e1f29038f9fbea7e",
+      "uid": "411922.UMRCUracnypMNhNS8onR9GoJHNWLy4US1mf7VDSHCoc=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "💸 Cost of resilience",
+      "date": "Tue, 22 Sep 2026 12:00:52 -0400",
+      "is_read": false,
+      "file": "f91c8532f9853f4326e9b3c701d980d7c3557cd2b53359c5e1f29038f9fbea7e.json"
+    },
+    {
+      "id": "e0f87956a44fc94bdc7e7a20a56964e0123d302434e53fb53d39cc95a20408ea",
+      "uid": "411919.zfxbUPqo2hV6A1mFvjLWhXL+H1BnT6w7pHbb7+DWLLo=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Ponzi VC",
+      "date": "Tue, 22 Sep 2026 10:08:18 -0400",
+      "is_read": false,
+      "file": "e0f87956a44fc94bdc7e7a20a56964e0123d302434e53fb53d39cc95a20408ea.json"
+    },
+    {
+      "id": "8751e8e528aa19dc5c9356fda12aa27f6fe25342c54ebe902bba9f461926a97c",
+      "uid": "411917.8h0k+LQQfR6ZTyffOego3hYf+70I2jf8RgSW0Y7RP08=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🧷 AI's safety paradox",
+      "date": "Tue, 22 Sep 2026 09:28:18 -0400",
+      "is_read": false,
+      "file": "8751e8e528aa19dc5c9356fda12aa27f6fe25342c54ebe902bba9f461926a97c.json"
+    },
+    {
+      "id": "2d9aa358cbe0b862aa89857988abcec506d088ca77d75345c83788c891e30f14",
+      "uid": "411914.7FqamniiEbzEh,O0wV+qYUprP1UbfL+1zRO2uVj+rfY=",
+      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
+      "subject": "Three quality growers—one steady portfolio",
+      "date": "Tue, 22 Sep 2026 08:55:47 -0400",
+      "is_read": false,
+      "file": "2d9aa358cbe0b862aa89857988abcec506d088ca77d75345c83788c891e30f14.json"
+    },
+    {
+      "id": "14995507373aba37cf54a6e253b8a65307228f5ec582f268ced1b8ce72af4099",
+      "uid": "411909.Eb4U9PVJN8DxwH5N2hSunThH6ja+jHsU8Xml1lZmwm8=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "New Power Dynamics In Hollywood",
+      "date": "Tue, 22 Sep 2026 08:03:27 -0400",
+      "is_read": false,
+      "file": "14995507373aba37cf54a6e253b8a65307228f5ec582f268ced1b8ce72af4099.json"
+    },
+    {
+      "id": "83294ee88f5a0e24f6ddaccf46cc0021ccbf5212ed0c6f69cefd163586ae3626",
+      "uid": "411901.Qh9OSrSq1tchezrYFALlelySkYl4StMOE5ZC9h20QR8=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "⛽️ Refiners keepers",
+      "date": "Tue, 22 Sep 2026 07:28:27 -0400",
+      "is_read": false,
+      "file": "83294ee88f5a0e24f6ddaccf46cc0021ccbf5212ed0c6f69cefd163586ae3626.json"
+    },
+    {
       "id": "baa7d224e03c2832a59028e106ed193860c291ffc5b49ad0954d05a8d4313e0d",
       "uid": "411896.VxQRJpCaCAMCkG3LK2yUw9Pbu5Wr8nm1TLbeFH9hgzc=",
       "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
@@ -296,78 +368,6 @@
       "date": "Tue, 15 Sep 2026 15:15:31 -0400",
       "is_read": true,
       "file": "1d7098dbc61a749d1cc3eb3736134c6a177783e6387dfef39459c4c261c4e5a9.json"
-    },
-    {
-      "id": "5eb0aa834770d7e5f35adb805480117775775c2eaa8d032f5462689c33ddc049",
-      "uid": "410212.bFZuuzhOfaHax3y65qMdgIWsLPwskNyEZhJWMjWlI20=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "New pick just released. You're not too late.",
-      "date": "Tue, 15 Sep 2026 12:15:04 -0400",
-      "is_read": true,
-      "file": "5eb0aa834770d7e5f35adb805480117775775c2eaa8d032f5462689c33ddc049.json"
-    },
-    {
-      "id": "0bf0201b94837a637f3b0b74bc42b90c75d7ed78ecb38b24620fc0e09087dd15",
-      "uid": "410211.+1EnP7DR05zj5gj5BBewXwClxoJA9z5EaejKzXu3sGU=",
-      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
-      "subject": "AI’s Language Problem",
-      "date": "Tue, 15 Sep 2026 12:06:07 -0400",
-      "is_read": true,
-      "file": "0bf0201b94837a637f3b0b74bc42b90c75d7ed78ecb38b24620fc0e09087dd15.json"
-    },
-    {
-      "id": "f8f7eec0444018acedf3aef251ec1db897c641fef7f3b59d634c9a53d3380b5e",
-      "uid": "410209.4UE,j2JtBwwrE2gnZBfdYS1kjdQ8vrwfdV5D6HURVnQ=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🤖 AI growth runway",
-      "date": "Tue, 15 Sep 2026 12:02:44 -0400",
-      "is_read": true,
-      "file": "f8f7eec0444018acedf3aef251ec1db897c641fef7f3b59d634c9a53d3380b5e.json"
-    },
-    {
-      "id": "9262ec05b6966d74104ab5aceb1aac431d2e9f6406551ef8b02b9953b5ea3025",
-      "uid": "410207.0pfCmzFdOuvwlO6RbEytNAqlvrkCmaKjSgqS9QcK2zM=",
-      "from_addr": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The Intelligent Investor: Leverage or Luck?",
-      "date": "Tue, 15 Sep 2026 11:02:35 -0400",
-      "is_read": false,
-      "file": "9262ec05b6966d74104ab5aceb1aac431d2e9f6406551ef8b02b9953b5ea3025.json"
-    },
-    {
-      "id": "6bd27070c2b3cb8cb7a9d8b7b00ff9de80ff68ff2cd991a454cb48158f4bf8a6",
-      "uid": "410202.opKq2qrzjN241Poc7vlk1sA9AYBEqhN0H9MM3yQv9tc=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Safety first",
-      "date": "Tue, 15 Sep 2026 10:04:52 -0400",
-      "is_read": true,
-      "file": "6bd27070c2b3cb8cb7a9d8b7b00ff9de80ff68ff2cd991a454cb48158f4bf8a6.json"
-    },
-    {
-      "id": "b867ad546e79bd6cd8a1290039fc7c4b98d71112eb722993ed02c5d87ac644c0",
-      "uid": "410200.odyggWC9JrUKWmMwZ,usCdKYSk8zc+ZTkIFk3KwrxP0=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "💭 AI in Dreamland",
-      "date": "Tue, 15 Sep 2026 09:28:31 -0400",
-      "is_read": true,
-      "file": "b867ad546e79bd6cd8a1290039fc7c4b98d71112eb722993ed02c5d87ac644c0.json"
-    },
-    {
-      "id": "bbbeb5e55b3897dedf3a43f313a0135da62ab7288c20d66c801374516edb8e86",
-      "uid": "410178.ipov4oHVpOLJBMwDDrCtLV+5qJsakr73XDg9TtW9pi0=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Energy Emerges As The Latest Market Shock",
-      "date": "Tue, 15 Sep 2026 07:30:45 -0400",
-      "is_read": true,
-      "file": "bbbeb5e55b3897dedf3a43f313a0135da62ab7288c20d66c801374516edb8e86.json"
-    },
-    {
-      "id": "795d5ba2b39d4961b1cc4ba8e245fc293329489643e3af285ebb9f86adb5bcfd",
-      "uid": "410177.2Q6lvoUfYW3tb8QQRR2Ena,v2ECa5uB+tYcKoIS7QjE=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "😱 1 fear, 2 trades",
-      "date": "Tue, 15 Sep 2026 07:28:33 -0400",
-      "is_read": true,
-      "file": "795d5ba2b39d4961b1cc4ba8e245fc293329489643e3af285ebb9f86adb5bcfd.json"
     },
     {
       "id": "20d8047ca0d885fea7671feb4c7755dec306e2778785971f3710d4c34d3c0599",
