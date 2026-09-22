@@ -181,6 +181,15 @@
       "file": "20d215f6c3219522df7fe90d8bed056330cd60c72422837600ed02ecec1dac0b.json"
     },
     {
+      "id": "fd7187b5199be00a18531c3d922805d78fcb09cece4db2a3d53cf1bc5d1ecc78",
+      "uid": "411888.3,WN2w6dy7mFlAqlVDKYC,pzLxFK,BujlTl+0QC4gyY=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Betting on Nuclear, Harley-Davidson's Tariff Drain, Disney Theme Parks",
+      "date": "Tue, 22 Sep 2026 20:31:58 +1000",
+      "is_read": false,
+      "file": "fd7187b5199be00a18531c3d922805d78fcb09cece4db2a3d53cf1bc5d1ecc78.json"
+    },
+    {
       "id": "37613cdb15e4e56df4cb067bb9607afc01895259e381b66e1a644737bce3732c",
       "uid": "411846.,C5Tn9Bnxz1Au2ujAs8fFXJ8tJNELEzPQOS6195JYgk=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -188,6 +197,15 @@
       "date": "Tue, 22 Sep 2026 17:09:53 +1000",
       "is_read": true,
       "file": "37613cdb15e4e56df4cb067bb9607afc01895259e381b66e1a644737bce3732c.json"
+    },
+    {
+      "id": "6fa0ee3699b641f7eddf372feb14e3d49993cb46ea11f01d7c257af94d21daf1",
+      "uid": "411887.pSN43rXPw0sHs,2bl2l94CVNL++nUwlnvPQgT0bf7L0=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🪓 Markets A.M.: Dividend Cuts Send a Bearish Signal",
+      "date": "Tue, 22 Sep 2026 06:32:01 -0400",
+      "is_read": false,
+      "file": "6fa0ee3699b641f7eddf372feb14e3d49993cb46ea11f01d7c257af94d21daf1.json"
     },
     {
       "id": "546527425ff7ccce1a551254a2daa43ba84e25606a0be145eb42c7a1218b7d03",
@@ -224,15 +242,6 @@
       "date": "Tue, 15 Sep 2026 21:29:25 -0400",
       "is_read": true,
       "file": "d7bfc9c50131559cb014712bc45d18ed239c5b06d2f43aca31657b2404a1d63d.json"
-    },
-    {
-      "id": "619dd6d4fa23f41ea8167536a9356ffc0e2a1f4c4f0502f2af126ce01273ba77",
-      "uid": "410161.PCY2iC7gyzVZxy6u6s1ScsjCzsd0BX55QrbOTsEZEi0=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Mortgage Bonds, Mall Values, Retiring to Low-Tax States",
-      "date": "Tue, 15 Sep 2026 20:32:02 +1000",
-      "is_read": true,
-      "file": "619dd6d4fa23f41ea8167536a9356ffc0e2a1f4c4f0502f2af126ce01273ba77.json"
     },
     {
       "id": "93eda63a1e09b2bdb843343fc2bd628e655a7646b39b6639ae4614cd84df7ad7",
@@ -359,15 +368,6 @@
       "date": "Tue, 15 Sep 2026 07:03:04 -0400",
       "is_read": true,
       "file": "cc35c48ccd55b38a23b530b1c47ee79faf362a432cd1b8d5f0c59a219c65389a.json"
-    },
-    {
-      "id": "76148dc8c554327cc4a69f06d7eedab008b6e69221b851b20f737a237d66ab4f",
-      "uid": "410164.2gvWZdtzqMYu8c7CuovJKFlrDISRp1MX97HdPS0jbAw=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "📈 Markets A.M.: Stock Investors Should Root for a Rate Hike. Yeah, Really.",
-      "date": "Tue, 15 Sep 2026 06:38:22 -0400",
-      "is_read": true,
-      "file": "76148dc8c554327cc4a69f06d7eedab008b6e69221b851b20f737a237d66ab4f.json"
     },
     {
       "id": "20d8047ca0d885fea7671feb4c7755dec306e2778785971f3710d4c34d3c0599",
