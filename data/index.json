@@ -645,7 +645,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "📖 Axios Finish Line: Ask your elders",
       "date": "Mon, 21 Sep 2026 21:29:51 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "f6a70c7cc28a850032eea2c62a22517159e21e6284bb2d0b79d642cb4f9467c6.json"
     },
     {
