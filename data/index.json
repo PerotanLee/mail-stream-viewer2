@@ -199,6 +199,24 @@
       "file": "37613cdb15e4e56df4cb067bb9607afc01895259e381b66e1a644737bce3732c.json"
     },
     {
+      "id": "baa7d224e03c2832a59028e106ed193860c291ffc5b49ad0954d05a8d4313e0d",
+      "uid": "411896.VxQRJpCaCAMCkG3LK2yUw9Pbu5Wr8nm1TLbeFH9hgzc=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Trump’s Second Term Is Made-for-TV, but Now the Cameras Are Off",
+      "date": "Tue, 22 Sep 2026 07:08:09 -0400",
+      "is_read": false,
+      "file": "baa7d224e03c2832a59028e106ed193860c291ffc5b49ad0954d05a8d4313e0d.json"
+    },
+    {
+      "id": "de7e6d7aabc0ed61b6aadac6ca9c88eb2435ea6e9ffed1970c57f3fc14a1343d",
+      "uid": "411893.fQikj4Rrr4xPVorucRvbzcji79fn1QfR1,cj3HR6Id4=",
+      "from_addr": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ China: An Insider on How Beijing Sees Taiwan",
+      "date": "Tue, 22 Sep 2026 07:02:26 -0400",
+      "is_read": false,
+      "file": "de7e6d7aabc0ed61b6aadac6ca9c88eb2435ea6e9ffed1970c57f3fc14a1343d.json"
+    },
+    {
       "id": "6fa0ee3699b641f7eddf372feb14e3d49993cb46ea11f01d7c257af94d21daf1",
       "uid": "411887.pSN43rXPw0sHs,2bl2l94CVNL++nUwlnvPQgT0bf7L0=",
       "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
@@ -350,24 +368,6 @@
       "date": "Tue, 15 Sep 2026 07:28:33 -0400",
       "is_read": true,
       "file": "795d5ba2b39d4961b1cc4ba8e245fc293329489643e3af285ebb9f86adb5bcfd.json"
-    },
-    {
-      "id": "3e4fcb4b58f99c5ea23065503279aea293895a9dfff6bdc51ef9d4e7b4a4779b",
-      "uid": "410171.6U0YtpY5HP48rHJ6gdU3YiwWTDBp8qtPUlZCnW0c21A=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Bo French’s Tweet and the Tempest in Texas",
-      "date": "Tue, 15 Sep 2026 07:04:26 -0400",
-      "is_read": true,
-      "file": "3e4fcb4b58f99c5ea23065503279aea293895a9dfff6bdc51ef9d4e7b4a4779b.json"
-    },
-    {
-      "id": "cc35c48ccd55b38a23b530b1c47ee79faf362a432cd1b8d5f0c59a219c65389a",
-      "uid": "410170.IVWkbjKlA9vBsPwORDCETuQohBzrHXg7RVY35WvgDWQ=",
-      "from_addr": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ China: The Crisis Hiding in Plain Sight",
-      "date": "Tue, 15 Sep 2026 07:03:04 -0400",
-      "is_read": true,
-      "file": "cc35c48ccd55b38a23b530b1c47ee79faf362a432cd1b8d5f0c59a219c65389a.json"
     },
     {
       "id": "20d8047ca0d885fea7671feb4c7755dec306e2778785971f3710d4c34d3c0599",
