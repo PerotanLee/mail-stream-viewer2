@@ -181,6 +181,15 @@
       "file": "20d215f6c3219522df7fe90d8bed056330cd60c72422837600ed02ecec1dac0b.json"
     },
     {
+      "id": "7dee398eb76f4d6e63c903297914156096eea9f56e7eafa451410defe096da35",
+      "uid": "411988.6eW98vLn8M4rYnNXu9XJPY+N92ZmZTdojBVJnsGPLo4=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🏋️‍♀️  Axios Finish Line: The gym upgrade",
+      "date": "Tue, 22 Sep 2026 21:29:21 -0400",
+      "is_read": false,
+      "file": "7dee398eb76f4d6e63c903297914156096eea9f56e7eafa451410defe096da35.json"
+    },
+    {
       "id": "fd7187b5199be00a18531c3d922805d78fcb09cece4db2a3d53cf1bc5d1ecc78",
       "uid": "411888.3,WN2w6dy7mFlAqlVDKYC,pzLxFK,BujlTl+0QC4gyY=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -190,6 +199,24 @@
       "file": "fd7187b5199be00a18531c3d922805d78fcb09cece4db2a3d53cf1bc5d1ecc78.json"
     },
     {
+      "id": "14d08534096b8dd42b12c6feb53693e8950c0db46ffba6c11c000217787e2a94",
+      "uid": "411936.c,urfdQrruHKVZ27hgEHqwpnyAj7,YjbhgY2Ih4jWqg=",
+      "from_addr": "noreply@axios.com",
+      "subject": "Action Required: Confirm your Axios subscription",
+      "date": "Tue, 22 Sep 2026 19:35:07 +0000",
+      "is_read": false,
+      "file": "14d08534096b8dd42b12c6feb53693e8950c0db46ffba6c11c000217787e2a94.json"
+    },
+    {
+      "id": "2924fc359e95eef1261e059438e08be8e45e477df4e65047bfe6ee00662573b5",
+      "uid": "411963.npsoqJkhdurdmWwIKRLhDWwQaYS3Xu9EgzPDm+atyvs=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "⚠️ Prediction warning",
+      "date": "Tue, 22 Sep 2026 18:26:47 -0400",
+      "is_read": false,
+      "file": "2924fc359e95eef1261e059438e08be8e45e477df4e65047bfe6ee00662573b5.json"
+    },
+    {
       "id": "37613cdb15e4e56df4cb067bb9607afc01895259e381b66e1a644737bce3732c",
       "uid": "411846.,C5Tn9Bnxz1Au2ujAs8fFXJ8tJNELEzPQOS6195JYgk=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -197,6 +224,33 @@
       "date": "Tue, 22 Sep 2026 17:09:53 +1000",
       "is_read": true,
       "file": "37613cdb15e4e56df4cb067bb9607afc01895259e381b66e1a644737bce3732c.json"
+    },
+    {
+      "id": "9ac4a4f6c1f3c3c62be0a0230ea59802c98b276104e208ee533c5be51d31a864",
+      "uid": "411943.lDYjLXP+7VseVq+8euHplkXSVh+Cw4qjhVSXqCqpedc=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Oil Drops Below $100",
+      "date": "Tue, 22 Sep 2026 16:44:22 -0400",
+      "is_read": false,
+      "file": "9ac4a4f6c1f3c3c62be0a0230ea59802c98b276104e208ee533c5be51d31a864.json"
+    },
+    {
+      "id": "4315bb965c09bc9f1d1ae8864912af8483949f8a8f79d1afa148489ed918721e",
+      "uid": "411939.c2VAp3GmS0tHn0VTV,AeF2Z2vZ8xC3xcJlsAG1XBjpY=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Nvidia And AI Vendor Financing: Is This The Next Dot-Com Bubble?",
+      "date": "Tue, 22 Sep 2026 16:05:30 -0400",
+      "is_read": false,
+      "file": "4315bb965c09bc9f1d1ae8864912af8483949f8a8f79d1afa148489ed918721e.json"
+    },
+    {
+      "id": "df3eeee5672027fb81b48780453f337bc2f79e5edbef0934daeab9cb9d752f6a",
+      "uid": "411934.omNlmT5jX,wVGnpxTLWepRSe4YmAH8g3Susi8ybot,U=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios PM: Cheaper AI",
+      "date": "Tue, 22 Sep 2026 15:15:31 -0400",
+      "is_read": false,
+      "file": "df3eeee5672027fb81b48780453f337bc2f79e5edbef0934daeab9cb9d752f6a.json"
     },
     {
       "id": "54457f6fffe9221cfbf198a0c93c93fb4e78d61bcc5e10a519431acfc5b354b1",
@@ -323,51 +377,6 @@
       "date": "Tue, 22 Sep 2026 05:48:53 -0400",
       "is_read": true,
       "file": "b6407c0ef32537bfb4e0dce95582db3ed0bba6f06a645eedbeb9c7f21c0d2eea.json"
-    },
-    {
-      "id": "d7bfc9c50131559cb014712bc45d18ed239c5b06d2f43aca31657b2404a1d63d",
-      "uid": "410298.s7eSbY1EavjnAaiXRHskIYy6KvDol0eXIoaqOHKOq58=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🧭 Axios Finish Line: Trust your compass",
-      "date": "Tue, 15 Sep 2026 21:29:25 -0400",
-      "is_read": true,
-      "file": "d7bfc9c50131559cb014712bc45d18ed239c5b06d2f43aca31657b2404a1d63d.json"
-    },
-    {
-      "id": "93eda63a1e09b2bdb843343fc2bd628e655a7646b39b6639ae4614cd84df7ad7",
-      "uid": "410247.C1ZL6+YRn7s,HzNC,B1Tgr6g,n8xmf5eCXodNLpllAA=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "👎 Crypto's lack of clarity",
-      "date": "Tue, 15 Sep 2026 17:42:05 -0400",
-      "is_read": true,
-      "file": "93eda63a1e09b2bdb843343fc2bd628e655a7646b39b6639ae4614cd84df7ad7.json"
-    },
-    {
-      "id": "c370800e210f3096467242be0f9c7ac94c4e0a298d889b6491c08f9eba4264d4",
-      "uid": "410229.TFtyc3tVqa1XKyhJZhnk071M36ZQNzWNbtd6oD9pe+0=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Oil Prices Climb Higher",
-      "date": "Tue, 15 Sep 2026 16:25:40 -0400",
-      "is_read": true,
-      "file": "c370800e210f3096467242be0f9c7ac94c4e0a298d889b6491c08f9eba4264d4.json"
-    },
-    {
-      "id": "c23b26c3e6c355b99c72b5c9580204a8e1f7b4cb374657255236fce2a6ff6743",
-      "uid": "410224.lee2XhbRY8tsokiCTeQmDPnFTcXQjsNZ4QjO3jqvxTM=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "6 Top Stocks With Strong Earnings Growth Trading Well Below 52-Week Highs",
-      "date": "Tue, 15 Sep 2026 16:05:24 -0400",
-      "is_read": true,
-      "file": "c23b26c3e6c355b99c72b5c9580204a8e1f7b4cb374657255236fce2a6ff6743.json"
-    },
-    {
-      "id": "1d7098dbc61a749d1cc3eb3736134c6a177783e6387dfef39459c4c261c4e5a9",
-      "uid": "410223.3vpP+3cY7oGqXtA10FCRaA3A4IWY9QOaRZfyIwV1vP0=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🌊  Axios PM: Quiet storm season",
-      "date": "Tue, 15 Sep 2026 15:15:31 -0400",
-      "is_read": true,
-      "file": "1d7098dbc61a749d1cc3eb3736134c6a177783e6387dfef39459c4c261c4e5a9.json"
     },
     {
       "id": "20d8047ca0d885fea7671feb4c7755dec306e2778785971f3710d4c34d3c0599",
