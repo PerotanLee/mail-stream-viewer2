@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8340 from=Must Reads <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-23T06:32:02.652549+00:00",
-  "added": 3,
+  "updated_at": "2026-09-23T06:32:03.714389+00:00",
+  "added": 4,
   "skipped": 77,
   "scanned": 81,
-  "current": "Must Reads <account@seekingalpha.com>",
+  "current": "Nvidia And AI Vendor Financing: Is This The Next Dot-Com Bubble?",
   "added_by_filter": {
     "wsj": 1,
     "axios": 2,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 8334,
   "newest_num": 8420,
