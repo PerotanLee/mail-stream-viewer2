@@ -1,6 +1,15 @@
 {
   "emails": [
     {
+      "id": "405a854cb0c257c3646c142e9c83376264a885424caaefc1b4ad8320c5f67d1c",
+      "uid": "412114.d1wBJ88zZEXf1FGsNJpq+rVuZ649kxPBI+AcIaHZhHM=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Real-Estate Bargains, Rocket Supply Crunch, Very Cheap Caviar",
+      "date": "Wed, 23 Sep 2026 20:32:01 +1000",
+      "is_read": false,
+      "file": "405a854cb0c257c3646c142e9c83376264a885424caaefc1b4ad8320c5f67d1c.json"
+    },
+    {
       "id": "359654770de82c882336f771debb3ac91062753e4e730186da05689d2dd14791",
       "uid": "412061.JpWckgB17ENj95pEUg+tqgo6d1ICUJgJccxX7Oy03yk=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -10,6 +19,51 @@
       "file": "359654770de82c882336f771debb3ac91062753e4e730186da05689d2dd14791.json"
     },
     {
+      "id": "74e9994db100afe36d72c743b691274a73e643cb5f21bef751f632ce4f2d6511",
+      "uid": "412128.n+0ICAcXKfq6n8DvDt,Gfd3ax0i0X,,9wnboKJ2yDCU=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Kamala Harris Campaigns for Abdul El-Sayed",
+      "date": "Wed, 23 Sep 2026 07:06:53 -0400",
+      "is_read": false,
+      "file": "74e9994db100afe36d72c743b691274a73e643cb5f21bef751f632ce4f2d6511.json"
+    },
+    {
+      "id": "d997612dcef8033c7aa5fda1dce51751bf8a861735f2f51d210bd0eeb914a5e9",
+      "uid": "412113.glL1ro73X2bkgMi8E1v1vQ+aHK333Vie4,e0cyB6TQ0=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🥐 Markets A.M.: Add France to Your List of Investing Worries",
+      "date": "Wed, 23 Sep 2026 06:32:21 -0400",
+      "is_read": false,
+      "file": "d997612dcef8033c7aa5fda1dce51751bf8a861735f2f51d210bd0eeb914a5e9.json"
+    },
+    {
+      "id": "64a3bc21144d9b308c98178abe72bb81289221c0eb365af13ca4bd02cfb34e11",
+      "uid": "412112.Tk+WJLT4weietPPTjbO8T,RJa,poapXBf0taOWusOK4=",
+      "from_addr": "Axios Defense <defense@axios.com>",
+      "subject": "💣 Space war spoken",
+      "date": "Wed, 23 Sep 2026 06:30:13 -0400",
+      "is_read": false,
+      "file": "64a3bc21144d9b308c98178abe72bb81289221c0eb365af13ca4bd02cfb34e11.json"
+    },
+    {
+      "id": "5b2d15faf2e4c61f9289d7fce2077790a4022243d3e24ba9928a3102c5beb013",
+      "uid": "412106.sVN2H5hRY28LLT0Cd2Mu40kmkpwaNqFWlgpeo+o1c3I=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios AM: The \"All-In\"-ization of Trump",
+      "date": "Wed, 23 Sep 2026 06:05:38 -0400",
+      "is_read": false,
+      "file": "5b2d15faf2e4c61f9289d7fce2077790a4022243d3e24ba9928a3102c5beb013.json"
+    },
+    {
+      "id": "d67844b5391f3057d1e19012e5fde2383dd9f122df10f9d5570c6c1c5d0d2c56",
+      "uid": "412102.sPAGsiFW32CKk2Nar,zopQC58wbh2CNGtTcOM7kw9cg=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Zelensky Tells Us What It Will Take to End the War",
+      "date": "Wed, 23 Sep 2026 05:59:57 -0400",
+      "is_read": false,
+      "file": "d67844b5391f3057d1e19012e5fde2383dd9f122df10f9d5570c6c1c5d0d2c56.json"
+    },
+    {
       "id": "db0886b04e2ac91e3d0f91e9a85f3b7b0d8d5cc64eb7b1906df6f8d033c9e3d9",
       "uid": "410602.gZc+WTHS5Yz5IwXfVN,HQyNXIan1lfpizBLvAdzmfEs=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -17,15 +71,6 @@
       "date": "Wed, 16 Sep 2026 21:29:21 -0400",
       "is_read": true,
       "file": "db0886b04e2ac91e3d0f91e9a85f3b7b0d8d5cc64eb7b1906df6f8d033c9e3d9.json"
-    },
-    {
-      "id": "e445ca0660ac3ac770447f851ba3c25090863d885913459606110cd15420e1fb",
-      "uid": "410476.Tt8pBbFNBWL2ugB+j2upi1V4D6KAK2iz3qRFPvQHLaU=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Bond Yields, Fuel Crisis, Cricket Gets an Upgrade",
-      "date": "Wed, 16 Sep 2026 20:31:56 +1000",
-      "is_read": true,
-      "file": "e445ca0660ac3ac770447f851ba3c25090863d885913459606110cd15420e1fb.json"
     },
     {
       "id": "d9893be1ca4d4831138a15ca1f0e5756d3a64c48f2ee3618672a1eeb7dcc42f5",
@@ -134,51 +179,6 @@
       "date": "Wed, 16 Sep 2026 07:28:43 -0400",
       "is_read": true,
       "file": "ffd4bf3545b6663fd46dd2086c77f30aaba657d139abf810fa621a2b62493ff0.json"
-    },
-    {
-      "id": "d286b031611a017889b859ec5470deec94d7f26f05be011af5d1b99fcfa856d2",
-      "uid": "410492.4SmcwKl8fQ5cuWfNcGRIegim4enbnDeJI42EpH+RKRM=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Will the Trump-Xi Dinner Bring AI Enemies Musk and Altman to the Table?",
-      "date": "Wed, 16 Sep 2026 07:07:11 -0400",
-      "is_read": true,
-      "file": "d286b031611a017889b859ec5470deec94d7f26f05be011af5d1b99fcfa856d2.json"
-    },
-    {
-      "id": "a0e0535119d328eb714781e758874c1350d46d87678259341695a715290e9a4a",
-      "uid": "410481.Wo1nNJM9w,vocNdpjRvuEtPwW,x5jgpRBlStmLDb3mw=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🚦 Markets A.M.: An AI Slowdown Has To Happen Regardless of Safety",
-      "date": "Wed, 16 Sep 2026 06:40:38 -0400",
-      "is_read": true,
-      "file": "a0e0535119d328eb714781e758874c1350d46d87678259341695a715290e9a4a.json"
-    },
-    {
-      "id": "3a672c574b64e735770c55510f748b66979d9118d4404b6c91222d15102edeba",
-      "uid": "410475.lxYqR8M+eDzqctvZpmJ1ztije5Ms1EGdb4JYvvKnrTo=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "📈 Drone deluge",
-      "date": "Wed, 16 Sep 2026 06:30:18 -0400",
-      "is_read": true,
-      "file": "3a672c574b64e735770c55510f748b66979d9118d4404b6c91222d15102edeba.json"
-    },
-    {
-      "id": "097d32a298c76b043031d61173e2bb3a1d71b699edebc37591205f0904a6ddba",
-      "uid": "410468.QNgjFe91QP3ugw854LDgYfcvmA2ZbamZIeUYGG03Bm4=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: American Businesses Have No Idea How to Set Prices",
-      "date": "Wed, 16 Sep 2026 06:09:55 -0400",
-      "is_read": true,
-      "file": "097d32a298c76b043031d61173e2bb3a1d71b699edebc37591205f0904a6ddba.json"
-    },
-    {
-      "id": "20d215f6c3219522df7fe90d8bed056330cd60c72422837600ed02ecec1dac0b",
-      "uid": "410459.F2cR+annwzEWLhSXbiRfiDB77GmaHF5MDSoNgal51f4=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "👀 Axios AM: Powerful AI holdouts",
-      "date": "Wed, 16 Sep 2026 05:54:02 -0400",
-      "is_read": true,
-      "file": "20d215f6c3219522df7fe90d8bed056330cd60c72422837600ed02ecec1dac0b.json"
     },
     {
       "id": "7dee398eb76f4d6e63c903297914156096eea9f56e7eafa451410defe096da35",
