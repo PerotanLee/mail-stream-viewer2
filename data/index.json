@@ -231,7 +231,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Oil Drops Below $100",
       "date": "Tue, 22 Sep 2026 16:44:22 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "9ac4a4f6c1f3c3c62be0a0230ea59802c98b276104e208ee533c5be51d31a864.json"
     },
     {
