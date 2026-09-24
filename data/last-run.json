@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8510 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-24T04:03:22.662394+00:00",
-  "added": 5,
+  "updated_at": "2026-09-24T04:03:23.736678+00:00",
+  "added": 6,
   "skipped": 103,
   "scanned": 109,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics Special Edition: With Putin, Trump’s G-20 Would Be Summit Spectacle of the Century",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 3,
     "seekingalpha": 1
   },
