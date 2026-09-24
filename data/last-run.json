@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=8624 from=noreply@axios.com",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-24T04:33:08.959055+00:00",
+  "updated_at": "2026-09-24T04:33:10.406502+00:00",
   "added": 0,
   "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 8618
+  "scanned": 1,
+  "current": "noreply@axios.com",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 8618,
+  "newest_num": 8624,
+  "scan_mode": "new",
+  "since": "2026-09-24T03:48:25.814986+00:00"
 }
