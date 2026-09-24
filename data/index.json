@@ -375,7 +375,7 @@
       "from_addr": "noreply@axios.com",
       "subject": "Action Required: Confirm your Axios subscription",
       "date": "Thu, 24 Sep 2026 04:20:44 +0000",
-      "is_read": false,
+      "is_read": true,
       "file": "4bf4551c178d77876295ab5a682fd92c38781c1608ea9be64b55acdfa101c3ea.json"
     },
     {
