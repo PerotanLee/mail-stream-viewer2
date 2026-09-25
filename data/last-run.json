@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9023 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-25T14:24:43.839961+00:00",
-  "added": 6,
+  "updated_at": "2026-09-25T14:24:45.270144+00:00",
+  "added": 7,
   "skipped": 12,
   "scanned": 19,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "⚠️ AI back on the risk radar",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 2,
+    "axios": 3,
     "seekingalpha": 2
   },
   "last_newest_num": 9000,
