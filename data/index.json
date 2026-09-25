@@ -838,6 +838,24 @@
       "file": "25ce1ad13f26808fe8b9385bd11e6a2a065e94cda8ee182a8d18fbbab4bd6a78.json"
     },
     {
+      "id": "81fae0f8245f12768ff19a7b73342ab67f2e14eff980cfb2a33dbdf9976fc4f9",
+      "uid": "412793.hlV8lSzhn6PWvKiI+gN70oaI8HtmTGkrjBfc8,wjEKk=",
+      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+      "subject": "Harry and Meghan Put the Cotswolds-- and the 'Notswolds'-- in the Spotlight",
+      "date": "Fri, 25 Sep 2026 15:34:15 -0400",
+      "is_read": false,
+      "file": "81fae0f8245f12768ff19a7b73342ab67f2e14eff980cfb2a33dbdf9976fc4f9.json"
+    },
+    {
+      "id": "c5f5607f23fa39c8e3b329bc3e0ef2becfba05829440f026b0ab1fbe72207350",
+      "uid": "412792.Kt7fsphQjkyO+1vjFJRaaHqBb0L,xuAKq6vpbrPVYA0=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🌊 Axios PM: Weekend storms brewing",
+      "date": "Fri, 25 Sep 2026 15:15:23 -0400",
+      "is_read": false,
+      "file": "c5f5607f23fa39c8e3b329bc3e0ef2becfba05829440f026b0ab1fbe72207350.json"
+    },
+    {
       "id": "0b16e5cfbcb77521f9bd77e80bdac1e36cc5b0ca824bc755530a70c5a40ff36b",
       "uid": "412784.lW1M3t3FPAmXMaY2icBUP5e04ryEhJSAi4z3O2ob9FM=",
       "from_addr": "Axios Macro <macro@axios.com>",
@@ -989,24 +1007,6 @@
       "date": "Fri, 18 Sep 2026 16:05:31 -0400",
       "is_read": true,
       "file": "9111d0c2046f11223646f6721fe3a72abb49a9be6ea67ea6bb614b316c9b59ae.json"
-    },
-    {
-      "id": "861bfd649502f89283b4976bb0600e142b3155448542fa719d8fca04e05e270d",
-      "uid": "411193.abcBFURn+kFvfvodEXtLMhqHByRZRJqyBIOTc38ox4M=",
-      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
-      "subject": "A Custom-Built Home for Under $1 Million? It's Not Impossible.",
-      "date": "Fri, 18 Sep 2026 15:31:06 -0400",
-      "is_read": true,
-      "file": "861bfd649502f89283b4976bb0600e142b3155448542fa719d8fca04e05e270d.json"
-    },
-    {
-      "id": "cc60276ae0347b32e0bd91967cb8fb96e5a1387fb6b550a505aeeb3754ac0cb0",
-      "uid": "411192.dohngrWfMYwV0,OVB10qKubYSV8aaVrhhZc0L3rCgsA=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤖 Axios PM: Meta's AI hit",
-      "date": "Fri, 18 Sep 2026 15:01:33 -0400",
-      "is_read": true,
-      "file": "cc60276ae0347b32e0bd91967cb8fb96e5a1387fb6b550a505aeeb3754ac0cb0.json"
     }
   ]
 }
