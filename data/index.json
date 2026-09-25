@@ -501,7 +501,7 @@
       "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
       "subject": "Deliver all-weather growth",
       "date": "Thu, 24 Sep 2026 09:23:11 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "60707af55a0e144698b024fd444dc44229fd503684a2369e2cc48803cf16a798.json"
     },
     {
