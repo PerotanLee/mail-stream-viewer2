@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9020 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-25T14:24:46.845808+00:00",
-  "added": 7,
+  "updated_at": "2026-09-25T14:24:47.809541+00:00",
+  "added": 8,
   "skipped": 14,
   "scanned": 22,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: Trump-Xi Summit Gives China Something Money Could Never Buy",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 3,
     "seekingalpha": 2
   },
