@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=9040 from=Dan Primack <dan@axios.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-25T14:24:25.716923+00:00",
+  "updated_at": "2026-09-25T14:24:27.307079+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 9000
+  "skipped": 1,
+  "scanned": 2,
+  "current": "Dan Primack <dan@axios.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 9000,
+  "newest_num": 9041,
+  "scan_mode": "new",
+  "since": "2026-09-25T10:08:50.707623+00:00"
 }
