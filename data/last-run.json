@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9040 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-25T14:24:27.307079+00:00",
-  "added": 0,
+  "updated_at": "2026-09-25T14:24:29.268118+00:00",
+  "added": 1,
   "skipped": 1,
   "scanned": 2,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "Axios Pro Rata: Whistleblower",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 9000,
