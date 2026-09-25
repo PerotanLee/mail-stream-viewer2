@@ -838,6 +838,15 @@
       "file": "25ce1ad13f26808fe8b9385bd11e6a2a065e94cda8ee182a8d18fbbab4bd6a78.json"
     },
     {
+      "id": "0b16e5cfbcb77521f9bd77e80bdac1e36cc5b0ca824bc755530a70c5a40ff36b",
+      "uid": "412784.lW1M3t3FPAmXMaY2icBUP5e04ryEhJSAi4z3O2ob9FM=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🌎 5% world",
+      "date": "Fri, 25 Sep 2026 12:00:51 -0400",
+      "is_read": false,
+      "file": "0b16e5cfbcb77521f9bd77e80bdac1e36cc5b0ca824bc755530a70c5a40ff36b.json"
+    },
+    {
       "id": "63f40527c51b796bec24886810c6e347a5320f75a7768efbefb5bfac494235f1",
       "uid": "412778.WdvKErm,bOqX0X5llWTJFdrFDi0CX2QMkz0m2Cm4itA=",
       "from_addr": "Dan Primack <dan@axios.com>",
@@ -998,15 +1007,6 @@
       "date": "Fri, 18 Sep 2026 15:01:33 -0400",
       "is_read": true,
       "file": "cc60276ae0347b32e0bd91967cb8fb96e5a1387fb6b550a505aeeb3754ac0cb0.json"
-    },
-    {
-      "id": "5033dd63d68833bcb7d48a316993df0d72912ad23ea88c890a73439d3aa10e3f",
-      "uid": "411181.jFAmuLS,Cs,2YUIgppS0bB4fwrJEaUgw90Qdoh3b7nU=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🌏 Global hiking club",
-      "date": "Fri, 18 Sep 2026 12:03:17 -0400",
-      "is_read": true,
-      "file": "5033dd63d68833bcb7d48a316993df0d72912ad23ea88c890a73439d3aa10e3f.json"
     }
   ]
 }
