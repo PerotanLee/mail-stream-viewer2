@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8776 from=Colin Demarest <events@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-25T06:16:45.098074+00:00",
-  "added": 7,
+  "updated_at": "2026-09-25T06:16:46.201008+00:00",
+  "added": 8,
   "skipped": 126,
   "scanned": 134,
-  "current": "Colin Demarest <events@axios.com>",
+  "current": "🚀 Space is limited | Join Axios for coffee and convos in Dallas, Texas on Oct. 14",
   "added_by_filter": {
     "wsj": 3,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 1
   },
   "last_newest_num": 8624,
