@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8753 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-25T06:17:04.241994+00:00",
-  "added": 13,
+  "updated_at": "2026-09-25T06:17:05.352836+00:00",
+  "added": 14,
   "skipped": 143,
   "scanned": 157,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "All Cards On The Table At Trump-Xi Summit",
   "added_by_filter": {
     "wsj": 3,
     "axios": 8,
-    "seekingalpha": 2
+    "seekingalpha": 3
   },
   "last_newest_num": 8624,
   "newest_num": 8909,
