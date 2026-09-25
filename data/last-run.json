@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8727 from=\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-25T06:17:22.438074+00:00",
-  "added": 19,
+  "updated_at": "2026-09-25T06:17:23.931874+00:00",
+  "added": 20,
   "skipped": 163,
   "scanned": 183,
-  "current": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Economics: Xi Jinping Has Less Leverage Than It Seems",
   "added_by_filter": {
-    "wsj": 7,
+    "wsj": 8,
     "axios": 9,
     "seekingalpha": 3
   },
