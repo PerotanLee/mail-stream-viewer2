@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8770 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-25T06:16:50.505919+00:00",
-  "added": 9,
+  "updated_at": "2026-09-25T06:16:51.570706+00:00",
+  "added": 10,
   "skipped": 130,
   "scanned": 140,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "🤯 Shocking AI scale",
   "added_by_filter": {
     "wsj": 3,
-    "axios": 5,
+    "axios": 6,
     "seekingalpha": 1
   },
   "last_newest_num": 8624,
