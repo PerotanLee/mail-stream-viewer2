@@ -456,7 +456,7 @@
       "from_addr": "Colin Demarest <events@axios.com>",
       "subject": "🚀 Space is limited | Join Axios for coffee and convos in Dallas, Texas on Oct. 14",
       "date": "Thu, 24 Sep 2026 15:01:00 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "e3e95f166629e5cd735897aeb303c1a8da1404908895d00912cce1f91d09da26.json"
     },
     {
