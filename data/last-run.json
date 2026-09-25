@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8738 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-25T06:17:13.898916+00:00",
-  "added": 16,
+  "updated_at": "2026-09-25T06:17:14.898727+00:00",
+  "added": 17,
   "skipped": 155,
   "scanned": 172,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "📈 Markets A.M.: You Can’t Be Like Warren Buffett—Not Even He Could Again",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 9,
     "seekingalpha": 3
   },
