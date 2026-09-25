@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=8719 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-25T06:17:27.270885+00:00",
-  "added": 20,
+  "updated_at": "2026-09-25T06:17:28.264409+00:00",
+  "added": 21,
   "skipped": 170,
   "scanned": 191,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🧠 Axios AM: Inside China's mind",
   "added_by_filter": {
     "wsj": 8,
-    "axios": 9,
+    "axios": 10,
     "seekingalpha": 3
   },
   "last_newest_num": 8624,
