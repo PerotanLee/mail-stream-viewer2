@@ -375,7 +375,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🎥 Axios Finish Line: Movie night nostalgia",
       "date": "Thu, 24 Sep 2026 21:29:30 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "fa218cce4ba5e21f0500036236467d606099f5a6fcb1d029b6fabf794d753681.json"
     },
     {
