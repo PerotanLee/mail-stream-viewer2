@@ -829,6 +829,15 @@
       "file": "7da519a578d9152024e1284d1801c286a11802e38000e31b2b301b2028ab1aa9.json"
     },
     {
+      "id": "a79e4feca595086ad750ba54ff3b4a296c3058e9d6f3806697c07ecff00d79d8",
+      "uid": "412809.44876bh3JqQTZ83inUzI1A,gHXSvhoueg2jVpjroDw0=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🚛 Tesla Semi meets $6 diesel",
+      "date": "Fri, 25 Sep 2026 17:38:12 -0400",
+      "is_read": false,
+      "file": "a79e4feca595086ad750ba54ff3b4a296c3058e9d6f3806697c07ecff00d79d8.json"
+    },
+    {
       "id": "25ce1ad13f26808fe8b9385bd11e6a2a065e94cda8ee182a8d18fbbab4bd6a78",
       "uid": "412648.hMjKu,LV4Kgq9ip2SHcPvP3NnZRZhrXdypHHO7MuJ0g=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -836,6 +845,24 @@
       "date": "Fri, 25 Sep 2026 17:10:04 +1000",
       "is_read": true,
       "file": "25ce1ad13f26808fe8b9385bd11e6a2a065e94cda8ee182a8d18fbbab4bd6a78.json"
+    },
+    {
+      "id": "5d874363cbc39ced97ffce5eeddede4aca968ee560943897e52476887b770b6f",
+      "uid": "412802.NV21aqftdC0OUZHgR2aUCHsUw0LL1wvl1udXuansEg0=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Yields Retreat From Highs",
+      "date": "Fri, 25 Sep 2026 16:55:23 -0400",
+      "is_read": false,
+      "file": "5d874363cbc39ced97ffce5eeddede4aca968ee560943897e52476887b770b6f.json"
+    },
+    {
+      "id": "2c5641358bba8f407ab3cdf0c84fffda241a6987269ab6c0f9849e4b39e6c8ca",
+      "uid": "412797.uU2JaLAlQO4yCKWMRryzK0UORwcfmsbnlsWMUMJmaoM=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Crash Lessons Revisited: Coinbase And 2 Popular Dividend Stocks With Sell Ratings",
+      "date": "Fri, 25 Sep 2026 16:05:22 -0400",
+      "is_read": false,
+      "file": "2c5641358bba8f407ab3cdf0c84fffda241a6987269ab6c0f9849e4b39e6c8ca.json"
     },
     {
       "id": "81fae0f8245f12768ff19a7b73342ab67f2e14eff980cfb2a33dbdf9976fc4f9",
@@ -980,33 +1007,6 @@
       "date": "Fri, 25 Sep 2026 05:04:00 -0400",
       "is_read": false,
       "file": "3c01061114657af98f409ed547703d56c3c6572fc2459351bb694f1f3a0f629b.json"
-    },
-    {
-      "id": "a2c15147c76750b3699cf02add45096857e728dfb744bafb023dc5543a09f6cd",
-      "uid": "411207.Vlwk3B9ThOvabucVG8Ss7gD4eSwrAtucc1Uuhh,u6a4=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🚫 U.S. auto's China plea",
-      "date": "Fri, 18 Sep 2026 17:35:56 -0400",
-      "is_read": true,
-      "file": "a2c15147c76750b3699cf02add45096857e728dfb744bafb023dc5543a09f6cd.json"
-    },
-    {
-      "id": "44e433adc44a04c74a141a10eb5ab916e61d7b7c2f80d77af80d3920faeb90b9",
-      "uid": "411201.dbzv,91wzS,r2bUL4Wey5B,kw7Dk6oLTeQR1CNWsdv4=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Buffett Completes Succession Plan",
-      "date": "Fri, 18 Sep 2026 16:38:31 -0400",
-      "is_read": true,
-      "file": "44e433adc44a04c74a141a10eb5ab916e61d7b7c2f80d77af80d3920faeb90b9.json"
-    },
-    {
-      "id": "9111d0c2046f11223646f6721fe3a72abb49a9be6ea67ea6bb614b316c9b59ae",
-      "uid": "411196.UxzmXal2RkGtPJvAbWHndEtLsJczeWBfu3q5X,cBHRw=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "The Global Fuel Crisis Has Arrived: Why 3 Refiners Could Be The Biggest Winners",
-      "date": "Fri, 18 Sep 2026 16:05:31 -0400",
-      "is_read": true,
-      "file": "9111d0c2046f11223646f6721fe3a72abb49a9be6ea67ea6bb614b316c9b59ae.json"
     }
   ]
 }
