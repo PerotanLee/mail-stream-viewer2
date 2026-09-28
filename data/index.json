@@ -676,6 +676,51 @@
       "file": "4e865030d5ecacbc47b1a3452384964dcd9e87014aa1b3ba08518ec478ed56b5.json"
     },
     {
+      "id": "e8b118278bcf2cf03d86d0a73357e3ae6d2dc564d20b0dc5861e712ad21b5b42",
+      "uid": "413394.QHCqL22OC+jMJiNfGU6XSy5LEr4DRq39smJS5lEZj7I=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: AI self-own",
+      "date": "Mon, 28 Sep 2026 10:03:40 -0400",
+      "is_read": false,
+      "file": "e8b118278bcf2cf03d86d0a73357e3ae6d2dc564d20b0dc5861e712ad21b5b42.json"
+    },
+    {
+      "id": "b6516957d4d566bb679d783b49d3dd5fb0caec6a2397465be70be449ef02bb51",
+      "uid": "413389.3zJ6NGxF3P,yuXXdZmpnrkHTTlx7JdfldeWw3WjWrGY=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "👀 Meta earns a look",
+      "date": "Mon, 28 Sep 2026 09:28:19 -0400",
+      "is_read": false,
+      "file": "b6516957d4d566bb679d783b49d3dd5fb0caec6a2397465be70be449ef02bb51.json"
+    },
+    {
+      "id": "5121b0599d381d425494a77f1091c53d5c5be76ced8f5436c5f6cd100e51d640",
+      "uid": "413381.9eR4kwi6isjMQNB3OEHdSycTw8BmjChb9eFMtaS2,Xw=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Open-Weight Models On The Rise",
+      "date": "Mon, 28 Sep 2026 07:51:23 -0400",
+      "is_read": false,
+      "file": "5121b0599d381d425494a77f1091c53d5c5be76ced8f5436c5f6cd100e51d640.json"
+    },
+    {
+      "id": "ff9d005ff35f4d7261728437cddc8f84c903d44e7b4195414b86894269b11117",
+      "uid": "413377.uk9VRKYu497NE4EPMynFQ,yVe7W0oPCCkIZULMoI6lw=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "😀 Higher yields? No problem!",
+      "date": "Mon, 28 Sep 2026 07:29:08 -0400",
+      "is_read": false,
+      "file": "ff9d005ff35f4d7261728437cddc8f84c903d44e7b4195414b86894269b11117.json"
+    },
+    {
+      "id": "4d252a7ae7e09740f1f06a93d04f7c52894d743a562a4b7b2a271feb441d8eff",
+      "uid": "413369.OBXf,Jr2b6TGhCSQTTVdcKabKLYozk8lows2h7ioD+0=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Here’s What Could Happen if Republicans Win in November",
+      "date": "Mon, 28 Sep 2026 07:11:14 -0400",
+      "is_read": false,
+      "file": "4d252a7ae7e09740f1f06a93d04f7c52894d743a562a4b7b2a271feb441d8eff.json"
+    },
+    {
       "id": "b522f344d835cc843176662bdcde0f434c8d7b27511a40c2a87b95def4c2b947",
       "uid": "413358.MTcdE+2D3dubZp8TTh14JMsnuH4knj1xTntVZ0fRBmA=",
       "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
@@ -764,51 +809,6 @@
       "date": "Mon, 21 Sep 2026 11:58:30 -0400",
       "is_read": true,
       "file": "2fb04373b057c234f7bed4078a0c6e21a42c16f6c4f00ee1e09a326b4255728b.json"
-    },
-    {
-      "id": "6f683e4ae3ac1eba64674ec8541c13b807349e6cefd4d7b7dbc1b28325fe9d43",
-      "uid": "411737.mC6dR,uhbLZlBFGJOI0R0OfKXIabhWJcMYX5Wa5KKqU=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Antitrust argument",
-      "date": "Mon, 21 Sep 2026 09:56:23 -0400",
-      "is_read": true,
-      "file": "6f683e4ae3ac1eba64674ec8541c13b807349e6cefd4d7b7dbc1b28325fe9d43.json"
-    },
-    {
-      "id": "edaaa3f2b2f57f43ce3261256f03c28483e421d5f6adb7fbc0f2c2ad5dbca7f0",
-      "uid": "411736.tOjHmxDf1DLl5PI8gmapTcr97axfM0nL5Qp+kIPXWGA=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🤖 Trump's new AI czar",
-      "date": "Mon, 21 Sep 2026 09:28:17 -0400",
-      "is_read": true,
-      "file": "edaaa3f2b2f57f43ce3261256f03c28483e421d5f6adb7fbc0f2c2ad5dbca7f0.json"
-    },
-    {
-      "id": "84c11831493cbf03ba5755f06b51c6245e87ef1d4dd4d91227325ee5ada09cd5",
-      "uid": "411725.6MHypYPPh+40m+lkIo6PadK1tfS4T9W,zFooCpscO9Y=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Busy Week For Geopolitics",
-      "date": "Mon, 21 Sep 2026 07:46:55 -0400",
-      "is_read": true,
-      "file": "84c11831493cbf03ba5755f06b51c6245e87ef1d4dd4d91227325ee5ada09cd5.json"
-    },
-    {
-      "id": "1f16d93c2a5c3bbdabb89409288426c853b741fd3f62aee89fc6f0a864f168b1",
-      "uid": "411721.GXFgKMvdqECdNmex0eLPQB9fP3Iph4pzeNgQUpDZQQA=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🤖 Too interconnected to fail",
-      "date": "Mon, 21 Sep 2026 07:28:57 -0400",
-      "is_read": true,
-      "file": "1f16d93c2a5c3bbdabb89409288426c853b741fd3f62aee89fc6f0a864f168b1.json"
-    },
-    {
-      "id": "2cb07adb40ad552826413d4a3739c4186d29402a7b032699fb0adb2eaec183f1",
-      "uid": "411720.E98AobG1m04xukJRc2rKZSowr5F,QMEWmR1a95FZzXM=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: The Midterm Sprint Is Here. Senate Polls Show a Lot of Blue.",
-      "date": "Mon, 21 Sep 2026 07:24:45 -0400",
-      "is_read": true,
-      "file": "2cb07adb40ad552826413d4a3739c4186d29402a7b032699fb0adb2eaec183f1.json"
     },
     {
       "id": "7da519a578d9152024e1284d1801c286a11802e38000e31b2b301b2028ab1aa9",
