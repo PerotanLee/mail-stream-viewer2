@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9507 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-28T14:17:26.080161+00:00",
-  "added": 0,
+  "updated_at": "2026-09-28T14:17:27.433235+00:00",
+  "added": 1,
   "skipped": 3,
   "scanned": 4,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "Axios Pro Rata: AI self-own",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 9481,
