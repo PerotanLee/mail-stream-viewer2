@@ -636,7 +636,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🚨 Axios AM: \"Red undertow\" election",
       "date": "Sat, 26 Sep 2026 09:07:22 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "aec456119b4d6603f6dde3e19e8f3b263c46180467c002c162c05df88224fbbf.json"
     },
     {
