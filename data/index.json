@@ -667,6 +667,15 @@
       "file": "7e816f5136eeef6b42762958c7f7349ffa77b243c03a958cd30e0c3cb9d1d3ae.json"
     },
     {
+      "id": "c18c67c84216f1e4ecc86011fd7b11da37e4c854f4c1db81b8f559275e88e11d",
+      "uid": "413428.ncF5qI3CVjC5fc,WpTvTIBcsDs7FUR2fdzD6xN+owaM=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🤖 Nvidia's rogue AI solution",
+      "date": "Mon, 28 Sep 2026 17:32:43 -0400",
+      "is_read": false,
+      "file": "c18c67c84216f1e4ecc86011fd7b11da37e4c854f4c1db81b8f559275e88e11d.json"
+    },
+    {
       "id": "4e865030d5ecacbc47b1a3452384964dcd9e87014aa1b3ba08518ec478ed56b5",
       "uid": "413299.P8E59TPbCX12yiTFpCypfGuSDUxxSkgnK2fLDHvObwc=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -674,6 +683,24 @@
       "date": "Mon, 28 Sep 2026 17:10:07 +1000",
       "is_read": true,
       "file": "4e865030d5ecacbc47b1a3452384964dcd9e87014aa1b3ba08518ec478ed56b5.json"
+    },
+    {
+      "id": "06646c91e3d855bb998f52dc82234deb8137a13081af057b239af5d2f516247f",
+      "uid": "413422.5sJ6fdlKFNOY3MURgf6fGSZWiFcxoJ0j62SjaO4QOws=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Tyler Perry’s Beverly Hills Estate Asks $57 Million",
+      "date": "Mon, 28 Sep 2026 17:03:22 -0400",
+      "is_read": false,
+      "file": "06646c91e3d855bb998f52dc82234deb8137a13081af057b239af5d2f516247f.json"
+    },
+    {
+      "id": "842d73fcc8f658e432d38922405e677c8160071974d4d537d945c547ad38b1dc",
+      "uid": "413412.TsGWmiircDQgji7gPWVrKuS3gTdQt4kwEAu4tKT6guw=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Yields at Fresh Highs",
+      "date": "Mon, 28 Sep 2026 16:23:21 -0400",
+      "is_read": false,
+      "file": "842d73fcc8f658e432d38922405e677c8160071974d4d537d945c547ad38b1dc.json"
     },
     {
       "id": "cb3f3d72ccddb70b6f8008a8e12fd970b90b0d80e1e24661d0989076ba43212a",
@@ -782,24 +809,6 @@
       "date": "Mon, 21 Sep 2026 21:29:51 -0400",
       "is_read": true,
       "file": "f6a70c7cc28a850032eea2c62a22517159e21e6284bb2d0b79d642cb4f9467c6.json"
-    },
-    {
-      "id": "7a9a0dce7aadcc183ec81df2ecc54d39034ea0a9560e9a8042a946c0ccd137be",
-      "uid": "411772.,AKyU8PSq,Wy5pDqLBrrLsAgdXyYChUedrQvuJRTV3Q=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🛒 Agentic turf war",
-      "date": "Mon, 21 Sep 2026 17:48:47 -0400",
-      "is_read": true,
-      "file": "7a9a0dce7aadcc183ec81df2ecc54d39034ea0a9560e9a8042a946c0ccd137be.json"
-    },
-    {
-      "id": "2057c293e95a5158799556d1e1b157154e26f70f2bfe042a336f8a5f818cde93",
-      "uid": "411760.nnTZ8H2RXvuaJXi5EnDg,WFdFL2,CPSsqAy+CdbIE1k=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Tech Leads A Rally",
-      "date": "Mon, 21 Sep 2026 16:45:30 -0400",
-      "is_read": true,
-      "file": "2057c293e95a5158799556d1e1b157154e26f70f2bfe042a336f8a5f818cde93.json"
     },
     {
       "id": "7da519a578d9152024e1284d1801c286a11802e38000e31b2b301b2028ab1aa9",
