@@ -699,7 +699,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Yields at Fresh Highs",
       "date": "Mon, 28 Sep 2026 16:23:21 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "842d73fcc8f658e432d38922405e677c8160071974d4d537d945c547ad38b1dc.json"
     },
     {
