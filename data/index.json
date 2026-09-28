@@ -658,6 +658,15 @@
       "file": "3855b4973467d06d97d94e39028e396a5ae3e3f52d337e3db61f6ec17543d33c.json"
     },
     {
+      "id": "7e816f5136eeef6b42762958c7f7349ffa77b243c03a958cd30e0c3cb9d1d3ae",
+      "uid": "413360.Y4ZFWesp81weFgpZbmYina3l+Mjzxpy4kgqNC4I8fCk=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Peptide Boom, Interview Etiquette, Colleges Cut Prices",
+      "date": "Mon, 28 Sep 2026 20:32:11 +1000",
+      "is_read": false,
+      "file": "7e816f5136eeef6b42762958c7f7349ffa77b243c03a958cd30e0c3cb9d1d3ae.json"
+    },
+    {
       "id": "4e865030d5ecacbc47b1a3452384964dcd9e87014aa1b3ba08518ec478ed56b5",
       "uid": "413299.P8E59TPbCX12yiTFpCypfGuSDUxxSkgnK2fLDHvObwc=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -667,6 +676,33 @@
       "file": "4e865030d5ecacbc47b1a3452384964dcd9e87014aa1b3ba08518ec478ed56b5.json"
     },
     {
+      "id": "b522f344d835cc843176662bdcde0f434c8d7b27511a40c2a87b95def4c2b947",
+      "uid": "413358.MTcdE+2D3dubZp8TTh14JMsnuH4knj1xTntVZ0fRBmA=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🛳️ Markets A.M.: Cruise Stocks Have Hit Choppy Waters",
+      "date": "Mon, 28 Sep 2026 06:29:45 -0400",
+      "is_read": false,
+      "file": "b522f344d835cc843176662bdcde0f434c8d7b27511a40c2a87b95def4c2b947.json"
+    },
+    {
+      "id": "c59da5e269bd94a727ce2ef1291b9949ac0b01bf89f17230ba4a9ec0668c1834",
+      "uid": "413354.wuemSlXQXfF1E0oP1rqD,AYDrk+xxF5oddotrmzjENU=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: How Trump’s Moves Drove Rates and Inflation Higher",
+      "date": "Mon, 28 Sep 2026 06:09:19 -0400",
+      "is_read": false,
+      "file": "c59da5e269bd94a727ce2ef1291b9949ac0b01bf89f17230ba4a9ec0668c1834.json"
+    },
+    {
+      "id": "71fb08b2ceabdb0fce4cf0c15e4c40b937a89c1b959b318d0c873f28c5db6a04",
+      "uid": "413350.jpCT+FUOSUm5Irny3L0Gf1xb9lk6EnC6fJMm9mkMMj0=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "✨ Axios AM: The face of AI",
+      "date": "Mon, 28 Sep 2026 06:02:37 -0400",
+      "is_read": false,
+      "file": "71fb08b2ceabdb0fce4cf0c15e4c40b937a89c1b959b318d0c873f28c5db6a04.json"
+    },
+    {
       "id": "f6a70c7cc28a850032eea2c62a22517159e21e6284bb2d0b79d642cb4f9467c6",
       "uid": "411802.kq2jMLNmIAFrb,o3axlxwpzz+DC93Ij+mazNtnYEHYw=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -674,15 +710,6 @@
       "date": "Mon, 21 Sep 2026 21:29:51 -0400",
       "is_read": true,
       "file": "f6a70c7cc28a850032eea2c62a22517159e21e6284bb2d0b79d642cb4f9467c6.json"
-    },
-    {
-      "id": "5216ab2d5ea87a7ebc57a43ff77835ec6f550c7185c47a308623c23bf34f7a66",
-      "uid": "411707.2FbLJDmv2+9+G342fcZKGu4XBGZjD+5IOmuIs8ULd+c=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Wacky ETFs, Crypto Focus, Hamptons Helicopters",
-      "date": "Mon, 21 Sep 2026 20:32:09 +1000",
-      "is_read": true,
-      "file": "5216ab2d5ea87a7ebc57a43ff77835ec6f550c7185c47a308623c23bf34f7a66.json"
     },
     {
       "id": "7a9a0dce7aadcc183ec81df2ecc54d39034ea0a9560e9a8042a946c0ccd137be",
@@ -782,33 +809,6 @@
       "date": "Mon, 21 Sep 2026 07:24:45 -0400",
       "is_read": true,
       "file": "2cb07adb40ad552826413d4a3739c4186d29402a7b032699fb0adb2eaec183f1.json"
-    },
-    {
-      "id": "70b909fc725837cd586d9e1885122cf3c0762967d505acd45d4805ea82d16df7",
-      "uid": "411709.NoX8dlgEqlRIG6Pn59x38pejIna5rCIfPLvkMiZeppg=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🔧 Markets A.M.: Auto Parts Retailers Can Turn the Corner",
-      "date": "Mon, 21 Sep 2026 06:37:59 -0400",
-      "is_read": true,
-      "file": "70b909fc725837cd586d9e1885122cf3c0762967d505acd45d4805ea82d16df7.json"
-    },
-    {
-      "id": "0862c79f903d20621d805aa4596f956807647a769fe2d757a39273d00b558d44",
-      "uid": "411704.bzleUO+S1dVOh7Og1tr7yKuS8ndgb2bHnfDeG9x7IO4=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: What Voters Want From the Midterms",
-      "date": "Mon, 21 Sep 2026 06:08:32 -0400",
-      "is_read": true,
-      "file": "0862c79f903d20621d805aa4596f956807647a769fe2d757a39273d00b558d44.json"
-    },
-    {
-      "id": "aa9088b38e96d63a77dd32f20d610538c1070b2157f8ee7fc07d5869d6fc10b4",
-      "uid": "411701.meX2GOPCpK78qcf1bnLDpK+oC4Exz7s4S6SLQI43B+E=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🔮 Axios AM: Trump's future foretold",
-      "date": "Mon, 21 Sep 2026 05:55:45 -0400",
-      "is_read": true,
-      "file": "aa9088b38e96d63a77dd32f20d610538c1070b2157f8ee7fc07d5869d6fc10b4.json"
     },
     {
       "id": "7da519a578d9152024e1284d1801c286a11802e38000e31b2b301b2028ab1aa9",
