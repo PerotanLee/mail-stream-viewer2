@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "POP3接続",
-  "phase": "connect",
+  "step": "本文取得 num=9480 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-28T10:46:28.017828+00:00",
+  "updated_at": "2026-09-28T10:46:29.073550+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 9447
+  "skipped": 1,
+  "scanned": 2,
+  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 9447,
+  "newest_num": 9481,
+  "scan_mode": "new",
+  "since": "2026-09-28T08:25:43.713291+00:00"
 }
