@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9514 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-28T16:41:41.681767+00:00",
-  "added": 0,
+  "updated_at": "2026-09-28T16:41:42.964292+00:00",
+  "added": 1,
   "skipped": 4,
   "scanned": 5,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "🧳 Immigration aftershocks",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 9511,
