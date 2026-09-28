@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9529 from=\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-28T21:52:37.564298+00:00",
-  "added": 1,
+  "updated_at": "2026-09-28T21:52:38.800596+00:00",
+  "added": 2,
   "skipped": 8,
   "scanned": 10,
-  "current": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "current": "Mansion Deals Alert: Tyler Perry’s Beverly Hills Estate Asks $57 Million",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 1,
     "seekingalpha": 0
   },
