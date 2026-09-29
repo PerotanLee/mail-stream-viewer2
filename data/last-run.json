@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9762 from=\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-29T17:34:41.628833+00:00",
-  "added": 2,
+  "updated_at": "2026-09-29T17:34:43.041300+00:00",
+  "added": 3,
   "skipped": 4,
   "scanned": 7,
-  "current": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
+  "current": "The Intelligent Investor: October: A Time for Investors to Reap...and Sow",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 1,
     "seekingalpha": 0
   },
