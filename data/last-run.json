@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9744 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-29T17:34:57.657635+00:00",
-  "added": 7,
+  "updated_at": "2026-09-29T17:34:58.841348+00:00",
+  "added": 8,
   "skipped": 17,
   "scanned": 25,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "No Sanctions Relief For Iran",
   "added_by_filter": {
     "wsj": 3,
     "axios": 3,
-    "seekingalpha": 1
+    "seekingalpha": 2
   },
   "last_newest_num": 9683,
   "newest_num": 9768,
