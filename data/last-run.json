@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9735 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-29T17:35:03.664236+00:00",
-  "added": 9,
+  "updated_at": "2026-09-29T17:35:04.853040+00:00",
+  "added": 10,
   "skipped": 24,
   "scanned": 34,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: What to Expect if Democrats Win in November",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 4,
     "seekingalpha": 2
   },
