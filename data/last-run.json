@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9724 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-29T17:35:16.727982+00:00",
-  "added": 13,
+  "updated_at": "2026-09-29T17:35:18.046140+00:00",
+  "added": 14,
   "skipped": 31,
   "scanned": 45,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🚨 Axios AM: Trump's wage-and-cost blues",
   "added_by_filter": {
     "wsj": 7,
-    "axios": 4,
+    "axios": 5,
     "seekingalpha": 2
   },
   "last_newest_num": 9683,
