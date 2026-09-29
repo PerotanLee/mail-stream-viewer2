@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9733 from=\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-29T17:35:06.568433+00:00",
-  "added": 10,
+  "updated_at": "2026-09-29T17:35:07.778594+00:00",
+  "added": 11,
   "skipped": 25,
   "scanned": 36,
-  "current": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ China: The Woman He Leaned On",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 4,
     "seekingalpha": 2
   },
