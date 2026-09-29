@@ -204,7 +204,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🤖 Axios PM: OpenAI drops dots",
       "date": "Tue, 29 Sep 2026 15:15:33 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "85b84f415267370d16b7a766202a31b982d8824d77e419e9362f6f508c95cc61.json"
     },
     {
