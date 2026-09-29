@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9771 from=Naheed Rajwani-Dharsi <events@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-29T19:33:41.182574+00:00",
-  "added": 1,
+  "updated_at": "2026-09-29T19:33:42.649455+00:00",
+  "added": 2,
   "skipped": 0,
   "scanned": 2,
-  "current": "Naheed Rajwani-Dharsi <events@axios.com>",
+  "current": "🚀 You're invited | Join Axios for coffee and convos in Dallas on Oct. 14",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 0
   },
   "last_newest_num": 9768,
