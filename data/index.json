@@ -658,6 +658,15 @@
       "file": "3855b4973467d06d97d94e39028e396a5ae3e3f52d337e3db61f6ec17543d33c.json"
     },
     {
+      "id": "36d42926b3ec9923d3e492bdaecb4a38df5f80c4f1d3d38eff1aeba5578b9dba",
+      "uid": "413495.h1LBi5e0+yrX65vf8kCLV8S18+IvCk,LDBvidGQb7ds=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios Finish Line: Your AI guide",
+      "date": "Mon, 28 Sep 2026 21:28:23 -0400",
+      "is_read": false,
+      "file": "36d42926b3ec9923d3e492bdaecb4a38df5f80c4f1d3d38eff1aeba5578b9dba.json"
+    },
+    {
       "id": "7e816f5136eeef6b42762958c7f7349ffa77b243c03a958cd30e0c3cb9d1d3ae",
       "uid": "413360.Y4ZFWesp81weFgpZbmYina3l+Mjzxpy4kgqNC4I8fCk=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -800,15 +809,6 @@
       "date": "Mon, 28 Sep 2026 06:02:37 -0400",
       "is_read": true,
       "file": "71fb08b2ceabdb0fce4cf0c15e4c40b937a89c1b959b318d0c873f28c5db6a04.json"
-    },
-    {
-      "id": "f6a70c7cc28a850032eea2c62a22517159e21e6284bb2d0b79d642cb4f9467c6",
-      "uid": "411802.kq2jMLNmIAFrb,o3axlxwpzz+DC93Ij+mazNtnYEHYw=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "📖 Axios Finish Line: Ask your elders",
-      "date": "Mon, 21 Sep 2026 21:29:51 -0400",
-      "is_read": true,
-      "file": "f6a70c7cc28a850032eea2c62a22517159e21e6284bb2d0b79d642cb4f9467c6.json"
     },
     {
       "id": "7da519a578d9152024e1284d1801c286a11802e38000e31b2b301b2028ab1aa9",
