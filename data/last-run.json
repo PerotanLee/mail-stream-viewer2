@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9741 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-29T17:35:00.485930+00:00",
-  "added": 8,
+  "updated_at": "2026-09-29T17:35:01.690006+00:00",
+  "added": 9,
   "skipped": 19,
   "scanned": 28,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "👀 Curve appeal",
   "added_by_filter": {
     "wsj": 3,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 2
   },
   "last_newest_num": 9683,
