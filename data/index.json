@@ -19,6 +19,33 @@
       "file": "b90e1e568d31e8ce18af4052caf74f545e737f29153701817b75b9af00f2eac8.json"
     },
     {
+      "id": "a7cbd51c3c5136a9ad9980d1df12a6a1b555305dccb82ba5203b7ed05531d3c4",
+      "uid": "413978.Lr+xmLYhiysK5sJQXXN0d2mc5nGZXcB,iyRE3ZZAgmA=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "States Move To Rein In Fuel Prices",
+      "date": "Wed, 30 Sep 2026 07:43:37 -0400",
+      "is_read": false,
+      "file": "a7cbd51c3c5136a9ad9980d1df12a6a1b555305dccb82ba5203b7ed05531d3c4.json"
+    },
+    {
+      "id": "4face79556647395c7103f8615ccb351644cd5c788443951de1720fa149783ee",
+      "uid": "413973.w6IoiMiCacjN5w,pG9r1g2uteRN0hLI7IvMXKD5wyaY=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "💀 Real P-doom",
+      "date": "Wed, 30 Sep 2026 07:28:59 -0400",
+      "is_read": false,
+      "file": "4face79556647395c7103f8615ccb351644cd5c788443951de1720fa149783ee.json"
+    },
+    {
+      "id": "c1a4f7601a01f2cfbb9378958e259dbc04d3a187e550a41de1acad668c7ca953",
+      "uid": "413966.rcQ4lSMvyauLazXDW,DESqZQtnjaIZZv7weJwQa0FK0=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Three Surprising Midterm Themes Now Emerging",
+      "date": "Wed, 30 Sep 2026 07:03:10 -0400",
+      "is_read": false,
+      "file": "c1a4f7601a01f2cfbb9378958e259dbc04d3a187e550a41de1acad668c7ca953.json"
+    },
+    {
       "id": "55780aa1bf80447a6a5d8e4f522dbfdbe4eb42f29f71846ea7eabbdafd84c749",
       "uid": "413954.4WY0694dqhzzNED8esrBWxAeNgQEMjqVZCrvvLCsSPg=",
       "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
@@ -143,33 +170,6 @@
       "date": "Wed, 23 Sep 2026 09:28:23 -0400",
       "is_read": true,
       "file": "4c06cf1a7780a6d4036a34ebef9edfef4ff52e63f0e6f1fc602406e0bdcbe115.json"
-    },
-    {
-      "id": "ed916e7da81da6a9ad1542061e2cb902a7669f5dc016b821bc38df2f9fc11456",
-      "uid": "412132.uZdEFtkjmEnnjEqM7VG1ww28QcURqI1Rtg7UukoqEKg=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Trump Backs Diesel Export Ban",
-      "date": "Wed, 23 Sep 2026 07:42:14 -0400",
-      "is_read": true,
-      "file": "ed916e7da81da6a9ad1542061e2cb902a7669f5dc016b821bc38df2f9fc11456.json"
-    },
-    {
-      "id": "7c50bd941a5b1333b1c78ceb543b530649854e6467b86ebff1f8529cac6b4ad5",
-      "uid": "412131.7KwoLdhoHpqn,uFTQOlOUd0tbbjaY+zloKgE3fBUw9E=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "😳 Worrying about stocks",
-      "date": "Wed, 23 Sep 2026 07:28:37 -0400",
-      "is_read": true,
-      "file": "7c50bd941a5b1333b1c78ceb543b530649854e6467b86ebff1f8529cac6b4ad5.json"
-    },
-    {
-      "id": "74e9994db100afe36d72c743b691274a73e643cb5f21bef751f632ce4f2d6511",
-      "uid": "412128.n+0ICAcXKfq6n8DvDt,Gfd3ax0i0X,,9wnboKJ2yDCU=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Kamala Harris Campaigns for Abdul El-Sayed",
-      "date": "Wed, 23 Sep 2026 07:06:53 -0400",
-      "is_read": true,
-      "file": "74e9994db100afe36d72c743b691274a73e643cb5f21bef751f632ce4f2d6511.json"
     },
     {
       "id": "41c69a0e48cbadb31c912a3d1fc7b903ba3fa3870bf8a720612a9669cca3cdbe",
