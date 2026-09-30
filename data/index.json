@@ -1,6 +1,15 @@
 {
   "emails": [
     {
+      "id": "e365f61f978af2aee44ceda339651927a8475551f97b0110b2648b853914ae52",
+      "uid": "413953.jgJOFWynp090AF00VFuHCuNEONjFL7H7rtEl7K1O6HI=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "WSJ Wealth Adviser Briefing: Short-Term Yields, Desperate Car Dealers, Ford’s Hawk on Duty",
+      "date": "Wed, 30 Sep 2026 20:32:23 +1000",
+      "is_read": false,
+      "file": "e365f61f978af2aee44ceda339651927a8475551f97b0110b2648b853914ae52.json"
+    },
+    {
       "id": "b90e1e568d31e8ce18af4052caf74f545e737f29153701817b75b9af00f2eac8",
       "uid": "413883.qAtbT7NvfcN8xfvphaPkEYfqDEALl7kn+l8hSMToSUw=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -8,6 +17,24 @@
       "date": "Wed, 30 Sep 2026 17:10:07 +1000",
       "is_read": true,
       "file": "b90e1e568d31e8ce18af4052caf74f545e737f29153701817b75b9af00f2eac8.json"
+    },
+    {
+      "id": "55780aa1bf80447a6a5d8e4f522dbfdbe4eb42f29f71846ea7eabbdafd84c749",
+      "uid": "413954.4WY0694dqhzzNED8esrBWxAeNgQEMjqVZCrvvLCsSPg=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "😔 Markets A.M.: Bonds Slammed Your Retirement Fund. Time for a Second Chance?",
+      "date": "Wed, 30 Sep 2026 06:36:21 -0400",
+      "is_read": false,
+      "file": "55780aa1bf80447a6a5d8e4f522dbfdbe4eb42f29f71846ea7eabbdafd84c749.json"
+    },
+    {
+      "id": "e862ed252fac6cb40755db76d1d199f8374d0decda53928d230d805a462708f7",
+      "uid": "413952.9WCFmBEQH9UbuCHG24fRQVu7WSYOOSOqAutIZURF0o4=",
+      "from_addr": "Axios Defense <defense@axios.com>",
+      "subject": "🔌 The Pele puzzle",
+      "date": "Wed, 30 Sep 2026 06:30:13 -0400",
+      "is_read": false,
+      "file": "e862ed252fac6cb40755db76d1d199f8374d0decda53928d230d805a462708f7.json"
     },
     {
       "id": "be713883271c14e424332237e28bcacd1ab6636fef74aa221bcf71546ffc88ba",
@@ -35,15 +62,6 @@
       "date": "Wed, 23 Sep 2026 21:29:23 -0400",
       "is_read": true,
       "file": "426dd72547de3f802cda9981156ef41e2b67d785cce5af77a10ec12148145a75.json"
-    },
-    {
-      "id": "405a854cb0c257c3646c142e9c83376264a885424caaefc1b4ad8320c5f67d1c",
-      "uid": "412114.d1wBJ88zZEXf1FGsNJpq+rVuZ649kxPBI+AcIaHZhHM=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Real-Estate Bargains, Rocket Supply Crunch, Very Cheap Caviar",
-      "date": "Wed, 23 Sep 2026 20:32:01 +1000",
-      "is_read": true,
-      "file": "405a854cb0c257c3646c142e9c83376264a885424caaefc1b4ad8320c5f67d1c.json"
     },
     {
       "id": "e613b71906f906063e27a699b8733cf62c01f15ac0f0e3fb527e2a51a75dbdea",
@@ -152,24 +170,6 @@
       "date": "Wed, 23 Sep 2026 07:06:53 -0400",
       "is_read": true,
       "file": "74e9994db100afe36d72c743b691274a73e643cb5f21bef751f632ce4f2d6511.json"
-    },
-    {
-      "id": "d997612dcef8033c7aa5fda1dce51751bf8a861735f2f51d210bd0eeb914a5e9",
-      "uid": "412113.glL1ro73X2bkgMi8E1v1vQ+aHK333Vie4,e0cyB6TQ0=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🥐 Markets A.M.: Add France to Your List of Investing Worries",
-      "date": "Wed, 23 Sep 2026 06:32:21 -0400",
-      "is_read": true,
-      "file": "d997612dcef8033c7aa5fda1dce51751bf8a861735f2f51d210bd0eeb914a5e9.json"
-    },
-    {
-      "id": "64a3bc21144d9b308c98178abe72bb81289221c0eb365af13ca4bd02cfb34e11",
-      "uid": "412112.Tk+WJLT4weietPPTjbO8T,RJa,poapXBf0taOWusOK4=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "💣 Space war spoken",
-      "date": "Wed, 23 Sep 2026 06:30:13 -0400",
-      "is_read": true,
-      "file": "64a3bc21144d9b308c98178abe72bb81289221c0eb365af13ca4bd02cfb34e11.json"
     },
     {
       "id": "41c69a0e48cbadb31c912a3d1fc7b903ba3fa3870bf8a720612a9669cca3cdbe",
