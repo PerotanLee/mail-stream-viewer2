@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=9971 from=Axios Defense <defense@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-09-30T10:41:36.964392+00:00",
-  "added": 2,
+  "updated_at": "2026-09-30T10:41:38.190501+00:00",
+  "added": 3,
   "skipped": 2,
   "scanned": 5,
-  "current": "Axios Defense <defense@axios.com>",
+  "current": "🔌 The Pele puzzle",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 9970,
