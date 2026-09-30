@@ -10,6 +10,24 @@
       "file": "b90e1e568d31e8ce18af4052caf74f545e737f29153701817b75b9af00f2eac8.json"
     },
     {
+      "id": "be713883271c14e424332237e28bcacd1ab6636fef74aa221bcf71546ffc88ba",
+      "uid": "413942.8smwhyzzBEqVOXuhwkuxmaHgduoT0SWLXxh,7wGwa3U=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Wall Street’s IPO Boom Stalls",
+      "date": "Wed, 30 Sep 2026 06:03:51 -0400",
+      "is_read": false,
+      "file": "be713883271c14e424332237e28bcacd1ab6636fef74aa221bcf71546ffc88ba.json"
+    },
+    {
+      "id": "93d853f55601abf5513054acff4a2fdc1094718b6992df98dda39ff6a9797b4c",
+      "uid": "413933.0QPPLl+EbuCkb,M+2ngcc2G4vM+3O,71RcGU1VDBv24=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "📜 Axios AM: Trump's AI \"constitution\"",
+      "date": "Wed, 30 Sep 2026 05:36:39 -0400",
+      "is_read": false,
+      "file": "93d853f55601abf5513054acff4a2fdc1094718b6992df98dda39ff6a9797b4c.json"
+    },
+    {
       "id": "426dd72547de3f802cda9981156ef41e2b67d785cce5af77a10ec12148145a75",
       "uid": "412232.,VbZiT6DcAg3Ur33fWKqqQxF+KIHFQwrAGfBOJ3XbUo=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -152,24 +170,6 @@
       "date": "Wed, 23 Sep 2026 06:30:13 -0400",
       "is_read": true,
       "file": "64a3bc21144d9b308c98178abe72bb81289221c0eb365af13ca4bd02cfb34e11.json"
-    },
-    {
-      "id": "5b2d15faf2e4c61f9289d7fce2077790a4022243d3e24ba9928a3102c5beb013",
-      "uid": "412106.sVN2H5hRY28LLT0Cd2Mu40kmkpwaNqFWlgpeo+o1c3I=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤖 Axios AM: The \"All-In\"-ization of Trump",
-      "date": "Wed, 23 Sep 2026 06:05:38 -0400",
-      "is_read": true,
-      "file": "5b2d15faf2e4c61f9289d7fce2077790a4022243d3e24ba9928a3102c5beb013.json"
-    },
-    {
-      "id": "d67844b5391f3057d1e19012e5fde2383dd9f122df10f9d5570c6c1c5d0d2c56",
-      "uid": "412102.sPAGsiFW32CKk2Nar,zopQC58wbh2CNGtTcOM7kw9cg=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Zelensky Tells Us What It Will Take to End the War",
-      "date": "Wed, 23 Sep 2026 05:59:57 -0400",
-      "is_read": true,
-      "file": "d67844b5391f3057d1e19012e5fde2383dd9f122df10f9d5570c6c1c5d0d2c56.json"
     },
     {
       "id": "41c69a0e48cbadb31c912a3d1fc7b903ba3fa3870bf8a720612a9669cca3cdbe",
