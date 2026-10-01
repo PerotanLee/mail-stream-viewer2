@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=10004 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-01T08:48:23.329863+00:00",
-  "added": 9,
+  "updated_at": "2026-10-01T08:48:24.340767+00:00",
+  "added": 10,
   "skipped": 171,
   "scanned": 181,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "Axios Pro Rata: Anthropic's IPO path",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 5,
+    "axios": 6,
     "seekingalpha": 2
   },
   "last_newest_num": 10001,
