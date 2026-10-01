@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=10216 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-01T10:22:21.338159+00:00",
-  "added": 0,
+  "updated_at": "2026-10-01T10:22:22.982423+00:00",
+  "added": 1,
   "skipped": 4,
   "scanned": 5,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🤝 Axios AM: All in together",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 10214,
