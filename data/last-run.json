@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=10002 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-01T08:48:28.213881+00:00",
-  "added": 11,
+  "updated_at": "2026-10-01T08:48:29.335861+00:00",
+  "added": 12,
   "skipped": 171,
   "scanned": 183,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "🤖 Are dots safe?",
   "added_by_filter": {
     "wsj": 3,
-    "axios": 6,
+    "axios": 7,
     "seekingalpha": 2
   },
   "last_newest_num": 10001,
