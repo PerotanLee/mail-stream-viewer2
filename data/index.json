@@ -537,7 +537,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Treasuries' Worst Quarter Since '94",
       "date": "Thu, 01 Oct 2026 07:44:17 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "7a49f2658b5a978441e222ace5bd006bf3083c883732a4f26857f0ed4bd0c46e.json"
     },
     {
