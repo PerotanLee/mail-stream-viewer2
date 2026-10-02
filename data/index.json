@@ -915,7 +915,7 @@
       "from_addr": "Alpha Picks <subscriptions@seekingalpha.com>",
       "subject": "Members got a new pick yesterday. You didn't.",
       "date": "Fri, 02 Oct 2026 08:46:59 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "4fa61933163836bf2100dcc2ad84195c3e22e11ef6b650f3c9bb9af04f8f46af.json"
     },
     {
