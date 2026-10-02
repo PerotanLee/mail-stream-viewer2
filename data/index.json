@@ -397,76 +397,13 @@
       "file": "4aaa6fe50b38a81c9e2facd116e3a99a2e50fe2642fd3accdeda82cb1d8e187a.json"
     },
     {
-      "id": "fa218cce4ba5e21f0500036236467d606099f5a6fcb1d029b6fabf794d753681",
-      "uid": "412551.ooj6A9P,DNODGdaqsnF8wVIZ2KZ1pXLlhwP0am45fm0=",
+      "id": "4412ca767029a15a40f5752570857c5558bcbfbce65118f02407a0e3ee9e5fbf",
+      "uid": "414373.U3qzTvazXOdDEauYTgWoFjpCAtxGOSuWLNtqAiM9jIs=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🎥 Axios Finish Line: Movie night nostalgia",
-      "date": "Thu, 24 Sep 2026 21:29:30 -0400",
-      "is_read": true,
-      "file": "fa218cce4ba5e21f0500036236467d606099f5a6fcb1d029b6fabf794d753681.json"
-    },
-    {
-      "id": "6f1ad37aa981c8089ecba9b36d560435c3607bf5b124756a0dd1214df0513947",
-      "uid": "412500.AUVcJOpMIVGun03JssYhnPGnp16IW4bH4EFHkDJtLvg=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🚧 Risk gets real",
-      "date": "Thu, 24 Sep 2026 17:26:31 -0400",
-      "is_read": true,
-      "file": "6f1ad37aa981c8089ecba9b36d560435c3607bf5b124756a0dd1214df0513947.json"
-    },
-    {
-      "id": "6394af42928e3f5c2fcb949e2f89e52cee9bb74520fd54f59b373c0f9b3c19df",
-      "uid": "412489.KnjbMfuXWV3L2Mex30CWxEKtMfBw,HyOVyKhVCHi8R0=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Yields Up, Stocks Flat",
-      "date": "Thu, 24 Sep 2026 16:43:44 -0400",
-      "is_read": true,
-      "file": "6394af42928e3f5c2fcb949e2f89e52cee9bb74520fd54f59b373c0f9b3c19df.json"
-    },
-    {
-      "id": "40f87244fcc62b9db7789b3d4f9dda05e26240c7789ccbe2ca681ac867209992",
-      "uid": "412483.cSLxfKlRJlQW5xHMAYLT8SuWc1LiWjSyT82tQDfUjbM=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Launching The Allocation Compass: A Risk-Reward Approach To Portfolio Allocation",
-      "date": "Thu, 24 Sep 2026 16:05:22 -0400",
-      "is_read": true,
-      "file": "40f87244fcc62b9db7789b3d4f9dda05e26240c7789ccbe2ca681ac867209992.json"
-    },
-    {
-      "id": "fafc04575feef2d82d7501fd4882e576f6b48be4b8cb6325cb41159a99671e88",
-      "uid": "412479.aGtYE5yOMqt7qmyNXaAzTODUbNVQo,Yqg6PXDEJhKG4=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Angelina Jolie Sells Los Angeles Home for $24.75 Million",
-      "date": "Thu, 24 Sep 2026 15:59:47 -0400",
-      "is_read": true,
-      "file": "fafc04575feef2d82d7501fd4882e576f6b48be4b8cb6325cb41159a99671e88.json"
-    },
-    {
-      "id": "5d9e27d4d94f94e683dbb3f527933d70266cbeba0e19fbb8cb03df3f5c88b2b3",
-      "uid": "412478.hB6qqJ6ESnUA8aGifUfq7+ekNwYGnec2FqVDbnNoYOc=",
-      "from_addr": "Axios Media Trends Executive <mediatrends-executive@axios.com>",
-      "subject": "What Media Reveals About AI",
-      "date": "Thu, 24 Sep 2026 15:30:29 -0400",
-      "is_read": true,
-      "file": "5d9e27d4d94f94e683dbb3f527933d70266cbeba0e19fbb8cb03df3f5c88b2b3.json"
-    },
-    {
-      "id": "27a5793a4cbadcef6499a4652394742ef3fb44e8ee53ed3e3060dcfeceab3bb9",
-      "uid": "412475.jn8sZyrD2sG5UHIgLTg9sAU7OU7xEeM1XKqrS9ahj+g=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Meg Ryan Sells Hamptons Home for $15.25 Million",
-      "date": "Thu, 24 Sep 2026 15:11:36 -0400",
-      "is_read": true,
-      "file": "27a5793a4cbadcef6499a4652394742ef3fb44e8ee53ed3e3060dcfeceab3bb9.json"
-    },
-    {
-      "id": "e3e95f166629e5cd735897aeb303c1a8da1404908895d00912cce1f91d09da26",
-      "uid": "412473.m4By9UMfOUClIvofz2JBLk8gkUs+drdIaO7Zmcr+A6o=",
-      "from_addr": "Colin Demarest <events@axios.com>",
-      "subject": "🚀 Space is limited | Join Axios for coffee and convos in Dallas, Texas on Oct. 14",
-      "date": "Thu, 24 Sep 2026 15:01:00 -0400",
-      "is_read": true,
-      "file": "e3e95f166629e5cd735897aeb303c1a8da1404908895d00912cce1f91d09da26.json"
+      "subject": "🍽️ Axios Finish Line: Dinner party decline",
+      "date": "Thu, 01 Oct 2026 21:29:34 -0400",
+      "is_read": false,
+      "file": "4412ca767029a15a40f5752570857c5558bcbfbce65118f02407a0e3ee9e5fbf.json"
     },
     {
       "id": "c3a5feec20668c66c926b91c48fc6c1b1a69e7f7940eac47f879768dbaeca9bf",
@@ -478,6 +415,15 @@
       "file": "c3a5feec20668c66c926b91c48fc6c1b1a69e7f7940eac47f879768dbaeca9bf.json"
     },
     {
+      "id": "5edcfeb072cf0bcf14f75b205f4658e070ea154b1538043d6bdf0e24c8e72169",
+      "uid": "414313.LQOoNeaSG53VIlCJ7x,C3imAoghCybmvXrlYe9edDtA=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🏠 7% sting",
+      "date": "Thu, 01 Oct 2026 17:36:44 -0400",
+      "is_read": false,
+      "file": "5edcfeb072cf0bcf14f75b205f4658e070ea154b1538043d6bdf0e24c8e72169.json"
+    },
+    {
       "id": "f0006b9d40cfb0700b1837b4e49460f7795204608307ab11e23b4ac4c603c8f3",
       "uid": "414167.vx0qVaLx7rNiTTSzb1FXdFaSqpzefKyaRG0nJ8E+EJ8=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -485,6 +431,42 @@
       "date": "Thu, 01 Oct 2026 17:10:03 +1000",
       "is_read": true,
       "file": "f0006b9d40cfb0700b1837b4e49460f7795204608307ab11e23b4ac4c603c8f3.json"
+    },
+    {
+      "id": "0d820e0df84b2fcd48d9bb0ef62c279ab50a4ea4097228b72f61aa644a1a532b",
+      "uid": "414299.RkQybFFnsljkHP22+UD+D7au4XNw,V1xP49tm1mmpBo=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "The Dark Side Of Retiring On Dividends",
+      "date": "Thu, 01 Oct 2026 16:36:49 -0400",
+      "is_read": false,
+      "file": "0d820e0df84b2fcd48d9bb0ef62c279ab50a4ea4097228b72f61aa644a1a532b.json"
+    },
+    {
+      "id": "dc1cf0693217f9111b6426a8ed79d453efd54be78a5d60d223c398db7d2b8825",
+      "uid": "414296.SctyaPL7nIdQc+PdJCXqYpVJexWXxE6Gd8v2wnXi2tI=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Bond Gyrations",
+      "date": "Thu, 01 Oct 2026 16:30:22 -0400",
+      "is_read": false,
+      "file": "dc1cf0693217f9111b6426a8ed79d453efd54be78a5d60d223c398db7d2b8825.json"
+    },
+    {
+      "id": "3848d09aa1ad3f55963be687fb65316c79991221125593ae1b19a72935bd9224",
+      "uid": "414294.ZgkGPPI5HCnFphcSR2UyJYk4lQzf,pLQgFtUuogWegI=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🛰️ Axios PM: Big space experiments",
+      "date": "Thu, 01 Oct 2026 16:02:50 -0400",
+      "is_read": false,
+      "file": "3848d09aa1ad3f55963be687fb65316c79991221125593ae1b19a72935bd9224.json"
+    },
+    {
+      "id": "dc72282aae7a4f9017fd4bd1746b6a5c409fab64fadf1d3113ef43ef745eb566",
+      "uid": "414292.bz80jYA8YXjEhoaV2gtJFeEI2+9z7QLAkAtHeRUuY8g=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Squishmallows Creator Asks $37.995 Million for Bel-Air Mansion",
+      "date": "Thu, 01 Oct 2026 14:45:09 -0400",
+      "is_read": false,
+      "file": "dc72282aae7a4f9017fd4bd1746b6a5c409fab64fadf1d3113ef43ef745eb566.json"
     },
     {
       "id": "1117912e692ab75540211295f0f2fbea3bc19138c65d4d2230992ef619743ffd",
