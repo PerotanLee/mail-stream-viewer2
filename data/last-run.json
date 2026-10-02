@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=10272 from=\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-02T06:18:10.889011+00:00",
-  "added": 3,
+  "updated_at": "2026-10-02T06:18:12.035774+00:00",
+  "added": 4,
   "skipped": 120,
   "scanned": 124,
-  "current": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "current": "Bond Gyrations",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 2,
     "seekingalpha": 1
   },
