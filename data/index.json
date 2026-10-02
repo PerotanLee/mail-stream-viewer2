@@ -838,24 +838,6 @@
       "file": "2c5641358bba8f407ab3cdf0c84fffda241a6987269ab6c0f9849e4b39e6c8ca.json"
     },
     {
-      "id": "81fae0f8245f12768ff19a7b73342ab67f2e14eff980cfb2a33dbdf9976fc4f9",
-      "uid": "412793.hlV8lSzhn6PWvKiI+gN70oaI8HtmTGkrjBfc8,wjEKk=",
-      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
-      "subject": "Harry and Meghan Put the Cotswolds-- and the 'Notswolds'-- in the Spotlight",
-      "date": "Fri, 25 Sep 2026 15:34:15 -0400",
-      "is_read": true,
-      "file": "81fae0f8245f12768ff19a7b73342ab67f2e14eff980cfb2a33dbdf9976fc4f9.json"
-    },
-    {
-      "id": "c5f5607f23fa39c8e3b329bc3e0ef2becfba05829440f026b0ab1fbe72207350",
-      "uid": "412792.Kt7fsphQjkyO+1vjFJRaaHqBb0L,xuAKq6vpbrPVYA0=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🌊 Axios PM: Weekend storms brewing",
-      "date": "Fri, 25 Sep 2026 15:15:23 -0400",
-      "is_read": true,
-      "file": "c5f5607f23fa39c8e3b329bc3e0ef2becfba05829440f026b0ab1fbe72207350.json"
-    },
-    {
       "id": "d32dc607f8c546e5bbbe87fa3d80cf0daeab800c2830218cccd929957e323720",
       "uid": "414534.gh4PcUQndp54T8DFVkmHjTMw+V6upIensq0m,5SPZM0=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
@@ -872,6 +854,24 @@
       "date": "Fri, 02 Oct 2026 17:10:03 +1000",
       "is_read": true,
       "file": "d1b6eba70dbc10eeeb8d74156511b2583d13e1d79f0279bfc594788e15b8b40b.json"
+    },
+    {
+      "id": "5bd406a727992b2a65989e45b600be3e8dffdb27318a3ba9593684cd0d8c7f88",
+      "uid": "414594.M4I5qxreC6NCC1mXb+v3j8xu7qT7G3YKFbZ4rAK50is=",
+      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+      "subject": "Larry Ellison Spends Millions on Homes for His Staff",
+      "date": "Fri, 02 Oct 2026 15:31:10 -0400",
+      "is_read": false,
+      "file": "5bd406a727992b2a65989e45b600be3e8dffdb27318a3ba9593684cd0d8c7f88.json"
+    },
+    {
+      "id": "557e2d61a22c168f153f85c345833289fa48aae3a07bb2ed1ebcf397af549ee6",
+      "uid": "414592.lF+4LawHoMTeU0siQEwpyMsUezKYSj7MvRql5EaAWmI=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🖼️ Axios PM: Pope slams AI art",
+      "date": "Fri, 02 Oct 2026 15:00:40 -0400",
+      "is_read": false,
+      "file": "557e2d61a22c168f153f85c345833289fa48aae3a07bb2ed1ebcf397af549ee6.json"
     },
     {
       "id": "3bcae7244aa0444a99dad249e03939e53081e01ef06d0ddbc8b52c6088c07190",
