@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=10494 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-02T16:57:44.582598+00:00",
-  "added": 6,
+  "updated_at": "2026-10-02T16:57:45.866566+00:00",
+  "added": 7,
   "skipped": 19,
   "scanned": 26,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "😱 Shizzle meet fan",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 1
   },
   "last_newest_num": 10450,
