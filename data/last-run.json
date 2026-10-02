@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=10471 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-02T16:58:02.361606+00:00",
-  "added": 11,
+  "updated_at": "2026-10-02T16:58:03.699345+00:00",
+  "added": 12,
   "skipped": 37,
   "scanned": 49,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "WSJ Wealth Adviser Briefing: Bond Market Persuasion, Europe’s Luxury Carmakers, Tiny Toy Tycoon",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 4,
     "seekingalpha": 3
   },
