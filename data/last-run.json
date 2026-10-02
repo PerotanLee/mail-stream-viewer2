@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=10467 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-02T16:58:05.359172+00:00",
-  "added": 12,
+  "updated_at": "2026-10-02T16:58:06.628944+00:00",
+  "added": 13,
   "skipped": 40,
   "scanned": 53,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: What Democrats Really Think of Their Party",
   "added_by_filter": {
-    "wsj": 5,
+    "wsj": 6,
     "axios": 4,
     "seekingalpha": 3
   },
