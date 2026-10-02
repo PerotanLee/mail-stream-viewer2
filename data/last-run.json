@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=10523 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-02T19:42:01.435609+00:00",
-  "added": 1,
+  "updated_at": "2026-10-02T19:42:02.825579+00:00",
+  "added": 2,
   "skipped": 1,
   "scanned": 3,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🖼️ Axios PM: Pope slams AI art",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 10519,
