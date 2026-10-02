@@ -447,7 +447,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Bond Gyrations",
       "date": "Thu, 01 Oct 2026 16:30:22 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "dc1cf0693217f9111b6426a8ed79d453efd54be78a5d60d223c398db7d2b8825.json"
     },
     {
