@@ -829,15 +829,6 @@
       "file": "a79e4feca595086ad750ba54ff3b4a296c3058e9d6f3806697c07ecff00d79d8.json"
     },
     {
-      "id": "25ce1ad13f26808fe8b9385bd11e6a2a065e94cda8ee182a8d18fbbab4bd6a78",
-      "uid": "412648.hMjKu,LV4Kgq9ip2SHcPvP3NnZRZhrXdypHHO7MuJ0g=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Fri, 25 Sep 2026 17:10:04 +1000",
-      "is_read": true,
-      "file": "25ce1ad13f26808fe8b9385bd11e6a2a065e94cda8ee182a8d18fbbab4bd6a78.json"
-    },
-    {
       "id": "5d874363cbc39ced97ffce5eeddede4aca968ee560943897e52476887b770b6f",
       "uid": "412802.NV21aqftdC0OUZHgR2aUCHsUw0LL1wvl1udXuansEg0=",
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
@@ -991,13 +982,22 @@
       "file": "b15562a2ac55f52807bdcd9736a4a5ccf1a853963224732d224fe376096973e2.json"
     },
     {
-      "id": "3c01061114657af98f409ed547703d56c3c6572fc2459351bb694f1f3a0f629b",
-      "uid": "412688.ilVOCbvjd7R+4gTdxIBWBoYfUnIsunKrtr5J1kPcJtg=",
-      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
-      "subject": "Investment News Quiz - Friday, Sep. 25",
-      "date": "Fri, 25 Sep 2026 05:04:00 -0400",
+      "id": "d1b6eba70dbc10eeeb8d74156511b2583d13e1d79f0279bfc594788e15b8b40b",
+      "uid": "414467.di8P,XFncepU4FQjMlthkH1,YwTFjws0T4c4HoTSu,Q=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Fri, 02 Oct 2026 17:10:03 +1000",
       "is_read": false,
-      "file": "3c01061114657af98f409ed547703d56c3c6572fc2459351bb694f1f3a0f629b.json"
+      "file": "d1b6eba70dbc10eeeb8d74156511b2583d13e1d79f0279bfc594788e15b8b40b.json"
+    },
+    {
+      "id": "306213bf67757bc7dcf0d9cfc1dae67cd01dcc331e36d0713b912256b330279e",
+      "uid": "414499.N6Ie1cHqK4eP9JmhqsNLmWyEvu9b0N1VXaJDHAlt6j4=",
+      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
+      "subject": "Investment News Quiz - Friday, Oct. 2",
+      "date": "Fri, 02 Oct 2026 05:06:14 -0400",
+      "is_read": false,
+      "file": "306213bf67757bc7dcf0d9cfc1dae67cd01dcc331e36d0713b912256b330279e.json"
     }
   ]
 }
