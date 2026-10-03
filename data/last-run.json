@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=10531 from=\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-03T19:43:56.353051+00:00",
-  "added": 6,
+  "updated_at": "2026-10-03T19:43:57.520967+00:00",
+  "added": 7,
   "skipped": 148,
   "scanned": 155,
-  "current": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "current": "Stocks Jump",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 2,
     "seekingalpha": 1
   },
