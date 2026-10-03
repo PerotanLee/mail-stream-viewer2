@@ -897,7 +897,7 @@
       "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
       "subject": "The latest from Jason Zweig",
       "date": "Fri, 02 Oct 2026 11:15:16 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "6a698df105b9c3a7750df9fe96ae92c4782d8f070a1c3b6c46365382c50194d6.json"
     },
     {
