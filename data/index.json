@@ -645,7 +645,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "☎️ Axios AM: Hotline to China",
       "date": "Sat, 03 Oct 2026 09:17:33 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "43863aaf6f6bb1a3ba6b549d459d64d940c675c9b76fe7a51028ea636d38e9ef.json"
     },
     {
