@@ -852,7 +852,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Stocks Jump",
       "date": "Fri, 02 Oct 2026 16:31:38 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "b46707f14f2362efa6235aa6dc7e829da4da1b7cba52483d44237fdfd3163cab.json"
     },
     {
