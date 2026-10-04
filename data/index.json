@@ -586,31 +586,31 @@
       "file": "554c649cf07ee2e3f785572547edb1a6e385a326ed65fd790338c4c72de2c5f8.json"
     },
     {
-      "id": "1080a2623e3d60302ff0441e5c01dc383c982c21e7fb376a9eef064bb7102f60",
-      "uid": "413133.zV7SF6v1Ky1Nsdz41,,Qg1,IJ9BEABngTfJQ7f2OEGo=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: The Vice President Plays Trump Translator",
-      "date": "Sun, 27 Sep 2026 07:34:49 -0400",
-      "is_read": true,
-      "file": "1080a2623e3d60302ff0441e5c01dc383c982c21e7fb376a9eef064bb7102f60.json"
-    },
-    {
-      "id": "6e1cbdd50cd88d43ee5f3078357bfb1e56e0765f5cc4320e8a077cc67bcbc48a",
-      "uid": "413127.G1DRpM1+1RuAtcfS11,VXeT3b,53sU0dQJQRwTbM8TI=",
+      "id": "e47a04f9b4f8a7c8cfc22c77c38b50b5f0b96ea62f033710a0f503eae5e3aadf",
+      "uid": "414938.0P11XOn8sKsUT4MdBJH,G7VsftQ01U0Gt+IK8nYxO4I=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🦾 Axios AM: Rogue-agent flood",
-      "date": "Sun, 27 Sep 2026 06:59:40 -0400",
-      "is_read": true,
-      "file": "6e1cbdd50cd88d43ee5f3078357bfb1e56e0765f5cc4320e8a077cc67bcbc48a.json"
+      "subject": "⚡ Axios AM: Scoop on cheaper AI",
+      "date": "Sun, 04 Oct 2026 09:40:52 -0400",
+      "is_read": false,
+      "file": "e47a04f9b4f8a7c8cfc22c77c38b50b5f0b96ea62f033710a0f503eae5e3aadf.json"
     },
     {
-      "id": "36904ea8f5fcb23a9459bbda5bd617952d768d36f5391b85b5a5fc4bbda3f15a",
-      "uid": "413124.Az+V3WN,DIbhtmpKQ4VPoU71RuYvMTT7yDSPZzcvxyE=",
+      "id": "2ae644bea77a0811c83b52938bc73d0f7820ae1d1182f0e054966479073e5733",
+      "uid": "414932.fxplh5+QqlLfBq0u0Cgp7udJytI1J5IpyWBV6hnVx2w=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Wall Street Week Ahead",
-      "date": "Sun, 27 Sep 2026 06:34:47 -0400",
-      "is_read": true,
-      "file": "36904ea8f5fcb23a9459bbda5bd617952d768d36f5391b85b5a5fc4bbda3f15a.json"
+      "date": "Sun, 04 Oct 2026 07:45:58 -0400",
+      "is_read": false,
+      "file": "2ae644bea77a0811c83b52938bc73d0f7820ae1d1182f0e054966479073e5733.json"
+    },
+    {
+      "id": "6899eb6d2a70225968ade0858491b414ebe402bc7b0e2763c3278e1655ab2db4",
+      "uid": "414926.OIA4+vo3cpPHDkXCEm,rriaRtFVs1O4pdj4HPSZqT8g=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Why Baseball for a 6-Year-Old Costs $10,000 a Year",
+      "date": "Sun, 04 Oct 2026 07:10:00 -0400",
+      "is_read": false,
+      "file": "6899eb6d2a70225968ade0858491b414ebe402bc7b0e2763c3278e1655ab2db4.json"
     },
     {
       "id": "d9c516729bc69fb2486e9dbce32be7e7032c1ba5215a81c6b4de03c0571e42b2",
