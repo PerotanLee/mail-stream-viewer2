@@ -613,15 +613,6 @@
       "file": "36904ea8f5fcb23a9459bbda5bd617952d768d36f5391b85b5a5fc4bbda3f15a.json"
     },
     {
-      "id": "7f34bf5432cc651da364d39d91255baf6636ba94182f50ce1a73f49748225df8",
-      "uid": "412985.XBNluPH67cCJuAVGYxeWQKnISsPg5Z+CFvb5poHNvSU=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Ride The Momentum: 3 Top AI Stocks Trading Above 50-Day Moving Averages",
-      "date": "Sat, 26 Sep 2026 16:05:28 -0400",
-      "is_read": true,
-      "file": "7f34bf5432cc651da364d39d91255baf6636ba94182f50ce1a73f49748225df8.json"
-    },
-    {
       "id": "d9c516729bc69fb2486e9dbce32be7e7032c1ba5215a81c6b4de03c0571e42b2",
       "uid": "414735.MDEAyaojH+ZTdgMhw6IVssdWJl+Jd,Q70033hoh0Z4c=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -629,6 +620,15 @@
       "date": "Sat, 03 Oct 2026 17:10:02 +1000",
       "is_read": true,
       "file": "d9c516729bc69fb2486e9dbce32be7e7032c1ba5215a81c6b4de03c0571e42b2.json"
+    },
+    {
+      "id": "c2514184619677d630a773126483fb61dfe93cd90c2a86cd9dd2d4c7944b3463",
+      "uid": "414803.+u6Xi,pb4nuQqCZgiEZcPA6pgeJV89JIJ4trqTA0q50=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "The Next Big Move In Interest Rates: How I'm Buying The Dividend Sell-Off",
+      "date": "Sat, 03 Oct 2026 16:06:48 -0400",
+      "is_read": false,
+      "file": "c2514184619677d630a773126483fb61dfe93cd90c2a86cd9dd2d4c7944b3463.json"
     },
     {
       "id": "50fb0177facb6ecbf232261f7c33d6349fa3c50515fd1439497ce2029a979272",
