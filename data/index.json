@@ -721,15 +721,6 @@
       "file": "e1d7ea1e6b562685b6432102509d4934f412009e3a5b02168185bb6f7d35716f.json"
     },
     {
-      "id": "f6827fba4f8bd40281d01364b3132377c5cb5094e0560b0a5048a4d74705faab",
-      "uid": "413401.OgYnquev3Qai7CjXGwQktpxAhInTY7sWJltdvqiHlJA=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🧳 Immigration aftershocks",
-      "date": "Mon, 28 Sep 2026 12:01:54 -0400",
-      "is_read": true,
-      "file": "f6827fba4f8bd40281d01364b3132377c5cb5094e0560b0a5048a4d74705faab.json"
-    },
-    {
       "id": "c1aa4725eb0ab37fef4b9453837ba399ad2181ce0214d9b746a47e712957a35e",
       "uid": "415098.J1GiuMscGvXddpC7inuyyOF3xE+yduA6bVXC9A9bKaw=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -737,6 +728,24 @@
       "date": "Mon, 05 Oct 2026 18:10:06 +1100",
       "is_read": true,
       "file": "c1aa4725eb0ab37fef4b9453837ba399ad2181ce0214d9b746a47e712957a35e.json"
+    },
+    {
+      "id": "a33cd6e7a3d86cc6abc6dbb1236d546477201c9269434e7d17461c8c35279b4c",
+      "uid": "415194.7gUl0igqP6KLaXILE,6GtNVQkyBoSePLU7PvpAgW1+Q=",
+      "from_addr": "Axios <newsletters@axios.com>",
+      "subject": "💵 Treasury Sec. Scott Bessent on “The Axios Show”",
+      "date": "Mon, 05 Oct 2026 13:01:27 -0400",
+      "is_read": false,
+      "file": "a33cd6e7a3d86cc6abc6dbb1236d546477201c9269434e7d17461c8c35279b4c.json"
+    },
+    {
+      "id": "3e79d6b360644a085c28927fda97a0d129ed32677aa810cf55c5d796f95eec41",
+      "uid": "415191.LjnJxYkZVXdmyZglDq+gMewQeyWXtmN0IPVyPxlW3Gs=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🪡 Bessent's needle threading",
+      "date": "Mon, 05 Oct 2026 12:02:35 -0400",
+      "is_read": false,
+      "file": "3e79d6b360644a085c28927fda97a0d129ed32677aa810cf55c5d796f95eec41.json"
     },
     {
       "id": "b9e367a08b799efacf2e1d26a9cf92cbf04d63e499216fd6aa813d90101a3c6e",
