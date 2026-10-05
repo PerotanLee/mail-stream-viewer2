@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=10965 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-05T15:39:59.015404+00:00",
-  "added": 5,
+  "updated_at": "2026-10-05T15:40:00.600856+00:00",
+  "added": 6,
   "skipped": 29,
   "scanned": 35,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "🎲 Markets A.M.: Your Index Fund Went Up. Was It Luck Or Smarts?",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 3,
     "seekingalpha": 1
   },
