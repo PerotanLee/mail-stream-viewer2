@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=11002 from=Axios <newsletters@axios.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-05T17:07:29.558122+00:00",
+  "updated_at": "2026-10-05T17:07:31.045490+00:00",
   "added": 0,
   "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 10999
+  "scanned": 1,
+  "current": "Axios <newsletters@axios.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 10999,
+  "newest_num": 11002,
+  "scan_mode": "new",
+  "since": "2026-10-05T15:25:16.761838+00:00"
 }
