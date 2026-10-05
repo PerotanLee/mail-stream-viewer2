@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=10792 from=Must Reads <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-05T09:36:06.417213+00:00",
-  "added": 1,
+  "updated_at": "2026-10-05T09:36:07.456020+00:00",
+  "added": 2,
   "skipped": 152,
   "scanned": 154,
-  "current": "Must Reads <account@seekingalpha.com>",
+  "current": "10%+ Yields Without The Junk: 2 Gems For Your Retirement Portfolio",
   "added_by_filter": {
     "wsj": 1,
     "axios": 0,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 10790,
   "newest_num": 10945,
