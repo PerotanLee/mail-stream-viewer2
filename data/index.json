@@ -816,7 +816,7 @@
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
       "subject": "The 10-Point: The Missed Red Flags Before Flight 1073",
       "date": "Mon, 05 Oct 2026 06:08:53 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "15bb4da2c45d36db75e4c070322023ae9545c55b8bc5460e284cab0fbf0bed0c.json"
     },
     {
