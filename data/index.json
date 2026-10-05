@@ -676,15 +676,6 @@
       "file": "36d42926b3ec9923d3e492bdaecb4a38df5f80c4f1d3d38eff1aeba5578b9dba.json"
     },
     {
-      "id": "7e816f5136eeef6b42762958c7f7349ffa77b243c03a958cd30e0c3cb9d1d3ae",
-      "uid": "413360.Y4ZFWesp81weFgpZbmYina3l+Mjzxpy4kgqNC4I8fCk=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Peptide Boom, Interview Etiquette, Colleges Cut Prices",
-      "date": "Mon, 28 Sep 2026 20:32:11 +1000",
-      "is_read": true,
-      "file": "7e816f5136eeef6b42762958c7f7349ffa77b243c03a958cd30e0c3cb9d1d3ae.json"
-    },
-    {
       "id": "c18c67c84216f1e4ecc86011fd7b11da37e4c854f4c1db81b8f559275e88e11d",
       "uid": "413428.ncF5qI3CVjC5fc,WpTvTIBcsDs7FUR2fdzD6xN+owaM=",
       "from_addr": "Axios Closer <closer@axios.com>",
@@ -739,78 +730,6 @@
       "file": "f6827fba4f8bd40281d01364b3132377c5cb5094e0560b0a5048a4d74705faab.json"
     },
     {
-      "id": "e8b118278bcf2cf03d86d0a73357e3ae6d2dc564d20b0dc5861e712ad21b5b42",
-      "uid": "413394.QHCqL22OC+jMJiNfGU6XSy5LEr4DRq39smJS5lEZj7I=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: AI self-own",
-      "date": "Mon, 28 Sep 2026 10:03:40 -0400",
-      "is_read": true,
-      "file": "e8b118278bcf2cf03d86d0a73357e3ae6d2dc564d20b0dc5861e712ad21b5b42.json"
-    },
-    {
-      "id": "b6516957d4d566bb679d783b49d3dd5fb0caec6a2397465be70be449ef02bb51",
-      "uid": "413389.3zJ6NGxF3P,yuXXdZmpnrkHTTlx7JdfldeWw3WjWrGY=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "👀 Meta earns a look",
-      "date": "Mon, 28 Sep 2026 09:28:19 -0400",
-      "is_read": true,
-      "file": "b6516957d4d566bb679d783b49d3dd5fb0caec6a2397465be70be449ef02bb51.json"
-    },
-    {
-      "id": "5121b0599d381d425494a77f1091c53d5c5be76ced8f5436c5f6cd100e51d640",
-      "uid": "413381.9eR4kwi6isjMQNB3OEHdSycTw8BmjChb9eFMtaS2,Xw=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Open-Weight Models On The Rise",
-      "date": "Mon, 28 Sep 2026 07:51:23 -0400",
-      "is_read": true,
-      "file": "5121b0599d381d425494a77f1091c53d5c5be76ced8f5436c5f6cd100e51d640.json"
-    },
-    {
-      "id": "ff9d005ff35f4d7261728437cddc8f84c903d44e7b4195414b86894269b11117",
-      "uid": "413377.uk9VRKYu497NE4EPMynFQ,yVe7W0oPCCkIZULMoI6lw=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "😀 Higher yields? No problem!",
-      "date": "Mon, 28 Sep 2026 07:29:08 -0400",
-      "is_read": true,
-      "file": "ff9d005ff35f4d7261728437cddc8f84c903d44e7b4195414b86894269b11117.json"
-    },
-    {
-      "id": "4d252a7ae7e09740f1f06a93d04f7c52894d743a562a4b7b2a271feb441d8eff",
-      "uid": "413369.OBXf,Jr2b6TGhCSQTTVdcKabKLYozk8lows2h7ioD+0=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Here’s What Could Happen if Republicans Win in November",
-      "date": "Mon, 28 Sep 2026 07:11:14 -0400",
-      "is_read": true,
-      "file": "4d252a7ae7e09740f1f06a93d04f7c52894d743a562a4b7b2a271feb441d8eff.json"
-    },
-    {
-      "id": "b522f344d835cc843176662bdcde0f434c8d7b27511a40c2a87b95def4c2b947",
-      "uid": "413358.MTcdE+2D3dubZp8TTh14JMsnuH4knj1xTntVZ0fRBmA=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🛳️ Markets A.M.: Cruise Stocks Have Hit Choppy Waters",
-      "date": "Mon, 28 Sep 2026 06:29:45 -0400",
-      "is_read": true,
-      "file": "b522f344d835cc843176662bdcde0f434c8d7b27511a40c2a87b95def4c2b947.json"
-    },
-    {
-      "id": "c59da5e269bd94a727ce2ef1291b9949ac0b01bf89f17230ba4a9ec0668c1834",
-      "uid": "413354.wuemSlXQXfF1E0oP1rqD,AYDrk+xxF5oddotrmzjENU=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: How Trump’s Moves Drove Rates and Inflation Higher",
-      "date": "Mon, 28 Sep 2026 06:09:19 -0400",
-      "is_read": true,
-      "file": "c59da5e269bd94a727ce2ef1291b9949ac0b01bf89f17230ba4a9ec0668c1834.json"
-    },
-    {
-      "id": "71fb08b2ceabdb0fce4cf0c15e4c40b937a89c1b959b318d0c873f28c5db6a04",
-      "uid": "413350.jpCT+FUOSUm5Irny3L0Gf1xb9lk6EnC6fJMm9mkMMj0=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "✨ Axios AM: The face of AI",
-      "date": "Mon, 28 Sep 2026 06:02:37 -0400",
-      "is_read": true,
-      "file": "71fb08b2ceabdb0fce4cf0c15e4c40b937a89c1b959b318d0c873f28c5db6a04.json"
-    },
-    {
       "id": "c1aa4725eb0ab37fef4b9453837ba399ad2181ce0214d9b746a47e712957a35e",
       "uid": "415098.J1GiuMscGvXddpC7inuyyOF3xE+yduA6bVXC9A9bKaw=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -818,6 +737,87 @@
       "date": "Mon, 05 Oct 2026 18:10:06 +1100",
       "is_read": true,
       "file": "c1aa4725eb0ab37fef4b9453837ba399ad2181ce0214d9b746a47e712957a35e.json"
+    },
+    {
+      "id": "b9e367a08b799efacf2e1d26a9cf92cbf04d63e499216fd6aa813d90101a3c6e",
+      "uid": "415183.wGnIOn6oy0ZrhVQ4YvPVMeRcIW51cC,RatAcbJsVHMU=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Rigor reminder",
+      "date": "Mon, 05 Oct 2026 09:59:12 -0400",
+      "is_read": false,
+      "file": "b9e367a08b799efacf2e1d26a9cf92cbf04d63e499216fd6aa813d90101a3c6e.json"
+    },
+    {
+      "id": "e757badaf90fc0f216e679e745819d1573fa8f7d201ff1c57c6eed747cbe191b",
+      "uid": "415180.av,AkGqYYwblb0YffqWIUeFdVtOFdB+YPfETruQcTAU=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🪗 Folding iPhone fun",
+      "date": "Mon, 05 Oct 2026 09:28:25 -0400",
+      "is_read": false,
+      "file": "e757badaf90fc0f216e679e745819d1573fa8f7d201ff1c57c6eed747cbe191b.json"
+    },
+    {
+      "id": "31762902dfd4345c17e0f6e5c3590af311ee8db5d37fd4e1e3249ede21b15ea3",
+      "uid": "415174.lGDSOQbd3RcsMPnwQv04KMGSIZ7Z4gM9HtIXlIm72tg=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Wall Street Is Going 24/7",
+      "date": "Mon, 05 Oct 2026 08:05:53 -0400",
+      "is_read": false,
+      "file": "31762902dfd4345c17e0f6e5c3590af311ee8db5d37fd4e1e3249ede21b15ea3.json"
+    },
+    {
+      "id": "bec703db6404b926237318505d680dc1e6526081420aa4c55f92ff424831cff1",
+      "uid": "415165.vCfMSwYiUjbNut4xXDY,XmJMYGJjSE45ytubDc4d6PM=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🇫🇷 Are the French toast?",
+      "date": "Mon, 05 Oct 2026 07:32:51 -0400",
+      "is_read": false,
+      "file": "bec703db6404b926237318505d680dc1e6526081420aa4c55f92ff424831cff1.json"
+    },
+    {
+      "id": "e764e91814d94555a9e7f94f4b7a8b048ead012a5993d2280c5a60d09aaa8733",
+      "uid": "415161.tHsAKOxFPWnpUbStaNj5t,CMYNt99nKSd4sp9a2ZW9Y=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: James Talarico and the Art of the Walk-Back",
+      "date": "Mon, 05 Oct 2026 07:13:05 -0400",
+      "is_read": false,
+      "file": "e764e91814d94555a9e7f94f4b7a8b048ead012a5993d2280c5a60d09aaa8733.json"
+    },
+    {
+      "id": "d5424e4608c6fe5a5fdf5497b9bf21010ad876bd5042af852bfb23f8c0602004",
+      "uid": "415154.epIQO+sZkfzmn8dv6,Hl6+bjGxdBg76Gw4,GFJAzjPE=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🎲 Markets A.M.: Your Index Fund Went Up. Was It Luck Or Smarts?",
+      "date": "Mon, 05 Oct 2026 06:38:31 -0400",
+      "is_read": false,
+      "file": "d5424e4608c6fe5a5fdf5497b9bf21010ad876bd5042af852bfb23f8c0602004.json"
+    },
+    {
+      "id": "b1362a396f5b6e24fe02db82ea772ec01c3755a629c128356561491b283abf52",
+      "uid": "415153.0ax1Sm21oGdAZrAC6PnSTxe3,k+XsIBzfl9sSGUHwd4=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Private Equity Has a Problem",
+      "date": "Mon, 05 Oct 2026 06:29:52 -0400",
+      "is_read": false,
+      "file": "b1362a396f5b6e24fe02db82ea772ec01c3755a629c128356561491b283abf52.json"
+    },
+    {
+      "id": "15bb4da2c45d36db75e4c070322023ae9545c55b8bc5460e284cab0fbf0bed0c",
+      "uid": "415150.fhYDwqNpewt17v38JlWAMzlR0ja70x1dNxRCJQPQCpE=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: The Missed Red Flags Before Flight 1073",
+      "date": "Mon, 05 Oct 2026 06:08:53 -0400",
+      "is_read": false,
+      "file": "15bb4da2c45d36db75e4c070322023ae9545c55b8bc5460e284cab0fbf0bed0c.json"
+    },
+    {
+      "id": "9a7a218172246d9ad38697e922a8a2fe8fe5765993173df3ed247a339620ddd0",
+      "uid": "415141.gnzxLDitIia0eten3AhTIMbPsyvCLc0mxaYabbJdbyw=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "👀 Axios AM: Latinos swing back",
+      "date": "Mon, 05 Oct 2026 05:57:47 -0400",
+      "is_read": false,
+      "file": "9a7a218172246d9ad38697e922a8a2fe8fe5765993173df3ed247a339620ddd0.json"
     },
     {
       "id": "d32dc607f8c546e5bbbe87fa3d80cf0daeab800c2830218cccd929957e323720",
