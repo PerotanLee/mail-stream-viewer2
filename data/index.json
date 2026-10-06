@@ -294,7 +294,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "New Financial Headache In Europe",
       "date": "Tue, 06 Oct 2026 07:54:48 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "3f3f0e8977c0771c6f9de9ad714c2ae7b6b47f2e370e5d11d8858c8c1a1ab63b.json"
     },
     {
@@ -681,7 +681,7 @@
       "from_addr": "Must Reads <account@seekingalpha.com>",
       "subject": "Nvidia: Reaching The Point Of An Explosive Upside Breakout",
       "date": "Mon, 05 Oct 2026 16:06:02 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "d114f6efeeb21854ce574e1cdeae040c63a69abf2ffff7094c561312baf7b739.json"
     },
     {
