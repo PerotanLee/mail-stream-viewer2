@@ -226,24 +226,6 @@
       "file": "b1910655833ee2e1ded42cb3b5642a948ad07ce34f9d167ff0e63f0825b03423.json"
     },
     {
-      "id": "85b84f415267370d16b7a766202a31b982d8824d77e419e9362f6f508c95cc61",
-      "uid": "413718.+6fKTEA14P5UQpKS9fYvw4pEzqn9+8ymavnn+zy53y4=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤖 Axios PM: OpenAI drops dots",
-      "date": "Tue, 29 Sep 2026 15:15:33 -0400",
-      "is_read": true,
-      "file": "85b84f415267370d16b7a766202a31b982d8824d77e419e9362f6f508c95cc61.json"
-    },
-    {
-      "id": "beac2dcf0b01739fe66ff925a5e40596565ba75726a9bbf91bac4e433f607a67",
-      "uid": "413717.705NubqkG7u961HFTVyIfbpmuBZI,VosZ1lgzEyll+8=",
-      "from_addr": "Naheed Rajwani-Dharsi <events@axios.com>",
-      "subject": "🚀 You're invited | Join Axios for coffee and convos in Dallas on Oct. 14",
-      "date": "Tue, 29 Sep 2026 15:15:04 -0400",
-      "is_read": true,
-      "file": "beac2dcf0b01739fe66ff925a5e40596565ba75726a9bbf91bac4e433f607a67.json"
-    },
-    {
       "id": "d352d6592e72ae65fda7c6aca5da8839c4b775cde1f4681e786ab9b7632436eb",
       "uid": "415385.P4iqaxglntFhtceaYfYRQKLl0TqZE9hj75,92g791qs=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -251,6 +233,15 @@
       "date": "Tue, 06 Oct 2026 18:10:23 +1100",
       "is_read": true,
       "file": "d352d6592e72ae65fda7c6aca5da8839c4b775cde1f4681e786ab9b7632436eb.json"
+    },
+    {
+      "id": "3d9dc2e72fd734a227dd66b7f7f3bdabcfe746a1d1cecdd74792ee02621d862b",
+      "uid": "415482.u1036q94cbS5x5sAdN3LtqG1qmSUW3vtQ,OSjBDb,Nk=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🥇 Axios PM: Big science win",
+      "date": "Tue, 06 Oct 2026 15:15:28 -0400",
+      "is_read": false,
+      "file": "3d9dc2e72fd734a227dd66b7f7f3bdabcfe746a1d1cecdd74792ee02621d862b.json"
     },
     {
       "id": "cd1aa84a09a685c1844ebfb6ce49f926ead7f6be121437dab717370db830cc7f",
