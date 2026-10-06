@@ -667,58 +667,13 @@
       "file": "7f599c64fdc4ce9c74f7b26ea52a9284574d79adb10ed8bfcd913eb414b2d7ac.json"
     },
     {
-      "id": "36d42926b3ec9923d3e492bdaecb4a38df5f80c4f1d3d38eff1aeba5578b9dba",
-      "uid": "413495.h1LBi5e0+yrX65vf8kCLV8S18+IvCk,LDBvidGQb7ds=",
+      "id": "a06bc8dde7fb79d0748d0c692cf4925cb56daa7a21daa294fe0016898119be8d",
+      "uid": "415278.fJgXcrePPc7a067KZSPhkXebBV5dDqznE,GSlTQ3cLg=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤖 Axios Finish Line: Your AI guide",
-      "date": "Mon, 28 Sep 2026 21:28:23 -0400",
-      "is_read": true,
-      "file": "36d42926b3ec9923d3e492bdaecb4a38df5f80c4f1d3d38eff1aeba5578b9dba.json"
-    },
-    {
-      "id": "c18c67c84216f1e4ecc86011fd7b11da37e4c854f4c1db81b8f559275e88e11d",
-      "uid": "413428.ncF5qI3CVjC5fc,WpTvTIBcsDs7FUR2fdzD6xN+owaM=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🤖 Nvidia's rogue AI solution",
-      "date": "Mon, 28 Sep 2026 17:32:43 -0400",
-      "is_read": true,
-      "file": "c18c67c84216f1e4ecc86011fd7b11da37e4c854f4c1db81b8f559275e88e11d.json"
-    },
-    {
-      "id": "06646c91e3d855bb998f52dc82234deb8137a13081af057b239af5d2f516247f",
-      "uid": "413422.5sJ6fdlKFNOY3MURgf6fGSZWiFcxoJ0j62SjaO4QOws=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Tyler Perry’s Beverly Hills Estate Asks $57 Million",
-      "date": "Mon, 28 Sep 2026 17:03:22 -0400",
-      "is_read": true,
-      "file": "06646c91e3d855bb998f52dc82234deb8137a13081af057b239af5d2f516247f.json"
-    },
-    {
-      "id": "842d73fcc8f658e432d38922405e677c8160071974d4d537d945c547ad38b1dc",
-      "uid": "413412.TsGWmiircDQgji7gPWVrKuS3gTdQt4kwEAu4tKT6guw=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Yields at Fresh Highs",
-      "date": "Mon, 28 Sep 2026 16:23:21 -0400",
-      "is_read": true,
-      "file": "842d73fcc8f658e432d38922405e677c8160071974d4d537d945c547ad38b1dc.json"
-    },
-    {
-      "id": "cb3f3d72ccddb70b6f8008a8e12fd970b90b0d80e1e24661d0989076ba43212a",
-      "uid": "413410.PL9tQoZ1,CfLIMlonH764ndWWLgWzzABBiFsMZ7vIWg=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Top 4 Stocks For Q4: Buy The September Dip",
-      "date": "Mon, 28 Sep 2026 16:05:28 -0400",
-      "is_read": true,
-      "file": "cb3f3d72ccddb70b6f8008a8e12fd970b90b0d80e1e24661d0989076ba43212a.json"
-    },
-    {
-      "id": "e1d7ea1e6b562685b6432102509d4934f412009e3a5b02168185bb6f7d35716f",
-      "uid": "413408.xD,KuoR4+2yFo8tJw,S0i66LSs4PWVdPByofVhEJJoQ=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🚀 Axios PM: SpaceX makes orbit",
-      "date": "Mon, 28 Sep 2026 15:15:37 -0400",
-      "is_read": true,
-      "file": "e1d7ea1e6b562685b6432102509d4934f412009e3a5b02168185bb6f7d35716f.json"
+      "subject": "🍮 Axios Finish Line: Pudding lessons",
+      "date": "Mon, 05 Oct 2026 21:29:23 -0400",
+      "is_read": false,
+      "file": "a06bc8dde7fb79d0748d0c692cf4925cb56daa7a21daa294fe0016898119be8d.json"
     },
     {
       "id": "c1aa4725eb0ab37fef4b9453837ba399ad2181ce0214d9b746a47e712957a35e",
@@ -728,6 +683,42 @@
       "date": "Mon, 05 Oct 2026 18:10:06 +1100",
       "is_read": true,
       "file": "c1aa4725eb0ab37fef4b9453837ba399ad2181ce0214d9b746a47e712957a35e.json"
+    },
+    {
+      "id": "543ca58d0adafc238c9b3c95b159f7b1795f9e5ebc8bcd487a4733ec1eb37751",
+      "uid": "415218.iuMmSRjpu+x,bQM8FYQXtIbXryIqlPFmszFfClwWgZ4=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "⛽️ Trump eyes diesel discount",
+      "date": "Mon, 05 Oct 2026 17:13:23 -0400",
+      "is_read": false,
+      "file": "543ca58d0adafc238c9b3c95b159f7b1795f9e5ebc8bcd487a4733ec1eb37751.json"
+    },
+    {
+      "id": "f7dff7ea0df7dc5e74e814e377d855981cfbe6462833e2c4420a001f889d4243",
+      "uid": "415206.bdplpF4B1Zk8U9JyYijkdseXNbCTOGo1dZDmWWngfLE=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Stocks Up, Yields Up",
+      "date": "Mon, 05 Oct 2026 16:58:41 -0400",
+      "is_read": false,
+      "file": "f7dff7ea0df7dc5e74e814e377d855981cfbe6462833e2c4420a001f889d4243.json"
+    },
+    {
+      "id": "d114f6efeeb21854ce574e1cdeae040c63a69abf2ffff7094c561312baf7b739",
+      "uid": "415201.77Mombx9ZBgvrPd1QAe8Ni0GAHvC9n+A0evuTCQg9k0=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Nvidia: Reaching The Point Of An Explosive Upside Breakout",
+      "date": "Mon, 05 Oct 2026 16:06:02 -0400",
+      "is_read": false,
+      "file": "d114f6efeeb21854ce574e1cdeae040c63a69abf2ffff7094c561312baf7b739.json"
+    },
+    {
+      "id": "05aacb328d1b115f585aa545139ded54aedba29d05bc996556ce079f8bca12c7",
+      "uid": "415199.chv9C59gOyDX53j8KPBgR7SPnu9++KtlSwBqlCWsuKg=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🚌 Axios PM: School bus crisis",
+      "date": "Mon, 05 Oct 2026 15:15:32 -0400",
+      "is_read": false,
+      "file": "05aacb328d1b115f585aa545139ded54aedba29d05bc996556ce079f8bca12c7.json"
     },
     {
       "id": "a33cd6e7a3d86cc6abc6dbb1236d546477201c9269434e7d17461c8c35279b4c",
