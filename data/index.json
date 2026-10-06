@@ -672,7 +672,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Stocks Up, Yields Up",
       "date": "Mon, 05 Oct 2026 16:58:41 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "f7dff7ea0df7dc5e74e814e377d855981cfbe6462833e2c4420a001f889d4243.json"
     },
     {
