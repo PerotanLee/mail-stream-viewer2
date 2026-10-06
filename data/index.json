@@ -978,7 +978,7 @@
       "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
       "subject": "Investment News Quiz - Friday, Oct. 2",
       "date": "Fri, 02 Oct 2026 05:06:14 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "306213bf67757bc7dcf0d9cfc1dae67cd01dcc331e36d0713b912256b330279e.json"
     }
   ]
