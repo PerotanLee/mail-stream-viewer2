@@ -10,15 +10,6 @@
       "file": "a1f550d401a8d4178958fe458823828bcb77aa3ca5ac977628b52d8b0fd5ad2b.json"
     },
     {
-      "id": "e365f61f978af2aee44ceda339651927a8475551f97b0110b2648b853914ae52",
-      "uid": "413953.jgJOFWynp090AF00VFuHCuNEONjFL7H7rtEl7K1O6HI=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Short-Term Yields, Desperate Car Dealers, Ford’s Hawk on Duty",
-      "date": "Wed, 30 Sep 2026 20:32:23 +1000",
-      "is_read": true,
-      "file": "e365f61f978af2aee44ceda339651927a8475551f97b0110b2648b853914ae52.json"
-    },
-    {
       "id": "f0695edf46375334d839dd1fa4dde4ee280bdb9acba4eb0f9c8885d409bb54e5",
       "uid": "414021.Jk5gvICNujFviN9gHQz4H19aY9HcZHwRviSfa9cRHJo=",
       "from_addr": "Axios Closer <closer@axios.com>",
@@ -26,15 +17,6 @@
       "date": "Wed, 30 Sep 2026 17:14:29 -0400",
       "is_read": true,
       "file": "f0695edf46375334d839dd1fa4dde4ee280bdb9acba4eb0f9c8885d409bb54e5.json"
-    },
-    {
-      "id": "b90e1e568d31e8ce18af4052caf74f545e737f29153701817b75b9af00f2eac8",
-      "uid": "413883.qAtbT7NvfcN8xfvphaPkEYfqDEALl7kn+l8hSMToSUw=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Wed, 30 Sep 2026 17:10:07 +1000",
-      "is_read": true,
-      "file": "b90e1e568d31e8ce18af4052caf74f545e737f29153701817b75b9af00f2eac8.json"
     },
     {
       "id": "07c4a5125d7aa45753e97d9ee62923e5d53a70dcca167bea4b72bcd12ba5e29f",
@@ -100,85 +82,112 @@
       "file": "83840e8b4f61fcc9c8cd9b20a75dc5c7a9f1f46c11ec7091d86d1068e6e08b91.json"
     },
     {
-      "id": "22fbbc96380804aee8f5b2cad5ff52f6ef25d9f033705556bcef450a6a4c202f",
-      "uid": "413994.Yuv,JDAFTFMhWv4rTYsMcUXcjNrKX181zfXmuUy,WpM=",
+      "id": "8265767428ff6864860b884864a24c71cecd8318f1347df637c2e06b7c6f5ec0",
+      "uid": "415667.bIPkLGD,DJcHpJ6YGeGuCBLmeAGqHPSLBiAdAJH3wZg=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Wed, 07 Oct 2026 18:10:20 +1100",
+      "is_read": false,
+      "file": "8265767428ff6864860b884864a24c71cecd8318f1347df637c2e06b7c6f5ec0.json"
+    },
+    {
+      "id": "fd204cfe280e2504f545f2534ca46b4c32482edaaefe7305cb518caf82b44866",
+      "uid": "415760.GXYyPn7U+oQKpYxDg6cUhyqBqm8,HhO4IpN3j3q2DsY=",
       "from_addr": "WSJ Real Estate <access@interactive.wsj.com>",
-      "subject": "All Households Here Get $10,000 if a Data Center is Built",
-      "date": "Wed, 30 Sep 2026 10:03:46 -0400",
-      "is_read": true,
-      "file": "22fbbc96380804aee8f5b2cad5ff52f6ef25d9f033705556bcef450a6a4c202f.json"
+      "subject": "Rising Interest Rates Are Wrecking Commercial Property Deals",
+      "date": "Wed, 07 Oct 2026 10:06:04 -0400",
+      "is_read": false,
+      "file": "fd204cfe280e2504f545f2534ca46b4c32482edaaefe7305cb518caf82b44866.json"
     },
     {
-      "id": "1bcdb356e069ee457ec10debcecd05c671cdb3ab74a384591902ac4917941448",
-      "uid": "413993.MGAVQkS5SkyrI4OXMKN,sLypeRUMVnJ8nvQ60ekJip8=",
+      "id": "bc948424ed46abe81475f931cf95896327c13d4dda069cde0e46789f92615348",
+      "uid": "415758.6XpOE,6oDCmiKBXsWvbN7neboL7yOpMa+dpr64hJfMQ=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Drone dollars",
+      "date": "Wed, 07 Oct 2026 09:57:15 -0400",
+      "is_read": false,
+      "file": "bc948424ed46abe81475f931cf95896327c13d4dda069cde0e46789f92615348.json"
+    },
+    {
+      "id": "886ae1d1a6fb62df0f9dca28b3472463d90a7ca9961a5daf6b72176a76eec8f7",
+      "uid": "415756.H5cnESShOomI6ePbwZWR6zvG,Fe7wNUtHPDHZ1hDxP8=",
       "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🤖 Are dots safe?",
-      "date": "Wed, 30 Sep 2026 09:28:20 -0400",
-      "is_read": true,
-      "file": "1bcdb356e069ee457ec10debcecd05c671cdb3ab74a384591902ac4917941448.json"
+      "subject": "🧬 Virtual cell team-up",
+      "date": "Wed, 07 Oct 2026 09:28:44 -0400",
+      "is_read": false,
+      "file": "886ae1d1a6fb62df0f9dca28b3472463d90a7ca9961a5daf6b72176a76eec8f7.json"
     },
     {
-      "id": "a7cbd51c3c5136a9ad9980d1df12a6a1b555305dccb82ba5203b7ed05531d3c4",
-      "uid": "413978.Lr+xmLYhiysK5sJQXXN0d2mc5nGZXcB,iyRE3ZZAgmA=",
+      "id": "d5a4ebf1f581810729367d7770bcb78b911793b0e39245f179a063c0a99a7039",
+      "uid": "415751.nRuQhNbmHckKE5WwhIecdpOdZtkMocJE+CDr84NxzX8=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "States Move To Rein In Fuel Prices",
-      "date": "Wed, 30 Sep 2026 07:43:37 -0400",
-      "is_read": true,
-      "file": "a7cbd51c3c5136a9ad9980d1df12a6a1b555305dccb82ba5203b7ed05531d3c4.json"
+      "subject": "Wall Street Highs And AI Bubble Risks",
+      "date": "Wed, 07 Oct 2026 07:37:35 -0400",
+      "is_read": false,
+      "file": "d5a4ebf1f581810729367d7770bcb78b911793b0e39245f179a063c0a99a7039.json"
     },
     {
-      "id": "4face79556647395c7103f8615ccb351644cd5c788443951de1720fa149783ee",
-      "uid": "413973.w6IoiMiCacjN5w,pG9r1g2uteRN0hLI7IvMXKD5wyaY=",
+      "id": "00569fbb9bbf5b3c19e1a3cd3f6dd1b24746694bf0381d8400c63750c092401f",
+      "uid": "415749.JPZz1F7YuRr+onGm0uQrCC98mIC1o0iIJ7YMMyTXj6o=",
       "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "💀 Real P-doom",
-      "date": "Wed, 30 Sep 2026 07:28:59 -0400",
-      "is_read": true,
-      "file": "4face79556647395c7103f8615ccb351644cd5c788443951de1720fa149783ee.json"
+      "subject": "🦔 Hedge hogs",
+      "date": "Wed, 07 Oct 2026 07:28:59 -0400",
+      "is_read": false,
+      "file": "00569fbb9bbf5b3c19e1a3cd3f6dd1b24746694bf0381d8400c63750c092401f.json"
     },
     {
-      "id": "c1a4f7601a01f2cfbb9378958e259dbc04d3a187e550a41de1acad668c7ca953",
-      "uid": "413966.rcQ4lSMvyauLazXDW,DESqZQtnjaIZZv7weJwQa0FK0=",
+      "id": "1ecff3709f131de68f3e2acd1b3480c12e06ab53f5d4fbdf2472b7a5a4b7ea48",
+      "uid": "415745.SfE3mahnIkSEmYKJYRji7aNSb6V5+iZQI3nLR081D+k=",
       "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Three Surprising Midterm Themes Now Emerging",
-      "date": "Wed, 30 Sep 2026 07:03:10 -0400",
-      "is_read": true,
-      "file": "c1a4f7601a01f2cfbb9378958e259dbc04d3a187e550a41de1acad668c7ca953.json"
+      "subject": "WSJ Politics: El-Sayed Has Trump Fuming, AOC Buzzing and Obama Stumping",
+      "date": "Wed, 07 Oct 2026 07:11:08 -0400",
+      "is_read": false,
+      "file": "1ecff3709f131de68f3e2acd1b3480c12e06ab53f5d4fbdf2472b7a5a4b7ea48.json"
     },
     {
-      "id": "55780aa1bf80447a6a5d8e4f522dbfdbe4eb42f29f71846ea7eabbdafd84c749",
-      "uid": "413954.4WY0694dqhzzNED8esrBWxAeNgQEMjqVZCrvvLCsSPg=",
+      "id": "2caa55ad51a71eef8d2cc6f74d8c8b469c61a86ac767138e36d6804bec0dc828",
+      "uid": "415733.bLReJVDm3,L01cc,feZd2iXg2irUxaQ2,WWhVlMvdQY=",
       "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "😔 Markets A.M.: Bonds Slammed Your Retirement Fund. Time for a Second Chance?",
-      "date": "Wed, 30 Sep 2026 06:36:21 -0400",
-      "is_read": true,
-      "file": "55780aa1bf80447a6a5d8e4f522dbfdbe4eb42f29f71846ea7eabbdafd84c749.json"
+      "subject": "📈 Markets A.M.: U.S. Investors Have an ‘Exorbitant Privilege’",
+      "date": "Wed, 07 Oct 2026 06:33:19 -0400",
+      "is_read": false,
+      "file": "2caa55ad51a71eef8d2cc6f74d8c8b469c61a86ac767138e36d6804bec0dc828.json"
     },
     {
-      "id": "e862ed252fac6cb40755db76d1d199f8374d0decda53928d230d805a462708f7",
-      "uid": "413952.9WCFmBEQH9UbuCHG24fRQVu7WSYOOSOqAutIZURF0o4=",
+      "id": "724ec1c2625350de0a86a38ab7474ed2ccbf2a1aba6fd6b5864b607a7c91ef57",
+      "uid": "415730.eTYLwT0GtpNwg+OOxuXo65l4kLq+kFqL5OPt19Zbc0k=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Weaning Markets Off Fed Speak",
+      "date": "Wed, 07 Oct 2026 06:31:06 -0400",
+      "is_read": false,
+      "file": "724ec1c2625350de0a86a38ab7474ed2ccbf2a1aba6fd6b5864b607a7c91ef57.json"
+    },
+    {
+      "id": "5dbc6b105fce518e19472ee7a77198928658f20fc5e04187b91b468efe2ab8fb",
+      "uid": "415729.p0AR9iSXCc5UMaZ7e0Tug3Zh8TZinOi0SdKDSkD1atw=",
       "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "🔌 The Pele puzzle",
-      "date": "Wed, 30 Sep 2026 06:30:13 -0400",
-      "is_read": true,
-      "file": "e862ed252fac6cb40755db76d1d199f8374d0decda53928d230d805a462708f7.json"
+      "subject": "🛠️ Boeing boom time",
+      "date": "Wed, 07 Oct 2026 06:30:31 -0400",
+      "is_read": false,
+      "file": "5dbc6b105fce518e19472ee7a77198928658f20fc5e04187b91b468efe2ab8fb.json"
     },
     {
-      "id": "be713883271c14e424332237e28bcacd1ab6636fef74aa221bcf71546ffc88ba",
-      "uid": "413942.8smwhyzzBEqVOXuhwkuxmaHgduoT0SWLXxh,7wGwa3U=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Wall Street’s IPO Boom Stalls",
-      "date": "Wed, 30 Sep 2026 06:03:51 -0400",
-      "is_read": true,
-      "file": "be713883271c14e424332237e28bcacd1ab6636fef74aa221bcf71546ffc88ba.json"
-    },
-    {
-      "id": "93d853f55601abf5513054acff4a2fdc1094718b6992df98dda39ff6a9797b4c",
-      "uid": "413933.0QPPLl+EbuCkb,M+2ngcc2G4vM+3O,71RcGU1VDBv24=",
+      "id": "299157e44bc8cead0fb176098112b5e6946879694fc59de141d127596949c565",
+      "uid": "415727.0pcGqYYP+PWwfv9r,lo7g4WbKWTkcx3Y5a0npgybRQU=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "📜 Axios AM: Trump's AI \"constitution\"",
-      "date": "Wed, 30 Sep 2026 05:36:39 -0400",
-      "is_read": true,
-      "file": "93d853f55601abf5513054acff4a2fdc1094718b6992df98dda39ff6a9797b4c.json"
+      "subject": "⚡ Axios AM: Bibi's last stand",
+      "date": "Wed, 07 Oct 2026 06:12:01 -0400",
+      "is_read": false,
+      "file": "299157e44bc8cead0fb176098112b5e6946879694fc59de141d127596949c565.json"
+    },
+    {
+      "id": "6ae81029f6d6f2093d15a72b35fa64da0c9f9436f86d8a9c27abc0120756a6c9",
+      "uid": "415721.judYcU4kA11hpvZHqcKqAV26be+vSHOZnCgzjqeZ+xc=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Inside Scott Bessent’s Tense Treasury ",
+      "date": "Wed, 07 Oct 2026 06:03:31 -0400",
+      "is_read": false,
+      "file": "6ae81029f6d6f2093d15a72b35fa64da0c9f9436f86d8a9c27abc0120756a6c9.json"
     },
     {
       "id": "a36cdded512240be431c0c19a54352458f28ffae514febb8f8c405613ec6a7b3",
