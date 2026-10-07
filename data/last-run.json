@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=11477 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-07T14:13:20.239483+00:00",
-  "added": 4,
+  "updated_at": "2026-10-07T14:13:21.381462+00:00",
+  "added": 5,
   "skipped": 5,
   "scanned": 10,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "🦔 Hedge hogs",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 2,
+    "axios": 3,
     "seekingalpha": 1
   },
   "last_newest_num": 11391,
