@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=11486 from=WSJ Real Estate <access@interactive.wsj.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-07T14:13:05.279512+00:00",
+  "updated_at": "2026-10-07T14:13:07.137665+00:00",
   "added": 0,
   "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 11391
+  "scanned": 1,
+  "current": "WSJ Real Estate <access@interactive.wsj.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 11391,
+  "newest_num": 11486,
+  "scan_mode": "new",
+  "since": "2026-10-07T05:53:10.285893+00:00"
 }
