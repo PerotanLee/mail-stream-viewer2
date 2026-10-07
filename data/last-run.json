@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=11462 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-07T14:13:30.154490+00:00",
-  "added": 7,
+  "updated_at": "2026-10-07T14:13:31.311127+00:00",
+  "added": 8,
   "skipped": 17,
   "scanned": 25,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "Weaning Markets Off Fed Speak",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 3,
     "seekingalpha": 1
   },
