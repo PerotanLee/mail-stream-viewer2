@@ -181,49 +181,22 @@
       "file": "93d853f55601abf5513054acff4a2fdc1094718b6992df98dda39ff6a9797b4c.json"
     },
     {
-      "id": "41c69a0e48cbadb31c912a3d1fc7b903ba3fa3870bf8a720612a9669cca3cdbe",
-      "uid": "413798.Pw+1z6JCygmRrUF1JZW4UQIn0i2zUTCxKWQhxlwmGaE=",
+      "id": "a36cdded512240be431c0c19a54352458f28ffae514febb8f8c405613ec6a7b3",
+      "uid": "415560.lG29rk6KWwmPJtdZNhDB7S8iAP4nM,F57urAzoizeUQ=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🖊️ Axios Finish Line: Letter to our kids III",
-      "date": "Tue, 29 Sep 2026 21:28:35 -0400",
-      "is_read": true,
-      "file": "41c69a0e48cbadb31c912a3d1fc7b903ba3fa3870bf8a720612a9669cca3cdbe.json"
+      "subject": "🤏 Axios Finish Line: Tiny things trending",
+      "date": "Tue, 06 Oct 2026 21:29:24 -0400",
+      "is_read": false,
+      "file": "a36cdded512240be431c0c19a54352458f28ffae514febb8f8c405613ec6a7b3.json"
     },
     {
-      "id": "33f06e254162c0e79a2b1ee7c71778eb37ed159d5ea46f898d8a9431503b6fc1",
-      "uid": "413749.G835+uKffeQyUnyUroUm8ZdmYRIUqmDXV2XwJXtyb0U=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "IOVA just surged +30%",
-      "date": "Tue, 29 Sep 2026 17:49:48 -0400",
-      "is_read": true,
-      "file": "33f06e254162c0e79a2b1ee7c71778eb37ed159d5ea46f898d8a9431503b6fc1.json"
-    },
-    {
-      "id": "7e046edb5f7243b9683a22c66612e8dfc5bb4ca2d70869916df4ff0c2c73cf61",
-      "uid": "413743.kzzOLMmDT58kgxrCk1zjWU29MuYFd7plvRk1g6egJMM=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🥊 Telecom turf war",
-      "date": "Tue, 29 Sep 2026 17:36:09 -0400",
-      "is_read": true,
-      "file": "7e046edb5f7243b9683a22c66612e8dfc5bb4ca2d70869916df4ff0c2c73cf61.json"
-    },
-    {
-      "id": "a7cb496d425eaa68fe0104499e2faee28dd797d28def99f4f2f173418ffef43d",
-      "uid": "413724.pe+ow8Zi54vc7z5oZ6ugW4+l,GqfxQOx,YYB3EmWutE=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Long Yields Push Higher",
-      "date": "Tue, 29 Sep 2026 16:22:52 -0400",
-      "is_read": true,
-      "file": "a7cb496d425eaa68fe0104499e2faee28dd797d28def99f4f2f173418ffef43d.json"
-    },
-    {
-      "id": "b1910655833ee2e1ded42cb3b5642a948ad07ce34f9d167ff0e63f0825b03423",
-      "uid": "413722.dEqdUNY0esaD5VpKyQF4aSo3Y,hfDxW2LX52DtlxH1Q=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Bitcoin's Days Are Numbered, And So Are Strategy's",
-      "date": "Tue, 29 Sep 2026 16:05:36 -0400",
-      "is_read": true,
-      "file": "b1910655833ee2e1ded42cb3b5642a948ad07ce34f9d167ff0e63f0825b03423.json"
+      "id": "42dd2c208002361bdd4b685195d31391170ff172d3ad40090a27688602a8e8e2",
+      "uid": "415531.OOWvLubevUfZgiCKodOShYo2AjYv42AUvvtkdDFjXPQ=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Shutterstock Founder Asks $49 Million for Slopeside Home in Aspen",
+      "date": "Tue, 06 Oct 2026 19:15:22 -0400",
+      "is_read": false,
+      "file": "42dd2c208002361bdd4b685195d31391170ff172d3ad40090a27688602a8e8e2.json"
     },
     {
       "id": "d352d6592e72ae65fda7c6aca5da8839c4b775cde1f4681e786ab9b7632436eb",
@@ -233,6 +206,33 @@
       "date": "Tue, 06 Oct 2026 18:10:23 +1100",
       "is_read": true,
       "file": "d352d6592e72ae65fda7c6aca5da8839c4b775cde1f4681e786ab9b7632436eb.json"
+    },
+    {
+      "id": "ccb17cfd236f53f2b2c50c00ca0ee5a0b75f2222196c3386086935834038cf98",
+      "uid": "415503.5fzTNXqsee5rJ+Gellwei6CmGMj+p9V9LHcuFm,0xp8=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🤐 LIV's secret contracts",
+      "date": "Tue, 06 Oct 2026 17:15:19 -0400",
+      "is_read": false,
+      "file": "ccb17cfd236f53f2b2c50c00ca0ee5a0b75f2222196c3386086935834038cf98.json"
+    },
+    {
+      "id": "a6e01450c7507e9b9d4611b4bf1462f545fb0468434b6b4e5da488abdd93fcac",
+      "uid": "415492.i2hSzgE0PaSFgGusYkqZapHScfChbYYQUwWzzt6W7qI=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Either Way, Stocks Win",
+      "date": "Tue, 06 Oct 2026 16:44:37 -0400",
+      "is_read": false,
+      "file": "a6e01450c7507e9b9d4611b4bf1462f545fb0468434b6b4e5da488abdd93fcac.json"
+    },
+    {
+      "id": "a44de71314a47bd93e512de23883ec6f1424c6c9ac5c9b4938847edd96fa295e",
+      "uid": "415487.6UIsPDHUqLUvoQGSsoOneCuDO5I+PxTYWM1H0csmM7k=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Micron: Wishful Thinking At Its Finest",
+      "date": "Tue, 06 Oct 2026 16:06:33 -0400",
+      "is_read": false,
+      "file": "a44de71314a47bd93e512de23883ec6f1424c6c9ac5c9b4938847edd96fa295e.json"
     },
     {
       "id": "e0f2967f9cd470a318946eb39f8792cac1bc1d19c7f923758f3e33aaf6c237e3",
