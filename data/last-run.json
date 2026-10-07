@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=11474 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-07T14:13:22.943413+00:00",
-  "added": 5,
+  "updated_at": "2026-10-07T14:13:24.268182+00:00",
+  "added": 6,
   "skipped": 7,
   "scanned": 13,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: El-Sayed Has Trump Fuming, AOC Buzzing and Obama Stumping",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 3,
     "seekingalpha": 1
   },
