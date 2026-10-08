@@ -370,6 +370,33 @@
       "file": "c8b44128e7f7dbee9baeb5506b1274bbe9f410a53b823bc6cfbef13ef86d769f.json"
     },
     {
+      "id": "2c946990e5d9a5d5652dd4b7929c681edbf8212bc8804514760185f8f10fb434",
+      "uid": "416034.TWnacNh41ch9F9z5xblq2w3zGt8MX7eUJWHtjv7bNBs=",
+      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Economics: Weighing Default Risk in the Bond Market",
+      "date": "Thu, 08 Oct 2026 06:08:12 -0400",
+      "is_read": false,
+      "file": "2c946990e5d9a5d5652dd4b7929c681edbf8212bc8804514760185f8f10fb434.json"
+    },
+    {
+      "id": "b0d6ec577447e792bc09d2bedcd3de43c70cda711a68740e889c52c59096682d",
+      "uid": "416028.FPsk8,VVTWSFYSjbLulkVDgO5ss,e8kOMs4E79giMJI=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Guilfoyle Asked a Trump Donor for $100,000 Amex Wire",
+      "date": "Thu, 08 Oct 2026 06:05:26 -0400",
+      "is_read": false,
+      "file": "b0d6ec577447e792bc09d2bedcd3de43c70cda711a68740e889c52c59096682d.json"
+    },
+    {
+      "id": "0b33568bc34c0126a512daa61eb0eb5ad96a0fb496f829798d9e581d76b41ee0",
+      "uid": "416022.uA0SyAyY1MhOdjfYI9BWpZy83fwKP,WPSL,4qxwHoKc=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🥊 Axios AM: Republican midterm triage",
+      "date": "Thu, 08 Oct 2026 05:57:21 -0400",
+      "is_read": false,
+      "file": "0b33568bc34c0126a512daa61eb0eb5ad96a0fb496f829798d9e581d76b41ee0.json"
+    },
+    {
       "id": "4412ca767029a15a40f5752570857c5558bcbfbce65118f02407a0e3ee9e5fbf",
       "uid": "414373.U3qzTvazXOdDEauYTgWoFjpCAtxGOSuWLNtqAiM9jIs=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -377,15 +404,6 @@
       "date": "Thu, 01 Oct 2026 21:29:34 -0400",
       "is_read": true,
       "file": "4412ca767029a15a40f5752570857c5558bcbfbce65118f02407a0e3ee9e5fbf.json"
-    },
-    {
-      "id": "c3a5feec20668c66c926b91c48fc6c1b1a69e7f7940eac47f879768dbaeca9bf",
-      "uid": "414239.K+IjTIZMJuKxMPxSllR9Fc3JO+gfClBDC7yXiU6oEns=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: China's Diesel Market, Blockbuster IPO Season, Premium-Card Perks",
-      "date": "Thu, 01 Oct 2026 20:32:24 +1000",
-      "is_read": true,
-      "file": "c3a5feec20668c66c926b91c48fc6c1b1a69e7f7940eac47f879768dbaeca9bf.json"
     },
     {
       "id": "5edcfeb072cf0bcf14f75b205f4658e070ea154b1538043d6bdf0e24c8e72169",
@@ -503,42 +521,6 @@
       "date": "Thu, 01 Oct 2026 06:48:51 -0400",
       "is_read": true,
       "file": "b566e1bdef99bbf5b21ff30cf2f4435d999f9d36fcc69e05bd00151f7cccb0b4.json"
-    },
-    {
-      "id": "3684035b37bb95421ecfa71c600da94fab4b2b13987603e8339ff2221ccee235",
-      "uid": "414238.eAej0yiDrPjKijKepg7yM3XuE8UT2s3foaH0ne4slhs=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🛑 Markets A.M.: Here’s Why the Fed Is on Hold—Maybe for a While",
-      "date": "Thu, 01 Oct 2026 06:27:20 -0400",
-      "is_read": true,
-      "file": "3684035b37bb95421ecfa71c600da94fab4b2b13987603e8339ff2221ccee235.json"
-    },
-    {
-      "id": "4934faa683745c667a87dc75ccd6413fd0cd1f06aa7a52a41e47d1c5cfa1fee8",
-      "uid": "414233.9ykYvwtaAdiXpt6M,bzHkYSzy1eKyFNoo6+77vZxTUQ=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤝 Axios AM: All in together",
-      "date": "Thu, 01 Oct 2026 06:08:53 -0400",
-      "is_read": true,
-      "file": "4934faa683745c667a87dc75ccd6413fd0cd1f06aa7a52a41e47d1c5cfa1fee8.json"
-    },
-    {
-      "id": "fa284fb08548cf74e7900052353278bcade524f3811fc57466af9086d4bbdf23",
-      "uid": "414227.GiNpITo6o2tnuHEpRIpl6sUssnA7nhgizSptA0+yY60=",
-      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Economics: Nominal GDP Could Explain Soaring Bond Yields",
-      "date": "Thu, 01 Oct 2026 06:04:04 -0400",
-      "is_read": true,
-      "file": "fa284fb08548cf74e7900052353278bcade524f3811fc57466af9086d4bbdf23.json"
-    },
-    {
-      "id": "aa9a0545f335cbc5271f5e3ed2f670616b3b903fcc20a668e8a5c15c7fef158b",
-      "uid": "414223.WoMpLns6YeFiQY+WmoDLpUTNBqs2uwXh1McQAN4wNFs=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Inside the Bloody Battle to Save Flight 1073",
-      "date": "Thu, 01 Oct 2026 06:01:43 -0400",
-      "is_read": true,
-      "file": "aa9a0545f335cbc5271f5e3ed2f670616b3b903fcc20a668e8a5c15c7fef158b.json"
     },
     {
       "id": "37d9a598c686360b3803a9f24077f1bdb9c5d67b171e07178e3be0843902f2b6",
