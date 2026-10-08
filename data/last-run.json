@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=11723 from=\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-08T10:33:43.439471+00:00",
-  "added": 0,
+  "updated_at": "2026-10-08T10:33:44.961303+00:00",
+  "added": 1,
   "skipped": 7,
   "scanned": 8,
-  "current": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Economics: Weighing Default Risk in the Bond Market",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 0,
     "seekingalpha": 0
   },
