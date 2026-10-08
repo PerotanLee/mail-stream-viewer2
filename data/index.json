@@ -1,85 +1,13 @@
 {
   "emails": [
     {
-      "id": "a1f550d401a8d4178958fe458823828bcb77aa3ca5ac977628b52d8b0fd5ad2b",
-      "uid": "414075.Vd3lxE+Qg144j6WuicCfFSLwwSSHV5v44HVdzEK10aM=",
+      "id": "16a2b346fb18bf7483087437622003c87087ac91f39e90fdb63b0887fd8b0121",
+      "uid": "415868.VSo+PnwilYR7WhQYIxCBx6IZqC9BBA6,uyj8uu,EKEo=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🌿  Axios Finish Line: Reset rooms",
-      "date": "Wed, 30 Sep 2026 21:29:32 -0400",
-      "is_read": true,
-      "file": "a1f550d401a8d4178958fe458823828bcb77aa3ca5ac977628b52d8b0fd5ad2b.json"
-    },
-    {
-      "id": "f0695edf46375334d839dd1fa4dde4ee280bdb9acba4eb0f9c8885d409bb54e5",
-      "uid": "414021.Jk5gvICNujFviN9gHQz4H19aY9HcZHwRviSfa9cRHJo=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "⚠️ AI emergency plan",
-      "date": "Wed, 30 Sep 2026 17:14:29 -0400",
-      "is_read": true,
-      "file": "f0695edf46375334d839dd1fa4dde4ee280bdb9acba4eb0f9c8885d409bb54e5.json"
-    },
-    {
-      "id": "07c4a5125d7aa45753e97d9ee62923e5d53a70dcca167bea4b72bcd12ba5e29f",
-      "uid": "414009.eJ+IYNS8SILXLLRLa0BEyA9iBJ,A0EQBXf8EHyChDHI=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Relentless Yields",
-      "date": "Wed, 30 Sep 2026 16:22:51 -0400",
-      "is_read": true,
-      "file": "07c4a5125d7aa45753e97d9ee62923e5d53a70dcca167bea4b72bcd12ba5e29f.json"
-    },
-    {
-      "id": "1a764cb1112dd855ac360fa3698ae0ace4fb5ba728ff66dd2c2a1fe842d603c5",
-      "uid": "414007.BnL6V9pn3AyIYLdNBbVCZHecz+vdYaqTDywXv+zfllw=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Surviving The SaaSpocalypse: 3 Top Software Stocks Flipping The AI Script",
-      "date": "Wed, 30 Sep 2026 16:06:25 -0400",
-      "is_read": true,
-      "file": "1a764cb1112dd855ac360fa3698ae0ace4fb5ba728ff66dd2c2a1fe842d603c5.json"
-    },
-    {
-      "id": "06ad15689f2df9f23192e9bbf1b74ad5e2b4d6b931dd0dc8e663f824694e7826",
-      "uid": "414005.rIeHufMZLRJhtdEv0PXTiduyRQ+guEDBLNlarQBmUjU=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "✈️ Axios PM: Near-disaster",
-      "date": "Wed, 30 Sep 2026 15:15:31 -0400",
-      "is_read": true,
-      "file": "06ad15689f2df9f23192e9bbf1b74ad5e2b4d6b931dd0dc8e663f824694e7826.json"
-    },
-    {
-      "id": "59f25091cbbfee0265957aad7e4d2cc1fd328045151eb23e3e4bbc00656bbf1b",
-      "uid": "413998.n9K94EpsD0MgNnrH7PuYxIk9n4VwpQVf4AzsQjMwUvw=",
-      "from_addr": "Alpha Picks <subscriptions@seekingalpha.com>",
-      "subject": "What happens when the waiting stops",
-      "date": "Wed, 30 Sep 2026 12:04:40 -0400",
-      "is_read": true,
-      "file": "59f25091cbbfee0265957aad7e4d2cc1fd328045151eb23e3e4bbc00656bbf1b.json"
-    },
-    {
-      "id": "6a0398db83bba3fd18a0dc7c96d13afc9dafd484f13dfebb98fa4b71b27c777b",
-      "uid": "413997.kTXpDCUgYUgoUHEV+UIqBg6CH8oF1YraWRLOzVmvnbo=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "😡 Hated economic boom",
-      "date": "Wed, 30 Sep 2026 12:03:13 -0400",
-      "is_read": true,
-      "file": "6a0398db83bba3fd18a0dc7c96d13afc9dafd484f13dfebb98fa4b71b27c777b.json"
-    },
-    {
-      "id": "b80b9a7cc306a69a4f027ec308ca4b55bd572f271f4c222619db52233ff3f400",
-      "uid": "413996.WOd0JutiDxdmQVctYr2oI9wj7Zrrm1FM31oMPSQsE0w=",
-      "from_addr": "Axios Intelligence <research@axios.com>",
-      "subject": "💬 Share your thoughts + enter to win $250!",
-      "date": "Wed, 30 Sep 2026 12:02:11 -0400",
-      "is_read": true,
-      "file": "b80b9a7cc306a69a4f027ec308ca4b55bd572f271f4c222619db52233ff3f400.json"
-    },
-    {
-      "id": "83840e8b4f61fcc9c8cd9b20a75dc5c7a9f1f46c11ec7091d86d1068e6e08b91",
-      "uid": "413995.H+S+H8bHUtSeWuovDsWay29Ms0jKwucBlcGdwxChAzA=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Anthropic's IPO path",
-      "date": "Wed, 30 Sep 2026 10:16:12 -0400",
-      "is_read": true,
-      "file": "83840e8b4f61fcc9c8cd9b20a75dc5c7a9f1f46c11ec7091d86d1068e6e08b91.json"
+      "subject": "🫧 Axios Finish Line: Contagious kindness",
+      "date": "Wed, 07 Oct 2026 21:29:38 -0400",
+      "is_read": false,
+      "file": "16a2b346fb18bf7483087437622003c87087ac91f39e90fdb63b0887fd8b0121.json"
     },
     {
       "id": "8265767428ff6864860b884864a24c71cecd8318f1347df637c2e06b7c6f5ec0",
@@ -89,6 +17,60 @@
       "date": "Wed, 07 Oct 2026 18:10:20 +1100",
       "is_read": true,
       "file": "8265767428ff6864860b884864a24c71cecd8318f1347df637c2e06b7c6f5ec0.json"
+    },
+    {
+      "id": "d7562927168dd0325dfaf7ca4a98374c4c87297313d80bbc93092079dc7c3dc2",
+      "uid": "415794.VpAlMpMg+yVLXCrj+aQW17BGJB9L3jvB6XoEr,DvkK0=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "💰 SpaceX's $40B AI bet",
+      "date": "Wed, 07 Oct 2026 17:17:29 -0400",
+      "is_read": false,
+      "file": "d7562927168dd0325dfaf7ca4a98374c4c87297313d80bbc93092079dc7c3dc2.json"
+    },
+    {
+      "id": "8f5b01e60c1fc9b8f3ce91e881543672d40752fc77ebc40e3e2eaedfa650d3a9",
+      "uid": "415781.WslsI50FBTmyB4J43wEgV1exKNHJ0E9afYbPX5m4ZWw=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Auction Action",
+      "date": "Wed, 07 Oct 2026 16:51:36 -0400",
+      "is_read": false,
+      "file": "8f5b01e60c1fc9b8f3ce91e881543672d40752fc77ebc40e3e2eaedfa650d3a9.json"
+    },
+    {
+      "id": "bba14a6bc87c6aa09651db1a9bfb9b18721e5edd8922115d48af9b1ad17c502a",
+      "uid": "415776.4VsYnZ4LIHtAl0tdJ3kh+lvevFubfuloI5P3mFbxl3Y=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "This Is Most Certainly A Bull Trap",
+      "date": "Wed, 07 Oct 2026 16:06:19 -0400",
+      "is_read": false,
+      "file": "bba14a6bc87c6aa09651db1a9bfb9b18721e5edd8922115d48af9b1ad17c502a.json"
+    },
+    {
+      "id": "fef0abc85980ba7311ebcad8ab83727a56d0dcaba72d32814a3a1433ddee9c7b",
+      "uid": "415773.K+TXKA9jx0rJUVh6ywJX1QCdOd41IS,P+oxWnoPaUCs=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios PM: Teen AI warning",
+      "date": "Wed, 07 Oct 2026 15:04:16 -0400",
+      "is_read": false,
+      "file": "fef0abc85980ba7311ebcad8ab83727a56d0dcaba72d32814a3a1433ddee9c7b.json"
+    },
+    {
+      "id": "37c50048a6258e5aa5c9894aca1ea40efb0c8733322b27ce8a6adbabef7eb9be",
+      "uid": "415771.sEGPEAGQufMceFczcWv5ETo6uVWZvRRJUMxUA9aNIZs=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Tennis Legend John McEnroe Asks $35 Million for Beachfront Malibu Home",
+      "date": "Wed, 07 Oct 2026 13:45:17 -0400",
+      "is_read": false,
+      "file": "37c50048a6258e5aa5c9894aca1ea40efb0c8733322b27ce8a6adbabef7eb9be.json"
+    },
+    {
+      "id": "0970dfa953ad1a832619125986ce66f191d07bf65046ccd66cb6dbcdc9d2b86c",
+      "uid": "415764.6bMqhuMdroZLDSE9U,VTtviDWEDIYM2+prmgWlXH23A=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "💸 Global debt reckoning",
+      "date": "Wed, 07 Oct 2026 11:59:18 -0400",
+      "is_read": false,
+      "file": "0970dfa953ad1a832619125986ce66f191d07bf65046ccd66cb6dbcdc9d2b86c.json"
     },
     {
       "id": "fd204cfe280e2504f545f2534ca46b4c32482edaaefe7305cb518caf82b44866",
@@ -379,6 +361,15 @@
       "file": "af84b518be94611fa877430008402945394f77f86db59dc2539b04c865cfe461.json"
     },
     {
+      "id": "c8b44128e7f7dbee9baeb5506b1274bbe9f410a53b823bc6cfbef13ef86d769f",
+      "uid": "415972.bi5s8Hy97D7Q8RGFITSojHDj8t5sgayhF0OjtvqUaUg=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Thu, 08 Oct 2026 18:10:24 +1100",
+      "is_read": false,
+      "file": "c8b44128e7f7dbee9baeb5506b1274bbe9f410a53b823bc6cfbef13ef86d769f.json"
+    },
+    {
       "id": "4412ca767029a15a40f5752570857c5558bcbfbce65118f02407a0e3ee9e5fbf",
       "uid": "414373.U3qzTvazXOdDEauYTgWoFjpCAtxGOSuWLNtqAiM9jIs=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -404,15 +395,6 @@
       "date": "Thu, 01 Oct 2026 17:36:44 -0400",
       "is_read": true,
       "file": "5edcfeb072cf0bcf14f75b205f4658e070ea154b1538043d6bdf0e24c8e72169.json"
-    },
-    {
-      "id": "f0006b9d40cfb0700b1837b4e49460f7795204608307ab11e23b4ac4c603c8f3",
-      "uid": "414167.vx0qVaLx7rNiTTSzb1FXdFaSqpzefKyaRG0nJ8E+EJ8=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Thu, 01 Oct 2026 17:10:03 +1000",
-      "is_read": true,
-      "file": "f0006b9d40cfb0700b1837b4e49460f7795204608307ab11e23b4ac4c603c8f3.json"
     },
     {
       "id": "0d820e0df84b2fcd48d9bb0ef62c279ab50a4ea4097228b72f61aa644a1a532b",
