@@ -429,7 +429,7 @@
       "from_addr": "Axios Macro <macro@axios.com>",
       "subject": "🐢 Patient Fed",
       "date": "Thu, 08 Oct 2026 11:58:30 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "121c00bc9f84f9cb5eb3c58103cf9fff5564c552368eb47a55a6d34f0146a249.json"
     },
     {
