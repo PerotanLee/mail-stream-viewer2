@@ -456,7 +456,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "The Fragile Math Of Oil Prices",
       "date": "Thu, 08 Oct 2026 07:49:05 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "947cca91ad0e12cc1d73f7612e5c7ae2c063c6ad0ef2c66322c3686c3aefe8af.json"
     },
     {
