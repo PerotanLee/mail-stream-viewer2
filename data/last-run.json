@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=11744 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-09T04:18:52.914481+00:00",
-  "added": 11,
+  "updated_at": "2026-10-09T04:18:54.195695+00:00",
+  "added": 12,
   "skipped": 134,
   "scanned": 146,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: High Energy Prices Give Democrats Hope of a Breakthrough in Iowa",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 8,
     "seekingalpha": 2
   },
