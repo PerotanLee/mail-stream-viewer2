@@ -766,13 +766,112 @@
       "file": "9a7a218172246d9ad38697e922a8a2fe8fe5765993173df3ed247a339620ddd0.json"
     },
     {
-      "id": "d32dc607f8c546e5bbbe87fa3d80cf0daeab800c2830218cccd929957e323720",
-      "uid": "414534.gh4PcUQndp54T8DFVkmHjTMw+V6upIensq0m,5SPZM0=",
+      "id": "c1c72d508b9d09740a35018b76f5e51a83d82cacf8f754c180d782b5e32eccc3",
+      "uid": "416271.9EOwQpMh5bsH33k1CLepekg7Aa5irU4E1xyRGz+nvQU=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Fri, 09 Oct 2026 18:10:22 +1100",
+      "is_read": false,
+      "file": "c1c72d508b9d09740a35018b76f5e51a83d82cacf8f754c180d782b5e32eccc3.json"
+    },
+    {
+      "id": "4927d6252ae304f9f30e52eb23fb1dd963be0a8f03bfbdf61b955ccc4b599c96",
+      "uid": "416386.,2o0bDeE0K58RbZeGOkcI1ii8SFgrriTyNKYmrdV9GM=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "☠️ \"The day after\"",
+      "date": "Fri, 09 Oct 2026 09:28:27 -0400",
+      "is_read": false,
+      "file": "4927d6252ae304f9f30e52eb23fb1dd963be0a8f03bfbdf61b955ccc4b599c96.json"
+    },
+    {
+      "id": "24808760f20935551057f573e8e2247070365d76b9940240ee5672dc1a520a1d",
+      "uid": "416381.lLHvC,XtoP6jKg1GW6fKLvfUmm3YSqdjZtRqHDNRuEI=",
+      "from_addr": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Travel: What’s an Airline Status Match? 🤔",
+      "date": "Fri, 09 Oct 2026 08:31:06 -0400",
+      "is_read": false,
+      "file": "24808760f20935551057f573e8e2247070365d76b9940240ee5672dc1a520a1d.json"
+    },
+    {
+      "id": "e97e5aab366f8ba8eb052dd81b5c15b8940a38b86de610cc11a5ac55fe12c2b1",
+      "uid": "416379.Xv+JK5FKt7tTDdlrKmE4ObuY+,+QUgP95Bkzv6KchfQ=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "America Continues To Spend Far More Than It Has",
+      "date": "Fri, 09 Oct 2026 08:03:36 -0400",
+      "is_read": false,
+      "file": "e97e5aab366f8ba8eb052dd81b5c15b8940a38b86de610cc11a5ac55fe12c2b1.json"
+    },
+    {
+      "id": "e2f0ce25286ef0dad9afe4c85b9a04a9aa17ac61eb8dc53c3172d793eb7b248d",
+      "uid": "416371.xErSmnUeDSQPapkqsNBtSkGyCgJCp0PGAX5,V2T,8rw=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "😵‍💫 Concentr-AI-tion!",
+      "date": "Fri, 09 Oct 2026 07:29:03 -0400",
+      "is_read": false,
+      "file": "e2f0ce25286ef0dad9afe4c85b9a04a9aa17ac61eb8dc53c3172d793eb7b248d.json"
+    },
+    {
+      "id": "682e8202f334048884210536ec70e7827f833bb98cd8cb3d961629230e1e43db",
+      "uid": "416366.N2E0hQNq,33YhIDiyT8mMH8CHwUDNJ3fXbRWddhJv2M=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Rubio and Vance Comments on Guilfoyle Show 2028 Tensions",
+      "date": "Fri, 09 Oct 2026 07:05:08 -0400",
+      "is_read": false,
+      "file": "682e8202f334048884210536ec70e7827f833bb98cd8cb3d961629230e1e43db.json"
+    },
+    {
+      "id": "3926f7eb0613b23cd95e182aad76938652681eb758d8f9e35508431e1e14c9fc",
+      "uid": "416358.8VEitdOXNEis,yNmJFxnPBLlpPv2FYPVfYf2BxCCczU=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "😐 Markets A.M.: Borrowing Costs’ Double Whammy Boosts Recession Odds",
+      "date": "Fri, 09 Oct 2026 06:44:27 -0400",
+      "is_read": false,
+      "file": "3926f7eb0613b23cd95e182aad76938652681eb758d8f9e35508431e1e14c9fc.json"
+    },
+    {
+      "id": "11788c6b57846de02b0a93c8ff3b9590ea24aa7f2077e7f66f709fa2cf4bcdbf",
+      "uid": "416357.rno1qMI5MNxAPc1nR7kpEjBlnsZbhBVK5qDqGdVRjxE=",
+      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
+      "subject": "See what’s moving the markets this week",
+      "date": "Fri, 09 Oct 2026 06:42:18 -0400",
+      "is_read": false,
+      "file": "11788c6b57846de02b0a93c8ff3b9590ea24aa7f2077e7f66f709fa2cf4bcdbf.json"
+    },
+    {
+      "id": "e4453715c31f6c46089df7cc1b15befedfdb99a6827df06c4cf7b2034674d697",
+      "uid": "416354.QFnrPi7aubtQvxXtpBapPLRs4as+hsnXrdRDma8FctI=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "WSJ Wealth Adviser Briefing: Bond Market Persuasion, Europe’s Luxury Carmakers, Tiny Toy Tycoon",
-      "date": "Fri, 02 Oct 2026 20:32:14 +1000",
-      "is_read": true,
-      "file": "d32dc607f8c546e5bbbe87fa3d80cf0daeab800c2830218cccd929957e323720.json"
+      "subject": "Choosing the Right Bond Strategy Based on the ‘Why?’",
+      "date": "Fri, 09 Oct 2026 06:30:46 -0400",
+      "is_read": false,
+      "file": "e4453715c31f6c46089df7cc1b15befedfdb99a6827df06c4cf7b2034674d697.json"
+    },
+    {
+      "id": "576ecb24ac4343fe70307487759c5a547ba8d9cfb4c568811a6d65ac29a64d41",
+      "uid": "416350.EIU4yNj3f86nMerfPGIwtmJNhfBFGN+DqX0GRR4DQfE=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🧯 Axios AM: The day after",
+      "date": "Fri, 09 Oct 2026 06:10:16 -0400",
+      "is_read": false,
+      "file": "576ecb24ac4343fe70307487759c5a547ba8d9cfb4c568811a6d65ac29a64d41.json"
+    },
+    {
+      "id": "68321f4b1abd40c693f3cf82d57d3d3d82092c502e0e04840bcaf9665e5b3842",
+      "uid": "416344.TXBht0c,7cxJTZZenejW8Y3QBEzuBsUC9cTb+Av2v8M=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Walmart’s Multibillion-Dollar Robot Struggle",
+      "date": "Fri, 09 Oct 2026 06:06:16 -0400",
+      "is_read": false,
+      "file": "68321f4b1abd40c693f3cf82d57d3d3d82092c502e0e04840bcaf9665e5b3842.json"
+    },
+    {
+      "id": "a45c7ec836b5f56e58f21adc9d502558e76f64b8e806c8eea34148a0eb8ab978",
+      "uid": "416311.gFHJIeQdLHwR,j1f1m2payvYxwsAXucr0dij++O+cw4=",
+      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
+      "subject": "Investment News Quiz - Friday, Oct. 9",
+      "date": "Fri, 09 Oct 2026 05:04:46 -0400",
+      "is_read": false,
+      "file": "a45c7ec836b5f56e58f21adc9d502558e76f64b8e806c8eea34148a0eb8ab978.json"
     },
     {
       "id": "ef56a2977ccbf4d6ca8bb894c350cf869ae026fe318cc49aec8c44eedc8d2b4c",
@@ -782,15 +881,6 @@
       "date": "Fri, 02 Oct 2026 17:14:19 -0400",
       "is_read": true,
       "file": "ef56a2977ccbf4d6ca8bb894c350cf869ae026fe318cc49aec8c44eedc8d2b4c.json"
-    },
-    {
-      "id": "d1b6eba70dbc10eeeb8d74156511b2583d13e1d79f0279bfc594788e15b8b40b",
-      "uid": "414467.di8P,XFncepU4FQjMlthkH1,YwTFjws0T4c4HoTSu,Q=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Fri, 02 Oct 2026 17:10:03 +1000",
-      "is_read": true,
-      "file": "d1b6eba70dbc10eeeb8d74156511b2583d13e1d79f0279bfc594788e15b8b40b.json"
     },
     {
       "id": "b46707f14f2362efa6235aa6dc7e829da4da1b7cba52483d44237fdfd3163cab",
@@ -854,105 +944,6 @@
       "date": "Fri, 02 Oct 2026 09:55:50 -0400",
       "is_read": true,
       "file": "808b0ea0ffb8afa599ba2f2a5e2696c20254e9f2d9646db866023fdc41240e38.json"
-    },
-    {
-      "id": "320a64874b5a1ba5ebde34c05bddeecf6bc8ff3623cf2d5b4d8e36e67832d3f5",
-      "uid": "414575.0B1sCXubNMR4TjXwdrS2JFyjt,0jE2VcEvvjuGvSzJw=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "😠 AI's rebellion phase",
-      "date": "Fri, 02 Oct 2026 09:28:18 -0400",
-      "is_read": true,
-      "file": "320a64874b5a1ba5ebde34c05bddeecf6bc8ff3623cf2d5b4d8e36e67832d3f5.json"
-    },
-    {
-      "id": "4fa61933163836bf2100dcc2ad84195c3e22e11ef6b650f3c9bb9af04f8f46af",
-      "uid": "414570.qW+,Md2Ok8GugOcaBt60GTPsOUT9EX7pRSltAHtVxeg=",
-      "from_addr": "Alpha Picks <subscriptions@seekingalpha.com>",
-      "subject": "Members got a new pick yesterday. You didn't.",
-      "date": "Fri, 02 Oct 2026 08:46:59 -0400",
-      "is_read": true,
-      "file": "4fa61933163836bf2100dcc2ad84195c3e22e11ef6b650f3c9bb9af04f8f46af.json"
-    },
-    {
-      "id": "ca823e83fc70b8ddcd42f31d325b1727445a624c8067c4b0c7553c3caab1b718",
-      "uid": "414567.5upHBoQfND5hat+eluoXBHofX,cjzeUzoG1YPuX06M0=",
-      "from_addr": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Travel: No More Passport Application Hassles? 📋",
-      "date": "Fri, 02 Oct 2026 08:31:08 -0400",
-      "is_read": true,
-      "file": "ca823e83fc70b8ddcd42f31d325b1727445a624c8067c4b0c7553c3caab1b718.json"
-    },
-    {
-      "id": "ee3cc0b663a361e2d3103c896a9a0b79b3fb01068459907bc9242330395dd442",
-      "uid": "414560.6HFwCYVRBaiYtBo+XDfuCiTyx,PlOMXgMi5Qo0xyVeA=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "😱 Shizzle meet fan",
-      "date": "Fri, 02 Oct 2026 07:31:54 -0400",
-      "is_read": true,
-      "file": "ee3cc0b663a361e2d3103c896a9a0b79b3fb01068459907bc9242330395dd442.json"
-    },
-    {
-      "id": "2cff118b8a1995ee6657eefb235f76b203bbedbbeb1283079de0ad8db1c6efe9",
-      "uid": "414557.ijEHe0u4XrGU17E+o6npmoMEi6q7jVE0iBcnzSEcCUE=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Is The Labor Market Still Resilient?",
-      "date": "Fri, 02 Oct 2026 07:22:55 -0400",
-      "is_read": true,
-      "file": "2cff118b8a1995ee6657eefb235f76b203bbedbbeb1283079de0ad8db1c6efe9.json"
-    },
-    {
-      "id": "8f82c4f4b41e738bd6ecadcff5aec17db439f37fae743ffaf5718b178d185055",
-      "uid": "414550.kFmGvep6mNcnUZs5ZzX8T4cTK+Xe9l+LLHMYsZCJT7I=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Here’s What Our AI Tool Has Taught Us About Political Winds",
-      "date": "Fri, 02 Oct 2026 07:06:33 -0400",
-      "is_read": true,
-      "file": "8f82c4f4b41e738bd6ecadcff5aec17db439f37fae743ffaf5718b178d185055.json"
-    },
-    {
-      "id": "966821afc7083f2da9f940843c5ec1ec31da298947bde8802dcb566444a6a605",
-      "uid": "414538.RWKaRNbVfuDnNpZBTcNPWl8GBHzcU,pYhlGU,0chUAI=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🤩 Markets A.M.: The Amazing Stat That’s a Red Flag for Investors",
-      "date": "Fri, 02 Oct 2026 06:43:49 -0400",
-      "is_read": true,
-      "file": "966821afc7083f2da9f940843c5ec1ec31da298947bde8802dcb566444a6a605.json"
-    },
-    {
-      "id": "bd284033d3a85c0a768de41a0f2d2b63f64b13d6fad7652e583c4fccc2093a21",
-      "uid": "414536.wMPB5Sss0ir1+k7UcGtGhi9ZBO08I+jM0haMl+QsCOg=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "See what’s moving the markets this week",
-      "date": "Fri, 02 Oct 2026 06:38:19 -0400",
-      "is_read": true,
-      "file": "bd284033d3a85c0a768de41a0f2d2b63f64b13d6fad7652e583c4fccc2093a21.json"
-    },
-    {
-      "id": "78c1e0f04f93a2256862ebfe067daadab8e2266e3b0fed0d4f7293b5a9a87974",
-      "uid": "414530.EVj52FpApBglPiVS548LM1azgmAkvoUW4arGUrSdtLw=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: What Democrats Really Think of Their Party",
-      "date": "Fri, 02 Oct 2026 06:09:57 -0400",
-      "is_read": true,
-      "file": "78c1e0f04f93a2256862ebfe067daadab8e2266e3b0fed0d4f7293b5a9a87974.json"
-    },
-    {
-      "id": "164b3d029a667152b4d159f12d8222d1019150afd265001200cedf7d5a17f02f",
-      "uid": "414518.usp4aBfOUt8rTRgRexkA7DR0VkHvfOejjbgD4lCRiWg=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "💣 Axios AM: AI's ticking timebomb",
-      "date": "Fri, 02 Oct 2026 05:57:50 -0400",
-      "is_read": true,
-      "file": "164b3d029a667152b4d159f12d8222d1019150afd265001200cedf7d5a17f02f.json"
-    },
-    {
-      "id": "306213bf67757bc7dcf0d9cfc1dae67cd01dcc331e36d0713b912256b330279e",
-      "uid": "414499.N6Ie1cHqK4eP9JmhqsNLmWyEvu9b0N1VXaJDHAlt6j4=",
-      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
-      "subject": "Investment News Quiz - Friday, Oct. 2",
-      "date": "Fri, 02 Oct 2026 05:06:14 -0400",
-      "is_read": true,
-      "file": "306213bf67757bc7dcf0d9cfc1dae67cd01dcc331e36d0713b912256b330279e.json"
     }
   ]
 }
