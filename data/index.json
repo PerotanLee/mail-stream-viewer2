@@ -775,6 +775,24 @@
       "file": "c1c72d508b9d09740a35018b76f5e51a83d82cacf8f754c180d782b5e32eccc3.json"
     },
     {
+      "id": "8c01e8ca32a54a0f08e857b5b974ccc21a9faa5e074f3fba14f225e8abca2a03",
+      "uid": "416395.JuSRNnR,1BJfXgG4wTZ9YwQwffEKXVgI8TI,eljSjIE=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "⚖️ New Cook inquiry",
+      "date": "Fri, 09 Oct 2026 11:58:41 -0400",
+      "is_read": false,
+      "file": "8c01e8ca32a54a0f08e857b5b974ccc21a9faa5e074f3fba14f225e8abca2a03.json"
+    },
+    {
+      "id": "5cee9835009da7dccc50786d7ec3297a6100cfab7a5bdb71c3da8d81abf67c3a",
+      "uid": "416391.u,xeLfe21HU0D,TGqHzGl+FbuR5GCEvkaCMjy,c4CpI=",
+      "from_addr": "Lucinda Shen <lucinda.shen@axios.com>",
+      "subject": "🦄 Axios Pro Rata: Shattered decacorn records",
+      "date": "Fri, 09 Oct 2026 10:05:41 -0400",
+      "is_read": false,
+      "file": "5cee9835009da7dccc50786d7ec3297a6100cfab7a5bdb71c3da8d81abf67c3a.json"
+    },
+    {
       "id": "4927d6252ae304f9f30e52eb23fb1dd963be0a8f03bfbdf61b955ccc4b599c96",
       "uid": "416386.,2o0bDeE0K58RbZeGOkcI1ii8SFgrriTyNKYmrdV9GM=",
       "from_addr": "Axios AI+ <ai.plus@axios.com>",
@@ -917,33 +935,6 @@
       "date": "Fri, 02 Oct 2026 15:00:40 -0400",
       "is_read": true,
       "file": "557e2d61a22c168f153f85c345833289fa48aae3a07bb2ed1ebcf397af549ee6.json"
-    },
-    {
-      "id": "3bcae7244aa0444a99dad249e03939e53081e01ef06d0ddbc8b52c6088c07190",
-      "uid": "414588.1q73xaaOsdE26JteBB2qMjmc2,ZiPQfKR5Wb+jpRdco=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🤔 Soft jobs report",
-      "date": "Fri, 02 Oct 2026 12:03:02 -0400",
-      "is_read": true,
-      "file": "3bcae7244aa0444a99dad249e03939e53081e01ef06d0ddbc8b52c6088c07190.json"
-    },
-    {
-      "id": "6a698df105b9c3a7750df9fe96ae92c4782d8f070a1c3b6c46365382c50194d6",
-      "uid": "414585.xUsoDpJ51Dk2tyuy,Ui0OO2lKdo+RVvem3ySowH3y,E=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "The latest from Jason Zweig",
-      "date": "Fri, 02 Oct 2026 11:15:16 -0400",
-      "is_read": true,
-      "file": "6a698df105b9c3a7750df9fe96ae92c4782d8f070a1c3b6c46365382c50194d6.json"
-    },
-    {
-      "id": "808b0ea0ffb8afa599ba2f2a5e2696c20254e9f2d9646db866023fdc41240e38",
-      "uid": "414577.mqFAoheminjOo89nmRiOAbEwWY4w8DQtF6CajqOu4qI=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Change capital",
-      "date": "Fri, 02 Oct 2026 09:55:50 -0400",
-      "is_read": true,
-      "file": "808b0ea0ffb8afa599ba2f2a5e2696c20254e9f2d9646db866023fdc41240e38.json"
     }
   ]
 }
