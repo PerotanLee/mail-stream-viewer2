@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12036 from=Lucinda Shen <lucinda.shen@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-09T17:09:56.107623+00:00",
-  "added": 1,
+  "updated_at": "2026-10-09T17:09:57.452795+00:00",
+  "added": 2,
   "skipped": 7,
   "scanned": 9,
-  "current": "Lucinda Shen <lucinda.shen@axios.com>",
+  "current": "🦄 Axios Pro Rata: Shattered decacorn records",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 0
   },
   "last_newest_num": 12033,
