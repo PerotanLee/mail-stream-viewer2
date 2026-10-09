@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12000 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-09T13:32:23.211933+00:00",
-  "added": 7,
+  "updated_at": "2026-10-09T13:32:24.326416+00:00",
+  "added": 8,
   "skipped": 25,
   "scanned": 33,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "Choosing the Right Bond Strategy Based on the ‘Why?’",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 2,
     "seekingalpha": 2
   },
