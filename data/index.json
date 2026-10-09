@@ -870,7 +870,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🧯 Axios AM: The day after",
       "date": "Fri, 09 Oct 2026 06:10:16 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "576ecb24ac4343fe70307487759c5a547ba8d9cfb4c568811a6d65ac29a64d41.json"
     },
     {
