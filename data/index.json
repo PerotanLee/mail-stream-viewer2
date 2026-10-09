@@ -361,6 +361,15 @@
       "file": "af84b518be94611fa877430008402945394f77f86db59dc2539b04c865cfe461.json"
     },
     {
+      "id": "149c35b40f4addfa18aaeae5b3c816b29608f146c1a78b8950a61cd30d2d3cdf",
+      "uid": "416159.AixUDTvHMhwqDM6OJJMFmtT0M6SBTRiiQJYfUALFHkU=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🎒 Axios Finish Line: Teaching AI",
+      "date": "Thu, 08 Oct 2026 21:29:30 -0400",
+      "is_read": false,
+      "file": "149c35b40f4addfa18aaeae5b3c816b29608f146c1a78b8950a61cd30d2d3cdf.json"
+    },
+    {
       "id": "c8b44128e7f7dbee9baeb5506b1274bbe9f410a53b823bc6cfbef13ef86d769f",
       "uid": "415972.bi5s8Hy97D7Q8RGFITSojHDj8t5sgayhF0OjtvqUaUg=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -368,6 +377,114 @@
       "date": "Thu, 08 Oct 2026 18:10:24 +1100",
       "is_read": true,
       "file": "c8b44128e7f7dbee9baeb5506b1274bbe9f410a53b823bc6cfbef13ef86d769f.json"
+    },
+    {
+      "id": "f8ec0a8fd3c83f29bbcc3afdfefdd6a5c5abf3aedf2b0921e6d28da353ca19ec",
+      "uid": "416110.W4YB9VFzyYxtZT,4yf1qQXmgP0wQaGWyVUU1,fK5P8M=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🏈 NFL throws flag on prediction markets",
+      "date": "Thu, 08 Oct 2026 17:26:19 -0400",
+      "is_read": false,
+      "file": "f8ec0a8fd3c83f29bbcc3afdfefdd6a5c5abf3aedf2b0921e6d28da353ca19ec.json"
+    },
+    {
+      "id": "d87c25e3f5d3e4f8be63fc4ab1d5d43806ff72b2a231ad1c9b1343da97819d8d",
+      "uid": "416099.DRWn8i0QozijIIky09FRss5HibvutqNz1gwrK5xowJU=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Winds Pick Up, Yields Tick Down",
+      "date": "Thu, 08 Oct 2026 16:40:23 -0400",
+      "is_read": false,
+      "file": "d87c25e3f5d3e4f8be63fc4ab1d5d43806ff72b2a231ad1c9b1343da97819d8d.json"
+    },
+    {
+      "id": "81723c16ef2fc5e926568c379dfb78ed7c5e32ff77788f63b0e4ba19d3eb621f",
+      "uid": "416095.rA8NpkVVePvINfewuM6vaxbAvFI9BOZY,c1BTRqInsg=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Rare Stock Picks In September 2026 - From 21 Discerning Analysts",
+      "date": "Thu, 08 Oct 2026 16:05:55 -0400",
+      "is_read": false,
+      "file": "81723c16ef2fc5e926568c379dfb78ed7c5e32ff77788f63b0e4ba19d3eb621f.json"
+    },
+    {
+      "id": "2122fd1bc800aa57283c92df79ecc1ae535b289f76b9a3dec5e0a5b09f533d7e",
+      "uid": "416093.kcF+v63c5sXFyRyi90ZCUAds,Uc+g3g4c6hT5BeArMA=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🍔 Axios PM: Food faith plummets",
+      "date": "Thu, 08 Oct 2026 15:00:54 -0400",
+      "is_read": false,
+      "file": "2122fd1bc800aa57283c92df79ecc1ae535b289f76b9a3dec5e0a5b09f533d7e.json"
+    },
+    {
+      "id": "7c80a0ca3c06fcf283a1badd1881318df4fd0bf8dfb4050e30489849a59d7dd1",
+      "uid": "416090.Hoxsd3r4pNXExIWbTAlTc5rXffen0ziX0BvUayh4IIU=",
+      "from_addr": "Axios <newsletters@axios.com>",
+      "subject": "🧬 Bryan Johnson on “The Axios Show”",
+      "date": "Thu, 08 Oct 2026 13:02:41 -0400",
+      "is_read": false,
+      "file": "7c80a0ca3c06fcf283a1badd1881318df4fd0bf8dfb4050e30489849a59d7dd1.json"
+    },
+    {
+      "id": "121c00bc9f84f9cb5eb3c58103cf9fff5564c552368eb47a55a6d34f0146a249",
+      "uid": "416088.v8ztRAmZNNSKWrkiCPro+LudlWr87eRSZH8GrLPaVSI=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🐢 Patient Fed",
+      "date": "Thu, 08 Oct 2026 11:58:30 -0400",
+      "is_read": false,
+      "file": "121c00bc9f84f9cb5eb3c58103cf9fff5564c552368eb47a55a6d34f0146a249.json"
+    },
+    {
+      "id": "e54d7dcc093a695c17554c14ef718961e799fa9a2a4ef1121c3d0c255e068464",
+      "uid": "416078.SN9NmQRTByXgSNlB5kbkx3FFd3yBK0eZFEWXTYquo5c=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Bankroll bifurcation",
+      "date": "Thu, 08 Oct 2026 09:49:16 -0400",
+      "is_read": false,
+      "file": "e54d7dcc093a695c17554c14ef718961e799fa9a2a4ef1121c3d0c255e068464.json"
+    },
+    {
+      "id": "cd1872a92fb64e4c5593dcbb837d5a795cf9b35a886652df7f90fd1e1207f6d7",
+      "uid": "416076.Gv8a5bznuEs5QvI6TT5aEPP,5D5XrRx6lP6IgWjx65w=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "⏳ Longevity meets AI",
+      "date": "Thu, 08 Oct 2026 09:32:36 -0400",
+      "is_read": false,
+      "file": "cd1872a92fb64e4c5593dcbb837d5a795cf9b35a886652df7f90fd1e1207f6d7.json"
+    },
+    {
+      "id": "947cca91ad0e12cc1d73f7612e5c7ae2c063c6ad0ef2c66322c3686c3aefe8af",
+      "uid": "416065.MigbwUoQEMF5tPznsrHp8zCuVSnvlvX1liLOjI0XYQk=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "The Fragile Math Of Oil Prices",
+      "date": "Thu, 08 Oct 2026 07:49:05 -0400",
+      "is_read": false,
+      "file": "947cca91ad0e12cc1d73f7612e5c7ae2c063c6ad0ef2c66322c3686c3aefe8af.json"
+    },
+    {
+      "id": "42f82df9f3d3d95bf9b4765f23d67d6e7fa643c3cc91c1596a5151c56337cd54",
+      "uid": "416060.4X6vYs+E65QJL3W8vyDtneL3gUo,ExBqk5NHCOeEI3g=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🤮 Big bond barf",
+      "date": "Thu, 08 Oct 2026 07:28:43 -0400",
+      "is_read": false,
+      "file": "42f82df9f3d3d95bf9b4765f23d67d6e7fa643c3cc91c1596a5151c56337cd54.json"
+    },
+    {
+      "id": "b17dc936a703ad6a42074406333c84b8ee02b9cb9b823e12091f6f88f46d7b4d",
+      "uid": "416056.tcoXos8Luc8fNXFn3cRg3fHyg8szNDWLEMVGAoTdkL8=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: High Energy Prices Give Democrats Hope of a Breakthrough in Iowa",
+      "date": "Thu, 08 Oct 2026 07:13:11 -0400",
+      "is_read": false,
+      "file": "b17dc936a703ad6a42074406333c84b8ee02b9cb9b823e12091f6f88f46d7b4d.json"
+    },
+    {
+      "id": "6cb6d7b230364bb805e0a86293212fabd50bcc1e1c8aacbeb77a1e2cde38a414",
+      "uid": "416048.5wUxbnKwVZVEwGYTf9CVedG6Ffoh22CHBJrtVQiT5EA=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🗳️ Markets A.M.: Gridlock Is Good for Stocks. Certainty Is Better.",
+      "date": "Thu, 08 Oct 2026 06:59:51 -0400",
+      "is_read": false,
+      "file": "6cb6d7b230364bb805e0a86293212fabd50bcc1e1c8aacbeb77a1e2cde38a414.json"
     },
     {
       "id": "8a800225111740c243d92c83850b86c4f575516c191870784eba825e9adff47b",
@@ -404,132 +521,6 @@
       "date": "Thu, 08 Oct 2026 05:57:21 -0400",
       "is_read": true,
       "file": "0b33568bc34c0126a512daa61eb0eb5ad96a0fb496f829798d9e581d76b41ee0.json"
-    },
-    {
-      "id": "4412ca767029a15a40f5752570857c5558bcbfbce65118f02407a0e3ee9e5fbf",
-      "uid": "414373.U3qzTvazXOdDEauYTgWoFjpCAtxGOSuWLNtqAiM9jIs=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🍽️ Axios Finish Line: Dinner party decline",
-      "date": "Thu, 01 Oct 2026 21:29:34 -0400",
-      "is_read": true,
-      "file": "4412ca767029a15a40f5752570857c5558bcbfbce65118f02407a0e3ee9e5fbf.json"
-    },
-    {
-      "id": "5edcfeb072cf0bcf14f75b205f4658e070ea154b1538043d6bdf0e24c8e72169",
-      "uid": "414313.LQOoNeaSG53VIlCJ7x,C3imAoghCybmvXrlYe9edDtA=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🏠 7% sting",
-      "date": "Thu, 01 Oct 2026 17:36:44 -0400",
-      "is_read": true,
-      "file": "5edcfeb072cf0bcf14f75b205f4658e070ea154b1538043d6bdf0e24c8e72169.json"
-    },
-    {
-      "id": "0d820e0df84b2fcd48d9bb0ef62c279ab50a4ea4097228b72f61aa644a1a532b",
-      "uid": "414299.RkQybFFnsljkHP22+UD+D7au4XNw,V1xP49tm1mmpBo=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "The Dark Side Of Retiring On Dividends",
-      "date": "Thu, 01 Oct 2026 16:36:49 -0400",
-      "is_read": true,
-      "file": "0d820e0df84b2fcd48d9bb0ef62c279ab50a4ea4097228b72f61aa644a1a532b.json"
-    },
-    {
-      "id": "dc1cf0693217f9111b6426a8ed79d453efd54be78a5d60d223c398db7d2b8825",
-      "uid": "414296.SctyaPL7nIdQc+PdJCXqYpVJexWXxE6Gd8v2wnXi2tI=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Bond Gyrations",
-      "date": "Thu, 01 Oct 2026 16:30:22 -0400",
-      "is_read": true,
-      "file": "dc1cf0693217f9111b6426a8ed79d453efd54be78a5d60d223c398db7d2b8825.json"
-    },
-    {
-      "id": "3848d09aa1ad3f55963be687fb65316c79991221125593ae1b19a72935bd9224",
-      "uid": "414294.ZgkGPPI5HCnFphcSR2UyJYk4lQzf,pLQgFtUuogWegI=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🛰️ Axios PM: Big space experiments",
-      "date": "Thu, 01 Oct 2026 16:02:50 -0400",
-      "is_read": true,
-      "file": "3848d09aa1ad3f55963be687fb65316c79991221125593ae1b19a72935bd9224.json"
-    },
-    {
-      "id": "dc72282aae7a4f9017fd4bd1746b6a5c409fab64fadf1d3113ef43ef745eb566",
-      "uid": "414292.bz80jYA8YXjEhoaV2gtJFeEI2+9z7QLAkAtHeRUuY8g=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Squishmallows Creator Asks $37.995 Million for Bel-Air Mansion",
-      "date": "Thu, 01 Oct 2026 14:45:09 -0400",
-      "is_read": true,
-      "file": "dc72282aae7a4f9017fd4bd1746b6a5c409fab64fadf1d3113ef43ef745eb566.json"
-    },
-    {
-      "id": "1117912e692ab75540211295f0f2fbea3bc19138c65d4d2230992ef619743ffd",
-      "uid": "414288.Z2d48D67CbpZ5cxvyD5aNEe,,W7StElQc5MO2S,A38A=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🌍 Surprising trade consensus",
-      "date": "Thu, 01 Oct 2026 12:21:22 -0400",
-      "is_read": true,
-      "file": "1117912e692ab75540211295f0f2fbea3bc19138c65d4d2230992ef619743ffd.json"
-    },
-    {
-      "id": "717a328bb893bea03330c84c009c649054c0cb4733bc184a1a90703923e52380",
-      "uid": "414284.N2n7quo9zlzI9vDpFgXbdA93Z8+dorBXuu1TZf7sOKI=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Billionaire Chris Rokos Fetches $83.2 Million for Bali-Inspired Florida Home",
-      "date": "Thu, 01 Oct 2026 11:08:44 -0400",
-      "is_read": true,
-      "file": "717a328bb893bea03330c84c009c649054c0cb4733bc184a1a90703923e52380.json"
-    },
-    {
-      "id": "0947136e9c3e5e383fedb69d129a2f17e0b74ea070037478b6f46372c55b2056",
-      "uid": "414282.GfqVXauHWRrLjhVfKn2a6Mivxq0RkTBk9cp,twIIMGU=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🦸 AI's super rebrand",
-      "date": "Thu, 01 Oct 2026 09:28:15 -0400",
-      "is_read": true,
-      "file": "0947136e9c3e5e383fedb69d129a2f17e0b74ea070037478b6f46372c55b2056.json"
-    },
-    {
-      "id": "267adc5528da932d4cfbd036799e26caad0c851cdeb474c08e32e64d3986c58f",
-      "uid": "414278.fKEnZQni7QKspdwgTasCyKdD7j5SDNtwV3O41iAbCco=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Vinod visit",
-      "date": "Thu, 01 Oct 2026 09:09:53 -0400",
-      "is_read": true,
-      "file": "267adc5528da932d4cfbd036799e26caad0c851cdeb474c08e32e64d3986c58f.json"
-    },
-    {
-      "id": "7a49f2658b5a978441e222ace5bd006bf3083c883732a4f26857f0ed4bd0c46e",
-      "uid": "414258.5sXvczYp3Lazm8YN4uBSi8U8jTSSzcfMecRGehj0PR8=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Treasuries' Worst Quarter Since '94",
-      "date": "Thu, 01 Oct 2026 07:44:17 -0400",
-      "is_read": true,
-      "file": "7a49f2658b5a978441e222ace5bd006bf3083c883732a4f26857f0ed4bd0c46e.json"
-    },
-    {
-      "id": "3b0940906e9980a7653ac7a3a3c15bee4e80be1c09b68c645b4d1f8b8f487482",
-      "uid": "414256.e3,Eb5tZO7IBh+GLXGuqaO0aCpxakWC86Lfl31zySKU=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🤑 AI wealth effect",
-      "date": "Thu, 01 Oct 2026 07:30:14 -0400",
-      "is_read": true,
-      "file": "3b0940906e9980a7653ac7a3a3c15bee4e80be1c09b68c645b4d1f8b8f487482.json"
-    },
-    {
-      "id": "71b01e20d64a76e307d5c0c5122249483581ed0352c7400f44eb3d3bc9c4787e",
-      "uid": "414248.1XDMoK1IezVYK3ZVyABw3umNAQpLjqxWWVOwK0FZ648=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Congress Wraps Up With a Whimper and a Shrug",
-      "date": "Thu, 01 Oct 2026 07:05:39 -0400",
-      "is_read": true,
-      "file": "71b01e20d64a76e307d5c0c5122249483581ed0352c7400f44eb3d3bc9c4787e.json"
-    },
-    {
-      "id": "b566e1bdef99bbf5b21ff30cf2f4435d999f9d36fcc69e05bd00151f7cccb0b4",
-      "uid": "414242.L1d4AL9jdGh+Su0Bcnu,dMK2Wh72clPsakYtAqhvDnk=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "Alpha Picks is up 353%. Get today's new pick.",
-      "date": "Thu, 01 Oct 2026 06:48:51 -0400",
-      "is_read": true,
-      "file": "b566e1bdef99bbf5b21ff30cf2f4435d999f9d36fcc69e05bd00151f7cccb0b4.json"
     },
     {
       "id": "37d9a598c686360b3803a9f24077f1bdb9c5d67b171e07178e3be0843902f2b6",
