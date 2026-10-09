@@ -411,7 +411,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🍔 Axios PM: Food faith plummets",
       "date": "Thu, 08 Oct 2026 15:00:54 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "2122fd1bc800aa57283c92df79ecc1ae535b289f76b9a3dec5e0a5b09f533d7e.json"
     },
     {
