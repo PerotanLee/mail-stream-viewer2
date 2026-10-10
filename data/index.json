@@ -775,6 +775,33 @@
       "file": "c1c72d508b9d09740a35018b76f5e51a83d82cacf8f754c180d782b5e32eccc3.json"
     },
     {
+      "id": "1d74de58ada6e742669f381eb0d6f7c3f35d1578e94424236008f6b7a0d48740",
+      "uid": "416420.HXPbN9Epi1B8DFvXgLpn6im9I9xdIUtIY,3uXDVOVWQ=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🤳 SpaceX's telecom punch",
+      "date": "Fri, 09 Oct 2026 17:29:12 -0400",
+      "is_read": false,
+      "file": "1d74de58ada6e742669f381eb0d6f7c3f35d1578e94424236008f6b7a0d48740.json"
+    },
+    {
+      "id": "7d7b2416e014685e463bf11b67aa70fb1b631ad13155b93f6f753814124fb3b3",
+      "uid": "416412.,E0ZdrbhYMj6yuw8OeWZdKuixT,Hu1k6nlGXGFIy+4w=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Big Moves in Telecoms",
+      "date": "Fri, 09 Oct 2026 16:38:47 -0400",
+      "is_read": false,
+      "file": "7d7b2416e014685e463bf11b67aa70fb1b631ad13155b93f6f753814124fb3b3.json"
+    },
+    {
+      "id": "303ed5237b9e357e3dc9a770a6f7f7d1426b60e63629435a5bbf22894a30e100",
+      "uid": "416410.hxJ7Zt5ll9yPfbI6WObQlh6O,Q6gec7zogLhBInQtBY=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Is The AI Bubble Really About To Burst?",
+      "date": "Fri, 09 Oct 2026 16:06:32 -0400",
+      "is_read": false,
+      "file": "303ed5237b9e357e3dc9a770a6f7f7d1426b60e63629435a5bbf22894a30e100.json"
+    },
+    {
       "id": "4b0719705778d7f3544be08a20d055447708a6e93e16a3b5d4edeebd5666bcaf",
       "uid": "416407.mrfQSjkdKMVlFPIiiTfWL8whiMA4206MDfof8s1Am1s=",
       "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
@@ -908,33 +935,6 @@
       "date": "Fri, 09 Oct 2026 05:04:46 -0400",
       "is_read": false,
       "file": "a45c7ec836b5f56e58f21adc9d502558e76f64b8e806c8eea34148a0eb8ab978.json"
-    },
-    {
-      "id": "ef56a2977ccbf4d6ca8bb894c350cf869ae026fe318cc49aec8c44eedc8d2b4c",
-      "uid": "414612.44tZLqMnkK8XuTM4fCLAEL7CkWG4cmf1OqTafB9Gjes=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🔌 EV demand creeps back",
-      "date": "Fri, 02 Oct 2026 17:14:19 -0400",
-      "is_read": true,
-      "file": "ef56a2977ccbf4d6ca8bb894c350cf869ae026fe318cc49aec8c44eedc8d2b4c.json"
-    },
-    {
-      "id": "b46707f14f2362efa6235aa6dc7e829da4da1b7cba52483d44237fdfd3163cab",
-      "uid": "414600.IENi388Pax1CxovaPXHhXQKAMTmADzEWxBQHxqlI8Qw=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Stocks Jump",
-      "date": "Fri, 02 Oct 2026 16:31:38 -0400",
-      "is_read": true,
-      "file": "b46707f14f2362efa6235aa6dc7e829da4da1b7cba52483d44237fdfd3163cab.json"
-    },
-    {
-      "id": "5890158b54fb2e3608e4d1ea858d0f0b53fe8bc9acb1a19c4fff568fd9719e86",
-      "uid": "414597.,byJDq6SI5HS6UG34f4rrinUo+q,U3gNXmjUb+Rs1d4=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "AI-Fueled Earnings Keep Climbing: 3 Top Stocks With Bullish EPS Revisions",
-      "date": "Fri, 02 Oct 2026 16:06:38 -0400",
-      "is_read": true,
-      "file": "5890158b54fb2e3608e4d1ea858d0f0b53fe8bc9acb1a19c4fff568fd9719e86.json"
     }
   ]
 }
