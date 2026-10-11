@@ -609,7 +609,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "What Moved Markets This Week",
       "date": "Sat, 10 Oct 2026 06:49:14 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "f5a9e0df841cf136dec849347006555ab5b3dc39d7d49b38485c5b1b10661201.json"
     },
     {
