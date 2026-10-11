@@ -42,7 +42,7 @@
       "from_addr": "Must Reads <account@seekingalpha.com>",
       "subject": "This Is Most Certainly A Bull Trap",
       "date": "Wed, 07 Oct 2026 16:06:19 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "bba14a6bc87c6aa09651db1a9bfb9b18721e5edd8922115d48af9b1ad17c502a.json"
     },
     {
