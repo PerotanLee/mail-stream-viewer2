@@ -573,7 +573,7 @@
       "from_addr": "Must Reads <account@seekingalpha.com>",
       "subject": "Micron: Winter Is Coming (Rating Upgrade)",
       "date": "Sat, 10 Oct 2026 16:06:38 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "2beff0c89a9c0acc45c047b71a5a7ab44e6b041e266897ee41e908958825e60d.json"
     },
     {
