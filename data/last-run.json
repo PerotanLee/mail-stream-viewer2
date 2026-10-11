@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12202 from=Axios Defense <defense@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-11T10:23:03.712473+00:00",
-  "added": 1,
+  "updated_at": "2026-10-11T10:23:05.046280+00:00",
+  "added": 2,
   "skipped": 90,
   "scanned": 92,
-  "current": "Axios Defense <defense@axios.com>",
+  "current": "⛰️ Underfoot underway",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 1
   },
   "last_newest_num": 12136,
