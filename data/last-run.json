@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12198 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-11T10:23:06.952695+00:00",
-  "added": 2,
+  "updated_at": "2026-10-11T10:23:08.126137+00:00",
+  "added": 3,
   "skipped": 93,
   "scanned": 96,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🗳️ Axios AM: Midterm blind spot",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 1
   },
   "last_newest_num": 12136,
