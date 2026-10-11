@@ -591,7 +591,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🗳️ Axios AM: Midterm blind spot",
       "date": "Sat, 10 Oct 2026 08:57:54 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "d5b0c61879b52a30938351d52ae4ac37bbfc67171fcb17aa5b31a1c61dabf190.json"
     },
     {
