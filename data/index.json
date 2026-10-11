@@ -528,7 +528,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "😱 Axios AM: Tech's horror shows",
       "date": "Sun, 11 Oct 2026 08:59:25 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "00d67af899de5a1942f9aa31940cab3963c0a115faa868b13c4c4798cc497791.json"
     },
     {
