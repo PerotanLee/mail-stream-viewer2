@@ -631,6 +631,51 @@
       "file": "550fea402962e89b596e73d8651ce0ca2a54c971566a9b677412b17adfc793e0.json"
     },
     {
+      "id": "97c106dcebadfca1162571a8119d2a4806803368bd680e52fff656671f67d95d",
+      "uid": "416896.5xkQAH5N76kCK+UvP54BnKHkbU2qGpVcTDq6KQPDhes=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Bull Market Anniversary For The S&P 500",
+      "date": "Mon, 12 Oct 2026 07:47:24 -0400",
+      "is_read": false,
+      "file": "97c106dcebadfca1162571a8119d2a4806803368bd680e52fff656671f67d95d.json"
+    },
+    {
+      "id": "8088facf878946511a6e34617c9e6840e8261df4a02210cb1ada2f73000ef392",
+      "uid": "416890.jztco4UwHh9WzL2rD4FkgQyDCu5YNuewGbQleQFQAqE=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: What Might Russ Vought’s ‘Tremendous’ Surprise Actually Be?",
+      "date": "Mon, 12 Oct 2026 07:11:02 -0400",
+      "is_read": false,
+      "file": "8088facf878946511a6e34617c9e6840e8261df4a02210cb1ada2f73000ef392.json"
+    },
+    {
+      "id": "090234f966412deffce288765ee924447a3f8a6634f07464f9f0ab6f8e28395f",
+      "uid": "416883.WOCf7Gxm0XZQFY3Om3xJRqj+afJnPAXmNspG1LpXjdE=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "😟 Markets A.M.: When to Worry About Stock-Market Breadth",
+      "date": "Mon, 12 Oct 2026 06:49:30 -0400",
+      "is_read": false,
+      "file": "090234f966412deffce288765ee924447a3f8a6634f07464f9f0ab6f8e28395f.json"
+    },
+    {
+      "id": "2d4fed2a8f1e370d2277e3cfd7c26350f3430382f89eb75b9e48ff8b291a6060",
+      "uid": "416882.THIgz659gddXVI9QHE7n,fO0kkUBYomffyFJoQQpqnU=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Locking In a Mortgage Rate",
+      "date": "Mon, 12 Oct 2026 06:31:44 -0400",
+      "is_read": false,
+      "file": "2d4fed2a8f1e370d2277e3cfd7c26350f3430382f89eb75b9e48ff8b291a6060.json"
+    },
+    {
+      "id": "40a3240fe23f0fa425f5d4a3f815939ab78802335b7a83104dd60a36e7b544f1",
+      "uid": "416879.hLzD53o9HxK6SQQ7zRf,z35QXNNMzDsO9tPrpTsRdpI=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Saudi Crown Prince's Moment of Crisis",
+      "date": "Mon, 12 Oct 2026 06:08:32 -0400",
+      "is_read": false,
+      "file": "40a3240fe23f0fa425f5d4a3f815939ab78802335b7a83104dd60a36e7b544f1.json"
+    },
+    {
       "id": "a06bc8dde7fb79d0748d0c692cf4925cb56daa7a21daa294fe0016898119be8d",
       "uid": "415278.fJgXcrePPc7a067KZSPhkXebBV5dDqznE,GSlTQ3cLg=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -719,60 +764,6 @@
       "date": "Mon, 05 Oct 2026 08:05:53 -0400",
       "is_read": true,
       "file": "31762902dfd4345c17e0f6e5c3590af311ee8db5d37fd4e1e3249ede21b15ea3.json"
-    },
-    {
-      "id": "bec703db6404b926237318505d680dc1e6526081420aa4c55f92ff424831cff1",
-      "uid": "415165.vCfMSwYiUjbNut4xXDY,XmJMYGJjSE45ytubDc4d6PM=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🇫🇷 Are the French toast?",
-      "date": "Mon, 05 Oct 2026 07:32:51 -0400",
-      "is_read": true,
-      "file": "bec703db6404b926237318505d680dc1e6526081420aa4c55f92ff424831cff1.json"
-    },
-    {
-      "id": "e764e91814d94555a9e7f94f4b7a8b048ead012a5993d2280c5a60d09aaa8733",
-      "uid": "415161.tHsAKOxFPWnpUbStaNj5t,CMYNt99nKSd4sp9a2ZW9Y=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: James Talarico and the Art of the Walk-Back",
-      "date": "Mon, 05 Oct 2026 07:13:05 -0400",
-      "is_read": true,
-      "file": "e764e91814d94555a9e7f94f4b7a8b048ead012a5993d2280c5a60d09aaa8733.json"
-    },
-    {
-      "id": "d5424e4608c6fe5a5fdf5497b9bf21010ad876bd5042af852bfb23f8c0602004",
-      "uid": "415154.epIQO+sZkfzmn8dv6,Hl6+bjGxdBg76Gw4,GFJAzjPE=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🎲 Markets A.M.: Your Index Fund Went Up. Was It Luck Or Smarts?",
-      "date": "Mon, 05 Oct 2026 06:38:31 -0400",
-      "is_read": true,
-      "file": "d5424e4608c6fe5a5fdf5497b9bf21010ad876bd5042af852bfb23f8c0602004.json"
-    },
-    {
-      "id": "b1362a396f5b6e24fe02db82ea772ec01c3755a629c128356561491b283abf52",
-      "uid": "415153.0ax1Sm21oGdAZrAC6PnSTxe3,k+XsIBzfl9sSGUHwd4=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "Private Equity Has a Problem",
-      "date": "Mon, 05 Oct 2026 06:29:52 -0400",
-      "is_read": true,
-      "file": "b1362a396f5b6e24fe02db82ea772ec01c3755a629c128356561491b283abf52.json"
-    },
-    {
-      "id": "15bb4da2c45d36db75e4c070322023ae9545c55b8bc5460e284cab0fbf0bed0c",
-      "uid": "415150.fhYDwqNpewt17v38JlWAMzlR0ja70x1dNxRCJQPQCpE=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: The Missed Red Flags Before Flight 1073",
-      "date": "Mon, 05 Oct 2026 06:08:53 -0400",
-      "is_read": true,
-      "file": "15bb4da2c45d36db75e4c070322023ae9545c55b8bc5460e284cab0fbf0bed0c.json"
-    },
-    {
-      "id": "9a7a218172246d9ad38697e922a8a2fe8fe5765993173df3ed247a339620ddd0",
-      "uid": "415141.gnzxLDitIia0eten3AhTIMbPsyvCLc0mxaYabbJdbyw=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "👀 Axios AM: Latinos swing back",
-      "date": "Mon, 05 Oct 2026 05:57:47 -0400",
-      "is_read": true,
-      "file": "9a7a218172246d9ad38697e922a8a2fe8fe5765993173df3ed247a339620ddd0.json"
     },
     {
       "id": "c1c72d508b9d09740a35018b76f5e51a83d82cacf8f754c180d782b5e32eccc3",
