@@ -636,7 +636,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Bull Market Anniversary For The S&P 500",
       "date": "Mon, 12 Oct 2026 07:47:24 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "97c106dcebadfca1162571a8119d2a4806803368bd680e52fff656671f67d95d.json"
     },
     {
