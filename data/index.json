@@ -523,6 +523,15 @@
       "file": "0b33568bc34c0126a512daa61eb0eb5ad96a0fb496f829798d9e581d76b41ee0.json"
     },
     {
+      "id": "7a737263cf19c121554b684046f7828470781a388ef110be5f8700dd08ed1393",
+      "uid": "416741.f7MJvE6CdEhpSHDpW3etTHztb8dmMRRTBGzQAMN2RqM=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Microsoft's AI Economics Are Quietly Starting To Change",
+      "date": "Sun, 11 Oct 2026 16:05:58 -0400",
+      "is_read": false,
+      "file": "7a737263cf19c121554b684046f7828470781a388ef110be5f8700dd08ed1393.json"
+    },
+    {
       "id": "e861ee6856d65a4d2960742c16a4a00319f51ce4e1968f2a54c37aa5bd5953a1",
       "uid": "416739.4EmurInWX4IR5F+t4Jb5WNM8rUzg8W5M30,L8TIrIos=",
       "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
@@ -557,15 +566,6 @@
       "date": "Sun, 11 Oct 2026 07:03:18 -0400",
       "is_read": true,
       "file": "673389f188c8b1658d883885e2cd492ecc78694e54c0e68c23edf213ef467b04.json"
-    },
-    {
-      "id": "37d9a598c686360b3803a9f24077f1bdb9c5d67b171e07178e3be0843902f2b6",
-      "uid": "414946.+rj2X2uxz9FYriMTxEipbENB7vz+UPtUZZocutuY3Jk=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "10%+ Yields Without The Junk: 2 Gems For Your Retirement Portfolio",
-      "date": "Sun, 04 Oct 2026 16:06:52 -0400",
-      "is_read": true,
-      "file": "37d9a598c686360b3803a9f24077f1bdb9c5d67b171e07178e3be0843902f2b6.json"
     },
     {
       "id": "bd7aa77639f0ed8e9e8d4fc4060e1d7a43bb20a5b0b3b08fe6abc49dc60c513c",
