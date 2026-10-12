@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文保存",
+  "step": "本文取得 num=12435 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-12T12:03:07.671920+00:00",
-  "added": 2,
+  "updated_at": "2026-10-12T12:03:08.256494+00:00",
+  "added": 1,
   "skipped": 4,
   "scanned": 6,
-  "current": "WSJ Politics: What Might Russ Vought’s ‘Tremendous’ Surprise Actually Be?",
+  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 0,
     "axios": 0,
     "seekingalpha": 1
   },
