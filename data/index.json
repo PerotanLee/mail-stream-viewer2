@@ -636,7 +636,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🏛️ Axios AM: Day after midterms",
       "date": "Mon, 12 Oct 2026 08:11:18 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "4567f32e890b388fe1f5ac393c6385ea6b40523864e6fd56f1216a9f88b4f9a4.json"
     },
     {
