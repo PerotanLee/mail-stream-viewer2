@@ -631,6 +631,15 @@
       "file": "550fea402962e89b596e73d8651ce0ca2a54c971566a9b677412b17adfc793e0.json"
     },
     {
+      "id": "4567f32e890b388fe1f5ac393c6385ea6b40523864e6fd56f1216a9f88b4f9a4",
+      "uid": "416900.+NyE1ukBKID+z4OYhJ73xpOeZcijZjGdx7V4Kyr1uOw=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🏛️ Axios AM: Day after midterms",
+      "date": "Mon, 12 Oct 2026 08:11:18 -0400",
+      "is_read": false,
+      "file": "4567f32e890b388fe1f5ac393c6385ea6b40523864e6fd56f1216a9f88b4f9a4.json"
+    },
+    {
       "id": "97c106dcebadfca1162571a8119d2a4806803368bd680e52fff656671f67d95d",
       "uid": "416896.5xkQAH5N76kCK+UvP54BnKHkbU2qGpVcTDq6KQPDhes=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
@@ -719,51 +728,6 @@
       "date": "Mon, 05 Oct 2026 15:15:32 -0400",
       "is_read": true,
       "file": "05aacb328d1b115f585aa545139ded54aedba29d05bc996556ce079f8bca12c7.json"
-    },
-    {
-      "id": "a33cd6e7a3d86cc6abc6dbb1236d546477201c9269434e7d17461c8c35279b4c",
-      "uid": "415194.7gUl0igqP6KLaXILE,6GtNVQkyBoSePLU7PvpAgW1+Q=",
-      "from_addr": "Axios <newsletters@axios.com>",
-      "subject": "💵 Treasury Sec. Scott Bessent on “The Axios Show”",
-      "date": "Mon, 05 Oct 2026 13:01:27 -0400",
-      "is_read": true,
-      "file": "a33cd6e7a3d86cc6abc6dbb1236d546477201c9269434e7d17461c8c35279b4c.json"
-    },
-    {
-      "id": "3e79d6b360644a085c28927fda97a0d129ed32677aa810cf55c5d796f95eec41",
-      "uid": "415191.LjnJxYkZVXdmyZglDq+gMewQeyWXtmN0IPVyPxlW3Gs=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🪡 Bessent's needle threading",
-      "date": "Mon, 05 Oct 2026 12:02:35 -0400",
-      "is_read": true,
-      "file": "3e79d6b360644a085c28927fda97a0d129ed32677aa810cf55c5d796f95eec41.json"
-    },
-    {
-      "id": "b9e367a08b799efacf2e1d26a9cf92cbf04d63e499216fd6aa813d90101a3c6e",
-      "uid": "415183.wGnIOn6oy0ZrhVQ4YvPVMeRcIW51cC,RatAcbJsVHMU=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Rigor reminder",
-      "date": "Mon, 05 Oct 2026 09:59:12 -0400",
-      "is_read": true,
-      "file": "b9e367a08b799efacf2e1d26a9cf92cbf04d63e499216fd6aa813d90101a3c6e.json"
-    },
-    {
-      "id": "e757badaf90fc0f216e679e745819d1573fa8f7d201ff1c57c6eed747cbe191b",
-      "uid": "415180.av,AkGqYYwblb0YffqWIUeFdVtOFdB+YPfETruQcTAU=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🪗 Folding iPhone fun",
-      "date": "Mon, 05 Oct 2026 09:28:25 -0400",
-      "is_read": true,
-      "file": "e757badaf90fc0f216e679e745819d1573fa8f7d201ff1c57c6eed747cbe191b.json"
-    },
-    {
-      "id": "31762902dfd4345c17e0f6e5c3590af311ee8db5d37fd4e1e3249ede21b15ea3",
-      "uid": "415174.lGDSOQbd3RcsMPnwQv04KMGSIZ7Z4gM9HtIXlIm72tg=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Wall Street Is Going 24/7",
-      "date": "Mon, 05 Oct 2026 08:05:53 -0400",
-      "is_read": true,
-      "file": "31762902dfd4345c17e0f6e5c3590af311ee8db5d37fd4e1e3249ede21b15ea3.json"
     },
     {
       "id": "c1c72d508b9d09740a35018b76f5e51a83d82cacf8f754c180d782b5e32eccc3",
