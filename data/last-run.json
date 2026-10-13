@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12642 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-13T19:17:41.981737+00:00",
-  "added": 12,
+  "updated_at": "2026-10-13T19:17:43.759563+00:00",
+  "added": 13,
   "skipped": 27,
   "scanned": 40,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "🌶️ Markets A.M.: This Investing Strategy Is So Good You Can’t Handle It",
   "added_by_filter": {
-    "wsj": 5,
+    "wsj": 6,
     "axios": 5,
     "seekingalpha": 2
   },
