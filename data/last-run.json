@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12646 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-13T19:17:37.789168+00:00",
-  "added": 11,
+  "updated_at": "2026-10-13T19:17:39.087850+00:00",
+  "added": 12,
   "skipped": 24,
   "scanned": 36,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: Medicare for All Is the Big Policy Fight Splitting Democrats",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 5,
     "seekingalpha": 2
   },
