@@ -181,6 +181,33 @@
       "file": "2debda967c55e7fd6fe6919df51ee2c5cf8d102f22247fdf3a83d6d813b27d0a.json"
     },
     {
+      "id": "7801e2d96115df34e9fa94a411e72f3ab9d9616dd37f024a730a2e4500fa60cc",
+      "uid": "417205.qEsuiVAPmfFsWxW1roCRjL1W6P8+u0LBf22a4U7Hrtg=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "💪 Defying the gloom",
+      "date": "Tue, 13 Oct 2026 17:36:28 -0400",
+      "is_read": false,
+      "file": "7801e2d96115df34e9fa94a411e72f3ab9d9616dd37f024a730a2e4500fa60cc.json"
+    },
+    {
+      "id": "7a5d647449ecd80e3e10d8c6356f7d2ac9da2b419c3977b6a513fb8ef58d4de7",
+      "uid": "417188.OScM7PqNag0PpeWVT4XKoVDK77xhNeg1wHpaCGWvH3g=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Bank Results Land Flat",
+      "date": "Tue, 13 Oct 2026 16:28:01 -0400",
+      "is_read": false,
+      "file": "7a5d647449ecd80e3e10d8c6356f7d2ac9da2b419c3977b6a513fb8ef58d4de7.json"
+    },
+    {
+      "id": "ec74ee177eb990c900c04494055db7723428544b665321f8b3df96fdfc5fbcf2",
+      "uid": "417185.r1lkUDN3a5dCnhjFU4rvTp4IAEOZ6OXPDcWDrVimbCE=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Brace Yourself For The Midterms, I'm Raising Cash",
+      "date": "Tue, 13 Oct 2026 16:05:58 -0400",
+      "is_read": false,
+      "file": "ec74ee177eb990c900c04494055db7723428544b665321f8b3df96fdfc5fbcf2.json"
+    },
+    {
       "id": "d6e8564eed12a75acc4759c5f4482853e557fdbb49a0ab00cae199ffc2399068",
       "uid": "417182.A2nDG,xv0QaUuKvA7GzRMHSF3BUilQ0NihlYi1k4wbU=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -350,51 +377,6 @@
       "date": "Tue, 06 Oct 2026 21:29:24 -0400",
       "is_read": true,
       "file": "a36cdded512240be431c0c19a54352458f28ffae514febb8f8c405613ec6a7b3.json"
-    },
-    {
-      "id": "42dd2c208002361bdd4b685195d31391170ff172d3ad40090a27688602a8e8e2",
-      "uid": "415531.OOWvLubevUfZgiCKodOShYo2AjYv42AUvvtkdDFjXPQ=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Shutterstock Founder Asks $49 Million for Slopeside Home in Aspen",
-      "date": "Tue, 06 Oct 2026 19:15:22 -0400",
-      "is_read": true,
-      "file": "42dd2c208002361bdd4b685195d31391170ff172d3ad40090a27688602a8e8e2.json"
-    },
-    {
-      "id": "ccb17cfd236f53f2b2c50c00ca0ee5a0b75f2222196c3386086935834038cf98",
-      "uid": "415503.5fzTNXqsee5rJ+Gellwei6CmGMj+p9V9LHcuFm,0xp8=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🤐 LIV's secret contracts",
-      "date": "Tue, 06 Oct 2026 17:15:19 -0400",
-      "is_read": true,
-      "file": "ccb17cfd236f53f2b2c50c00ca0ee5a0b75f2222196c3386086935834038cf98.json"
-    },
-    {
-      "id": "a6e01450c7507e9b9d4611b4bf1462f545fb0468434b6b4e5da488abdd93fcac",
-      "uid": "415492.i2hSzgE0PaSFgGusYkqZapHScfChbYYQUwWzzt6W7qI=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Either Way, Stocks Win",
-      "date": "Tue, 06 Oct 2026 16:44:37 -0400",
-      "is_read": true,
-      "file": "a6e01450c7507e9b9d4611b4bf1462f545fb0468434b6b4e5da488abdd93fcac.json"
-    },
-    {
-      "id": "a44de71314a47bd93e512de23883ec6f1424c6c9ac5c9b4938847edd96fa295e",
-      "uid": "415487.6UIsPDHUqLUvoQGSsoOneCuDO5I+PxTYWM1H0csmM7k=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Micron: Wishful Thinking At Its Finest",
-      "date": "Tue, 06 Oct 2026 16:06:33 -0400",
-      "is_read": true,
-      "file": "a44de71314a47bd93e512de23883ec6f1424c6c9ac5c9b4938847edd96fa295e.json"
-    },
-    {
-      "id": "e0f2967f9cd470a318946eb39f8792cac1bc1d19c7f923758f3e33aaf6c237e3",
-      "uid": "415484.WzOp2gltudU3AGTGPcqBbq9XK294SOOV28eMue8o0SU=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: They Saved a UFO-Like Home From Demolition. Now It’s Landing on the Market.",
-      "date": "Tue, 06 Oct 2026 15:36:09 -0400",
-      "is_read": true,
-      "file": "e0f2967f9cd470a318946eb39f8792cac1bc1d19c7f923758f3e33aaf6c237e3.json"
     },
     {
       "id": "149c35b40f4addfa18aaeae5b3c816b29608f146c1a78b8950a61cd30d2d3cdf",
