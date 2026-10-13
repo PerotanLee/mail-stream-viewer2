@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12649 from=\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-13T19:17:27.993597+00:00",
-  "added": 10,
+  "updated_at": "2026-10-13T19:17:35.645447+00:00",
+  "added": 11,
   "skipped": 22,
   "scanned": 33,
-  "current": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ China: The Missing Millions",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 5,
     "seekingalpha": 2
   },
