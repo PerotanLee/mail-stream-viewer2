@@ -213,7 +213,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🚫 Axios PM: Cornell ices parties",
       "date": "Tue, 13 Oct 2026 15:00:33 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "d6e8564eed12a75acc4759c5f4482853e557fdbb49a0ab00cae199ffc2399068.json"
     },
     {
