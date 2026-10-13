@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12673 from=\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-13T19:17:01.239045+00:00",
-  "added": 4,
+  "updated_at": "2026-10-13T19:17:03.278999+00:00",
+  "added": 5,
   "skipped": 4,
   "scanned": 9,
-  "current": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
+  "current": "The Intelligent Investor: For Stocks, the Future Ain't What It Used to Be",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 2,
     "seekingalpha": 0
   },
