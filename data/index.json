@@ -631,6 +631,24 @@
       "file": "550fea402962e89b596e73d8651ce0ca2a54c971566a9b677412b17adfc793e0.json"
     },
     {
+      "id": "8eb9cdd73aefd0972c4bbea8868e34fb073cc8df4fe38a9c1951d846a51755a2",
+      "uid": "416916.oCnvHvwIFFf7sA2hNzQQBpt2Xw52fEKIo8gowuIFCQc=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Oil's Upward March",
+      "date": "Mon, 12 Oct 2026 16:34:05 -0400",
+      "is_read": false,
+      "file": "8eb9cdd73aefd0972c4bbea8868e34fb073cc8df4fe38a9c1951d846a51755a2.json"
+    },
+    {
+      "id": "67e9b1bcdba04d12f68dc431b8aad88690f70a73bdc0eed1ea3fd7ca0216df62",
+      "uid": "416913.zWJGEdcSaY5ypLi4v5uZbd,TeaFRy0fis0UTCQw5Jqk=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Sandisk: 12% Cash Return, With Earnings Up Next",
+      "date": "Mon, 12 Oct 2026 16:05:56 -0400",
+      "is_read": false,
+      "file": "67e9b1bcdba04d12f68dc431b8aad88690f70a73bdc0eed1ea3fd7ca0216df62.json"
+    },
+    {
       "id": "cccff39b120baf5f71023007c6fb2f1773d9bc44a66b6e6e21d8568660e92463",
       "uid": "416910.G9m98nHxG5fPJROzZv29nD1peio6wKqNipL,Ll+Xc8g=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -692,42 +710,6 @@
       "date": "Mon, 12 Oct 2026 06:08:32 -0400",
       "is_read": true,
       "file": "40a3240fe23f0fa425f5d4a3f815939ab78802335b7a83104dd60a36e7b544f1.json"
-    },
-    {
-      "id": "a06bc8dde7fb79d0748d0c692cf4925cb56daa7a21daa294fe0016898119be8d",
-      "uid": "415278.fJgXcrePPc7a067KZSPhkXebBV5dDqznE,GSlTQ3cLg=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🍮 Axios Finish Line: Pudding lessons",
-      "date": "Mon, 05 Oct 2026 21:29:23 -0400",
-      "is_read": true,
-      "file": "a06bc8dde7fb79d0748d0c692cf4925cb56daa7a21daa294fe0016898119be8d.json"
-    },
-    {
-      "id": "543ca58d0adafc238c9b3c95b159f7b1795f9e5ebc8bcd487a4733ec1eb37751",
-      "uid": "415218.iuMmSRjpu+x,bQM8FYQXtIbXryIqlPFmszFfClwWgZ4=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "⛽️ Trump eyes diesel discount",
-      "date": "Mon, 05 Oct 2026 17:13:23 -0400",
-      "is_read": true,
-      "file": "543ca58d0adafc238c9b3c95b159f7b1795f9e5ebc8bcd487a4733ec1eb37751.json"
-    },
-    {
-      "id": "f7dff7ea0df7dc5e74e814e377d855981cfbe6462833e2c4420a001f889d4243",
-      "uid": "415206.bdplpF4B1Zk8U9JyYijkdseXNbCTOGo1dZDmWWngfLE=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Stocks Up, Yields Up",
-      "date": "Mon, 05 Oct 2026 16:58:41 -0400",
-      "is_read": true,
-      "file": "f7dff7ea0df7dc5e74e814e377d855981cfbe6462833e2c4420a001f889d4243.json"
-    },
-    {
-      "id": "d114f6efeeb21854ce574e1cdeae040c63a69abf2ffff7094c561312baf7b739",
-      "uid": "415201.77Mombx9ZBgvrPd1QAe8Ni0GAHvC9n+A0evuTCQg9k0=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Nvidia: Reaching The Point Of An Explosive Upside Breakout",
-      "date": "Mon, 05 Oct 2026 16:06:02 -0400",
-      "is_read": true,
-      "file": "d114f6efeeb21854ce574e1cdeae040c63a69abf2ffff7094c561312baf7b739.json"
     },
     {
       "id": "c1c72d508b9d09740a35018b76f5e51a83d82cacf8f754c180d782b5e32eccc3",
