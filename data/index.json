@@ -636,7 +636,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Oil's Upward March",
       "date": "Mon, 12 Oct 2026 16:34:05 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "8eb9cdd73aefd0972c4bbea8868e34fb073cc8df4fe38a9c1951d846a51755a2.json"
     },
     {
