@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12912 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-14T22:31:54.817183+00:00",
-  "added": 5,
+  "updated_at": "2026-10-14T22:31:56.246729+00:00",
+  "added": 6,
   "skipped": 31,
   "scanned": 37,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "🧻 Axios Pro Rata: Silicon spy",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 1
   },
   "last_newest_num": 12881,
