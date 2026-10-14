@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12888 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-14T22:32:10.566497+00:00",
-  "added": 10,
+  "updated_at": "2026-10-14T22:32:11.778386+00:00",
+  "added": 11,
   "skipped": 50,
   "scanned": 61,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: The Working-Class Shift Is a Troubling Sign for Republicans",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 6,
     "seekingalpha": 2
   },
