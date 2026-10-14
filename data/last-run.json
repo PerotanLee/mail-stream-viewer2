@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12911 from=WSJ Real Estate <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-14T22:31:57.530569+00:00",
-  "added": 6,
+  "updated_at": "2026-10-14T22:31:58.681941+00:00",
+  "added": 7,
   "skipped": 31,
   "scanned": 38,
-  "current": "WSJ Real Estate <access@interactive.wsj.com>",
+  "current": "A New Type of Mortgage Is Reviving Neglected Neighborhoods",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 4,
     "seekingalpha": 1
   },
