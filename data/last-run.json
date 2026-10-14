@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=12885 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-14T22:32:16.152555+00:00",
-  "added": 12,
+  "updated_at": "2026-10-14T22:32:17.346229+00:00",
+  "added": 13,
   "skipped": 51,
   "scanned": 64,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "Storm May Not Provide Relief for Insurance Market",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 6,
     "seekingalpha": 2
   },
