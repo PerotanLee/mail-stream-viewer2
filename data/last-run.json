@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=13129 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-15T13:09:31.682689+00:00",
-  "added": 5,
+  "updated_at": "2026-10-15T13:09:33.224309+00:00",
+  "added": 6,
   "skipped": 22,
   "scanned": 28,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "IPO Failure Rocks the AI Trade",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 1,
     "seekingalpha": 2
   },
