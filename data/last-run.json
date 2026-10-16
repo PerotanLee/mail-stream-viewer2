@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=13159 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-16T12:24:54.200639+00:00",
-  "added": 18,
+  "updated_at": "2026-10-16T12:24:55.868755+00:00",
+  "added": 19,
   "skipped": 246,
   "scanned": 265,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "💰 Anthropic's money bags",
   "added_by_filter": {
     "wsj": 7,
-    "axios": 7,
+    "axios": 8,
     "seekingalpha": 4
   },
   "last_newest_num": 13156,
