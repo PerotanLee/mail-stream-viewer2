@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=13398 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-16T12:23:40.687299+00:00",
-  "added": 4,
+  "updated_at": "2026-10-16T12:23:42.036562+00:00",
+  "added": 5,
   "skipped": 21,
   "scanned": 26,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "🔥 Markets A.M.: The Radical Plan That Could Torch Your Portfolio",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 1,
     "seekingalpha": 2
   },
