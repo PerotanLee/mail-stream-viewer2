@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=13166 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-16T12:24:44.387420+00:00",
-  "added": 15,
+  "updated_at": "2026-10-16T12:24:45.695897+00:00",
+  "added": 16,
   "skipped": 242,
   "scanned": 258,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "🥵 Too hot for comfort",
   "added_by_filter": {
     "wsj": 6,
-    "axios": 5,
+    "axios": 6,
     "seekingalpha": 4
   },
   "last_newest_num": 13156,
