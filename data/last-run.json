@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=13177 from=\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-16T12:24:34.402244+00:00",
-  "added": 12,
+  "updated_at": "2026-10-16T12:24:35.753915+00:00",
+  "added": 13,
   "skipped": 234,
   "scanned": 247,
-  "current": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "current": "Seeking Shelter",
   "added_by_filter": {
-    "wsj": 5,
+    "wsj": 6,
     "axios": 4,
     "seekingalpha": 3
   },
