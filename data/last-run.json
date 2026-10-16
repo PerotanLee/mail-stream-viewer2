@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=13186 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-16T12:24:29.755990+00:00",
-  "added": 11,
+  "updated_at": "2026-10-16T12:24:31.596416+00:00",
+  "added": 12,
   "skipped": 226,
   "scanned": 238,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "👀 Tesla-SpaceX tie-up",
   "added_by_filter": {
     "wsj": 5,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 3
   },
   "last_newest_num": 13156,
