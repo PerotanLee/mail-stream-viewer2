@@ -586,13 +586,13 @@
       "file": "673389f188c8b1658d883885e2cd492ecc78694e54c0e68c23edf213ef467b04.json"
     },
     {
-      "id": "bd7aa77639f0ed8e9e8d4fc4060e1d7a43bb20a5b0b3b08fe6abc49dc60c513c",
-      "uid": "416533.lCpdJLjRyWM58C3hUnaf5j9DoJIRTva8ecRaymZBPTg=",
+      "id": "d37d6f85f492ca30bf24c2659a7b8933cf3c86677a98f91e6f4fc0143efe726a",
+      "uid": "418196.RW0mripaGIAEvlVldj5mxlDhlFsgW0Nk4QNuHhB4MB8=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Sat, 10 Oct 2026 18:30:23 +1100",
-      "is_read": true,
-      "file": "bd7aa77639f0ed8e9e8d4fc4060e1d7a43bb20a5b0b3b08fe6abc49dc60c513c.json"
+      "date": "Sat, 17 Oct 2026 18:10:04 +1100",
+      "is_read": false,
+      "file": "d37d6f85f492ca30bf24c2659a7b8933cf3c86677a98f91e6f4fc0143efe726a.json"
     },
     {
       "id": "2beff0c89a9c0acc45c047b71a5a7ab44e6b041e266897ee41e908958825e60d",
@@ -739,6 +739,87 @@
       "file": "7abe8417c84e12a8e197a4089574046b1c28d83c0bd7ce1f2afd19bfd423c858.json"
     },
     {
+      "id": "0a674d4a02711bbb876974d6e446092a251d1616a9bbae453048ba84d64e2116",
+      "uid": "418080.S5CImIJxACDPvvpc8ypM,f7S+Su7CYk5WXQ,eG3M+b0=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "👋 Tesla auto's big farewell",
+      "date": "Fri, 16 Oct 2026 17:19:35 -0400",
+      "is_read": false,
+      "file": "0a674d4a02711bbb876974d6e446092a251d1616a9bbae453048ba84d64e2116.json"
+    },
+    {
+      "id": "db1251f0fae709bcc0dfe8b1ff726e74a182427d5d867fe2e5ed6a221c4816af",
+      "uid": "418068.PxoVeNvoxSoqXJ+cur8ZCTjBDYRxozGs+hvYzyOgCQg=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Tech Tumble",
+      "date": "Fri, 16 Oct 2026 16:41:26 -0400",
+      "is_read": false,
+      "file": "db1251f0fae709bcc0dfe8b1ff726e74a182427d5d867fe2e5ed6a221c4816af.json"
+    },
+    {
+      "id": "0fae2f35d9c2bb062d9b49f910ebc51796f248356b04148e6382a35055ea19fb",
+      "uid": "418064.CG8laqVWQ32nyknDVjhPxcTuaDl2eK9GK3rzLAqXcBM=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "😬 Axios PM: 0.45 Scaramuccis",
+      "date": "Fri, 16 Oct 2026 16:10:23 -0400",
+      "is_read": false,
+      "file": "0fae2f35d9c2bb062d9b49f910ebc51796f248356b04148e6382a35055ea19fb.json"
+    },
+    {
+      "id": "145ed7ed2964d2c7d1f2df83b3bbb301ec03cb9c76399e72aa25ec44f604d02a",
+      "uid": "418063.wJG7PxkbTissXyvsIC+nkhiQeAMN6UNEKu4SGBYfrxE=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think",
+      "date": "Fri, 16 Oct 2026 16:05:50 -0400",
+      "is_read": false,
+      "file": "145ed7ed2964d2c7d1f2df83b3bbb301ec03cb9c76399e72aa25ec44f604d02a.json"
+    },
+    {
+      "id": "bac6c2f112d662109a02d9f7263f5a2ccec0ae0f91a22b55d0a7ae116fac6864",
+      "uid": "418061.C4Hc5DEWwkT7,KOoIeXa1GOZiPrgP9nbaaCJN5mrIGw=",
+      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+      "subject": "The Battle Over Private Real-Estate Listings",
+      "date": "Fri, 16 Oct 2026 15:31:08 -0400",
+      "is_read": false,
+      "file": "bac6c2f112d662109a02d9f7263f5a2ccec0ae0f91a22b55d0a7ae116fac6864.json"
+    },
+    {
+      "id": "318f71cbb96110cdd2cff8f35f4fed73aa6e145ffd19f43e341b4e24ebb8e59e",
+      "uid": "418055.HLHgSvgB3c+tpTtpXdx11MKpxyFHTc9lXxHQSTSZ,mw=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "⏮️ That Y2K feeling",
+      "date": "Fri, 16 Oct 2026 12:02:00 -0400",
+      "is_read": false,
+      "file": "318f71cbb96110cdd2cff8f35f4fed73aa6e145ffd19f43e341b4e24ebb8e59e.json"
+    },
+    {
+      "id": "6d79d7d0e015c1c1a413ca1f551045fe8ae5803bad23880f6b69759b9e16aff0",
+      "uid": "418046.xvFkAMp,oiJjXLoan5KqZ0WkT+mltSD0W,hfF0Eu24o=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🤝 An AI truce",
+      "date": "Fri, 16 Oct 2026 09:28:29 -0400",
+      "is_read": false,
+      "file": "6d79d7d0e015c1c1a413ca1f551045fe8ae5803bad23880f6b69759b9e16aff0.json"
+    },
+    {
+      "id": "6a87fd23a4c90c73afbaaefc09215c3007056dfc6e1d7804401e2ca457be4cc3",
+      "uid": "418045.uIiGrf7Mr20qPgEjcIWfreJVlKslaTnMxLv78xfUtdA=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "The latest from Jason Zweig",
+      "date": "Fri, 16 Oct 2026 09:15:36 -0400",
+      "is_read": false,
+      "file": "6a87fd23a4c90c73afbaaefc09215c3007056dfc6e1d7804401e2ca457be4cc3.json"
+    },
+    {
+      "id": "b82819b492fad2f07ee1955dfd002d4fdc28b85760a1def0c28108935bc5fe0f",
+      "uid": "418042.mAMCdB9,jvNMrtxykOTqw1D1CtSN5JkDNAToi1ojoCw=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Endowment elevation",
+      "date": "Fri, 16 Oct 2026 08:36:10 -0400",
+      "is_read": false,
+      "file": "b82819b492fad2f07ee1955dfd002d4fdc28b85760a1def0c28108935bc5fe0f.json"
+    },
+    {
       "id": "920e0d47d38d424c822448bc03ee08412f5f42eadd7b42ce01f99a5978501af2",
       "uid": "418039.MaC3qNli3TQskL2TXuP+iDu,0YafXOfzVsXLlDy4shU=",
       "from_addr": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
@@ -827,78 +908,6 @@
       "date": "Fri, 16 Oct 2026 05:05:44 -0400",
       "is_read": false,
       "file": "8cdfb87f6507d6353408c9098a03d137843a5d588013d1486df92272a1633b31.json"
-    },
-    {
-      "id": "1d74de58ada6e742669f381eb0d6f7c3f35d1578e94424236008f6b7a0d48740",
-      "uid": "416420.HXPbN9Epi1B8DFvXgLpn6im9I9xdIUtIY,3uXDVOVWQ=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🤳 SpaceX's telecom punch",
-      "date": "Fri, 09 Oct 2026 17:29:12 -0400",
-      "is_read": true,
-      "file": "1d74de58ada6e742669f381eb0d6f7c3f35d1578e94424236008f6b7a0d48740.json"
-    },
-    {
-      "id": "7d7b2416e014685e463bf11b67aa70fb1b631ad13155b93f6f753814124fb3b3",
-      "uid": "416412.,E0ZdrbhYMj6yuw8OeWZdKuixT,Hu1k6nlGXGFIy+4w=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Big Moves in Telecoms",
-      "date": "Fri, 09 Oct 2026 16:38:47 -0400",
-      "is_read": true,
-      "file": "7d7b2416e014685e463bf11b67aa70fb1b631ad13155b93f6f753814124fb3b3.json"
-    },
-    {
-      "id": "303ed5237b9e357e3dc9a770a6f7f7d1426b60e63629435a5bbf22894a30e100",
-      "uid": "416410.hxJ7Zt5ll9yPfbI6WObQlh6O,Q6gec7zogLhBInQtBY=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Is The AI Bubble Really About To Burst?",
-      "date": "Fri, 09 Oct 2026 16:06:32 -0400",
-      "is_read": true,
-      "file": "303ed5237b9e357e3dc9a770a6f7f7d1426b60e63629435a5bbf22894a30e100.json"
-    },
-    {
-      "id": "4b0719705778d7f3544be08a20d055447708a6e93e16a3b5d4edeebd5666bcaf",
-      "uid": "416407.mrfQSjkdKMVlFPIiiTfWL8whiMA4206MDfof8s1Am1s=",
-      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
-      "subject": "A $20 Million Home With a Custom Suite for Every Daughter",
-      "date": "Fri, 09 Oct 2026 15:31:08 -0400",
-      "is_read": true,
-      "file": "4b0719705778d7f3544be08a20d055447708a6e93e16a3b5d4edeebd5666bcaf.json"
-    },
-    {
-      "id": "bbbb7a1f654a93a18d086e6f42cad61d6e259d552140c114927b6f947602e84c",
-      "uid": "416404.zaV7MGvAdJ,u7Q+4ziFrUiZvnRLGtSCc7i2AnHvfEYk=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🫏 Axios PM: Big Dem shift",
-      "date": "Fri, 09 Oct 2026 15:22:03 -0400",
-      "is_read": true,
-      "file": "bbbb7a1f654a93a18d086e6f42cad61d6e259d552140c114927b6f947602e84c.json"
-    },
-    {
-      "id": "8c01e8ca32a54a0f08e857b5b974ccc21a9faa5e074f3fba14f225e8abca2a03",
-      "uid": "416395.JuSRNnR,1BJfXgG4wTZ9YwQwffEKXVgI8TI,eljSjIE=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "⚖️ New Cook inquiry",
-      "date": "Fri, 09 Oct 2026 11:58:41 -0400",
-      "is_read": true,
-      "file": "8c01e8ca32a54a0f08e857b5b974ccc21a9faa5e074f3fba14f225e8abca2a03.json"
-    },
-    {
-      "id": "5cee9835009da7dccc50786d7ec3297a6100cfab7a5bdb71c3da8d81abf67c3a",
-      "uid": "416391.u,xeLfe21HU0D,TGqHzGl+FbuR5GCEvkaCMjy,c4CpI=",
-      "from_addr": "Lucinda Shen <lucinda.shen@axios.com>",
-      "subject": "🦄 Axios Pro Rata: Shattered decacorn records",
-      "date": "Fri, 09 Oct 2026 10:05:41 -0400",
-      "is_read": true,
-      "file": "5cee9835009da7dccc50786d7ec3297a6100cfab7a5bdb71c3da8d81abf67c3a.json"
-    },
-    {
-      "id": "4927d6252ae304f9f30e52eb23fb1dd963be0a8f03bfbdf61b955ccc4b599c96",
-      "uid": "416386.,2o0bDeE0K58RbZeGOkcI1ii8SFgrriTyNKYmrdV9GM=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "☠️ \"The day after\"",
-      "date": "Fri, 09 Oct 2026 09:28:27 -0400",
-      "is_read": true,
-      "file": "4927d6252ae304f9f30e52eb23fb1dd963be0a8f03bfbdf61b955ccc4b599c96.json"
     }
   ]
 }
