@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=13431 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-17T07:47:50.038132+00:00",
-  "added": 7,
+  "updated_at": "2026-10-17T07:47:51.318059+00:00",
+  "added": 8,
   "skipped": 109,
   "scanned": 117,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "🤝 An AI truce",
   "added_by_filter": {
     "wsj": 3,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 1
   },
   "last_newest_num": 13424,
