@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=13444 from=WSJ Homes <wsj-homes@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-17T07:47:43.076602+00:00",
-  "added": 5,
+  "updated_at": "2026-10-17T07:47:44.199788+00:00",
+  "added": 6,
   "skipped": 98,
   "scanned": 104,
-  "current": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+  "current": "The Battle Over Private Real-Estate Listings",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 2,
     "seekingalpha": 1
   },
