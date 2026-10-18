@@ -411,7 +411,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🌊  Axios PM: Youth wave hits wall",
       "date": "Thu, 15 Oct 2026 15:15:51 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "be0027b11374b5aa817aac1f655c5eb21399b6a3afffd4a2d453a8c44a0cb9c1.json"
     },
     {
