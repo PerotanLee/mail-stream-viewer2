@@ -861,7 +861,7 @@
       "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
       "subject": "See what’s moving the markets this week",
       "date": "Fri, 16 Oct 2026 06:42:49 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "05d63e7d1ee5f0050c291c17c2724825558b6e2223ea19ac9f30890af22a6cfb.json"
     },
     {
