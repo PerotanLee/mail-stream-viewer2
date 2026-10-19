@@ -555,7 +555,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🚫 Axios AM: The \"anti\" campaign",
       "date": "Sun, 18 Oct 2026 08:54:16 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "6800c9f04bda0d474f5010c2cfc4a342d165afbfdbccefe59f5e231aa81ff95a.json"
     },
     {
