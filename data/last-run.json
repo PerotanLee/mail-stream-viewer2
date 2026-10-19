@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=13884 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-19T23:51:10.555023+00:00",
-  "added": 10,
+  "updated_at": "2026-10-19T23:51:11.769616+00:00",
+  "added": 11,
   "skipped": 52,
   "scanned": 63,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "🍿Markets A.M.: Netflix Stock Might be a Sleeper Hit",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 6,
     "seekingalpha": 2
   },
