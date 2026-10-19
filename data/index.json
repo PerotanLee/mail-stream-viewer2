@@ -541,49 +541,40 @@
       "file": "487dc9c75a048ede32b5327f8ebf58d9e3cc051128d0b49c64e193a6c6857344.json"
     },
     {
-      "id": "7a737263cf19c121554b684046f7828470781a388ef110be5f8700dd08ed1393",
-      "uid": "416741.f7MJvE6CdEhpSHDpW3etTHztb8dmMRRTBGzQAMN2RqM=",
+      "id": "ceaa5e3dc6e725698c27a71ef6afae677b1475b783a66f6468c40afc80baeccb",
+      "uid": "418404.WFPsxGgolQPRx++kDmw2imco2CjzabpdyDYitVJw0RA=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Microsoft's AI Economics Are Quietly Starting To Change",
-      "date": "Sun, 11 Oct 2026 16:05:58 -0400",
-      "is_read": true,
-      "file": "7a737263cf19c121554b684046f7828470781a388ef110be5f8700dd08ed1393.json"
+      "subject": "2 Elite Retirement Dividend Growth Machines On Sale",
+      "date": "Sun, 18 Oct 2026 16:06:12 -0400",
+      "is_read": false,
+      "file": "ceaa5e3dc6e725698c27a71ef6afae677b1475b783a66f6468c40afc80baeccb.json"
     },
     {
-      "id": "e861ee6856d65a4d2960742c16a4a00319f51ce4e1968f2a54c37aa5bd5953a1",
-      "uid": "416739.4EmurInWX4IR5F+t4Jb5WNM8rUzg8W5M30,L8TIrIos=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics Special Edition: Houthis and Ukraine Pressure Trump—and GOP",
-      "date": "Sun, 11 Oct 2026 13:51:31 -0400",
-      "is_read": true,
-      "file": "e861ee6856d65a4d2960742c16a4a00319f51ce4e1968f2a54c37aa5bd5953a1.json"
-    },
-    {
-      "id": "00d67af899de5a1942f9aa31940cab3963c0a115faa868b13c4c4798cc497791",
-      "uid": "416733.vEM56yzArwCx8ZGtYcAYMFFtbFz1e02v5pBbPdCyUCA=",
+      "id": "6800c9f04bda0d474f5010c2cfc4a342d165afbfdbccefe59f5e231aa81ff95a",
+      "uid": "418398.nDDI+BUzB8+wkwGE,ianIDhO8O+4+UATSbbLkI2gDPg=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "😱 Axios AM: Tech's horror shows",
-      "date": "Sun, 11 Oct 2026 08:59:25 -0400",
-      "is_read": true,
-      "file": "00d67af899de5a1942f9aa31940cab3963c0a115faa868b13c4c4798cc497791.json"
+      "subject": "🚫 Axios AM: The \"anti\" campaign",
+      "date": "Sun, 18 Oct 2026 08:54:16 -0400",
+      "is_read": false,
+      "file": "6800c9f04bda0d474f5010c2cfc4a342d165afbfdbccefe59f5e231aa81ff95a.json"
     },
     {
-      "id": "de364c2d12cbfc7588274538505c7ad851beee6679117973f368b1676e41caaa",
-      "uid": "416721.oSc,GA8yEcWr9dOABYiT8qACwtwgejoBf17iaQnYbAg=",
+      "id": "f243eeae8eb767b1249066b6c35e137eac22ae1c9601b5e93a033e8779340571",
+      "uid": "418389.N6iyjIGdz4M6isPg9Bx4Fws7KY6S+jAy9CIRU5d9kgU=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: How Hackers Turn Everyday Cameras Into Tools of War",
-      "date": "Sun, 11 Oct 2026 07:13:25 -0400",
-      "is_read": true,
-      "file": "de364c2d12cbfc7588274538505c7ad851beee6679117973f368b1676e41caaa.json"
+      "subject": "The 10-Point: Zelensky’s Message to Trump",
+      "date": "Sun, 18 Oct 2026 07:15:34 -0400",
+      "is_read": false,
+      "file": "f243eeae8eb767b1249066b6c35e137eac22ae1c9601b5e93a033e8779340571.json"
     },
     {
-      "id": "673389f188c8b1658d883885e2cd492ecc78694e54c0e68c23edf213ef467b04",
-      "uid": "416719.bdAVQYyw0O52zyWDKLc6WUm2rDZr+aBC2orfFnOBh3g=",
+      "id": "c368ea3d1e49aeec6256bcf45e2bf24d3c16959bbef94fdf96457092446b5995",
+      "uid": "418379.ZxR12vapvR5,7Vi,1Z,DD9NcttXtrWYiFk03jlbmbvs=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Wall Street Week Ahead",
-      "date": "Sun, 11 Oct 2026 07:03:18 -0400",
-      "is_read": true,
-      "file": "673389f188c8b1658d883885e2cd492ecc78694e54c0e68c23edf213ef467b04.json"
+      "date": "Sun, 18 Oct 2026 06:30:42 -0400",
+      "is_read": false,
+      "file": "c368ea3d1e49aeec6256bcf45e2bf24d3c16959bbef94fdf96457092446b5995.json"
     },
     {
       "id": "d37d6f85f492ca30bf24c2659a7b8933cf3c86677a98f91e6f4fc0143efe726a",
