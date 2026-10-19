@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=13925 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-19T23:50:38.062616+00:00",
-  "added": 0,
+  "updated_at": "2026-10-19T23:50:39.509870+00:00",
+  "added": 1,
   "skipped": 21,
   "scanned": 22,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "🚀 SpaceX for kids",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 13806,
