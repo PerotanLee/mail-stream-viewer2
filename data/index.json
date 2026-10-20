@@ -672,7 +672,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "📱 Axios PM: Text rocks White House",
       "date": "Mon, 19 Oct 2026 15:00:48 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "d883de60c76c8b51f9cd1a1041dc54da2bf53c7149de775ece56f682687761f2.json"
     },
     {
