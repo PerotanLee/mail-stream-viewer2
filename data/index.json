@@ -222,7 +222,7 @@
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
       "subject": "The 10-Point: Netflix Hits a Wall—and Writes a New Script",
       "date": "Tue, 20 Oct 2026 06:10:40 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "6e25b995e270a1ad57e99010983405e4822b31c6a04b7076331d30a952f9ab7e.json"
     },
     {
