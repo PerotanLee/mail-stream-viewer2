@@ -154,6 +154,15 @@
       "file": "1b3a5ed23d76a3ef4aa55d42790595e7432024adc1840b019806cd4b6876f028.json"
     },
     {
+      "id": "f4d59b6435b114a64c076cbdab274f4a8139c573c9b8cbfd1d06e7b54b0b1886",
+      "uid": "418805.eBV2LMoqWRD9keFVHvoknCl,R9bvX0BBHhhgHwHqmr4=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Tue, 20 Oct 2026 18:10:07 +1100",
+      "is_read": false,
+      "file": "f4d59b6435b114a64c076cbdab274f4a8139c573c9b8cbfd1d06e7b54b0b1886.json"
+    },
+    {
       "id": "c048625209f38065d7f92d63aa47f33814d0be0d5e271c53853e559dc8d3f371",
       "uid": "418718.85gA6bVJbMKbNU2R5sc9VtJ5mUsGDnngf5WNYo59oQ0=",
       "from_addr": "The Journal Collection <TheJournalCollection@em.wsj.com>",
@@ -170,15 +179,6 @@
       "date": "Tue, 13 Oct 2026 21:32:56 -0400",
       "is_read": true,
       "file": "46993c58871ab4e3706841e472b57ab0ccf0be7d46f838686592cadb089ffd39.json"
-    },
-    {
-      "id": "2debda967c55e7fd6fe6919df51ee2c5cf8d102f22247fdf3a83d6d813b27d0a",
-      "uid": "417069.UL64D8QRoXyd,x3EZh1Q,hDm1+QmA5RHWNYI+G1NCDQ=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Tue, 13 Oct 2026 18:10:16 +1100",
-      "is_read": true,
-      "file": "2debda967c55e7fd6fe6919df51ee2c5cf8d102f22247fdf3a83d6d813b27d0a.json"
     },
     {
       "id": "7801e2d96115df34e9fa94a411e72f3ab9d9616dd37f024a730a2e4500fa60cc",
