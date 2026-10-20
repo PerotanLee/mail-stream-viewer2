@@ -154,6 +154,15 @@
       "file": "1b3a5ed23d76a3ef4aa55d42790595e7432024adc1840b019806cd4b6876f028.json"
     },
     {
+      "id": "c048625209f38065d7f92d63aa47f33814d0be0d5e271c53853e559dc8d3f371",
+      "uid": "418718.85gA6bVJbMKbNU2R5sc9VtJ5mUsGDnngf5WNYo59oQ0=",
+      "from_addr": "The Journal Collection <TheJournalCollection@em.wsj.com>",
+      "subject": "Comparing Mortgage Rates Saved Users Thousands on Average",
+      "date": "Tue, 20 Oct 2026 01:32:29 +0000",
+      "is_read": false,
+      "file": "c048625209f38065d7f92d63aa47f33814d0be0d5e271c53853e559dc8d3f371.json"
+    },
+    {
       "id": "46993c58871ab4e3706841e472b57ab0ccf0be7d46f838686592cadb089ffd39",
       "uid": "417256.01bphfY8+LLxJxT2UOh7Bg4RGiTJ,mC4hkibSPuPgmc=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -629,6 +638,15 @@
       "date": "Sat, 17 Oct 2026 06:48:24 -0400",
       "is_read": true,
       "file": "54aa02a4c524532a8d3aface3e8a3292d10cf2cc62708c53aa712cb9849eb672.json"
+    },
+    {
+      "id": "dd6c0117f8676712f9f86d177cfe0588db16e8d643151509eebf227ff4ea0a56",
+      "uid": "418715.a3nbxum0hFWsXrraxssRPkHK6G+vb7ODN8,9LiZ6iqQ=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "😮‍💨 Axios Finish Line: Stress relief trend",
+      "date": "Mon, 19 Oct 2026 21:29:31 -0400",
+      "is_read": false,
+      "file": "dd6c0117f8676712f9f86d177cfe0588db16e8d643151509eebf227ff4ea0a56.json"
     },
     {
       "id": "d4f1cc04233a93ef551520720b59d850167245ca6078fd64fd7d8bb52cb0898e",
