@@ -753,7 +753,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "👻 Axios AM: Ad nightmare realized",
       "date": "Mon, 19 Oct 2026 06:25:19 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "7d2590f0fbd8625ab31738256237e14b70337669e3080f6dc13df402b1c232e1.json"
     },
     {
