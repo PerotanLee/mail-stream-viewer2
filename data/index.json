@@ -163,6 +163,87 @@
       "file": "f4d59b6435b114a64c076cbdab274f4a8139c573c9b8cbfd1d06e7b54b0b1886.json"
     },
     {
+      "id": "ac8d66f8dbc4f1c10d574cc139cbd47e1b7f841a31c238d0a536fc2ea56f732c",
+      "uid": "418869.Wj+7RzlG7HzfUkk3R8QJl+fvwElr7Xr1Hp8vL87NZ6w=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: The Case for Republicans to Hold the Senate",
+      "date": "Tue, 20 Oct 2026 07:04:07 -0400",
+      "is_read": false,
+      "file": "ac8d66f8dbc4f1c10d574cc139cbd47e1b7f841a31c238d0a536fc2ea56f732c.json"
+    },
+    {
+      "id": "040d791594291428bd2a6f81ffd34550ee4d29c66494c1122767fc0c764e954e",
+      "uid": "418868.Wzc,sv4l5dOECPUMSNNVeWMTPwXQORV29ZVY5jJfXnM=",
+      "from_addr": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ China: Xi’s House-Cleaning",
+      "date": "Tue, 20 Oct 2026 07:03:40 -0400",
+      "is_read": false,
+      "file": "040d791594291428bd2a6f81ffd34550ee4d29c66494c1122767fc0c764e954e.json"
+    },
+    {
+      "id": "4fbfea8e9853d8e7ad16b22832bce3298ec5785fa05d93d4c233c9b1388b0e26",
+      "uid": "418862.JQ822GlHWvkUDSGHTP1UuksMYxhRutvaKeC337gr84w=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🌊 Markets A.M.: Stocks Face Headwind That Ended Other Bull Markets",
+      "date": "Tue, 20 Oct 2026 06:47:53 -0400",
+      "is_read": false,
+      "file": "4fbfea8e9853d8e7ad16b22832bce3298ec5785fa05d93d4c233c9b1388b0e26.json"
+    },
+    {
+      "id": "22b03cc157c1fdac1ecb42d7573a3c820a4bf8d278cb5d2439d02c922ddb5703",
+      "uid": "418861.7kGn61zFFrEIDZ9ZZp+YIYxg05P0LJCaE3kYjosdlE4=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Alberta's Vote And The U.S. Trade War",
+      "date": "Tue, 20 Oct 2026 06:46:12 -0400",
+      "is_read": false,
+      "file": "22b03cc157c1fdac1ecb42d7573a3c820a4bf8d278cb5d2439d02c922ddb5703.json"
+    },
+    {
+      "id": "c40913a603ae7d5ebf4b1d975d545a1fa4c88e11d7342956be16b2107654e566",
+      "uid": "418858.UkGUpGndPFBWlOneWu8ssySz1bO4uvwEZhkk6trnRUQ=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Luxury and Cash Fuel U.S. Housing Market",
+      "date": "Tue, 20 Oct 2026 06:30:43 -0400",
+      "is_read": false,
+      "file": "c40913a603ae7d5ebf4b1d975d545a1fa4c88e11d7342956be16b2107654e566.json"
+    },
+    {
+      "id": "e956d4a83b3e57b344efa4a0b48b6d7b622233964109cb79eb630dbd4de9cb38",
+      "uid": "418856.4Bhcke0z189P3HmA6NxVpANQtpP78IgLeQwplVXy47Y=",
+      "from_addr": "Axios Defense <defense@axios.com>",
+      "subject": "🤠 Bigger in Texas",
+      "date": "Tue, 20 Oct 2026 06:30:22 -0400",
+      "is_read": false,
+      "file": "e956d4a83b3e57b344efa4a0b48b6d7b622233964109cb79eb630dbd4de9cb38.json"
+    },
+    {
+      "id": "6e25b995e270a1ad57e99010983405e4822b31c6a04b7076331d30a952f9ab7e",
+      "uid": "418854.oAmsqr3Tz,TJraVfssV5AH9,0Np8dir2pwmKIboYxf8=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Netflix Hits a Wall—and Writes a New Script",
+      "date": "Tue, 20 Oct 2026 06:10:40 -0400",
+      "is_read": false,
+      "file": "6e25b995e270a1ad57e99010983405e4822b31c6a04b7076331d30a952f9ab7e.json"
+    },
+    {
+      "id": "f16c4cac1ba4373fa04cf619db54675a82aca3584def631d9e44acb4f35c85ae",
+      "uid": "418846.yrcZVns0ifolGe4lgJU60h6EAUtWsjwkgVi5jBLuRdc=",
+      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Economics: Yes, the Fed Can Kill the AI Boom",
+      "date": "Tue, 20 Oct 2026 06:03:46 -0400",
+      "is_read": false,
+      "file": "f16c4cac1ba4373fa04cf619db54675a82aca3584def631d9e44acb4f35c85ae.json"
+    },
+    {
+      "id": "2a7655ab06613de7a0572fa2f87f92bdb662deb6898e21a28d4ce787512d6e97",
+      "uid": "418842.6HKW9Lk1scMDFa5USC3koI80PZGu,0ox3c0trkG6VrE=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios AM: AI governing AI",
+      "date": "Tue, 20 Oct 2026 05:59:34 -0400",
+      "is_read": false,
+      "file": "2a7655ab06613de7a0572fa2f87f92bdb662deb6898e21a28d4ce787512d6e97.json"
+    },
+    {
       "id": "c048625209f38065d7f92d63aa47f33814d0be0d5e271c53853e559dc8d3f371",
       "uid": "418718.85gA6bVJbMKbNU2R5sc9VtJ5mUsGDnngf5WNYo59oQ0=",
       "from_addr": "The Journal Collection <TheJournalCollection@em.wsj.com>",
@@ -287,87 +368,6 @@
       "date": "Tue, 13 Oct 2026 07:28:59 -0400",
       "is_read": true,
       "file": "f42121de4d89652e5417b176e36efc1490607f6280fcf7ddeccdb6978323694f.json"
-    },
-    {
-      "id": "28c981e42738a6f62bbcf9fa5b8248521c3518b01da9b034b4738633b6209d4c",
-      "uid": "417148.4m+6EoUWdcDgJffi48rCKI+MKNPO,vlQaoEIKAw9K,8=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Iambic intrigue",
-      "date": "Tue, 13 Oct 2026 07:11:37 -0400",
-      "is_read": true,
-      "file": "28c981e42738a6f62bbcf9fa5b8248521c3518b01da9b034b4738633b6209d4c.json"
-    },
-    {
-      "id": "fe587f3f00429bd1233675bf0f00078bedfa10b0fc9303b5171177a3c1c10556",
-      "uid": "417146.b6TAyhS2ICVylNUY8tDHNRyyZNBUEJmHCEQJTJ0sLyo=",
-      "from_addr": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ China: The Missing Millions",
-      "date": "Tue, 13 Oct 2026 07:04:04 -0400",
-      "is_read": true,
-      "file": "fe587f3f00429bd1233675bf0f00078bedfa10b0fc9303b5171177a3c1c10556.json"
-    },
-    {
-      "id": "91315e6b53427b7ee8e5ccb2892aacb6a573dc5f741c202b37c3b768b0b65055",
-      "uid": "417142.gAMtD0ymMTHWTpq5G0bOoETYz3THW9cR9fc5U8hwHmM=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Medicare for All Is the Big Policy Fight Splitting Democrats",
-      "date": "Tue, 13 Oct 2026 06:58:45 -0400",
-      "is_read": true,
-      "file": "91315e6b53427b7ee8e5ccb2892aacb6a573dc5f741c202b37c3b768b0b65055.json"
-    },
-    {
-      "id": "c81d8ee8e0fb76635c6024f1b26dc2a939cb0b7c143eac0566a04d3f8e615d7e",
-      "uid": "417138.bo0lcRVk7OcdM2vnuYyYsGaT4yUFkFpc2eN0t3ALrU8=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🌶️ Markets A.M.: This Investing Strategy Is So Good You Can’t Handle It",
-      "date": "Tue, 13 Oct 2026 06:39:32 -0400",
-      "is_read": true,
-      "file": "c81d8ee8e0fb76635c6024f1b26dc2a939cb0b7c143eac0566a04d3f8e615d7e.json"
-    },
-    {
-      "id": "db9e3a4c5752bf260117df340f2b0daab2a856b04da0bdb49dd31bbff7d234bb",
-      "uid": "417137.hcxhHkf4jrlHFkfMpUVBCxhsuhoXecKysVtb9G2Zrhc=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "Indexed Annuities Boost Private Credit",
-      "date": "Tue, 13 Oct 2026 06:38:30 -0400",
-      "is_read": true,
-      "file": "db9e3a4c5752bf260117df340f2b0daab2a856b04da0bdb49dd31bbff7d234bb.json"
-    },
-    {
-      "id": "c8e9e534ebcfd483dac793d755e19d1c84a87c357fe87bb428819a8e77401cae",
-      "uid": "417135.8YiBCb2oo3Gxw9lcWhhESg+Si87QvGRAx48rWEGIYnk=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "☢️ Testing, testing",
-      "date": "Tue, 13 Oct 2026 06:30:28 -0400",
-      "is_read": true,
-      "file": "c8e9e534ebcfd483dac793d755e19d1c84a87c357fe87bb428819a8e77401cae.json"
-    },
-    {
-      "id": "56647fe23ea2c59d33b3de6b6cf0c0f1b3725a04968db5fc4c5d9d9a5f98eaa4",
-      "uid": "417128.0nS0kaQsHRxUkKyCdQRgglRpRZ0ZiZSd5c40pCXExc0=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: China’s Weakening Economy Leaves Gen Z Behind",
-      "date": "Tue, 13 Oct 2026 06:04:38 -0400",
-      "is_read": true,
-      "file": "56647fe23ea2c59d33b3de6b6cf0c0f1b3725a04968db5fc4c5d9d9a5f98eaa4.json"
-    },
-    {
-      "id": "3a8ff30782bd0ab662c10f48445017c61e1aad648eced0a07e56d2b18d5295b5",
-      "uid": "417127.wX84jXQKEL+utortikQRlCSKkP8Sd0L4EECB817eYrg=",
-      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Economics: A Nobel Memo to Kevin Warsh",
-      "date": "Tue, 13 Oct 2026 06:04:12 -0400",
-      "is_read": true,
-      "file": "3a8ff30782bd0ab662c10f48445017c61e1aad648eced0a07e56d2b18d5295b5.json"
-    },
-    {
-      "id": "5530730eac15bd64c5c2f8d0c3db05a04b2d20c927c3d7146b2c8fffb533aaf2",
-      "uid": "417122.PE994+eAuFA6cOh2MYecvusv52ZMpXxYzn4cnivSjl8=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🩺 Axios AM: Single-payer shock poll",
-      "date": "Tue, 13 Oct 2026 05:49:33 -0400",
-      "is_read": true,
-      "file": "5530730eac15bd64c5c2f8d0c3db05a04b2d20c927c3d7146b2c8fffb533aaf2.json"
     },
     {
       "id": "56a34ff022d735eae8682758dfcb2aebb071f6f115a25337e6256992c48677fe",
