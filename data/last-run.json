@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=14354 from=Axios Macro <macro@axios.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-21T17:51:15.476926+00:00",
+  "updated_at": "2026-10-21T17:51:17.584331+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 14266
+  "skipped": 2,
+  "scanned": 3,
+  "current": "Axios Macro <macro@axios.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 14266,
+  "newest_num": 14356,
+  "scan_mode": "new",
+  "since": "2026-10-21T07:44:10.209963+00:00"
 }
