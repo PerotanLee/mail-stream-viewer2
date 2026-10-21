@@ -10,6 +10,15 @@
       "file": "1ac03f3920183c44ec1eb8f74d7dd81af7b6df219536c4b210d66090c47b2a36.json"
     },
     {
+      "id": "e71eb3e74404e3e08be288c28935bed332f9db33862955089f5a99833e7c9553",
+      "uid": "419174.FIci5DWCJpe7ODw6n+LnLFepfH+H0++bm1rZURULb2o=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios PM: New AI threat",
+      "date": "Wed, 21 Oct 2026 15:15:48 -0400",
+      "is_read": false,
+      "file": "e71eb3e74404e3e08be288c28935bed332f9db33862955089f5a99833e7c9553.json"
+    },
+    {
       "id": "893934f5dde29390913b4af23a09d82ef6df80a8a0619b78c629341410385f91",
       "uid": "419170.2cRcI5Zg6upc9C5DKLv95VyKb,OGfi9jERU84M+jNbE=",
       "from_addr": "Axios Macro <macro@axios.com>",
@@ -152,15 +161,6 @@
       "date": "Wed, 14 Oct 2026 16:05:34 -0400",
       "is_read": false,
       "file": "3f0b90bb8cbe63189b69d3a88f16b866f3f681afaaa06e22c5ee6a37f35080fb.json"
-    },
-    {
-      "id": "db042af10b8dc0bba198d3e4da5d2adfd2e2010fab2cbbf6e644033643bf4d90",
-      "uid": "417452.xlMYGL9qor4RLWxrlmqOAkE2RhI4er8NYcMRUhDOhLA=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤬 Axios PM: \"MAGA blood feud\"",
-      "date": "Wed, 14 Oct 2026 15:11:05 -0400",
-      "is_read": true,
-      "file": "db042af10b8dc0bba198d3e4da5d2adfd2e2010fab2cbbf6e644033643bf4d90.json"
     },
     {
       "id": "e4b532491d278fd88c2ca38b3d53004b704905941021965183d242049d784dbc",
