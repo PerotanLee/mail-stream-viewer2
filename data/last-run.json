@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14131 from=\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-21T03:32:29.888584+00:00",
-  "added": 3,
+  "updated_at": "2026-10-21T03:32:31.179556+00:00",
+  "added": 4,
   "skipped": 91,
   "scanned": 95,
-  "current": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "current": "Market Whiplash",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 2,
     "seekingalpha": 0
   },
