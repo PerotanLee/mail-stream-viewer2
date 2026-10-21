@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14321 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-21T17:51:43.107740+00:00",
-  "added": 7,
+  "updated_at": "2026-10-21T17:51:44.441548+00:00",
+  "added": 8,
   "skipped": 28,
   "scanned": 36,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "Rockets, AI And EVs Under One Roof?",
   "added_by_filter": {
     "wsj": 3,
     "axios": 4,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 14266,
   "newest_num": 14356,
