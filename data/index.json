@@ -1,6 +1,15 @@
 {
   "emails": [
     {
+      "id": "1ac03f3920183c44ec1eb8f74d7dd81af7b6df219536c4b210d66090c47b2a36",
+      "uid": "419069.9JiY0Bs,Uy6Ma8kKjlecun3mvnBYaPOp3UpT4+OpcC4=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Wed, 21 Oct 2026 18:10:05 +1100",
+      "is_read": false,
+      "file": "1ac03f3920183c44ec1eb8f74d7dd81af7b6df219536c4b210d66090c47b2a36.json"
+    },
+    {
       "id": "4f45db797bc592706913a0cdb0de70245c90cd4d80f6dac5df41feca38dfe45d",
       "uid": "417528.+MpCzYiIHipbjr123g61TVyOUqfcbZS6e58oMPtQxd4=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -8,15 +17,6 @@
       "date": "Wed, 14 Oct 2026 21:29:50 -0400",
       "is_read": true,
       "file": "4f45db797bc592706913a0cdb0de70245c90cd4d80f6dac5df41feca38dfe45d.json"
-    },
-    {
-      "id": "aa9a21aa144cdf7c07a1c22278a10af437a2264b2361a00540d9d0eeba772359",
-      "uid": "417343.cmOfjP0g0nQR+5W8yq53tzIArs7LpmNId73HP8KW+9I=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Wed, 14 Oct 2026 18:10:21 +1100",
-      "is_read": true,
-      "file": "aa9a21aa144cdf7c07a1c22278a10af437a2264b2361a00540d9d0eeba772359.json"
     },
     {
       "id": "7a30904b0657f792e107ba39b5252d73ca896a46c930f460930d32cd115c304d",
