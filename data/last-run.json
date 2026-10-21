@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14319 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-21T17:51:46.208732+00:00",
-  "added": 8,
+  "updated_at": "2026-10-21T17:51:47.453054+00:00",
+  "added": 9,
   "skipped": 29,
   "scanned": 38,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "🏚️ Markets A.M.: Housing Looks Awful. These Housing-Related Stocks Don’t.",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 4,
     "seekingalpha": 1
   },
