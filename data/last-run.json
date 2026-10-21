@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14318 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-21T17:51:49.002647+00:00",
-  "added": 9,
+  "updated_at": "2026-10-21T17:51:50.301233+00:00",
+  "added": 10,
   "skipped": 29,
   "scanned": 39,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "Playing the Retreat in Defense Stocks",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 4,
     "seekingalpha": 1
   },
