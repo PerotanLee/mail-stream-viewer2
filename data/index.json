@@ -213,7 +213,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🤖 Axios PM: Bot battle",
       "date": "Tue, 20 Oct 2026 15:15:28 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "d7270d0c4da4e376f813c938d6e540eb3c13966137568b49cc1a8b883f6486ff.json"
     },
     {
