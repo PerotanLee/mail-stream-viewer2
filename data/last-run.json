@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14305 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-21T17:51:56.986508+00:00",
-  "added": 11,
+  "updated_at": "2026-10-21T17:51:58.403642+00:00",
+  "added": 12,
   "skipped": 40,
   "scanned": 52,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🌐 Axios AM: Jensen's world tour",
   "added_by_filter": {
     "wsj": 6,
-    "axios": 4,
+    "axios": 5,
     "seekingalpha": 1
   },
   "last_newest_num": 14266,
