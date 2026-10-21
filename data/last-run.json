@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14347 from=WSJ Real Estate <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-21T17:51:24.658866+00:00",
-  "added": 2,
+  "updated_at": "2026-10-21T17:51:26.031828+00:00",
+  "added": 3,
   "skipped": 7,
   "scanned": 10,
-  "current": "WSJ Real Estate <access@interactive.wsj.com>",
+  "current": "America’s Home-Buying Market is a House Divided",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 1,
     "seekingalpha": 0
   },
