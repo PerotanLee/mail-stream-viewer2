@@ -429,7 +429,7 @@
       "from_addr": "Axios Macro <macro@axios.com>",
       "subject": "🏭 Uneven factory comeback",
       "date": "Thu, 22 Oct 2026 11:58:20 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "f84d73657c5cf2e55a083e2f26c06c5b3e96f325710b81e2bc369a4a6ffa2986.json"
     },
     {
@@ -438,7 +438,7 @@
       "from_addr": "Dan Primack <dan@axios.com>",
       "subject": "Axios Pro Rata: Anti-agents",
       "date": "Thu, 22 Oct 2026 09:58:56 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "4c2a257a34ebea45badc4f9f8931206c9505b528d4d5c35b949a5018e2321be9.json"
     },
     {
@@ -447,7 +447,7 @@
       "from_addr": "Axios AI+ <ai.plus@axios.com>",
       "subject": "🏦 Bots' bank breach",
       "date": "Thu, 22 Oct 2026 09:28:23 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "a6627223df94ec65f63ba8e9c09105e452b71d4de771c7bc515b28ad71c594e3.json"
     },
     {
