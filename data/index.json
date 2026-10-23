@@ -780,7 +780,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "California Dreamin' Or A Tax Nightmare?",
       "date": "Fri, 23 Oct 2026 07:40:47 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "f49f7a0ecf6ae0d7164864d1e5a91934bd407a7f73ebb1020f1e894657c85e64.json"
     },
     {
