@@ -420,7 +420,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "👀 Axios PM: Youth turn on Trump",
       "date": "Thu, 22 Oct 2026 15:15:27 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "f67654f7f192d839ee562d64878bc19ac725b7ce4626a587a25b82a0657fcd69.json"
     },
     {
