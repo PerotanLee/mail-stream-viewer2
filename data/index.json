@@ -825,7 +825,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "👀 Axios PM: DOJ sues Alaska",
       "date": "Fri, 23 Oct 2026 15:00:26 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "3516b1e92387389c5a470b99ceef6ab52e4b31a9e0159447349cca7ecbf92034.json"
     },
     {
