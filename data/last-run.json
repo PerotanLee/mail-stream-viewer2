@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14792 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-23T11:30:08.246998+00:00",
-  "added": 3,
+  "updated_at": "2026-10-23T11:30:09.341478+00:00",
+  "added": 4,
   "skipped": 13,
   "scanned": 17,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "Is SpaceX Just a Mess?",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 0,
     "seekingalpha": 1
   },
