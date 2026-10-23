@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14822 from=\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-23T22:17:48.367761+00:00",
-  "added": 10,
+  "updated_at": "2026-10-23T22:17:49.706580+00:00",
+  "added": 11,
   "skipped": 33,
   "scanned": 44,
-  "current": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Travel: No More Airbnb Chores 🧺",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 5,
     "seekingalpha": 1
   },
