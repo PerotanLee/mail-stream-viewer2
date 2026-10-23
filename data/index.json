@@ -370,6 +370,15 @@
       "file": "c048625209f38065d7f92d63aa47f33814d0be0d5e271c53853e559dc8d3f371.json"
     },
     {
+      "id": "13b4c09f714bdae3242c8ec32dbe64579ace9870252d91f992384515c6e42d2b",
+      "uid": "419512.9bQDgRyBk631aBVRHovm,BezWTXpVapM,QSqahzheL0=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🍽️ Axios Finish Line: Recipes that survived",
+      "date": "Thu, 22 Oct 2026 21:29:29 -0400",
+      "is_read": false,
+      "file": "13b4c09f714bdae3242c8ec32dbe64579ace9870252d91f992384515c6e42d2b.json"
+    },
+    {
       "id": "fab300ac5a5f0aae507c3bb395ee523a202ecf8bc9355d58136e3dccccf0a2f1",
       "uid": "419337.boKsn1gMEhouy32gFY9yGlpT387RN9XCB,gNP0djVak=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -521,15 +530,6 @@
       "date": "Thu, 22 Oct 2026 06:06:30 -0400",
       "is_read": true,
       "file": "e3ca95b4b8740db49553061cf5a519c3fa55f4fc27440863decef9d79c8b8708.json"
-    },
-    {
-      "id": "56a34ff022d735eae8682758dfcb2aebb071f6f115a25337e6256992c48677fe",
-      "uid": "417824.NVRsG9KM+wxNL62WP4n9CUfvaUXbniD1HM2mtKl28AA=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "📱 Axios Finish Line: Screen-time upside",
-      "date": "Thu, 15 Oct 2026 21:29:26 -0400",
-      "is_read": true,
-      "file": "56a34ff022d735eae8682758dfcb2aebb071f6f115a25337e6256992c48677fe.json"
     },
     {
       "id": "ceaa5e3dc6e725698c27a71ef6afae677b1475b783a66f6468c40afc80baeccb",
@@ -766,13 +766,76 @@
       "file": "817d7db4e7e2fd3336f3b449e3baf198e2ebb5a3d7b33c8bd26583e06622e0fa.json"
     },
     {
-      "id": "7abe8417c84e12a8e197a4089574046b1c28d83c0bd7ce1f2afd19bfd423c858",
-      "uid": "417930.r4u0pVHu8AJ9cTf8S7JLkOQ9EE2NtVaxh9JmAq3DuIc=",
+      "id": "f5c0da777e849e955df33e9fd23b10720e3375f242de33618fd19560415648a7",
+      "uid": "419606.84hpS9euTI+Pqkeh9SF0p12XNwjBkrZV14lvJHldi0w=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Fri, 16 Oct 2026 18:10:07 +1100",
-      "is_read": true,
-      "file": "7abe8417c84e12a8e197a4089574046b1c28d83c0bd7ce1f2afd19bfd423c858.json"
+      "date": "Fri, 23 Oct 2026 18:10:05 +1100",
+      "is_read": false,
+      "file": "f5c0da777e849e955df33e9fd23b10720e3375f242de33618fd19560415648a7.json"
+    },
+    {
+      "id": "071d4f47dd3d3f85a5cdcc7166d4c34dd53771233cd6bc48dcc52bbe7c954ebb",
+      "uid": "419691.+BU6p7Lk5fAAlGY9ZLpt0iKMIjTZ,KLB0bLdaOVsM6U=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Congress Will Lose Over 800 Years of Experience. Maybe That’s Good.",
+      "date": "Fri, 23 Oct 2026 07:02:17 -0400",
+      "is_read": false,
+      "file": "071d4f47dd3d3f85a5cdcc7166d4c34dd53771233cd6bc48dcc52bbe7c954ebb.json"
+    },
+    {
+      "id": "183f1290dc6f1a3cccf13c77ec1e44988d01028149e8113c37565da537a37564",
+      "uid": "419686.DV3gx3YP0ItMEVMkTY0Krd6e2jjUwDhqHrbs3v21ppc=",
+      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
+      "subject": "See what’s moving the markets this week",
+      "date": "Fri, 23 Oct 2026 06:49:48 -0400",
+      "is_read": false,
+      "file": "183f1290dc6f1a3cccf13c77ec1e44988d01028149e8113c37565da537a37564.json"
+    },
+    {
+      "id": "428ff110cf854243a333d68c37886d27bcbf743e0d5d1aa01339cdf709894e13",
+      "uid": "419684.eiEZZQ0dvD1rUnYtrtCnQQDbikvgerGhEt+UUcp+WKs=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🎓 Markets A.M.: Elite Colleges Can Give You an Investing Lesson",
+      "date": "Fri, 23 Oct 2026 06:38:53 -0400",
+      "is_read": false,
+      "file": "428ff110cf854243a333d68c37886d27bcbf743e0d5d1aa01339cdf709894e13.json"
+    },
+    {
+      "id": "a5b07b9e4d5c393740b79a7e94e2b6c0109ed9a189d69a7b97b6ad1463a6e880",
+      "uid": "419680.nGR2GdAZiD75A2wq93+,1H0o6jioFVGcgUnj3jznUP0=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Is SpaceX Just a Mess?",
+      "date": "Fri, 23 Oct 2026 06:30:52 -0400",
+      "is_read": false,
+      "file": "a5b07b9e4d5c393740b79a7e94e2b6c0109ed9a189d69a7b97b6ad1463a6e880.json"
+    },
+    {
+      "id": "7df39c206396b8c346e947b69c19f70edc28e262af7081dab18530a733293fd8",
+      "uid": "419675.RK8mLBklizHWANJTYGDq1,IQ5GTJWXOUKjmAx6+bT64=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: A Showdown Inside OpenAI",
+      "date": "Fri, 23 Oct 2026 06:09:22 -0400",
+      "is_read": false,
+      "file": "7df39c206396b8c346e947b69c19f70edc28e262af7081dab18530a733293fd8.json"
+    },
+    {
+      "id": "be95504f934c9c16df2fc1d00c68d4114d35bba36d29778d36c9702660c4e7f1",
+      "uid": "419673.tk9Ypfq7FyU2po,3HJixI74YEsRwlpUMqT,CqrZtg48=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios AM: Wall Street's \"day after\"",
+      "date": "Fri, 23 Oct 2026 06:09:01 -0400",
+      "is_read": false,
+      "file": "be95504f934c9c16df2fc1d00c68d4114d35bba36d29778d36c9702660c4e7f1.json"
+    },
+    {
+      "id": "3d37be02cb4be3a7922d832a6215e7f9002d1cf412de89f3d23375d5471eda4b",
+      "uid": "419644.7Pp3fO,0aeuPBLg73faef+SXJLln3qp36TQtNyP3HRw=",
+      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
+      "subject": "Investment News Quiz - Friday, Oct. 23",
+      "date": "Fri, 23 Oct 2026 05:05:42 -0400",
+      "is_read": false,
+      "file": "3d37be02cb4be3a7922d832a6215e7f9002d1cf412de89f3d23375d5471eda4b.json"
     },
     {
       "id": "0a674d4a02711bbb876974d6e446092a251d1616a9bbae453048ba84d64e2116",
@@ -863,87 +926,6 @@
       "date": "Fri, 16 Oct 2026 08:31:06 -0400",
       "is_read": false,
       "file": "920e0d47d38d424c822448bc03ee08412f5f42eadd7b42ce01f99a5978501af2.json"
-    },
-    {
-      "id": "83b3f8f0df39df2b8d180844e6e97eecf612272006b78d8e1d87a0e00bbd0c9e",
-      "uid": "418027.E9pBVgQQakBQhxGi3S26wISdcz+IPjAI+sGYj4AOLkc=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🚨 Adults in the room",
-      "date": "Fri, 16 Oct 2026 07:28:42 -0400",
-      "is_read": true,
-      "file": "83b3f8f0df39df2b8d180844e6e97eecf612272006b78d8e1d87a0e00bbd0c9e.json"
-    },
-    {
-      "id": "d37e20cfba8534144160be2e1e5df05195f0e026253a0c70a40fca5c3124eada",
-      "uid": "418021.l47ACMrOcLsENEKntRS,V55pQAAKKHnWreQIWcrZzHU=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Why America’s Political Divide Is Also an Economic One",
-      "date": "Fri, 16 Oct 2026 07:06:45 -0400",
-      "is_read": true,
-      "file": "d37e20cfba8534144160be2e1e5df05195f0e026253a0c70a40fca5c3124eada.json"
-    },
-    {
-      "id": "4d2de1c6a34eb6b9a94eb3352232cb81cbb39cfd3414591e37dff4c9d6108611",
-      "uid": "418017.+hQM+wjBWbG+qM264EhAiYReby9WY4o,CPpr7w5mWIY=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Elon Musk Takes Out The Thrusters",
-      "date": "Fri, 16 Oct 2026 06:56:46 -0400",
-      "is_read": true,
-      "file": "4d2de1c6a34eb6b9a94eb3352232cb81cbb39cfd3414591e37dff4c9d6108611.json"
-    },
-    {
-      "id": "05d63e7d1ee5f0050c291c17c2724825558b6e2223ea19ac9f30890af22a6cfb",
-      "uid": "418011.CRP3oHSExNdLiig+MVIUIl2D+Z2kg5San1Ymjhac1R0=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "See what’s moving the markets this week",
-      "date": "Fri, 16 Oct 2026 06:42:49 -0400",
-      "is_read": true,
-      "file": "05d63e7d1ee5f0050c291c17c2724825558b6e2223ea19ac9f30890af22a6cfb.json"
-    },
-    {
-      "id": "8a1354e25959e85d102f7131405dc6e343da914c506562bcfa696179815f8157",
-      "uid": "418010.zCo2S9dAaKeVQe6uA7IdcblB+l45bkYCJaCDoD+TKf4=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🔥 Markets A.M.: The Radical Plan That Could Torch Your Portfolio",
-      "date": "Fri, 16 Oct 2026 06:42:32 -0400",
-      "is_read": true,
-      "file": "8a1354e25959e85d102f7131405dc6e343da914c506562bcfa696179815f8157.json"
-    },
-    {
-      "id": "d2f3efe2370638402a9bf07765642052e476d6a0ff0e870c2f6d4e37f2146d1b",
-      "uid": "418008.PPsgXWqm1PBtOkESundAoOPMc3zM63WcF3X1IqppGMQ=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "Wall Street Trading Desks Get Undermined",
-      "date": "Fri, 16 Oct 2026 06:30:44 -0400",
-      "is_read": true,
-      "file": "d2f3efe2370638402a9bf07765642052e476d6a0ff0e870c2f6d4e37f2146d1b.json"
-    },
-    {
-      "id": "01037493cf719411c961730b015b82c953fe56b70274198651f16e09b86fd60e",
-      "uid": "417995.X0q64FZtLVUbei36EdaNl5zNi3Qd1Ob4pJMwBTtSINI=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: How a Russian Soldier Helped Ukraine Kill Hundreds",
-      "date": "Fri, 16 Oct 2026 06:01:13 -0400",
-      "is_read": true,
-      "file": "01037493cf719411c961730b015b82c953fe56b70274198651f16e09b86fd60e.json"
-    },
-    {
-      "id": "e497cf60103536bf41462ad384781dff8398d67f23ec993da15ffa0425e4fbed",
-      "uid": "417989.DD7HdpZKrFKKVJHTsAcVZlX4c3iO3qGf,B8SS70AUPg=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🚨 Axios AM: MAGA pushes martial law",
-      "date": "Fri, 16 Oct 2026 05:43:40 -0400",
-      "is_read": true,
-      "file": "e497cf60103536bf41462ad384781dff8398d67f23ec993da15ffa0425e4fbed.json"
-    },
-    {
-      "id": "8cdfb87f6507d6353408c9098a03d137843a5d588013d1486df92272a1633b31",
-      "uid": "417972.TWh1zg9u+8I,s9sWQC9GM4iTToXpN48krQwOSSZBjRI=",
-      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
-      "subject": "Investment News Quiz - Friday, Oct. 16",
-      "date": "Fri, 16 Oct 2026 05:05:44 -0400",
-      "is_read": false,
-      "file": "8cdfb87f6507d6353408c9098a03d137843a5d588013d1486df92272a1633b31.json"
     }
   ]
 }
