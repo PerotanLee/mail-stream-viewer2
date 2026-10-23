@@ -402,7 +402,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Tech Slump",
       "date": "Thu, 22 Oct 2026 16:31:51 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "09930270a2d857b5bd9fc308213d9dca696abf9af509d7e45cecb0331517eab9.json"
     },
     {
