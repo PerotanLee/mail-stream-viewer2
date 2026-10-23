@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14549 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-23T00:24:29.841135+00:00",
-  "added": 9,
+  "updated_at": "2026-10-23T00:24:32.088051+00:00",
+  "added": 10,
   "skipped": 69,
   "scanned": 79,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: Ohio Governor’s Race Is Going Off the Rails",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 6,
     "seekingalpha": 2
   },
