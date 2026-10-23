@@ -375,7 +375,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🍽️ Axios Finish Line: Recipes that survived",
       "date": "Thu, 22 Oct 2026 21:29:29 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "13b4c09f714bdae3242c8ec32dbe64579ace9870252d91f992384515c6e42d2b.json"
     },
     {
