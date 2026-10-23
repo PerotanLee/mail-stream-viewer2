@@ -370,6 +370,159 @@
       "file": "c048625209f38065d7f92d63aa47f33814d0be0d5e271c53853e559dc8d3f371.json"
     },
     {
+      "id": "fab300ac5a5f0aae507c3bb395ee523a202ecf8bc9355d58136e3dccccf0a2f1",
+      "uid": "419337.boKsn1gMEhouy32gFY9yGlpT387RN9XCB,gNP0djVak=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Thu, 22 Oct 2026 18:10:04 +1100",
+      "is_read": false,
+      "file": "fab300ac5a5f0aae507c3bb395ee523a202ecf8bc9355d58136e3dccccf0a2f1.json"
+    },
+    {
+      "id": "a939e4aafd8a994aaf6c98cb21e006407679d557a9228fedd03d7d35852c607c",
+      "uid": "419461.L3gxuK6cUVlKd01BdGs26VyI6K1YC3CDC38NYcwpvyk=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "✈️  Airlines' new normal",
+      "date": "Thu, 22 Oct 2026 17:58:27 -0400",
+      "is_read": false,
+      "file": "a939e4aafd8a994aaf6c98cb21e006407679d557a9228fedd03d7d35852c607c.json"
+    },
+    {
+      "id": "09930270a2d857b5bd9fc308213d9dca696abf9af509d7e45cecb0331517eab9",
+      "uid": "419445.HYXx,EIXhuNU9RFZdJyWogPloTxZhdZWE5Wciyu+k3Y=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Tech Slump",
+      "date": "Thu, 22 Oct 2026 16:31:51 -0400",
+      "is_read": false,
+      "file": "09930270a2d857b5bd9fc308213d9dca696abf9af509d7e45cecb0331517eab9.json"
+    },
+    {
+      "id": "cfbf28d97a47de782d0606f6517aa456fc548f023284e391df119fadbeaefcf7",
+      "uid": "419442.ywSeHI71HMl9d6dpFaWc672JKVY367JCCwXLfPwJSSI=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Tax-Loss Harvesting 2026: 3 Tech Stocks To Sell And 3 Strong Buys To Consider",
+      "date": "Thu, 22 Oct 2026 16:05:43 -0400",
+      "is_read": false,
+      "file": "cfbf28d97a47de782d0606f6517aa456fc548f023284e391df119fadbeaefcf7.json"
+    },
+    {
+      "id": "f67654f7f192d839ee562d64878bc19ac725b7ce4626a587a25b82a0657fcd69",
+      "uid": "419438.,OOmra+I3nFQpVFB+eHL9FEXpqe4gIaEuam4M41v+AI=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "👀 Axios PM: Youth turn on Trump",
+      "date": "Thu, 22 Oct 2026 15:15:27 -0400",
+      "is_read": false,
+      "file": "f67654f7f192d839ee562d64878bc19ac725b7ce4626a587a25b82a0657fcd69.json"
+    },
+    {
+      "id": "f84d73657c5cf2e55a083e2f26c06c5b3e96f325710b81e2bc369a4a6ffa2986",
+      "uid": "419435.XpvTWzK9o5q5N2TdKM7dp,igKfmpBryNvZX7Ga+tOkU=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🏭 Uneven factory comeback",
+      "date": "Thu, 22 Oct 2026 11:58:20 -0400",
+      "is_read": false,
+      "file": "f84d73657c5cf2e55a083e2f26c06c5b3e96f325710b81e2bc369a4a6ffa2986.json"
+    },
+    {
+      "id": "4c2a257a34ebea45badc4f9f8931206c9505b528d4d5c35b949a5018e2321be9",
+      "uid": "419429.+qBbrzs7xoTjfaUEptoLo0XkwSAIEpoNKDtzRUSnk8k=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Anti-agents",
+      "date": "Thu, 22 Oct 2026 09:58:56 -0400",
+      "is_read": false,
+      "file": "4c2a257a34ebea45badc4f9f8931206c9505b528d4d5c35b949a5018e2321be9.json"
+    },
+    {
+      "id": "a6627223df94ec65f63ba8e9c09105e452b71d4de771c7bc515b28ad71c594e3",
+      "uid": "419426.3g0OIdf1NDl,u37ySi2Ayb1CZ3TeZGEgCgz+D9W4zUc=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🏦 Bots' bank breach",
+      "date": "Thu, 22 Oct 2026 09:28:23 -0400",
+      "is_read": false,
+      "file": "a6627223df94ec65f63ba8e9c09105e452b71d4de771c7bc515b28ad71c594e3.json"
+    },
+    {
+      "id": "10f4680c429de65b887dc62b38720139066186484dec6afc7ad94a33d677be89",
+      "uid": "419422.dz1wSv+Tt,hSTS2nE+M10lEeKWnv152xHARYefCge8Y=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Patch Me If You Can",
+      "date": "Thu, 22 Oct 2026 08:24:00 -0400",
+      "is_read": false,
+      "file": "10f4680c429de65b887dc62b38720139066186484dec6afc7ad94a33d677be89.json"
+    },
+    {
+      "id": "a157df39559871a849798ae102bbb7934c70fb494af7e03741b181d55ce8c14a",
+      "uid": "419411.h35aD3MeWlYcN9aO8u8ta1+8aereI3cozFHPyPgi4Q0=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🤔 Does not compute",
+      "date": "Thu, 22 Oct 2026 07:28:44 -0400",
+      "is_read": false,
+      "file": "a157df39559871a849798ae102bbb7934c70fb494af7e03741b181d55ce8c14a.json"
+    },
+    {
+      "id": "addbfeed001eeb57f6484e4a3c39a003faa5bbd9547e8a92ac5c7b4d0d86c929",
+      "uid": "419406.yN4w,HMHllFqgLOAYc2LIXGPh4JgJLGFU6m48PwwEW4=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Ohio Governor’s Race Is Going Off the Rails",
+      "date": "Thu, 22 Oct 2026 07:07:53 -0400",
+      "is_read": false,
+      "file": "addbfeed001eeb57f6484e4a3c39a003faa5bbd9547e8a92ac5c7b4d0d86c929.json"
+    },
+    {
+      "id": "4bb96adce45447746c8e1170fc58615aa05688d15a90a71670d39c13c9d0cedb",
+      "uid": "419402.2KYtLLXoHONezpgRRYgsjAIUosSyDJ2S2sRegL79UYI=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Hot Healthcare Stocks Could Outperform for Years",
+      "date": "Thu, 22 Oct 2026 06:53:29 -0400",
+      "is_read": false,
+      "file": "4bb96adce45447746c8e1170fc58615aa05688d15a90a71670d39c13c9d0cedb.json"
+    },
+    {
+      "id": "b98faffeca5b96cb01f6fa3df0ca08b362ab73e390be7258c3a5965ce56d6f61",
+      "uid": "419399.lNFQppJp,YB36cf7w+khjtsC3UtXP9DMKikXLFOxpYI=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🏀 Markets A.M.: Sports Investing Is for Millionaires Now, not Billionaires",
+      "date": "Thu, 22 Oct 2026 06:42:56 -0400",
+      "is_read": false,
+      "file": "b98faffeca5b96cb01f6fa3df0ca08b362ab73e390be7258c3a5965ce56d6f61.json"
+    },
+    {
+      "id": "4cbc68cc83a7a91371ed0cd79ed96b4a29566e0e68bb4dae7736fca58a0279f2",
+      "uid": "419397.KvPDj68h8l32Iic8BRKb+pbFKV91dRsiqTQN,s17KOk=",
+      "from_addr": "Axios Defense <defense@axios.com>",
+      "subject": "📸 See Russia's fly-by",
+      "date": "Thu, 22 Oct 2026 06:30:11 -0400",
+      "is_read": false,
+      "file": "4cbc68cc83a7a91371ed0cd79ed96b4a29566e0e68bb4dae7736fca58a0279f2.json"
+    },
+    {
+      "id": "128af8139cf77b4d60a0a10c3b974ab2b0048bd224cd2d4b9b93310b04653c02",
+      "uid": "419395.WxvQyhEK2wK19UNP1Jy3s+LLOTOS5anOdpzNsgsvebk=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "👀 Axios AM: Vance's whine-free zone",
+      "date": "Thu, 22 Oct 2026 06:26:13 -0400",
+      "is_read": false,
+      "file": "128af8139cf77b4d60a0a10c3b974ab2b0048bd224cd2d4b9b93310b04653c02.json"
+    },
+    {
+      "id": "e347fbfb990ac2a8cc876fc4ff967c148dd962efbae36f3dd0e4be853ed374b5",
+      "uid": "419389.FSyrG+kNI8enkhYRQugeH7qNNl7CJblJgD1JWeANEt4=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Musk Eyes His Biggest Deal Yet",
+      "date": "Thu, 22 Oct 2026 06:07:08 -0400",
+      "is_read": false,
+      "file": "e347fbfb990ac2a8cc876fc4ff967c148dd962efbae36f3dd0e4be853ed374b5.json"
+    },
+    {
+      "id": "e3ca95b4b8740db49553061cf5a519c3fa55f4fc27440863decef9d79c8b8708",
+      "uid": "419388.zNQGHSetOu8NwpQTIO4pFoPO+ZDOj7ATUiuHB9xcq2A=",
+      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Economics: A Food Crisis Could Follow the Energy Crisis",
+      "date": "Thu, 22 Oct 2026 06:06:30 -0400",
+      "is_read": false,
+      "file": "e3ca95b4b8740db49553061cf5a519c3fa55f4fc27440863decef9d79c8b8708.json"
+    },
+    {
       "id": "56a34ff022d735eae8682758dfcb2aebb071f6f115a25337e6256992c48677fe",
       "uid": "417824.NVRsG9KM+wxNL62WP4n9CUfvaUXbniD1HM2mtKl28AA=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -377,177 +530,6 @@
       "date": "Thu, 15 Oct 2026 21:29:26 -0400",
       "is_read": true,
       "file": "56a34ff022d735eae8682758dfcb2aebb071f6f115a25337e6256992c48677fe.json"
-    },
-    {
-      "id": "2afd0310d36129dccc10f0c12ec55b761cb1f4510492220d1c9ce6ba3e87080f",
-      "uid": "417632.bFi,b6v1g4gLlT1sEuBJNxHbLxo3lbLvcwrsl9KwGVA=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Thu, 15 Oct 2026 18:10:17 +1100",
-      "is_read": true,
-      "file": "2afd0310d36129dccc10f0c12ec55b761cb1f4510492220d1c9ce6ba3e87080f.json"
-    },
-    {
-      "id": "df9e3276b5e3b58afcd93b59ec21d33f112d5a7df57ffd354e8d933756f1d7fe",
-      "uid": "417764.x8rrymmwtMCi0vTUmUMHauBjgT+eRimbmeizxTDimSs=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "👀 Tesla-SpaceX tie-up",
-      "date": "Thu, 15 Oct 2026 17:35:07 -0400",
-      "is_read": true,
-      "file": "df9e3276b5e3b58afcd93b59ec21d33f112d5a7df57ffd354e8d933756f1d7fe.json"
-    },
-    {
-      "id": "58f0dbea702a233cd746ef51a39c15e6a4ca7587641e028375fc4fe9fe21d13c",
-      "uid": "417752.V+k7OimT4,8V90yKIWi9FN1vj+tvEpmam1jVvgOm8vc=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Seeking Shelter",
-      "date": "Thu, 15 Oct 2026 16:49:37 -0400",
-      "is_read": true,
-      "file": "58f0dbea702a233cd746ef51a39c15e6a4ca7587641e028375fc4fe9fe21d13c.json"
-    },
-    {
-      "id": "364de8423b14b65abfd2a95fdf8061a29edd0c61f84a25a486bbdee529143a01",
-      "uid": "417747.NfUCsehVJUtiKJDApWZR,CuIUehzDwC9sVHeKqVkoPA=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Micron: Buy The China Panic",
-      "date": "Thu, 15 Oct 2026 16:05:52 -0400",
-      "is_read": false,
-      "file": "364de8423b14b65abfd2a95fdf8061a29edd0c61f84a25a486bbdee529143a01.json"
-    },
-    {
-      "id": "be0027b11374b5aa817aac1f655c5eb21399b6a3afffd4a2d453a8c44a0cb9c1",
-      "uid": "417745.aiQbvzNvSwBcZwoFWnQT56DbpFPkiJLnC6j1kd3XvFY=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🌊  Axios PM: Youth wave hits wall",
-      "date": "Thu, 15 Oct 2026 15:15:51 -0400",
-      "is_read": true,
-      "file": "be0027b11374b5aa817aac1f655c5eb21399b6a3afffd4a2d453a8c44a0cb9c1.json"
-    },
-    {
-      "id": "5cd878ec8a811c94f8703635909c7f4e26a96a033e1d581a43341b05eb5dd6b2",
-      "uid": "417738.h0djonuZnl8gIO,p8dJ3zDrzJCM,L6KK6Q9TeM3e0YU=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🥵 Too hot for comfort",
-      "date": "Thu, 15 Oct 2026 12:02:02 -0400",
-      "is_read": true,
-      "file": "5cd878ec8a811c94f8703635909c7f4e26a96a033e1d581a43341b05eb5dd6b2.json"
-    },
-    {
-      "id": "518b909f787e8fd65fe8765effb98bd69b619bde268250e9fb1b4cf5840e868f",
-      "uid": "417737.lmuN5W83HQJPHlOCuZPgxcflErFtIMHFEsIJdXtZorY=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: A Car-Dealership Owner’s California Compound Sells for $82.6 Million",
-      "date": "Thu, 15 Oct 2026 11:55:09 -0400",
-      "is_read": false,
-      "file": "518b909f787e8fd65fe8765effb98bd69b619bde268250e9fb1b4cf5840e868f.json"
-    },
-    {
-      "id": "366540bbc1272edb0bb6905f001d2c32ee0a339c8143c165002925d5ea89b6d4",
-      "uid": "417732.dJC2T6koriz8llLFDMbEeOC92+hoKW,k5londsgO9uI=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Founders vs. fiduciaries",
-      "date": "Thu, 15 Oct 2026 10:07:11 -0400",
-      "is_read": true,
-      "file": "366540bbc1272edb0bb6905f001d2c32ee0a339c8143c165002925d5ea89b6d4.json"
-    },
-    {
-      "id": "0365ca96374d9664bbb66419939cf6c7925fafd1571659b6b14cd8f82599b8ee",
-      "uid": "417731.L4B9PoKiUaHXoz0baCrOzC8YF918snirQZkp7N5sS68=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "💰 Anthropic's money bags",
-      "date": "Thu, 15 Oct 2026 09:28:15 -0400",
-      "is_read": true,
-      "file": "0365ca96374d9664bbb66419939cf6c7925fafd1571659b6b14cd8f82599b8ee.json"
-    },
-    {
-      "id": "5bd891a049ca81471c7a8e577de8d3c4e77037ea38ebb43c35dc7bfc2e733116",
-      "uid": "417727.42iA5HWk1iNql,l3aA16Z+y2dxorCCvgzyNLqcBksdg=",
-      "from_addr": "Alpha Picks <subscriptions@seekingalpha.com>",
-      "subject": "Now up 330%. New pick out today.",
-      "date": "Thu, 15 Oct 2026 08:56:03 -0400",
-      "is_read": false,
-      "file": "5bd891a049ca81471c7a8e577de8d3c4e77037ea38ebb43c35dc7bfc2e733116.json"
-    },
-    {
-      "id": "bec5c6ed6577958e08aa07ccff1d264a6c256c02421e94fef405cdd20cd7e4df",
-      "uid": "417716.23fYCSXk+e6rubtWEukmWnxRJ80F2piQGBNfzrT48rU=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Small Stumble, Big Correction",
-      "date": "Thu, 15 Oct 2026 07:45:27 -0400",
-      "is_read": true,
-      "file": "bec5c6ed6577958e08aa07ccff1d264a6c256c02421e94fef405cdd20cd7e4df.json"
-    },
-    {
-      "id": "ee0875872963ef174f88c5603eb4d51b7fa6b955808b992ee28ce43891ee880c",
-      "uid": "417711.z+pM,MLOThoBrqC7G4vw7cYWp3s15O0cC0Vh1V3rFgY=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🐤 AI canary?",
-      "date": "Thu, 15 Oct 2026 07:28:30 -0400",
-      "is_read": true,
-      "file": "ee0875872963ef174f88c5603eb4d51b7fa6b955808b992ee28ce43891ee880c.json"
-    },
-    {
-      "id": "4528aa3c73e9076e62e84d82387bc71d622f7d1fdc88903f65566d7a8e48cea5",
-      "uid": "417708.4Ls2nbT1RlILtklABGsxLIn+oqnJN3PLKJemg3ZrFHA=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: The Democratic Party's Resistance to a Leftward Shift",
-      "date": "Thu, 15 Oct 2026 07:10:04 -0400",
-      "is_read": true,
-      "file": "4528aa3c73e9076e62e84d82387bc71d622f7d1fdc88903f65566d7a8e48cea5.json"
-    },
-    {
-      "id": "72057c0b5c02adc06fa69b2372b9cff1f5b24ebdc19e529b168c1c5646e2ad4e",
-      "uid": "417701.O7TDK8TVw1YqaV9gSbd76IdqN3QsQksC3Wogn19UwGs=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🛒 Markets A.M.: How to Invest for the Middle Class Blues",
-      "date": "Thu, 15 Oct 2026 06:50:34 -0400",
-      "is_read": true,
-      "file": "72057c0b5c02adc06fa69b2372b9cff1f5b24ebdc19e529b168c1c5646e2ad4e.json"
-    },
-    {
-      "id": "e6c3d01d63930670902219548fbc5026b63c8ca01627c6641cd85d3e105c441e",
-      "uid": "417698.rT0IM2tuxmdWkwLk4,eYbq2tfo3+IGeV7wWg83Qxnc0=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "IPO Failure Rocks the AI Trade",
-      "date": "Thu, 15 Oct 2026 06:37:22 -0400",
-      "is_read": true,
-      "file": "e6c3d01d63930670902219548fbc5026b63c8ca01627c6641cd85d3e105c441e.json"
-    },
-    {
-      "id": "6f85350580a967b4968246bdc3ad450566917d85accbc6089da9ea6890921e2e",
-      "uid": "417697.5B3wHJuPLxNoFeeq29+gFcRogQyjuIHQyqLRnHWiK80=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "🛰️ Space war looms",
-      "date": "Thu, 15 Oct 2026 06:30:07 -0400",
-      "is_read": true,
-      "file": "6f85350580a967b4968246bdc3ad450566917d85accbc6089da9ea6890921e2e.json"
-    },
-    {
-      "id": "3ef3565fb85c540a055b5af1359ebc4693ee8bffeec4dadc651b7db55008753f",
-      "uid": "417694.Mfq,48keDA2fuZaG3joHXGoDMmr007v3n2V7A8VT,MI=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🥊 Axios AM: Chuck's final fight",
-      "date": "Thu, 15 Oct 2026 06:15:06 -0400",
-      "is_read": true,
-      "file": "3ef3565fb85c540a055b5af1359ebc4693ee8bffeec4dadc651b7db55008753f.json"
-    },
-    {
-      "id": "cb472fbf47c1b002888b99cfa974f7877f3fcbd294eacdf9d40eefdae66ce08c",
-      "uid": "417689.giCw5e9F3W5lIx4ragHQDnnvSoExbOVnJ4DXK9KH43U=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: AI Companies Play Cat-and-Mouse With Spies",
-      "date": "Thu, 15 Oct 2026 06:06:07 -0400",
-      "is_read": true,
-      "file": "cb472fbf47c1b002888b99cfa974f7877f3fcbd294eacdf9d40eefdae66ce08c.json"
-    },
-    {
-      "id": "487dc9c75a048ede32b5327f8ebf58d9e3cc051128d0b49c64e193a6c6857344",
-      "uid": "417687.,hyCttXgwaBz169M2C1F0uT4G3YrF+Pib1b,mUWx2fM=",
-      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Economics: Voters Can't Be Bought",
-      "date": "Thu, 15 Oct 2026 06:05:30 -0400",
-      "is_read": true,
-      "file": "487dc9c75a048ede32b5327f8ebf58d9e3cc051128d0b49c64e193a6c6857344.json"
     },
     {
       "id": "ceaa5e3dc6e725698c27a71ef6afae677b1475b783a66f6468c40afc80baeccb",
