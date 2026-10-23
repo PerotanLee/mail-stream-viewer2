@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14536 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-23T00:24:46.268991+00:00",
-  "added": 14,
+  "updated_at": "2026-10-23T00:24:47.354405+00:00",
+  "added": 15,
   "skipped": 77,
   "scanned": 92,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: Musk Eyes His Biggest Deal Yet",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 8,
     "seekingalpha": 2
   },
