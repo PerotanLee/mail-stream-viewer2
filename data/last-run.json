@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14758 from=Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-23T11:30:21.208517+00:00",
-  "added": 6,
+  "updated_at": "2026-10-23T11:30:22.352714+00:00",
+  "added": 7,
   "skipped": 44,
   "scanned": 51,
-  "current": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
+  "current": "Investment News Quiz - Friday, Oct. 23",
   "added_by_filter": {
     "wsj": 4,
     "axios": 1,
-    "seekingalpha": 1
+    "seekingalpha": 2
   },
   "last_newest_num": 14627,
   "newest_num": 14808,
