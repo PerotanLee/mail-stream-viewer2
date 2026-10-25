@@ -568,58 +568,58 @@
       "file": "c368ea3d1e49aeec6256bcf45e2bf24d3c16959bbef94fdf96457092446b5995.json"
     },
     {
-      "id": "d37d6f85f492ca30bf24c2659a7b8933cf3c86677a98f91e6f4fc0143efe726a",
-      "uid": "418196.RW0mripaGIAEvlVldj5mxlDhlFsgW0Nk4QNuHhB4MB8=",
+      "id": "faa87ead89f05af96511ac9872255ea1b70e0890bb974ea72f5eaad533349cd5",
+      "uid": "419849.Yiv+EmQirVyx8YzTT1yaM7U,ha4XgQAwpZ6dU0kfor8=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Sat, 17 Oct 2026 18:10:04 +1100",
-      "is_read": true,
-      "file": "d37d6f85f492ca30bf24c2659a7b8933cf3c86677a98f91e6f4fc0143efe726a.json"
-    },
-    {
-      "id": "8b75cec476ca8dfa3d3b33cd4eab860a121d02178e952cc55a48405e1884c466",
-      "uid": "418250.SF+aX58M+h459AHKI3VpDyvnoL+NtfWtgSQaH+XsNco=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Buy The Dip: Sustainable And Growing 10%+ Yields",
-      "date": "Sat, 17 Oct 2026 16:06:24 -0400",
+      "date": "Sat, 24 Oct 2026 18:10:04 +1100",
       "is_read": false,
-      "file": "8b75cec476ca8dfa3d3b33cd4eab860a121d02178e952cc55a48405e1884c466.json"
+      "file": "faa87ead89f05af96511ac9872255ea1b70e0890bb974ea72f5eaad533349cd5.json"
     },
     {
-      "id": "df38ecd93e5d8e9827ff0d301971528e1414634e49a184bcfacc2335becb38dd",
-      "uid": "418243.jM6P1tjfi2mjZAse,GMVdG5RROcpVHg4SVusD5pjZn0=",
+      "id": "5b549cb0710ae373848b8b4906ea2a1cdb4dd7f102b70843cfa0388f6ec7c2b1",
+      "uid": "419894.MXeR+e,epaPjS8Y8mrNkgoTa,6JvvMRbYBlTt,5QLbQ=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Credo: The Reset Is Done (Rating Upgrade)",
+      "date": "Sat, 24 Oct 2026 16:05:52 -0400",
+      "is_read": false,
+      "file": "5b549cb0710ae373848b8b4906ea2a1cdb4dd7f102b70843cfa0388f6ec7c2b1.json"
+    },
+    {
+      "id": "91a07d5f3ba2cdb47cb9863b8810f7d2a62e0e7002dec47bc2d2afdbecdac110",
+      "uid": "419891.mEQf,QESm8xznKoBsm1GmK70Z6nBJxaadomvD0n4qP0=",
       "from_addr": "The Journal Collection <TheJournalCollection@em.wsj.com>",
-      "subject": "Travel with Smithsonian Experts on AmaWaterways",
-      "date": "Sat, 17 Oct 2026 13:07:15 +0000",
-      "is_read": true,
-      "file": "df38ecd93e5d8e9827ff0d301971528e1414634e49a184bcfacc2335becb38dd.json"
+      "subject": "2027’s finest villas are going fast",
+      "date": "Sat, 24 Oct 2026 16:04:16 +0000",
+      "is_read": false,
+      "file": "91a07d5f3ba2cdb47cb9863b8810f7d2a62e0e7002dec47bc2d2afdbecdac110.json"
     },
     {
-      "id": "f661e3d6221d929a31c77bec513f0b6a7c818b9798812972173a6b1730949632",
-      "uid": "418242.jyCFl+1CuoszhHngSpSGYkHp7RPqzCkDlPQOKk3RD60=",
+      "id": "60bc55284e4caf82809ff99b8e872f5f0381453d4d4aa39ffd30b3392f95a154",
+      "uid": "419888.P9FH5rCCjkMwUXUs9uSrH2Wb2qGdPOoS8v9pHoE69Ug=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "😵‍💫 Axios AM: October barrage",
-      "date": "Sat, 17 Oct 2026 09:03:48 -0400",
-      "is_read": true,
-      "file": "f661e3d6221d929a31c77bec513f0b6a7c818b9798812972173a6b1730949632.json"
+      "subject": "🤖 Axios AM: AI's worst messengers",
+      "date": "Sat, 24 Oct 2026 08:59:07 -0400",
+      "is_read": false,
+      "file": "60bc55284e4caf82809ff99b8e872f5f0381453d4d4aa39ffd30b3392f95a154.json"
     },
     {
-      "id": "0ec62f7a7ce81ff031775e3af94e60aa1171c24f362d02d741293feb289b48a0",
-      "uid": "418233.N4yDNPpi9oqvJLnKKFOxQaqIo4p+eMd0CiRV86BcHB4=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Last Minutes of a White House Press Secretary",
-      "date": "Sat, 17 Oct 2026 07:14:34 -0400",
-      "is_read": true,
-      "file": "0ec62f7a7ce81ff031775e3af94e60aa1171c24f362d02d741293feb289b48a0.json"
-    },
-    {
-      "id": "54aa02a4c524532a8d3aface3e8a3292d10cf2cc62708c53aa712cb9849eb672",
-      "uid": "418228.subQ7wj0Zbq5wN0+Uz9i,idY,J1k6TCZr9h9BPky9aY=",
+      "id": "0d04413d4eea2e0e3acf7432d405a2557226f05a4398d98c7669a96764998251",
+      "uid": "419887.JAAtXUXyE2bI66U2KsEzoJmiBIja5JEWsHfKGEw57Lo=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "What Moved Markets This Week",
-      "date": "Sat, 17 Oct 2026 06:48:24 -0400",
-      "is_read": true,
-      "file": "54aa02a4c524532a8d3aface3e8a3292d10cf2cc62708c53aa712cb9849eb672.json"
+      "subject": "Wall Street Breakfast: What Moved Markets This Week",
+      "date": "Sat, 24 Oct 2026 08:09:13 -0400",
+      "is_read": false,
+      "file": "0d04413d4eea2e0e3acf7432d405a2557226f05a4398d98c7669a96764998251.json"
+    },
+    {
+      "id": "2101b3118be84e87412efafb9c1a419f8f3ed51372ef649a838540b37d21badf",
+      "uid": "419880.zoDZrQ27dFRECPfEksnOfT,LSLSEQMe1jtIc9TsDiII=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: The Billionaire Giveaway",
+      "date": "Sat, 24 Oct 2026 07:17:32 -0400",
+      "is_read": false,
+      "file": "2101b3118be84e87412efafb9c1a419f8f3ed51372ef649a838540b37d21badf.json"
     },
     {
       "id": "dd6c0117f8676712f9f86d177cfe0588db16e8d643151509eebf227ff4ea0a56",
