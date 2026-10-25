@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=14980 from=The Journal Collection <TheJournalCollection@em.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-25T01:27:27.752649+00:00",
-  "added": 1,
+  "updated_at": "2026-10-25T01:27:29.074488+00:00",
+  "added": 2,
   "skipped": 29,
   "scanned": 31,
-  "current": "The Journal Collection <TheJournalCollection@em.wsj.com>",
+  "current": "2027’s finest villas are going fast",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 0,
     "seekingalpha": 1
   },
