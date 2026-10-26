@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=15298 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-26T16:38:50.534787+00:00",
-  "added": 2,
+  "updated_at": "2026-10-26T16:38:51.879852+00:00",
+  "added": 3,
   "skipped": 4,
   "scanned": 7,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "🏛️ Beltway backlash",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 2,
+    "axios": 3,
     "seekingalpha": 0
   },
   "last_newest_num": 15227,
