@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=15275 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-26T16:39:10.311460+00:00",
-  "added": 8,
+  "updated_at": "2026-10-26T16:39:11.771102+00:00",
+  "added": 9,
   "skipped": 21,
   "scanned": 30,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: California’s Billionaire Tax Is a ‘Hot Mess’ for Democrats",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 4,
     "seekingalpha": 1
   },
