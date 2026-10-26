@@ -546,7 +546,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Correction - Wall Street Breakfast: What Moves Markets This Week",
       "date": "Sun, 25 Oct 2026 13:56:28 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "4c1b30b62bd2f819ef4191a6fb83490a44b5fa42cce7b12c70127ca7101e0f18.json"
     },
     {
