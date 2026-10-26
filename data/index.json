@@ -735,7 +735,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🔮 Axios AM: 2028 and beyond",
       "date": "Mon, 26 Oct 2026 05:57:33 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "c0b3a8e16b92b784668d714adddf3cb4734a58193d78ca7d48780a6fb231a0d1.json"
     },
     {
