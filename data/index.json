@@ -640,6 +640,15 @@
       "file": "ce795e089ee89c9fa6de207ce110b08c5971f26ebe7f3076eaa4106b7cd168c2.json"
     },
     {
+      "id": "92b2188693762ea9f1d2ac50416b66c6cf435d7714c962359333a66a4ee4e1af",
+      "uid": "420281.d0zXajVeRyrtliMH1wP7JAW1at2VuTP9vELsImH0uLE=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios PM: 90 pages of risks",
+      "date": "Mon, 26 Oct 2026 15:15:44 -0400",
+      "is_read": false,
+      "file": "92b2188693762ea9f1d2ac50416b66c6cf435d7714c962359333a66a4ee4e1af.json"
+    },
+    {
       "id": "c5a0d4e23b70bfba6c41db530c01c82769de91a0ae4fbf844e3167e092e683b9",
       "uid": "420277.bgMdsi5eRokd2ZdIQbuQEu9fcWwfZcf9hDW4gFYH6B8=",
       "from_addr": "Axios Macro <macro@axios.com>",
@@ -764,15 +773,6 @@
       "date": "Mon, 19 Oct 2026 16:21:35 -0400",
       "is_read": false,
       "file": "e212c0ec540be46d015f618ba4f3e8f4ada46d80c79c55b3cc9a57cf3bdebf90.json"
-    },
-    {
-      "id": "d883de60c76c8b51f9cd1a1041dc54da2bf53c7149de775ece56f682687761f2",
-      "uid": "418648.FYFkX5x3njiFLLj98k33lAQfyqzPOFZMG+tc3Gojcys=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "📱 Axios PM: Text rocks White House",
-      "date": "Mon, 19 Oct 2026 15:00:48 -0400",
-      "is_read": true,
-      "file": "d883de60c76c8b51f9cd1a1041dc54da2bf53c7149de775ece56f682687761f2.json"
     },
     {
       "id": "f5c0da777e849e955df33e9fd23b10720e3375f242de33618fd19560415648a7",
