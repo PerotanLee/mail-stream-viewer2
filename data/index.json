@@ -532,40 +532,49 @@
       "file": "e3ca95b4b8740db49553061cf5a519c3fa55f4fc27440863decef9d79c8b8708.json"
     },
     {
-      "id": "ceaa5e3dc6e725698c27a71ef6afae677b1475b783a66f6468c40afc80baeccb",
-      "uid": "418404.WFPsxGgolQPRx++kDmw2imco2CjzabpdyDYitVJw0RA=",
+      "id": "a6a5684047001edbca33f7e7afc91899df627b6dacecd1b5e2918e45b901a9af",
+      "uid": "420031.tIwm8Qt9bVe3cDQuG,EK1z,jkdGW6eBkr1vLT+fVtR0=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "2 Elite Retirement Dividend Growth Machines On Sale",
-      "date": "Sun, 18 Oct 2026 16:06:12 -0400",
-      "is_read": true,
-      "file": "ceaa5e3dc6e725698c27a71ef6afae677b1475b783a66f6468c40afc80baeccb.json"
+      "subject": "SCHD: You Have To Know What You Own",
+      "date": "Sun, 25 Oct 2026 16:05:48 -0400",
+      "is_read": false,
+      "file": "a6a5684047001edbca33f7e7afc91899df627b6dacecd1b5e2918e45b901a9af.json"
     },
     {
-      "id": "6800c9f04bda0d474f5010c2cfc4a342d165afbfdbccefe59f5e231aa81ff95a",
-      "uid": "418398.nDDI+BUzB8+wkwGE,ianIDhO8O+4+UATSbbLkI2gDPg=",
+      "id": "4c1b30b62bd2f819ef4191a6fb83490a44b5fa42cce7b12c70127ca7101e0f18",
+      "uid": "420027.fOn5TdikInoUMXBe83VIGUy3guvOihSxgoQ0XDVEx8c=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Correction - Wall Street Breakfast: What Moves Markets This Week",
+      "date": "Sun, 25 Oct 2026 13:56:28 -0400",
+      "is_read": false,
+      "file": "4c1b30b62bd2f819ef4191a6fb83490a44b5fa42cce7b12c70127ca7101e0f18.json"
+    },
+    {
+      "id": "f424aa4292a91b8af1a5462ccfaf430b0e56f68a61ec450d3ef36894f0706181",
+      "uid": "420022.wuL4E0jQIvcbUArLS9cUkuYDoSRpcXtNyQz2EVYUulo=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🚫 Axios AM: The \"anti\" campaign",
-      "date": "Sun, 18 Oct 2026 08:54:16 -0400",
-      "is_read": true,
-      "file": "6800c9f04bda0d474f5010c2cfc4a342d165afbfdbccefe59f5e231aa81ff95a.json"
+      "subject": "🫨 Axios AM: Chain-reaction chaos",
+      "date": "Sun, 25 Oct 2026 09:29:54 -0400",
+      "is_read": false,
+      "file": "f424aa4292a91b8af1a5462ccfaf430b0e56f68a61ec450d3ef36894f0706181.json"
     },
     {
-      "id": "f243eeae8eb767b1249066b6c35e137eac22ae1c9601b5e93a033e8779340571",
-      "uid": "418389.N6iyjIGdz4M6isPg9Bx4Fws7KY6S+jAy9CIRU5d9kgU=",
+      "id": "fdfed2e06f27e7c542b1e451376b45f10e7e8cd0f32188b6a20a95988432b1df",
+      "uid": "420016.z9BNgL0dvgrCFripqTTIg6OmseaQHUvsZl36xxVulSk=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Zelensky’s Message to Trump",
-      "date": "Sun, 18 Oct 2026 07:15:34 -0400",
-      "is_read": true,
-      "file": "f243eeae8eb767b1249066b6c35e137eac22ae1c9601b5e93a033e8779340571.json"
+      "subject": "The 10-Point: A Cat-and-Mouse Game Over Credit-Card Points",
+      "date": "Sun, 25 Oct 2026 07:14:17 -0400",
+      "is_read": false,
+      "file": "fdfed2e06f27e7c542b1e451376b45f10e7e8cd0f32188b6a20a95988432b1df.json"
     },
     {
-      "id": "c368ea3d1e49aeec6256bcf45e2bf24d3c16959bbef94fdf96457092446b5995",
-      "uid": "418379.ZxR12vapvR5,7Vi,1Z,DD9NcttXtrWYiFk03jlbmbvs=",
+      "id": "27f3646f4af3a6860513da94802300ebeba6ea4a5c2413bb4c440454ba2f66a9",
+      "uid": "420015.lzRbuJtiE,DXaJ4Gz1tBp34+HtABcn8uudtYLo4l83E=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Wall Street Week Ahead",
-      "date": "Sun, 18 Oct 2026 06:30:42 -0400",
-      "is_read": true,
-      "file": "c368ea3d1e49aeec6256bcf45e2bf24d3c16959bbef94fdf96457092446b5995.json"
+      "date": "Sun, 25 Oct 2026 07:03:10 -0400",
+      "is_read": false,
+      "file": "27f3646f4af3a6860513da94802300ebeba6ea4a5c2413bb4c440454ba2f66a9.json"
     },
     {
       "id": "faa87ead89f05af96511ac9872255ea1b70e0890bb974ea72f5eaad533349cd5",
