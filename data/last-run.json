@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=15532 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-27T17:54:08.869652+00:00",
-  "added": 1,
+  "updated_at": "2026-10-27T17:54:10.231418+00:00",
+  "added": 2,
   "skipped": 4,
   "scanned": 6,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "🤔 Warsh's dilemma",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 15530,
