@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=15503 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-27T15:09:48.216279+00:00",
-  "added": 6,
+  "updated_at": "2026-10-27T15:09:49.551053+00:00",
+  "added": 7,
   "skipped": 21,
   "scanned": 28,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: California’s Billionaire-Tax Vote Could Offer Clues for 2028",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 3,
     "seekingalpha": 1
   },
