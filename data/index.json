@@ -361,15 +361,6 @@
       "file": "2a7655ab06613de7a0572fa2f87f92bdb662deb6898e21a28d4ce787512d6e97.json"
     },
     {
-      "id": "c048625209f38065d7f92d63aa47f33814d0be0d5e271c53853e559dc8d3f371",
-      "uid": "418718.85gA6bVJbMKbNU2R5sc9VtJ5mUsGDnngf5WNYo59oQ0=",
-      "from_addr": "The Journal Collection <TheJournalCollection@em.wsj.com>",
-      "subject": "Comparing Mortgage Rates Saved Users Thousands on Average",
-      "date": "Tue, 20 Oct 2026 01:32:29 +0000",
-      "is_read": true,
-      "file": "c048625209f38065d7f92d63aa47f33814d0be0d5e271c53853e559dc8d3f371.json"
-    },
-    {
       "id": "13b4c09f714bdae3242c8ec32dbe64579ace9870252d91f992384515c6e42d2b",
       "uid": "419512.9bQDgRyBk631aBVRHovm,BezWTXpVapM,QSqahzheL0=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -631,6 +622,15 @@
       "file": "2101b3118be84e87412efafb9c1a419f8f3ed51372ef649a838540b37d21badf.json"
     },
     {
+      "id": "ee938da904cdec518ccfdd608df2a1bc5d39b2fe05fce8acda8182c72b45f282",
+      "uid": "420350.mO4QGfkIXCCxG3zK96oc+ny1UY0uY33Dlt2XiRTAWok=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "💡 Axios Finish Line:  Take a walk!",
+      "date": "Mon, 26 Oct 2026 21:29:29 -0400",
+      "is_read": false,
+      "file": "ee938da904cdec518ccfdd608df2a1bc5d39b2fe05fce8acda8182c72b45f282.json"
+    },
+    {
       "id": "ce795e089ee89c9fa6de207ce110b08c5971f26ebe7f3076eaa4106b7cd168c2",
       "uid": "420188.lJR+rsj66YRDLMpvmNFDKSGD2+OWP1Ev0dgGhXlLyyU=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -638,6 +638,33 @@
       "date": "Mon, 26 Oct 2026 18:10:05 +1100",
       "is_read": true,
       "file": "ce795e089ee89c9fa6de207ce110b08c5971f26ebe7f3076eaa4106b7cd168c2.json"
+    },
+    {
+      "id": "fd27fd756f491ba834627921ec5cba7e968bab45611417fd12571b01108c9418",
+      "uid": "420302.Gf5W2CyDxwQ887oTd4a3wK3wNxA3loPdhX7NpeB6rPM=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🤖 AI IPO era begins",
+      "date": "Mon, 26 Oct 2026 17:43:30 -0400",
+      "is_read": false,
+      "file": "fd27fd756f491ba834627921ec5cba7e968bab45611417fd12571b01108c9418.json"
+    },
+    {
+      "id": "9b56a62cad5b0f64bdd100320285b39714b2c4d3234258634538ff36e320253a",
+      "uid": "420287.3KHLlmm9eYbVcYejg3eeU7b,2cTWjPhOyCEBQKErEjI=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "No Silva Lining",
+      "date": "Mon, 26 Oct 2026 16:32:10 -0400",
+      "is_read": false,
+      "file": "9b56a62cad5b0f64bdd100320285b39714b2c4d3234258634538ff36e320253a.json"
+    },
+    {
+      "id": "ed2c58572c9264282a7cd5fd8bcadec8609e45e2bcb0318708a59aa2fe5e3b75",
+      "uid": "420284.csDmBRRe6pdDXPh3,iRbfQtfkyBYYkjBHilArL9hXkQ=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Hyperscaler Earnings Previews: Alphabet, Microsoft And Amazon - Maybe The Bearish Sentiment Will Help",
+      "date": "Mon, 26 Oct 2026 16:06:38 -0400",
+      "is_read": false,
+      "file": "ed2c58572c9264282a7cd5fd8bcadec8609e45e2bcb0318708a59aa2fe5e3b75.json"
     },
     {
       "id": "92b2188693762ea9f1d2ac50416b66c6cf435d7714c962359333a66a4ee4e1af",
@@ -737,42 +764,6 @@
       "date": "Mon, 26 Oct 2026 05:57:33 -0400",
       "is_read": true,
       "file": "c0b3a8e16b92b784668d714adddf3cb4734a58193d78ca7d48780a6fb231a0d1.json"
-    },
-    {
-      "id": "dd6c0117f8676712f9f86d177cfe0588db16e8d643151509eebf227ff4ea0a56",
-      "uid": "418715.a3nbxum0hFWsXrraxssRPkHK6G+vb7ODN8,9LiZ6iqQ=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "😮‍💨 Axios Finish Line: Stress relief trend",
-      "date": "Mon, 19 Oct 2026 21:29:31 -0400",
-      "is_read": true,
-      "file": "dd6c0117f8676712f9f86d177cfe0588db16e8d643151509eebf227ff4ea0a56.json"
-    },
-    {
-      "id": "4514d3fa6c7e34250a496a744a6ef5dd3a426aeb7842f6a1f1200b8ca592d2c4",
-      "uid": "418665.qMzM5Sl3BkI4XAlKj+aUiiUPuhrxGHHQ61Uxn44KYHk=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🚀 SpaceX for kids",
-      "date": "Mon, 19 Oct 2026 17:02:59 -0400",
-      "is_read": true,
-      "file": "4514d3fa6c7e34250a496a744a6ef5dd3a426aeb7842f6a1f1200b8ca592d2c4.json"
-    },
-    {
-      "id": "fbe610abaff4b3f923976a94f21d6fdbf72bfc28b5e091bdd9815f914a52120c",
-      "uid": "418655.L3rxQCUloiVC7zlvWwq1xFLhnFUuI2WdQnBJ2fWMZco=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Tech Rebound",
-      "date": "Mon, 19 Oct 2026 16:24:17 -0400",
-      "is_read": true,
-      "file": "fbe610abaff4b3f923976a94f21d6fdbf72bfc28b5e091bdd9815f914a52120c.json"
-    },
-    {
-      "id": "e212c0ec540be46d015f618ba4f3e8f4ada46d80c79c55b3cc9a57cf3bdebf90",
-      "uid": "418654.7swtixWJxtkVNmgNnyJSX67SInAhn2Z325yGIQFeM7I=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Amazon: Big Morgan Stanley Upgrade, Primed Into Earnings",
-      "date": "Mon, 19 Oct 2026 16:21:35 -0400",
-      "is_read": false,
-      "file": "e212c0ec540be46d015f618ba4f3e8f4ada46d80c79c55b3cc9a57cf3bdebf90.json"
     },
     {
       "id": "f5c0da777e849e955df33e9fd23b10720e3375f242de33618fd19560415648a7",
