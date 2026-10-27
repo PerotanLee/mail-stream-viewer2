@@ -294,7 +294,7 @@
       "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
       "subject": "WSJ Economics: Interest Rates Look Kinda Low",
       "date": "Tue, 27 Oct 2026 06:05:29 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "8b13ba67707b9eee2a61fc98ce274cda8b30894033c61a08b1f4b6636b415db1.json"
     },
     {
