@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=15540 from=\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-28T01:18:28.717744+00:00",
-  "added": 4,
+  "updated_at": "2026-10-28T01:18:30.074777+00:00",
+  "added": 5,
   "skipped": 54,
   "scanned": 59,
-  "current": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "current": "Mansion Deals Alert: Minecraft Creator Lists Beverly Hills Mansion for $70 Million—What He Paid in 2014",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 2,
     "seekingalpha": 1
   },
