@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=15794 from=Alpha Picks <subscriptions@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-28T21:14:21.230424+00:00",
-  "added": 2,
+  "updated_at": "2026-10-28T21:14:22.517691+00:00",
+  "added": 3,
   "skipped": 16,
   "scanned": 19,
-  "current": "Alpha Picks <subscriptions@seekingalpha.com>",
+  "current": "EAT just jumped 13%",
   "added_by_filter": {
     "wsj": 1,
     "axios": 0,
-    "seekingalpha": 1
+    "seekingalpha": 2
   },
   "last_newest_num": 15791,
   "newest_num": 15812,
