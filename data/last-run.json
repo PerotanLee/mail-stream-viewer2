@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=15775 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-28T19:03:29.325655+00:00",
-  "added": 3,
+  "updated_at": "2026-10-28T19:03:30.680801+00:00",
+  "added": 4,
   "skipped": 13,
   "scanned": 17,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "💻 Cyber Y2K",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 2,
+    "axios": 3,
     "seekingalpha": 0
   },
   "last_newest_num": 15766,
