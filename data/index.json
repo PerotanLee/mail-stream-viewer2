@@ -10,6 +10,15 @@
       "file": "9b836719647524d4e97fbfc8f76f77a861422e5a7ad7986142b39f87d1cba2bd.json"
     },
     {
+      "id": "7c14b4ba4433c97e58ae8bcb1fc056eb3cd02988cf7a976351f4af19f4873d70",
+      "uid": "420871.APpHxqbC8f0JuiWHf+7+fS97E8jLDRjfwWYdcR74Qsg=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "⛅️ Cloudy with a chance of cash",
+      "date": "Wed, 28 Oct 2026 17:48:36 -0400",
+      "is_read": false,
+      "file": "7c14b4ba4433c97e58ae8bcb1fc056eb3cd02988cf7a976351f4af19f4873d70.json"
+    },
+    {
       "id": "7e1d581ce0e8d614719f29dfcc77c7a423c2354ac6ed692fef18b8aec1a810ce",
       "uid": "420852.lOPeDh7mXwJMNuGxNIWVWiJ0xmaYVyMIRWchnsmE0qU=",
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
@@ -152,15 +161,6 @@
       "date": "Wed, 21 Oct 2026 21:29:25 -0400",
       "is_read": true,
       "file": "5fb3bfb1cb3bf03c970c41c006aceace1c3d58296163748c4f83ac06d046a14c.json"
-    },
-    {
-      "id": "022648a831120d1957c2586eb54205f66313b84ffc8893349fe4593ed57c5dc2",
-      "uid": "419200.FUu0rSJuIL82rW+HPpMcbNaaT1Sox0xSs3HsZjOyrVI=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "💸 Tesla's surprise",
-      "date": "Wed, 21 Oct 2026 18:01:30 -0400",
-      "is_read": true,
-      "file": "022648a831120d1957c2586eb54205f66313b84ffc8893349fe4593ed57c5dc2.json"
     },
     {
       "id": "133bba554f81faa422354da8c0490d0b297b103009ed512780edcad3528b6b30",
