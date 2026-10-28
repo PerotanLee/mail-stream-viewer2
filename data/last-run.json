@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=15778 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-28T19:03:25.770057+00:00",
-  "added": 2,
+  "updated_at": "2026-10-28T19:03:27.345170+00:00",
+  "added": 3,
   "skipped": 11,
   "scanned": 14,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "Axios Pro Rata: PE politics",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 0
   },
   "last_newest_num": 15766,
