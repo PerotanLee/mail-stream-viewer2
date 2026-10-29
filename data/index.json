@@ -411,7 +411,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🤔 Axios PM: Name blame game",
       "date": "Thu, 29 Oct 2026 15:14:44 -0400",
-      "is_read": false,
+      "is_read": true,
       "file": "e7b4a6e145e6697645206aa0c678930837ccb045a7783c0c1dabaf5b095993d2.json"
     },
     {
