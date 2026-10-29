@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=16019 from=Axios Defense <defense@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-29T21:08:55.434745+00:00",
-  "added": 14,
+  "updated_at": "2026-10-29T21:08:57.191649+00:00",
+  "added": 15,
   "skipped": 43,
   "scanned": 58,
-  "current": "Axios Defense <defense@axios.com>",
+  "current": "🚀 The Cape's \"boom cycle\"",
   "added_by_filter": {
     "wsj": 4,
-    "axios": 5,
+    "axios": 6,
     "seekingalpha": 5
   },
   "last_newest_num": 15943,
