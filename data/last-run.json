@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=16005 from=\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-29T21:09:06.939979+00:00",
-  "added": 17,
+  "updated_at": "2026-10-29T21:09:08.653189+00:00",
+  "added": 18,
   "skipped": 54,
   "scanned": 72,
-  "current": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Economics: Warsh’s Shrewd Pre-Election Pause",
   "added_by_filter": {
-    "wsj": 5,
+    "wsj": 6,
     "axios": 7,
     "seekingalpha": 5
   },
