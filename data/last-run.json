@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=16037 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-29T21:08:41.890573+00:00",
-  "added": 11,
+  "updated_at": "2026-10-29T21:08:43.728272+00:00",
+  "added": 12,
   "skipped": 28,
   "scanned": 40,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "😥 Stress in the system",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 4,
+    "axios": 5,
     "seekingalpha": 5
   },
   "last_newest_num": 15943,
