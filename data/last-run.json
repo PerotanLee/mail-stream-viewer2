@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=16017 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-29T21:08:58.682878+00:00",
-  "added": 15,
+  "updated_at": "2026-10-29T21:09:00.197147+00:00",
+  "added": 16,
   "skipped": 44,
   "scanned": 60,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "🛢️ Markets A.M.: What Big Oil Tells Us About AI Memory Stocks",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 6,
     "seekingalpha": 5
   },
