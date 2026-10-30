@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=16352 from=WSJ Homes <wsj-homes@interactive.wsj.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-30T20:02:54.365876+00:00",
+  "updated_at": "2026-10-30T20:02:56.748784+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 16350
+  "skipped": 6,
+  "scanned": 7,
+  "current": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 16350,
+  "newest_num": 16358,
+  "scan_mode": "new",
+  "since": "2026-10-30T18:55:39.860476+00:00"
 }
