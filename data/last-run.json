@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=16304 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-30T12:02:19.020915+00:00",
-  "added": 1,
+  "updated_at": "2026-10-30T12:02:20.199763+00:00",
+  "added": 2,
   "skipped": 8,
   "scanned": 10,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "The Biggest Crypto Heist In History",
   "added_by_filter": {
     "wsj": 0,
     "axios": 1,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 16155,
   "newest_num": 16313,
