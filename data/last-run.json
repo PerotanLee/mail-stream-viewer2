@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=16287 from=\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-10-30T12:02:31.492245+00:00",
-  "added": 5,
+  "updated_at": "2026-10-30T12:02:32.789299+00:00",
+  "added": 6,
   "skipped": 21,
   "scanned": 27,
-  "current": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+  "current": "🗳️ Markets A.M.: If History Repeats, Small Caps Will Win in a Landslide",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 1,
     "seekingalpha": 2
   },
