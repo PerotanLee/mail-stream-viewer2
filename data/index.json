@@ -802,13 +802,85 @@
       "file": "c0b3a8e16b92b784668d714adddf3cb4734a58193d78ca7d48780a6fb231a0d1.json"
     },
     {
-      "id": "f5c0da777e849e955df33e9fd23b10720e3375f242de33618fd19560415648a7",
-      "uid": "419606.84hpS9euTI+Pqkeh9SF0p12XNwjBkrZV14lvJHldi0w=",
+      "id": "f63a6967a605924f75bed7ef1adf669e789634f60e06719ccc63d133d43d4204",
+      "uid": "421335.192YSNDK3JeKQx6vuoae9e+80uYobILx,JctXI+hwMc=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Fri, 23 Oct 2026 18:10:05 +1100",
-      "is_read": true,
-      "file": "f5c0da777e849e955df33e9fd23b10720e3375f242de33618fd19560415648a7.json"
+      "date": "Fri, 30 Oct 2026 18:09:46 +1100",
+      "is_read": false,
+      "file": "f63a6967a605924f75bed7ef1adf669e789634f60e06719ccc63d133d43d4204.json"
+    },
+    {
+      "id": "8e10321e54459375eb04b0d4e7a92de847913947ecc00c6566bfc19130d81bbd",
+      "uid": "421438.VL6xAKla2zgu3y,yWZnXqHFMfpwbRTRahlyoV45cGnU=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "👻 9 scary charts!",
+      "date": "Fri, 30 Oct 2026 07:28:39 -0400",
+      "is_read": false,
+      "file": "8e10321e54459375eb04b0d4e7a92de847913947ecc00c6566bfc19130d81bbd.json"
+    },
+    {
+      "id": "2d258f7b5968abd671e71e3897c0dd765b793ad6ccf2bfe053b3b0e845c8c39b",
+      "uid": "421437.aNFy+RKDIWzMhwijMMWPctMAcwIHK9,4xpab0oWpk9A=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "The Biggest Crypto Heist In History",
+      "date": "Fri, 30 Oct 2026 07:27:37 -0400",
+      "is_read": false,
+      "file": "2d258f7b5968abd671e71e3897c0dd765b793ad6ccf2bfe053b3b0e845c8c39b.json"
+    },
+    {
+      "id": "2a0cf50b66956ea5188efed0e8c73712d9dc6ce175bcdf825ba6bacf27855f20",
+      "uid": "421429.ypoO0QG14KaTEDSsFTmF4YBbONk,COeEO+2CKCShRvE=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: There Have Been 59 Midterm Elections, None as Bonkers as This",
+      "date": "Fri, 30 Oct 2026 07:04:17 -0400",
+      "is_read": false,
+      "file": "2a0cf50b66956ea5188efed0e8c73712d9dc6ce175bcdf825ba6bacf27855f20.json"
+    },
+    {
+      "id": "6088902a84c366f16616fab24567921aa2056493947aeabe2992b1e5c5b067e0",
+      "uid": "421422.Go1P2QLTD4CRxKJblNa58OpH6EtQ,6+vChGbFCN,k2c=",
+      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
+      "subject": "See what’s moving the markets this week",
+      "date": "Fri, 30 Oct 2026 06:38:48 -0400",
+      "is_read": false,
+      "file": "6088902a84c366f16616fab24567921aa2056493947aeabe2992b1e5c5b067e0.json"
+    },
+    {
+      "id": "bef833d5b536c45f42317d15bf1c9ca356b8ba205887240c49e8dddff0e2f31d",
+      "uid": "421419.H+YHl8MKQWNRWBrd,qUOaL0zBH9xOEq3t+J2KEyUpSk=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Alphabet Seen as a Tech One-Stop AI Shop",
+      "date": "Fri, 30 Oct 2026 06:30:43 -0400",
+      "is_read": false,
+      "file": "bef833d5b536c45f42317d15bf1c9ca356b8ba205887240c49e8dddff0e2f31d.json"
+    },
+    {
+      "id": "3fe86cd52f13cc6d4c6f5e46e51da2bba67ec6af79927a6676fe8849925b15c3",
+      "uid": "421418.LAABEOei47BdHpn0UAtet,sRhDCyiWLO9JKdKKecn8g=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "🗳️ Markets A.M.: If History Repeats, Small Caps Will Win in a Landslide",
+      "date": "Fri, 30 Oct 2026 06:25:42 -0400",
+      "is_read": false,
+      "file": "3fe86cd52f13cc6d4c6f5e46e51da2bba67ec6af79927a6676fe8849925b15c3.json"
+    },
+    {
+      "id": "eb8c19eb285d7966581913b3095375d625268d810c9796e2a67604fa40fe71fa",
+      "uid": "421415.rDCspoGpClMowWCi2NDU6BL3gjCoJM9B0JDbPXVdj+E=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Easy Money’s Small-Business Deathtrap",
+      "date": "Fri, 30 Oct 2026 06:09:42 -0400",
+      "is_read": false,
+      "file": "eb8c19eb285d7966581913b3095375d625268d810c9796e2a67604fa40fe71fa.json"
+    },
+    {
+      "id": "989b9feb7d787534b67f5c3bad1db9191a5883d6ed68035942d64903c1f9365a",
+      "uid": "421403.J3eQ48ZeSRmYWxQoPo,0aTRI+jTDZsffPjuY9l8mUJM=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🪤 Axios AM: CEOs' Trump trap",
+      "date": "Fri, 30 Oct 2026 05:53:10 -0400",
+      "is_read": false,
+      "file": "989b9feb7d787534b67f5c3bad1db9191a5883d6ed68035942d64903c1f9365a.json"
     },
     {
       "id": "0206fe04b4543a5b4cc172940a85217c219ab73fc14090da16855b00ce0b46cd",
@@ -908,78 +980,6 @@
       "date": "Fri, 23 Oct 2026 08:31:07 -0400",
       "is_read": true,
       "file": "f40e0115489139450de32f9f46ecca47949e73c44719eab8757c76f6ff717809.json"
-    },
-    {
-      "id": "f49f7a0ecf6ae0d7164864d1e5a91934bd407a7f73ebb1020f1e894657c85e64",
-      "uid": "419703.Y3UMzT3kOOz7VTF1a1MRhE4pJ1VmEJ4ZRFPGN6MMrL4=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "California Dreamin' Or A Tax Nightmare?",
-      "date": "Fri, 23 Oct 2026 07:40:47 -0400",
-      "is_read": true,
-      "file": "f49f7a0ecf6ae0d7164864d1e5a91934bd407a7f73ebb1020f1e894657c85e64.json"
-    },
-    {
-      "id": "071d4f47dd3d3f85a5cdcc7166d4c34dd53771233cd6bc48dcc52bbe7c954ebb",
-      "uid": "419691.+BU6p7Lk5fAAlGY9ZLpt0iKMIjTZ,KLB0bLdaOVsM6U=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Congress Will Lose Over 800 Years of Experience. Maybe That’s Good.",
-      "date": "Fri, 23 Oct 2026 07:02:17 -0400",
-      "is_read": true,
-      "file": "071d4f47dd3d3f85a5cdcc7166d4c34dd53771233cd6bc48dcc52bbe7c954ebb.json"
-    },
-    {
-      "id": "183f1290dc6f1a3cccf13c77ec1e44988d01028149e8113c37565da537a37564",
-      "uid": "419686.DV3gx3YP0ItMEVMkTY0Krd6e2jjUwDhqHrbs3v21ppc=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "See what’s moving the markets this week",
-      "date": "Fri, 23 Oct 2026 06:49:48 -0400",
-      "is_read": true,
-      "file": "183f1290dc6f1a3cccf13c77ec1e44988d01028149e8113c37565da537a37564.json"
-    },
-    {
-      "id": "428ff110cf854243a333d68c37886d27bcbf743e0d5d1aa01339cdf709894e13",
-      "uid": "419684.eiEZZQ0dvD1rUnYtrtCnQQDbikvgerGhEt+UUcp+WKs=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🎓 Markets A.M.: Elite Colleges Can Give You an Investing Lesson",
-      "date": "Fri, 23 Oct 2026 06:38:53 -0400",
-      "is_read": true,
-      "file": "428ff110cf854243a333d68c37886d27bcbf743e0d5d1aa01339cdf709894e13.json"
-    },
-    {
-      "id": "a5b07b9e4d5c393740b79a7e94e2b6c0109ed9a189d69a7b97b6ad1463a6e880",
-      "uid": "419680.nGR2GdAZiD75A2wq93+,1H0o6jioFVGcgUnj3jznUP0=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "Is SpaceX Just a Mess?",
-      "date": "Fri, 23 Oct 2026 06:30:52 -0400",
-      "is_read": true,
-      "file": "a5b07b9e4d5c393740b79a7e94e2b6c0109ed9a189d69a7b97b6ad1463a6e880.json"
-    },
-    {
-      "id": "7df39c206396b8c346e947b69c19f70edc28e262af7081dab18530a733293fd8",
-      "uid": "419675.RK8mLBklizHWANJTYGDq1,IQ5GTJWXOUKjmAx6+bT64=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: A Showdown Inside OpenAI",
-      "date": "Fri, 23 Oct 2026 06:09:22 -0400",
-      "is_read": true,
-      "file": "7df39c206396b8c346e947b69c19f70edc28e262af7081dab18530a733293fd8.json"
-    },
-    {
-      "id": "be95504f934c9c16df2fc1d00c68d4114d35bba36d29778d36c9702660c4e7f1",
-      "uid": "419673.tk9Ypfq7FyU2po,3HJixI74YEsRwlpUMqT,CqrZtg48=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤖 Axios AM: Wall Street's \"day after\"",
-      "date": "Fri, 23 Oct 2026 06:09:01 -0400",
-      "is_read": true,
-      "file": "be95504f934c9c16df2fc1d00c68d4114d35bba36d29778d36c9702660c4e7f1.json"
-    },
-    {
-      "id": "3d37be02cb4be3a7922d832a6215e7f9002d1cf412de89f3d23375d5471eda4b",
-      "uid": "419644.7Pp3fO,0aeuPBLg73faef+SXJLln3qp36TQtNyP3HRw=",
-      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
-      "subject": "Investment News Quiz - Friday, Oct. 23",
-      "date": "Fri, 23 Oct 2026 05:05:42 -0400",
-      "is_read": false,
-      "file": "3d37be02cb4be3a7922d832a6215e7f9002d1cf412de89f3d23375d5471eda4b.json"
     }
   ]
 }
