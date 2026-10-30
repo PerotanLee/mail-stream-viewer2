@@ -811,6 +811,24 @@
       "file": "f63a6967a605924f75bed7ef1adf669e789634f60e06719ccc63d133d43d4204.json"
     },
     {
+      "id": "8ea141269fbbe52f06c656fdcf80cf86c11ef6a3957277ee20c8d6711dbfc269",
+      "uid": "421487.TRVnojTwz1TG6yW2mXV8zT3rRgSKtfiM,tRQ,hBv1q0=",
+      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+      "subject": "A Malibu Megaproject Unravels Before It's Even Finished",
+      "date": "Fri, 30 Oct 2026 15:31:09 -0400",
+      "is_read": false,
+      "file": "8ea141269fbbe52f06c656fdcf80cf86c11ef6a3957277ee20c8d6711dbfc269.json"
+    },
+    {
+      "id": "4c422577aa5a6ffad9ba02e6cb67bde3220dc65c8ba33ff9c41f9e943eccc842",
+      "uid": "421486.Y6Uh5b+7YNy9y7GEbQehqlJl5mg6sl++aPHLW2vKrqg=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🗳️ Axios PM: Early voting surges",
+      "date": "Fri, 30 Oct 2026 15:15:30 -0400",
+      "is_read": false,
+      "file": "4c422577aa5a6ffad9ba02e6cb67bde3220dc65c8ba33ff9c41f9e943eccc842.json"
+    },
+    {
       "id": "350beb525b19446379f10edf20cf766c85a0034bc9e4c3233099b225b44deb6a",
       "uid": "421477.zXiLYK6hLVRSjA8SXoGQEeZ3Ai5TFbdTNebghgLZVrw=",
       "from_addr": "Axios Macro <macro@axios.com>",
@@ -953,24 +971,6 @@
       "date": "Fri, 23 Oct 2026 16:05:46 -0400",
       "is_read": false,
       "file": "a9c286bd28ce79ab8fd3094cfe8430622f5276ac700d801f3653bf4a768090c0.json"
-    },
-    {
-      "id": "f569f07017f6714f887237ccfd6b0947ab1efdefaf15da207677a9873cb2380b",
-      "uid": "419740.EjvZMfkd,8ETKhLyRq,AZwY7TIrLvGdZT53ZZDHYuZQ=",
-      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
-      "subject": "We've Entered the Era of the $100 Million-Plus Teardown",
-      "date": "Fri, 23 Oct 2026 15:31:06 -0400",
-      "is_read": true,
-      "file": "f569f07017f6714f887237ccfd6b0947ab1efdefaf15da207677a9873cb2380b.json"
-    },
-    {
-      "id": "05c6d42cc2600ea2f60f0426e4aabd327906cdfd9e671102ec65a222030fea38",
-      "uid": "419739.pEZgonmWDfKQzeF4TVFbhEW+0MLHCSSdszZCHA7EQw0=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Developers to Pay $160 Million for Palm Beach Mansion They Plan to Tear Down",
-      "date": "Fri, 23 Oct 2026 15:26:20 -0400",
-      "is_read": true,
-      "file": "05c6d42cc2600ea2f60f0426e4aabd327906cdfd9e671102ec65a222030fea38.json"
     }
   ]
 }
