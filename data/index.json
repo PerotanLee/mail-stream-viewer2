@@ -811,6 +811,24 @@
       "file": "f63a6967a605924f75bed7ef1adf669e789634f60e06719ccc63d133d43d4204.json"
     },
     {
+      "id": "deb1670df699aeb730e5b821ac579a16c8218d9bcfabdef370c464b77a0246d7",
+      "uid": "421457.PdCTRgcmeSDJ9uF9QKKEWdBE0XAL2,UDrIG,WBWQCGA=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "The Extra-Strength Funds That Are Too Much of a Good Thing",
+      "date": "Fri, 30 Oct 2026 09:15:17 -0400",
+      "is_read": false,
+      "file": "deb1670df699aeb730e5b821ac579a16c8218d9bcfabdef370c464b77a0246d7.json"
+    },
+    {
+      "id": "83324863ee86a883e3787089057a6ac441113ce49e1e087a05093034fce49b15",
+      "uid": "421455.MWG4+mHLD3Vl5cL4ZPnKjYZ,5TCU6lkFwSSpHca8omM=",
+      "from_addr": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Travel: Breezing Through European Airports 💸",
+      "date": "Fri, 30 Oct 2026 08:31:05 -0400",
+      "is_read": false,
+      "file": "83324863ee86a883e3787089057a6ac441113ce49e1e087a05093034fce49b15.json"
+    },
+    {
       "id": "8e10321e54459375eb04b0d4e7a92de847913947ecc00c6566bfc19130d81bbd",
       "uid": "421438.VL6xAKla2zgu3y,yWZnXqHFMfpwbRTRahlyoV45cGnU=",
       "from_addr": "Axios Markets <markets@axios.com>",
@@ -962,24 +980,6 @@
       "date": "Fri, 23 Oct 2026 09:28:22 -0400",
       "is_read": true,
       "file": "85a4e6033d6e06ef8d7bce7002a62cfc6b5891845c787c2c22c140a2ef0d125a.json"
-    },
-    {
-      "id": "73c1c39ee4af68b590d0e2478a482d3211b8934fa40418907ffcc810fd81d29a",
-      "uid": "419717.FvS3q5EiRTO8ZPh2sLKiNBaSTPrUhx4vI5zIgyCEORk=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "The latest from Jason Zweig",
-      "date": "Fri, 23 Oct 2026 09:15:25 -0400",
-      "is_read": true,
-      "file": "73c1c39ee4af68b590d0e2478a482d3211b8934fa40418907ffcc810fd81d29a.json"
-    },
-    {
-      "id": "f40e0115489139450de32f9f46ecca47949e73c44719eab8757c76f6ff717809",
-      "uid": "419714.nGoIAOhrU7UIvcMT47mypfqRzouMyuDK059cgLpw34A=",
-      "from_addr": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Travel: No More Airbnb Chores 🧺",
-      "date": "Fri, 23 Oct 2026 08:31:07 -0400",
-      "is_read": true,
-      "file": "f40e0115489139450de32f9f46ecca47949e73c44719eab8757c76f6ff717809.json"
     }
   ]
 }
