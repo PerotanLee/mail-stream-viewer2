@@ -811,6 +811,33 @@
       "file": "f63a6967a605924f75bed7ef1adf669e789634f60e06719ccc63d133d43d4204.json"
     },
     {
+      "id": "5a54fe1a5c23787e158e5b147453bbe8182dd23ea171e510df835e58e7b56f23",
+      "uid": "421514.Rb91c+PUUY7px17p6NECWUMme34e+Z5R7yR+U,wCuc4=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "📉 AI's big, ugly week",
+      "date": "Fri, 30 Oct 2026 17:59:11 -0400",
+      "is_read": false,
+      "file": "5a54fe1a5c23787e158e5b147453bbe8182dd23ea171e510df835e58e7b56f23.json"
+    },
+    {
+      "id": "ab605446edbaffb0e37a2e0c73aaf5e40b6f594b2d25de1e216d83516dd6253b",
+      "uid": "421500.d6yMK+GXLJCrrz61d9jUOnssDwxrSQ31LdaOkabwfeQ=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Intel Crashes",
+      "date": "Fri, 30 Oct 2026 16:58:22 -0400",
+      "is_read": false,
+      "file": "ab605446edbaffb0e37a2e0c73aaf5e40b6f594b2d25de1e216d83516dd6253b.json"
+    },
+    {
+      "id": "cb6274dcfde96f10593ca1690fa987f29565e5506b66c9bc9d2314012ef655fd",
+      "uid": "421496.a,VT7tCARfixtqZ+cnkjneD0a5aIqsx+,HwcW2sSMrA=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "AI Bubble Burst: Confirmed By Alphabet, Caterpillar, ServiceNow, And Amazon",
+      "date": "Fri, 30 Oct 2026 16:06:35 -0400",
+      "is_read": false,
+      "file": "cb6274dcfde96f10593ca1690fa987f29565e5506b66c9bc9d2314012ef655fd.json"
+    },
+    {
       "id": "8ea141269fbbe52f06c656fdcf80cf86c11ef6a3957277ee20c8d6711dbfc269",
       "uid": "421487.TRVnojTwz1TG6yW2mXV8zT3rRgSKtfiM,tRQ,hBv1q0=",
       "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
@@ -944,33 +971,6 @@
       "date": "Fri, 30 Oct 2026 05:53:10 -0400",
       "is_read": true,
       "file": "989b9feb7d787534b67f5c3bad1db9191a5883d6ed68035942d64903c1f9365a.json"
-    },
-    {
-      "id": "0206fe04b4543a5b4cc172940a85217c219ab73fc14090da16855b00ce0b46cd",
-      "uid": "419753.crvkcw8Hszbt5BYcNHkOCOZgA,MfXh3PRaY8w5HNVmw=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "😬 AI anxiety",
-      "date": "Fri, 23 Oct 2026 17:41:46 -0400",
-      "is_read": true,
-      "file": "0206fe04b4543a5b4cc172940a85217c219ab73fc14090da16855b00ce0b46cd.json"
-    },
-    {
-      "id": "fec372c7b8d6c104ecaac325e5f35fbd4173b2dcc66fbe15d4e24995993f66a1",
-      "uid": "419744.MVojIT++xBdXoqVFIATYGJJCkvy5yO9E6Hme4YmyeXw=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Market on Edge",
-      "date": "Fri, 23 Oct 2026 16:25:03 -0400",
-      "is_read": true,
-      "file": "fec372c7b8d6c104ecaac325e5f35fbd4173b2dcc66fbe15d4e24995993f66a1.json"
-    },
-    {
-      "id": "a9c286bd28ce79ab8fd3094cfe8430622f5276ac700d801f3653bf4a768090c0",
-      "uid": "419743.,9z0z4I6cNZNovCb8vDuWnbVUUJa7o5,OuCw6WmaRTI=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Long Rocket Lab, Short AST SpaceMobile: One Owns Its Path, The Other Rents It From SpaceX",
-      "date": "Fri, 23 Oct 2026 16:05:46 -0400",
-      "is_read": false,
-      "file": "a9c286bd28ce79ab8fd3094cfe8430622f5276ac700d801f3653bf4a768090c0.json"
     }
   ]
 }
