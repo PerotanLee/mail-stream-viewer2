@@ -604,58 +604,58 @@
       "file": "27f3646f4af3a6860513da94802300ebeba6ea4a5c2413bb4c440454ba2f66a9.json"
     },
     {
-      "id": "faa87ead89f05af96511ac9872255ea1b70e0890bb974ea72f5eaad533349cd5",
-      "uid": "419849.Yiv+EmQirVyx8YzTT1yaM7U,ha4XgQAwpZ6dU0kfor8=",
+      "id": "755906c88048293dc0eb4433fdf36d27c775d239e85a520eeb96fe3f64d31da4",
+      "uid": "421636.pKdPDWyu5g7s6BSfi8wW82L+V4zvMx+woGoa2,kn9Zc=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Sat, 24 Oct 2026 18:10:04 +1100",
-      "is_read": true,
-      "file": "faa87ead89f05af96511ac9872255ea1b70e0890bb974ea72f5eaad533349cd5.json"
-    },
-    {
-      "id": "5b549cb0710ae373848b8b4906ea2a1cdb4dd7f102b70843cfa0388f6ec7c2b1",
-      "uid": "419894.MXeR+e,epaPjS8Y8mrNkgoTa,6JvvMRbYBlTt,5QLbQ=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Credo: The Reset Is Done (Rating Upgrade)",
-      "date": "Sat, 24 Oct 2026 16:05:52 -0400",
+      "date": "Sat, 31 Oct 2026 18:09:45 +1100",
       "is_read": false,
-      "file": "5b549cb0710ae373848b8b4906ea2a1cdb4dd7f102b70843cfa0388f6ec7c2b1.json"
+      "file": "755906c88048293dc0eb4433fdf36d27c775d239e85a520eeb96fe3f64d31da4.json"
     },
     {
-      "id": "91a07d5f3ba2cdb47cb9863b8810f7d2a62e0e7002dec47bc2d2afdbecdac110",
-      "uid": "419891.mEQf,QESm8xznKoBsm1GmK70Z6nBJxaadomvD0n4qP0=",
-      "from_addr": "The Journal Collection <TheJournalCollection@em.wsj.com>",
-      "subject": "2027’s finest villas are going fast",
-      "date": "Sat, 24 Oct 2026 16:04:16 +0000",
-      "is_read": true,
-      "file": "91a07d5f3ba2cdb47cb9863b8810f7d2a62e0e7002dec47bc2d2afdbecdac110.json"
+      "id": "04f6afc6532eb2a209fcea1c34f2b17a698e57b13d95c54a79bff57b2767357d",
+      "uid": "421705.q0Ckj9r4KOwTu8j2n63uQYLPbsfhxKZPmETlB79uZKU=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Alphabet: Noisy Q3 Metrics Meet Outsized Cloud Opportunities - Deep Value Buy",
+      "date": "Sat, 31 Oct 2026 16:06:38 -0400",
+      "is_read": false,
+      "file": "04f6afc6532eb2a209fcea1c34f2b17a698e57b13d95c54a79bff57b2767357d.json"
     },
     {
-      "id": "60bc55284e4caf82809ff99b8e872f5f0381453d4d4aa39ffd30b3392f95a154",
-      "uid": "419888.P9FH5rCCjkMwUXUs9uSrH2Wb2qGdPOoS8v9pHoE69Ug=",
+      "id": "881d4a35f5ab7c67ee85c36f042e74d5b29b482a8ecdd2ff653b7a24897abb6e",
+      "uid": "421701.oW6u6eWeDMTA1CYjJNMCLvm+4Omt0UIrv2XplQw,QqY=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤖 Axios AM: AI's worst messengers",
-      "date": "Sat, 24 Oct 2026 08:59:07 -0400",
-      "is_read": true,
-      "file": "60bc55284e4caf82809ff99b8e872f5f0381453d4d4aa39ffd30b3392f95a154.json"
+      "subject": "🗳️ Axios AM Deep Dive: AI meets voters",
+      "date": "Sat, 31 Oct 2026 13:03:41 -0400",
+      "is_read": false,
+      "file": "881d4a35f5ab7c67ee85c36f042e74d5b29b482a8ecdd2ff653b7a24897abb6e.json"
     },
     {
-      "id": "0d04413d4eea2e0e3acf7432d405a2557226f05a4398d98c7669a96764998251",
-      "uid": "419887.JAAtXUXyE2bI66U2KsEzoJmiBIja5JEWsHfKGEw57Lo=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Wall Street Breakfast: What Moved Markets This Week",
-      "date": "Sat, 24 Oct 2026 08:09:13 -0400",
-      "is_read": true,
-      "file": "0d04413d4eea2e0e3acf7432d405a2557226f05a4398d98c7669a96764998251.json"
+      "id": "bc55e8280af1342973ff4e827cf2906b221c26170bf4ed172ff700fe37188d11",
+      "uid": "421695.pVS5QUbi,9vepbIOhqNoWU0K+gRexPkRrOHQnVfRcxo=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "📝 Axios AM: Midterm cheat sheet",
+      "date": "Sat, 31 Oct 2026 08:53:45 -0400",
+      "is_read": false,
+      "file": "bc55e8280af1342973ff4e827cf2906b221c26170bf4ed172ff700fe37188d11.json"
     },
     {
-      "id": "2101b3118be84e87412efafb9c1a419f8f3ed51372ef649a838540b37d21badf",
-      "uid": "419880.zoDZrQ27dFRECPfEksnOfT,LSLSEQMe1jtIc9TsDiII=",
+      "id": "a6a65166258795afcc7512dfa780ca4913672a53eda088fc39287acbc58f47b0",
+      "uid": "421689.Qgh6L,EtZEqlwnDF3ckT2f9AmO,,a8Mk0b43KKrVGs0=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: The Billionaire Giveaway",
-      "date": "Sat, 24 Oct 2026 07:17:32 -0400",
-      "is_read": true,
-      "file": "2101b3118be84e87412efafb9c1a419f8f3ed51372ef649a838540b37d21badf.json"
+      "subject": "The 10-Point: America's Debt Problem Nobody Wants to Fix",
+      "date": "Sat, 31 Oct 2026 07:12:35 -0400",
+      "is_read": false,
+      "file": "a6a65166258795afcc7512dfa780ca4913672a53eda088fc39287acbc58f47b0.json"
+    },
+    {
+      "id": "bc92526f490fd2800e289332666d58a52b7aca2e88bbdb1052aea0ddb38a2bfb",
+      "uid": "421681.njFTIjoZ73YcfMxxUQ9C9w,j6o8y39kChiB2m8IckHo=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "What Moved Markets This Week",
+      "date": "Sat, 31 Oct 2026 06:51:02 -0400",
+      "is_read": false,
+      "file": "bc92526f490fd2800e289332666d58a52b7aca2e88bbdb1052aea0ddb38a2bfb.json"
     },
     {
       "id": "ee938da904cdec518ccfdd608df2a1bc5d39b2fe05fce8acda8182c72b45f282",
