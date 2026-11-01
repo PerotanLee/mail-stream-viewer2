@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=16515 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-01T09:41:01.166658+00:00",
-  "added": 4,
+  "updated_at": "2026-11-01T09:41:02.708204+00:00",
+  "added": 5,
   "skipped": 107,
   "scanned": 112,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "What Moved Markets This Week",
   "added_by_filter": {
     "wsj": 1,
     "axios": 2,
-    "seekingalpha": 1
+    "seekingalpha": 2
   },
   "last_newest_num": 16464,
   "newest_num": 16626,
