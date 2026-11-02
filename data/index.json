@@ -807,7 +807,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "⚡ Axios AM: Late Senate shocker",
       "date": "Mon, 02 Nov 2026 05:51:48 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "e53286d807f9a28934180a4272b9e4e76fc1ee54602df333bc02784936e99d59.json"
     },
     {
