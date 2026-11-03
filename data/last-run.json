@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=16887 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-03T02:48:57.135066+00:00",
-  "added": 1,
+  "updated_at": "2026-11-03T02:48:58.445658+00:00",
+  "added": 2,
   "skipped": 39,
   "scanned": 41,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "🍏 Apple's \"nothing broken\" quarter",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 0
   },
   "last_newest_num": 16859,
