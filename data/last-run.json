@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=16967 from=WSJ Editors <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-03T14:25:10.292915+00:00",
-  "added": 10,
+  "updated_at": "2026-11-03T14:25:11.718992+00:00",
+  "added": 11,
   "skipped": 47,
   "scanned": 58,
-  "current": "WSJ Editors <access@interactive.wsj.com>",
+  "current": "Today's Wall Street Journal Print Edition",
   "added_by_filter": {
-    "wsj": 6,
+    "wsj": 7,
     "axios": 3,
     "seekingalpha": 1
   },
