@@ -217,33 +217,6 @@
       "file": "6585e2282b614da0184f40959a5279c37a358402e3407e431528576a567f8320.json"
     },
     {
-      "id": "c0b50215db894809549cc55267c2e7f2e74b5d4669ed9500b1238ddc2a07267a",
-      "uid": "420541.FSo1Gut8cTAtVnkuI,peySOIVPUh4,DMwTwsUWddTVA=",
-      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
-      "subject": "Riding Anthropic’s Coattails",
-      "date": "Tue, 27 Oct 2026 12:06:08 -0400",
-      "is_read": true,
-      "file": "c0b50215db894809549cc55267c2e7f2e74b5d4669ed9500b1238ddc2a07267a.json"
-    },
-    {
-      "id": "d33c0baaabc745bb86a3dc1b27bb011b55cda13e4819d8046883af67cf771de5",
-      "uid": "420539.Rks+pWUKNpEqHySL4lRwXspUgjhz6Jrf8E7jhgX2Qfw=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🤔 Warsh's dilemma",
-      "date": "Tue, 27 Oct 2026 12:03:15 -0400",
-      "is_read": true,
-      "file": "d33c0baaabc745bb86a3dc1b27bb011b55cda13e4819d8046883af67cf771de5.json"
-    },
-    {
-      "id": "ec04b8a4dd212ed090a3fc3c687433834c2ec13cf7f60ec8ced7eb40b1dabf38",
-      "uid": "420537.MROJov1iYilNbhAxbQpITusxKnBhXO,ahnLb1hckCw8=",
-      "from_addr": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The Intelligent Investor: Don't Let Politics Poison Your Portfolio",
-      "date": "Tue, 27 Oct 2026 11:02:00 -0400",
-      "is_read": true,
-      "file": "ec04b8a4dd212ed090a3fc3c687433834c2ec13cf7f60ec8ced7eb40b1dabf38.json"
-    },
-    {
       "id": "590ec3fa90bb93dcdaeb88f04e5f7e70bf1b92e094e358baf96d15804cb88035",
       "uid": "422232.aaKH8KP,4mwxU5AYjs7lNciNTCdrc2m5GQLVp4SSZ0Y=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -251,6 +224,24 @@
       "date": "Tue, 03 Nov 2026 19:09:51 +1100",
       "is_read": true,
       "file": "590ec3fa90bb93dcdaeb88f04e5f7e70bf1b92e094e358baf96d15804cb88035.json"
+    },
+    {
+      "id": "c54dd359ba658c540959c0a3d9d64e9bae0faad4ded5aa7714bce7c056f9c03c",
+      "uid": "422298.yxw0Wqp8+tIkPVzHdvhi1PgbvIwG7U6sI+bDqhf8JsE=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Midterm predictions",
+      "date": "Tue, 03 Nov 2026 09:54:08 -0500",
+      "is_read": false,
+      "file": "c54dd359ba658c540959c0a3d9d64e9bae0faad4ded5aa7714bce7c056f9c03c.json"
+    },
+    {
+      "id": "8fae0c8b149fdb60f8cf8202bbbb5fb3d384c629d7e95cb5053907e1503835a5",
+      "uid": "422297.duB4UK,uLEOJuqpgF7q7W,LL9neN+JjoG+wWT2rYc3o=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🗳️ Silicon vote",
+      "date": "Tue, 03 Nov 2026 09:28:19 -0500",
+      "is_read": false,
+      "file": "8fae0c8b149fdb60f8cf8202bbbb5fb3d384c629d7e95cb5053907e1503835a5.json"
     },
     {
       "id": "5f1fe7b2f65871f0c954b3dae263f5357e231c4f007ab107ce9c7ca09b4803e5",
