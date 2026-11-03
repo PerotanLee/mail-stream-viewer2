@@ -708,7 +708,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "👾 Axios PM: Grocery hack attack",
       "date": "Mon, 02 Nov 2026 15:25:05 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "e5cf4b57ab3cf80eef1fe11ab79ed94227b0310c054eb15aa92526a7d99c22eb.json"
     },
     {
