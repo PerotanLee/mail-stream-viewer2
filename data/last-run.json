@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17006 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-03T14:24:55.678499+00:00",
-  "added": 7,
+  "updated_at": "2026-11-03T14:24:56.899936+00:00",
+  "added": 8,
   "skipped": 11,
   "scanned": 19,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: U.S. Voters to Decide Control of Congress",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 2,
     "seekingalpha": 1
   },
