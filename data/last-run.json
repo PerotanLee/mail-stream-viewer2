@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17112 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-04T03:50:56.442984+00:00",
-  "added": 0,
+  "updated_at": "2026-11-04T03:50:57.470369+00:00",
+  "added": 1,
   "skipped": 29,
   "scanned": 30,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🧠 Axios Finish Line: Genius beyond AI",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 17029,
