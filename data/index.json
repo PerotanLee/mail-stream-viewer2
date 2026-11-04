@@ -222,7 +222,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Apple Slips",
       "date": "Tue, 03 Nov 2026 16:27:01 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "ecdd3b7ad4cbad052c1991b708c82a660355718aa8e03592292942d89a99a454.json"
     },
     {
