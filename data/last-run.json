@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17050 from=\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-04T03:51:17.689564+00:00",
-  "added": 5,
+  "updated_at": "2026-11-04T03:51:18.866262+00:00",
+  "added": 6,
   "skipped": 86,
   "scanned": 92,
-  "current": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+  "current": "Apple Slips",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 2,
     "seekingalpha": 0
   },
