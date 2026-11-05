@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17174 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-05T07:36:45.990880+00:00",
-  "added": 16,
+  "updated_at": "2026-11-05T07:36:47.279940+00:00",
+  "added": 17,
   "skipped": 240,
   "scanned": 257,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: Democrats Flip the Congress and Will Now Try to Flip the Script",
   "added_by_filter": {
-    "wsj": 6,
+    "wsj": 7,
     "axios": 8,
     "seekingalpha": 2
   },
