@@ -546,7 +546,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "⚡ Axios AM: Vance's power play",
       "date": "Thu, 05 Nov 2026 05:41:11 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "4df2102b6e5dd03e7c83d215be7646abfa28df30eccef97643b9c1f6ada1dce9.json"
     },
     {
