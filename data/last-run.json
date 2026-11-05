@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17246 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-05T07:36:26.513432+00:00",
-  "added": 13,
+  "updated_at": "2026-11-05T07:36:27.757730+00:00",
+  "added": 14,
   "skipped": 171,
   "scanned": 185,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: Democrats Take Congress—What to Expect",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 7,
     "seekingalpha": 2
   },
