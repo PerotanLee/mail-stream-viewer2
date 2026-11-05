@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17530 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-05T18:34:36.649698+00:00",
-  "added": 1,
+  "updated_at": "2026-11-05T18:34:37.929442+00:00",
+  "added": 2,
   "skipped": 2,
   "scanned": 4,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "💰 Dems' economic test",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 17449,
