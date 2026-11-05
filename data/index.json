@@ -438,7 +438,7 @@
       "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
       "subject": "Mansion Deals Alert: The Most Expensive Home on Nantucket Sells for $42.5 Million",
       "date": "Thu, 05 Nov 2026 12:30:29 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "f649db5900eae3299051e28d92b3e5cb74a7905047887b31c260c4b23ccaf216.json"
     },
     {
