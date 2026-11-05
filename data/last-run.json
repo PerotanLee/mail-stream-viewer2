@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17250 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-05T07:36:20.429162+00:00",
-  "added": 11,
+  "updated_at": "2026-11-05T07:36:21.767455+00:00",
+  "added": 12,
   "skipped": 169,
   "scanned": 181,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "Apple Can be an Expensive AI Safe Haven",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 7,
     "seekingalpha": 2
   },
