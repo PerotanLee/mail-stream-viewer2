@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17264 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-05T07:36:08.044637+00:00",
-  "added": 7,
+  "updated_at": "2026-11-05T07:36:09.397164+00:00",
+  "added": 8,
   "skipped": 159,
   "scanned": 167,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "💥 AI earthquake",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 5,
+    "axios": 6,
     "seekingalpha": 1
   },
   "last_newest_num": 17167,
