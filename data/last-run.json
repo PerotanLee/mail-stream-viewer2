@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17277 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-05T07:35:58.588690+00:00",
-  "added": 4,
+  "updated_at": "2026-11-05T07:35:59.758249+00:00",
+  "added": 5,
   "skipped": 149,
   "scanned": 154,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "🗳️ Election's economic aftershocks",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 3,
+    "axios": 4,
     "seekingalpha": 1
   },
   "last_newest_num": 17167,
