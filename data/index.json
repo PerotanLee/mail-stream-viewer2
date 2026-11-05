@@ -1,166 +1,157 @@
 {
   "emails": [
     {
-      "id": "8106b348472463fbe2cb0e52f674b9ccc939b868e87a561e1871b0a5e7051b88",
-      "uid": "420922.NvkhfqwKJENZFHN1mhAwarCrf6rE7ol7rRkG3hsCLPE=",
+      "id": "19e7c387191886f316ee6efcade29f45dcd80a0c5fc700f7dabab81d6f187da2",
+      "uid": "422673.N0JGNcgZhfU0v4aRqehLaBStHlf4tsKKQPGgsBva70o=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🪄 Axios Finish Line: The smile effect",
-      "date": "Wed, 28 Oct 2026 21:29:20 -0400",
-      "is_read": true,
-      "file": "8106b348472463fbe2cb0e52f674b9ccc939b868e87a561e1871b0a5e7051b88.json"
+      "subject": "🏞️ Axios Finish Line: Prescribing nature",
+      "date": "Wed, 04 Nov 2026 21:29:43 -0500",
+      "is_read": false,
+      "file": "19e7c387191886f316ee6efcade29f45dcd80a0c5fc700f7dabab81d6f187da2.json"
     },
     {
-      "id": "9b836719647524d4e97fbfc8f76f77a861422e5a7ad7986142b39f87d1cba2bd",
-      "uid": "420722.d1dAFxjeV54nWr0KQckOAYXkZ7WwJCGfFYBsV8lHUAQ=",
+      "id": "9ac4927de05f23d60d50fbfa5eb977705bbbde133ea8a9821d4ddcf959ead849",
+      "uid": "422495.BQ+xSky1MCj+fF05sIrPl4QpGoT6z8vAFUegUNcVvjU=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Wed, 28 Oct 2026 18:09:46 +1100",
-      "is_read": true,
-      "file": "9b836719647524d4e97fbfc8f76f77a861422e5a7ad7986142b39f87d1cba2bd.json"
-    },
-    {
-      "id": "7c14b4ba4433c97e58ae8bcb1fc056eb3cd02988cf7a976351f4af19f4873d70",
-      "uid": "420871.APpHxqbC8f0JuiWHf+7+fS97E8jLDRjfwWYdcR74Qsg=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "⛅️ Cloudy with a chance of cash",
-      "date": "Wed, 28 Oct 2026 17:48:36 -0400",
-      "is_read": true,
-      "file": "7c14b4ba4433c97e58ae8bcb1fc056eb3cd02988cf7a976351f4af19f4873d70.json"
-    },
-    {
-      "id": "7e1d581ce0e8d614719f29dfcc77c7a423c2354ac6ed692fef18b8aec1a810ce",
-      "uid": "420852.lOPeDh7mXwJMNuGxNIWVWiJ0xmaYVyMIRWchnsmE0qU=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Fed Sets Stage for December",
-      "date": "Wed, 28 Oct 2026 16:33:49 -0400",
-      "is_read": true,
-      "file": "7e1d581ce0e8d614719f29dfcc77c7a423c2354ac6ed692fef18b8aec1a810ce.json"
-    },
-    {
-      "id": "bbb5054996242f380572c1ec5c53006f30332f065e85d95844d8f7485815f010",
-      "uid": "420845.z4BI6RnjBOA1UKfszWHI7rQdB8xdJAN50TnnYwXb9Pk=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Alphabet Earnings To Accelerate The AI Bubble Burst",
-      "date": "Wed, 28 Oct 2026 16:05:41 -0400",
+      "date": "Wed, 04 Nov 2026 19:09:45 +1100",
       "is_read": false,
-      "file": "bbb5054996242f380572c1ec5c53006f30332f065e85d95844d8f7485815f010.json"
+      "file": "9ac4927de05f23d60d50fbfa5eb977705bbbde133ea8a9821d4ddcf959ead849.json"
     },
     {
-      "id": "d29dabb14af3518b49a0e8f77223649d537a8335d3a601320de43ce159b9d3b9",
-      "uid": "420840.R8cj8EO2OyNJn72Jrg2BZd6CCO5QUawBO0asoKF6ZsE=",
-      "from_addr": "Alpha Picks <subscriptions@seekingalpha.com>",
-      "subject": "EAT just jumped 13%",
-      "date": "Wed, 28 Oct 2026 15:25:25 -0400",
-      "is_read": true,
-      "file": "d29dabb14af3518b49a0e8f77223649d537a8335d3a601320de43ce159b9d3b9.json"
+      "id": "1b488e1ed4208b5b1af126bd385e793fb7a14822af42744a421775c2a7ab6fe1",
+      "uid": "422617.ZTfKvLXfBy2ZRYwJPF5v54rDLZ4lpA3NMYmUGfZ1udI=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "📈 Blue wave surfing",
+      "date": "Wed, 04 Nov 2026 17:42:42 -0500",
+      "is_read": false,
+      "file": "1b488e1ed4208b5b1af126bd385e793fb7a14822af42744a421775c2a7ab6fe1.json"
     },
     {
-      "id": "394ea112ca8f5395e5c83e2d9467f1ee6078e81d8775a2bdd126386ed6c4d173",
-      "uid": "420838.3xvZl0OKe5UouUSI+tUqhUiXTI28V71B4wSeDRO2KLQ=",
+      "id": "3fcb12003837139ed7946f3e2e5a8e7657f247ed027586a6b0b5a371b4e6f46b",
+      "uid": "422597.jcvtN8YmmBCKaPixLPARmU6DA,FXp0Iq5JwazoIk,qs=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Micron Vs. SK hynix: Close The Pair, Keep The Better Floor",
+      "date": "Wed, 04 Nov 2026 16:06:32 -0500",
+      "is_read": false,
+      "file": "3fcb12003837139ed7946f3e2e5a8e7657f247ed027586a6b0b5a371b4e6f46b.json"
+    },
+    {
+      "id": "ed099670bda687637941c0b6e610f276eed134dc498ae567e554c34eac4a1590",
+      "uid": "422587.JshttwMxkmfo1tD4TpNaD6e6PmN8M3mQkHVgRu51n6M=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🇮🇱 Axios PM: Weeks of wrangling",
-      "date": "Wed, 28 Oct 2026 15:15:27 -0400",
-      "is_read": true,
-      "file": "394ea112ca8f5395e5c83e2d9467f1ee6078e81d8775a2bdd126386ed6c4d173.json"
+      "subject": "🪖 Axios PM: Vance blames war",
+      "date": "Wed, 04 Nov 2026 15:02:01 -0500",
+      "is_read": false,
+      "file": "ed099670bda687637941c0b6e610f276eed134dc498ae567e554c34eac4a1590.json"
     },
     {
-      "id": "6151e8b42e8a25241b693aa46079a79f46639267d2878d27a8eff3a9149a949a",
-      "uid": "420830.Z+2YxxoFvTxLA,cOqmE+I99gAFPmj8xzwqPDqjJApak=",
+      "id": "936f4a1cded4b01f46e3057e62986468b03ca2a2673463cf42f9eadcf8e4b0de",
+      "uid": "422580.krEoww0++Kpx3o9DoKt+5wSnOWbokZAj2PeLX8aYb1I=",
       "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🤖 AI productivity test",
-      "date": "Wed, 28 Oct 2026 11:59:19 -0400",
-      "is_read": true,
-      "file": "6151e8b42e8a25241b693aa46079a79f46639267d2878d27a8eff3a9149a949a.json"
+      "subject": "🗳️ Election's economic aftershocks",
+      "date": "Wed, 04 Nov 2026 11:58:29 -0500",
+      "is_read": false,
+      "file": "936f4a1cded4b01f46e3057e62986468b03ca2a2673463cf42f9eadcf8e4b0de.json"
     },
     {
-      "id": "4634cdb9b46ade212cb9aa01ebcdcc5db144e385ca01235852cbdd1f2f035395",
-      "uid": "420825.CJYqfVrnvqfOe,0P8ijpyVd9s+BYLai7SU60rcr4dq8=",
+      "id": "a9507044b352945356bd5d15dba806ea8a2ba7797ab493c7aebed5e3a0e890a8",
+      "uid": "422571.UYphEmpcq9j6YytdfVGUYe3g6el4MBWFkPP96fOiWmE=",
       "from_addr": "WSJ Real Estate <access@interactive.wsj.com>",
-      "subject": "NYC's Conversion Projects Return After a Summer Scare",
-      "date": "Wed, 28 Oct 2026 10:02:34 -0400",
-      "is_read": true,
-      "file": "4634cdb9b46ade212cb9aa01ebcdcc5db144e385ca01235852cbdd1f2f035395.json"
+      "subject": "Why Brookfield Is Walking Away From Its Showpiece L.A. Tower",
+      "date": "Wed, 04 Nov 2026 10:06:04 -0500",
+      "is_read": false,
+      "file": "a9507044b352945356bd5d15dba806ea8a2ba7797ab493c7aebed5e3a0e890a8.json"
     },
     {
-      "id": "38aa203216af5ce26698db0724c92ded132a31cd4a2b82efa6ef6e917140625f",
-      "uid": "420822.fJR1emwYEylL1GWQK+pkGdvoZOKpKgl3eJcP8ycyYeA=",
+      "id": "7ee4caeff0acd4552f50e0ca49f946d9839a52a3f5c3feb73cfb5fd539a4bf5c",
+      "uid": "422570.A4fiAXdFPeUGMAinsj3YIGCOyi0vJ0JjyYcFYE8Env0=",
       "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: PE politics",
-      "date": "Wed, 28 Oct 2026 09:56:42 -0400",
-      "is_read": true,
-      "file": "38aa203216af5ce26698db0724c92ded132a31cd4a2b82efa6ef6e917140625f.json"
+      "subject": "Axios Pro Rata: AI blues",
+      "date": "Wed, 04 Nov 2026 10:04:12 -0500",
+      "is_read": false,
+      "file": "7ee4caeff0acd4552f50e0ca49f946d9839a52a3f5c3feb73cfb5fd539a4bf5c.json"
     },
     {
-      "id": "83e55de47e5b98039926f643aee821afcd86a7fa1967dc6484cf7d5fb023dd6e",
-      "uid": "420819.b,ydpUjGZzDnvLN51bVWF6YHRK5VykZsetPC9h0j36A=",
+      "id": "799b3bcaed8313cf447108126bcdfe79757ac6437b25f09b2f998d4c0253c3a1",
+      "uid": "422567.9Ex+NO5iY0P7HhOPa9VzZE+0AJnsUD5Re1Azrj72,7g=",
       "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "💻 Cyber Y2K",
-      "date": "Wed, 28 Oct 2026 09:28:20 -0400",
-      "is_read": true,
-      "file": "83e55de47e5b98039926f643aee821afcd86a7fa1967dc6484cf7d5fb023dd6e.json"
+      "subject": "💥 AI earthquake",
+      "date": "Wed, 04 Nov 2026 09:28:17 -0500",
+      "is_read": false,
+      "file": "799b3bcaed8313cf447108126bcdfe79757ac6437b25f09b2f998d4c0253c3a1.json"
     },
     {
-      "id": "1c9ae028c962200c5cd627e2a8d6e7d06a172673cf4468c7239e30723df00805",
-      "uid": "420809.e9eROsGoRWDZKeQLdo+yPdFWQtgRCnYpLjqqB01da3c=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Pause Now, Hike Later?",
-      "date": "Wed, 28 Oct 2026 07:37:19 -0400",
-      "is_read": true,
-      "file": "1c9ae028c962200c5cd627e2a8d6e7d06a172673cf4468c7239e30723df00805.json"
-    },
-    {
-      "id": "b81266c46ee6152c6d0e8a0ff98bf2c2bd67d88d0647937af27c826845542a48",
-      "uid": "420806.K3mB9UABdWgP0I3OjZzo9PX0Q8RikNpTXkbN5tMj6Pk=",
+      "id": "cbda8d2b53af858c95233a4c0642ac23f8d744683d9b2db960c00ddfa4ee8d10",
+      "uid": "422563.msRHa2k5QIL6LobFsBhoYJaPK6FotlUmpD2hQ7S38Zs=",
       "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "✋ AI bond vigilantes",
-      "date": "Wed, 28 Oct 2026 07:28:45 -0400",
-      "is_read": true,
-      "file": "b81266c46ee6152c6d0e8a0ff98bf2c2bd67d88d0647937af27c826845542a48.json"
+      "subject": "🌤️ The fog lifts",
+      "date": "Wed, 04 Nov 2026 07:28:47 -0500",
+      "is_read": false,
+      "file": "cbda8d2b53af858c95233a4c0642ac23f8d744683d9b2db960c00ddfa4ee8d10.json"
     },
     {
-      "id": "4f0b4d3417d4c71c61f165deb8dbcce8ee9448a58f4621a8946dd24c17425068",
-      "uid": "420799.cSIwORGIGAWXDmRVHPoSSS5UdzARBJhSEL5+13sAvX4=",
+      "id": "59bc07cef6a1223f3b679d530d39d959b35eea95d2084081ba5cab9e784765b1",
+      "uid": "422562.dFwRIhWrlQw64EcFlGmyQk7,Dzg,F4waM9pPHBLPxzk=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Blue Wave Sweeps The Nation",
+      "date": "Wed, 04 Nov 2026 07:11:20 -0500",
+      "is_read": false,
+      "file": "59bc07cef6a1223f3b679d530d39d959b35eea95d2084081ba5cab9e784765b1.json"
+    },
+    {
+      "id": "dabf649e2ff9413381f4812d5ca4e4a44ba2242715c0a734dc0b1773626e48b9",
+      "uid": "422557.mYVxeEqp4yEycqA3YrasAr544FAHOkDSikWWDZ1VUYo=",
       "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Are Democrats Drawing Up a New Map in the South?",
-      "date": "Wed, 28 Oct 2026 06:59:01 -0400",
-      "is_read": true,
-      "file": "4f0b4d3417d4c71c61f165deb8dbcce8ee9448a58f4621a8946dd24c17425068.json"
+      "subject": "WSJ Politics: Trump Lost Big Time. Now He Faces Some Real Tough Decisions.",
+      "date": "Wed, 04 Nov 2026 07:01:10 -0500",
+      "is_read": false,
+      "file": "dabf649e2ff9413381f4812d5ca4e4a44ba2242715c0a734dc0b1773626e48b9.json"
     },
     {
-      "id": "d84fc1e523bb461365f7ac8d6b9f012f140ec294f6e83a28ab3aef22ddbc84bc",
-      "uid": "420797.c0RbHNg1vzjfvtOsGZenwS2FrdVJWCyP17RigwUs5KM=",
+      "id": "cd0f3449a50666422db3e3ef42d380e595c986c21fe408a5bd0b463aa0bc5e88",
+      "uid": "422553.AO0v,8Ttxcye1S5Lwg0CkbWWvXPDX9EdFasjhvHqP7w=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "The ‘Buy, Borrow and Die’ Wealth Strategy Gains in Popularity",
-      "date": "Wed, 28 Oct 2026 06:50:55 -0400",
-      "is_read": true,
-      "file": "d84fc1e523bb461365f7ac8d6b9f012f140ec294f6e83a28ab3aef22ddbc84bc.json"
+      "subject": "Apple Can be an Expensive AI Safe Haven",
+      "date": "Wed, 04 Nov 2026 06:31:54 -0500",
+      "is_read": false,
+      "file": "cd0f3449a50666422db3e3ef42d380e595c986c21fe408a5bd0b463aa0bc5e88.json"
     },
     {
-      "id": "b50126ba7da720bb834b465296369077a38691b6cc6adb163d125eff49fd87af",
-      "uid": "420794.LBA9vDjmo73Zf,T+FklmOdhbB0LCR3SMMEoJJa1cHM4=",
+      "id": "1e47cc35a35e8213316fcb65b9c6aedc53be514ccb3e0e9a2d131986043cee01",
+      "uid": "422552.QO6,jK,OGH6yNw5mKx+tmWK3tNouSliLeCVdSYN2wQA=",
       "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🐢 Markets A.M.: Boring Stocks Are Beautiful Again. Can It Last?",
-      "date": "Wed, 28 Oct 2026 06:40:54 -0400",
-      "is_read": true,
-      "file": "b50126ba7da720bb834b465296369077a38691b6cc6adb163d125eff49fd87af.json"
+      "subject": "🎲 Markets A.M.: Index Funds Are Better When They’re Lucky and Smart",
+      "date": "Wed, 04 Nov 2026 06:26:54 -0500",
+      "is_read": false,
+      "file": "1e47cc35a35e8213316fcb65b9c6aedc53be514ccb3e0e9a2d131986043cee01.json"
     },
     {
-      "id": "8d7ce3dbd651782843db600dda0ee1fed4b1fe0060ff03aa009fd9f3f2214d43",
-      "uid": "420788.GW7Fk1WU6f17+NrozTP+ucQ,0m+cAqDUAF277pFPi1I=",
+      "id": "9ba6a1c171f8ff270e43f9410617a65c53124573eabaef2ee4d39695d868ca74",
+      "uid": "422549.wbVOwEqGsKttySpb9L+9hA0zth43ALWO8ENgih1rfzc=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: China’s EV Industry Stalls at Home",
-      "date": "Wed, 28 Oct 2026 06:17:21 -0400",
-      "is_read": true,
-      "file": "8d7ce3dbd651782843db600dda0ee1fed4b1fe0060ff03aa009fd9f3f2214d43.json"
+      "subject": "The 10-Point: Democrats Take Congress—What to Expect",
+      "date": "Wed, 04 Nov 2026 06:14:43 -0500",
+      "is_read": false,
+      "file": "9ba6a1c171f8ff270e43f9410617a65c53124573eabaef2ee4d39695d868ca74.json"
     },
     {
-      "id": "7aacf69830358f840e6ba7fed52b616493acfd503921d8a9c40054380f6f4ddd",
-      "uid": "420773.F,lEw24CM,3En5j0iE0JxDrHrbFgNxZca7VGAfix8d4=",
+      "id": "4446e62233862d33f3b780f4f9947666d7e24ea4a3b298dcf9336254d6390a6c",
+      "uid": "422548.42Olyptm0rF8gekFONQiij,qKjr7Idk3wBGLlCmEnAg=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🇮🇱 Axios AM: Two victory speeches",
-      "date": "Wed, 28 Oct 2026 05:35:38 -0400",
-      "is_read": true,
-      "file": "7aacf69830358f840e6ba7fed52b616493acfd503921d8a9c40054380f6f4ddd.json"
+      "subject": "🌊 Axios AM: The Trump obliteration",
+      "date": "Wed, 04 Nov 2026 06:12:04 -0500",
+      "is_read": false,
+      "file": "4446e62233862d33f3b780f4f9947666d7e24ea4a3b298dcf9336254d6390a6c.json"
+    },
+    {
+      "id": "a806dfd824b67da7d04c4a6e85d94300cb6577b5a50564be49c0a8953bcc64a9",
+      "uid": "422469.QuV4i3r66DPtz0Gu3lbkRB1JQp27ou2TfRErSMD0t1I=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Democrats Flip the Congress and Will Now Try to Flip the Script",
+      "date": "Wed, 04 Nov 2026 01:37:59 -0500",
+      "is_read": false,
+      "file": "a806dfd824b67da7d04c4a6e85d94300cb6577b5a50564be49c0a8953bcc64a9.json"
     },
     {
       "id": "b9f1fcf88249a860686d7514a78c5b165f079548069ac57635215cc58bc254ac",
@@ -377,15 +368,6 @@
       "date": "Thu, 29 Oct 2026 21:29:30 -0400",
       "is_read": true,
       "file": "f49616ab91baf3436c457bb1be9dde128a7cd0a118ba7cde7a4768b3acd4474c.json"
-    },
-    {
-      "id": "7fd52f4c448cf60383ccfeeb52f6ea312813994909e9f894dc3cab416b5cd605",
-      "uid": "421031.9643Ixvpms2ylNSk6rl,epZVE5z0E4N0f+17CYt1F1M=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Thu, 29 Oct 2026 18:09:45 +1100",
-      "is_read": true,
-      "file": "7fd52f4c448cf60383ccfeeb52f6ea312813994909e9f894dc3cab416b5cd605.json"
     },
     {
       "id": "24b291aad03682c9456eea59a09c6014c8a1d5fe1d35cc7f5264657dad8d160a",
