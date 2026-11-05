@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17283 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-05T07:35:55.458869+00:00",
-  "added": 3,
+  "updated_at": "2026-11-05T07:35:56.631564+00:00",
+  "added": 4,
   "skipped": 144,
   "scanned": 148,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🪖 Axios PM: Vance blames war",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 2,
+    "axios": 3,
     "seekingalpha": 1
   },
   "last_newest_num": 17167,
