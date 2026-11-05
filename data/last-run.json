@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17551 from=\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-05T21:55:23.695854+00:00",
-  "added": 1,
+  "updated_at": "2026-11-05T21:55:24.686540+00:00",
+  "added": 2,
   "skipped": 3,
   "scanned": 5,
-  "current": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "current": "Mansion Deals Alert: Former Trump Advisor Inked Deals for Two Megamansions. Then They Fell Through.",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 0,
     "seekingalpha": 0
   },
