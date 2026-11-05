@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17508 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-05T18:34:53.098855+00:00",
-  "added": 6,
+  "updated_at": "2026-11-05T18:34:54.517446+00:00",
+  "added": 7,
   "skipped": 19,
   "scanned": 26,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: Vance Steps Into the Political Abyss",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 4,
     "seekingalpha": 1
   },
