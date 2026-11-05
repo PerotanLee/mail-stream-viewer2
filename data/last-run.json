@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17493 from=\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-05T18:35:06.633052+00:00",
-  "added": 10,
+  "updated_at": "2026-11-05T18:35:07.968891+00:00",
+  "added": 11,
   "skipped": 30,
   "scanned": 41,
-  "current": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Economics: A Far-Left Congress? Not So Fast",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 5,
     "seekingalpha": 1
   },
