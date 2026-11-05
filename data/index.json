@@ -96,7 +96,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Blue Wave Sweeps The Nation",
       "date": "Wed, 04 Nov 2026 07:11:20 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "59bc07cef6a1223f3b679d530d39d959b35eea95d2084081ba5cab9e784765b1.json"
     },
     {
