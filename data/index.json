@@ -370,60 +370,6 @@
       "file": "f49616ab91baf3436c457bb1be9dde128a7cd0a118ba7cde7a4768b3acd4474c.json"
     },
     {
-      "id": "24b291aad03682c9456eea59a09c6014c8a1d5fe1d35cc7f5264657dad8d160a",
-      "uid": "421176.YgcnwfBECQAII6ji4p6u+eua+qrrSezP,kFUVWRzQOA=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "💵 Amazon's cash-flow crater",
-      "date": "Thu, 29 Oct 2026 17:55:09 -0400",
-      "is_read": true,
-      "file": "24b291aad03682c9456eea59a09c6014c8a1d5fe1d35cc7f5264657dad8d160a.json"
-    },
-    {
-      "id": "1d5af2a0fb582ef1e3a2fc76cbb2a309911ed438787211246b9b9b5f41545d79",
-      "uid": "421160.IpYWqP9uLnfXDcTvhFZrOz,NPQTVAqZS,34Xvf7jooQ=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Alphabet Soup",
-      "date": "Thu, 29 Oct 2026 16:38:10 -0400",
-      "is_read": true,
-      "file": "1d5af2a0fb582ef1e3a2fc76cbb2a309911ed438787211246b9b9b5f41545d79.json"
-    },
-    {
-      "id": "30114597e8fecb1aebc99aeab040291daa9325c73c7bc036fe186d465de7d565",
-      "uid": "421157.szdbnah0PHUbIz0ZRgeuiFchi8QLFS9JiDr8ypvcV3k=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Alphabet Q3: The Market Is Selling The Wrong Line Items And I Think This Is An Opportunity",
-      "date": "Thu, 29 Oct 2026 16:05:47 -0400",
-      "is_read": false,
-      "file": "30114597e8fecb1aebc99aeab040291daa9325c73c7bc036fe186d465de7d565.json"
-    },
-    {
-      "id": "f90f7d578c748c6e53c9ceff90586862c3cc872c33c6c2ff7a1a1982547f669e",
-      "uid": "421154.JsFziWwaTYwWqKyfmUQLuUWpPqFbhVx5iR3K7CwxEgk=",
-      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
-      "subject": "Investment News Quiz - Thursday, Oct. 29",
-      "date": "Thu, 29 Oct 2026 15:22:56 -0400",
-      "is_read": false,
-      "file": "f90f7d578c748c6e53c9ceff90586862c3cc872c33c6c2ff7a1a1982547f669e.json"
-    },
-    {
-      "id": "45a20719b9f24e78a7dcd4eac35ff76c5a4ad195e97005c08d11f38e3b14b94d",
-      "uid": "421153.uhUKaYM,d5YRiv9frix1nC3XrkjXtB3BAu3xH9LrOUU=",
-      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
-      "subject": "Investment News Quiz - Thursday, Oct. 29",
-      "date": "Thu, 29 Oct 2026 15:21:27 -0400",
-      "is_read": true,
-      "file": "45a20719b9f24e78a7dcd4eac35ff76c5a4ad195e97005c08d11f38e3b14b94d.json"
-    },
-    {
-      "id": "e7b4a6e145e6697645206aa0c678930837ccb045a7783c0c1dabaf5b095993d2",
-      "uid": "421152.9ANK4lkQkPOqRAAbDzVM91b789bArsY9ehgbok5X0bM=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤔 Axios PM: Name blame game",
-      "date": "Thu, 29 Oct 2026 15:14:44 -0400",
-      "is_read": true,
-      "file": "e7b4a6e145e6697645206aa0c678930837ccb045a7783c0c1dabaf5b095993d2.json"
-    },
-    {
       "id": "66baac5970e5a67541d3fed841f1d1a8fd22ff28ef33c51b6a3e6bcd9f76ee18",
       "uid": "422778.D1pOAuVnncrQTUqnXiaubawIZO+VIcvFU+uGnWLQBIE=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -431,6 +377,51 @@
       "date": "Thu, 05 Nov 2026 19:09:46 +1100",
       "is_read": true,
       "file": "66baac5970e5a67541d3fed841f1d1a8fd22ff28ef33c51b6a3e6bcd9f76ee18.json"
+    },
+    {
+      "id": "6759dec638106f8b04b76583ad45023a6848908712f3eedca8504f1287b40849",
+      "uid": "422897.YBvrvxkdqYBk8g03JI33xNtLUstlp,dw+xXgogZVS4g=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Forget Yesterday",
+      "date": "Thu, 05 Nov 2026 16:20:41 -0500",
+      "is_read": false,
+      "file": "6759dec638106f8b04b76583ad45023a6848908712f3eedca8504f1287b40849.json"
+    },
+    {
+      "id": "f17dd6dcf6cd2ebee3f5638284ed9fe98e893d896bee8bd3750e74674b7a74c2",
+      "uid": "422896.8UuZIq4K8Yy74HzszeAt1,k8g2gAjmN88zyP9P31gv0=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Former Trump Advisor Inked Deals for Two Megamansions. Then They Fell Through.",
+      "date": "Thu, 05 Nov 2026 16:16:55 -0500",
+      "is_read": false,
+      "file": "f17dd6dcf6cd2ebee3f5638284ed9fe98e893d896bee8bd3750e74674b7a74c2.json"
+    },
+    {
+      "id": "b9b62adb397abdcb7258e9373b123b1d384d22fdf6c6a1915f9009111eacc2c3",
+      "uid": "422891.+zbyZ7iwa9kkeBXBpYwb9b64THhYUNw75pkYwn7kvR8=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Rare Stock Picks In October 2026 - From 14 Discerning Analysts",
+      "date": "Thu, 05 Nov 2026 16:06:34 -0500",
+      "is_read": false,
+      "file": "b9b62adb397abdcb7258e9373b123b1d384d22fdf6c6a1915f9009111eacc2c3.json"
+    },
+    {
+      "id": "59c8d9eb21576be19a6963c500fc14acb777fc1b498e5e8f4bdde99bd279f6fb",
+      "uid": "422881.NiQnyfoMBiNYje1rBc6JhaXlEz1hMSdRwgHH6PFbask=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🫏 Axios PM: Dems dominate states",
+      "date": "Thu, 05 Nov 2026 15:08:38 -0500",
+      "is_read": false,
+      "file": "59c8d9eb21576be19a6963c500fc14acb777fc1b498e5e8f4bdde99bd279f6fb.json"
+    },
+    {
+      "id": "9774db206b6fc149546cd351b775b6795dc82a90f678556313a04be58fde364c",
+      "uid": "422878.VPlN9dpuNASkKz9mX7Z,FD,gPYFezthpB1qv2EdYvwk=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: An Arizona Compound With an Underground Bunker Lists for $55 Million",
+      "date": "Thu, 05 Nov 2026 14:50:37 -0500",
+      "is_read": false,
+      "file": "9774db206b6fc149546cd351b775b6795dc82a90f678556313a04be58fde364c.json"
     },
     {
       "id": "f649db5900eae3299051e28d92b3e5cb74a7905047887b31c260c4b23ccaf216",
