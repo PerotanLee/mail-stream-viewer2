@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17538 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-05T21:55:30.750596+00:00",
-  "added": 3,
+  "updated_at": "2026-11-05T21:55:31.878458+00:00",
+  "added": 4,
   "skipped": 14,
   "scanned": 18,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🫏 Axios PM: Dems dominate states",
   "added_by_filter": {
     "wsj": 2,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 1
   },
   "last_newest_num": 17534,
