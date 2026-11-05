@@ -424,132 +424,6 @@
       "file": "e7b4a6e145e6697645206aa0c678930837ccb045a7783c0c1dabaf5b095993d2.json"
     },
     {
-      "id": "335fd293431fcfcde8f2634cf15552cdfe7fdb53fc12a195686cb52d8a538748",
-      "uid": "421149.HZXzSCi6D7if+Xg+9iZwxu+MKeR2Aho58L,Ns0O2WNY=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: New York Knicks Star Josh Hart Relists Florida Home for $5.699 Million",
-      "date": "Thu, 29 Oct 2026 13:43:11 -0400",
-      "is_read": true,
-      "file": "335fd293431fcfcde8f2634cf15552cdfe7fdb53fc12a195686cb52d8a538748.json"
-    },
-    {
-      "id": "3214b915e289385c7ecd04b756b4e1d7578ec9c40ecfde9d249d520f254577a4",
-      "uid": "421143.+RAxBjD+bQAgfWSv17SKoOGly2wJZanzZdApp6dtj6k=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🤖 AI trumps all",
-      "date": "Thu, 29 Oct 2026 11:58:24 -0400",
-      "is_read": true,
-      "file": "3214b915e289385c7ecd04b756b4e1d7578ec9c40ecfde9d249d520f254577a4.json"
-    },
-    {
-      "id": "daae003ab16911e4ea077eb03d4f7cc2ab7c9108f794789e9496a5c451307ae2",
-      "uid": "421137.Vj1QWGnkPlZdqGPoaJTDzny,9vPHnOGCxE9,z8B,7S0=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Weil winds down",
-      "date": "Thu, 29 Oct 2026 10:06:38 -0400",
-      "is_read": true,
-      "file": "daae003ab16911e4ea077eb03d4f7cc2ab7c9108f794789e9496a5c451307ae2.json"
-    },
-    {
-      "id": "48b43c705d30ba31a5c3b3c0d763bf46bc78e55767d09592fe6424f8ba64ca02",
-      "uid": "421136.ceiSPwxVYzKF8Ajn4k8IzygzOCUMKL3URRZh3NiA3j4=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🤖 The AI election",
-      "date": "Thu, 29 Oct 2026 09:28:20 -0400",
-      "is_read": true,
-      "file": "48b43c705d30ba31a5c3b3c0d763bf46bc78e55767d09592fe6424f8ba64ca02.json"
-    },
-    {
-      "id": "664d6852d9de98dea36635dc90911d35757c0f0eb96665ac549617273e71d831",
-      "uid": "421133.wi,dasVlII8I4v76IjYX3xKCcrLlx518c9PINYiFB+o=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "Semiconductors, SpaceX, and Overlooked Opportunities",
-      "date": "Thu, 29 Oct 2026 08:46:12 -0400",
-      "is_read": true,
-      "file": "664d6852d9de98dea36635dc90911d35757c0f0eb96665ac549617273e71d831.json"
-    },
-    {
-      "id": "ab5fdd7b4b574f206369dffe0944354602609dfb778bb2b3bc1a3aabb3c377b5",
-      "uid": "421124.ofFhoG+b5Dh,zJ1VM,kT12zSHFc3b,dDp38cD35ULfk=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "The New Rules For Big Tech's AI Spending",
-      "date": "Thu, 29 Oct 2026 07:34:01 -0400",
-      "is_read": true,
-      "file": "ab5fdd7b4b574f206369dffe0944354602609dfb778bb2b3bc1a3aabb3c377b5.json"
-    },
-    {
-      "id": "95282088c3b48a83a71ff317352130cc4c558352c4f957b41fb29b8501285d08",
-      "uid": "421122.9dpIFKMD+WEglmj2qN4FC6vaPP3SP2zel4hhcr6Cx3w=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "😥 Stress in the system",
-      "date": "Thu, 29 Oct 2026 07:28:36 -0400",
-      "is_read": true,
-      "file": "95282088c3b48a83a71ff317352130cc4c558352c4f957b41fb29b8501285d08.json"
-    },
-    {
-      "id": "a39cd381be16666282cbd93c92d78ff1b122a355fec9a2064072f9986502ff97",
-      "uid": "421113.f,df,UkeElovZdDAjLWAglyZ5BlpRKjahFtWW4x32vY=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Alaska Senate Bombshell Lays Bare the Shadowy Plots in Politics",
-      "date": "Thu, 29 Oct 2026 07:06:08 -0400",
-      "is_read": true,
-      "file": "a39cd381be16666282cbd93c92d78ff1b122a355fec9a2064072f9986502ff97.json"
-    },
-    {
-      "id": "7c63a7776ba6bf3a6702e4bb424639b9231c1dad7977f057b12e5bb46d783f68",
-      "uid": "421104.xVm4BPJVE3y2IfFahDuvE09ttInVvHWTlLzrr1ps+Ec=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "Bankers Still Sound Cautious About AI Boom",
-      "date": "Thu, 29 Oct 2026 06:32:17 -0400",
-      "is_read": true,
-      "file": "7c63a7776ba6bf3a6702e4bb424639b9231c1dad7977f057b12e5bb46d783f68.json"
-    },
-    {
-      "id": "cbb4af9f4255c22d6027e7fa0ccd0f638fa5c16869aa4af5f6c5ed5434f50bf7",
-      "uid": "421102.UfyQ0OukCAEG824xi747+iCM3z3B2PKmeAE59DdofRs=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "🚀 The Cape's \"boom cycle\"",
-      "date": "Thu, 29 Oct 2026 06:30:20 -0400",
-      "is_read": true,
-      "file": "cbb4af9f4255c22d6027e7fa0ccd0f638fa5c16869aa4af5f6c5ed5434f50bf7.json"
-    },
-    {
-      "id": "df247a908d67b458efeba0f9cc934d2f75dcfe2c7c3a54945eae6193ba735cd2",
-      "uid": "421100.sn38ChJwC1Ff0dYtXB1FTMfjXhnAydudeOjpH1USoxY=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🛢️ Markets A.M.: What Big Oil Tells Us About AI Memory Stocks",
-      "date": "Thu, 29 Oct 2026 06:26:26 -0400",
-      "is_read": true,
-      "file": "df247a908d67b458efeba0f9cc934d2f75dcfe2c7c3a54945eae6193ba735cd2.json"
-    },
-    {
-      "id": "3a4d55b83809a42c1d95562d55d2d1fccfbaa8915d44db445c09aa5f6820e485",
-      "uid": "421099.hWwJFCmiPACBRkvzrEUkB4rd3Lpc0+SXMkhISJpC+Xs=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🗳️ Axios AM: Left's dream agenda",
-      "date": "Thu, 29 Oct 2026 06:24:52 -0400",
-      "is_read": true,
-      "file": "3a4d55b83809a42c1d95562d55d2d1fccfbaa8915d44db445c09aa5f6820e485.json"
-    },
-    {
-      "id": "409d0779553e70d3635258a6e030f5196f699ce44395fc84c08033da35bdd3a8",
-      "uid": "421088.yHmvbay3uALOjZOt2sooiGSN3IBic,,Glpd+nmscrSU=",
-      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Economics: Warsh’s Shrewd Pre-Election Pause",
-      "date": "Thu, 29 Oct 2026 06:04:17 -0400",
-      "is_read": true,
-      "file": "409d0779553e70d3635258a6e030f5196f699ce44395fc84c08033da35bdd3a8.json"
-    },
-    {
-      "id": "71cde1809c8b400143f4fffe117b839510b542f8836dc9d8515144998e8e6504",
-      "uid": "421084.vVUXpv58OZ1dQdFkf3l+fY2NFH83kmSqDUsuwgnx7Jw=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Beleaguered Chip Sellers Get Revenge on Apple",
-      "date": "Thu, 29 Oct 2026 06:01:20 -0400",
-      "is_read": true,
-      "file": "71cde1809c8b400143f4fffe117b839510b542f8836dc9d8515144998e8e6504.json"
-    },
-    {
       "id": "66baac5970e5a67541d3fed841f1d1a8fd22ff28ef33c51b6a3e6bcd9f76ee18",
       "uid": "422778.D1pOAuVnncrQTUqnXiaubawIZO+VIcvFU+uGnWLQBIE=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -557,6 +431,123 @@
       "date": "Thu, 05 Nov 2026 19:09:46 +1100",
       "is_read": false,
       "file": "66baac5970e5a67541d3fed841f1d1a8fd22ff28ef33c51b6a3e6bcd9f76ee18.json"
+    },
+    {
+      "id": "f649db5900eae3299051e28d92b3e5cb74a7905047887b31c260c4b23ccaf216",
+      "uid": "422874.5hc,9r5+swbGMR8gtd4xkf6ejdCZllXIg82vgMaDNXc=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: The Most Expensive Home on Nantucket Sells for $42.5 Million",
+      "date": "Thu, 05 Nov 2026 12:30:29 -0500",
+      "is_read": false,
+      "file": "f649db5900eae3299051e28d92b3e5cb74a7905047887b31c260c4b23ccaf216.json"
+    },
+    {
+      "id": "cb8b5e136040157136f580ac6e267723fb18452c253b96d15a0e419ba3ce7c52",
+      "uid": "422872.JNupadS1kCGAQ3eokR2BQhwJfl9kLsVK8EKSIXqjGcI=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "💰 Dems' economic test",
+      "date": "Thu, 05 Nov 2026 11:58:29 -0500",
+      "is_read": false,
+      "file": "cb8b5e136040157136f580ac6e267723fb18452c253b96d15a0e419ba3ce7c52.json"
+    },
+    {
+      "id": "3a870db55a532414a4ee21944fb46dbc23428cc5f57732eb1e920de1645c530d",
+      "uid": "422871.CSmWtxEDNbF6AAXTzC0tgxbdRwnGe3ZBM5IIMsa,d7s=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Hole in none",
+      "date": "Thu, 05 Nov 2026 10:03:38 -0500",
+      "is_read": false,
+      "file": "3a870db55a532414a4ee21944fb46dbc23428cc5f57732eb1e920de1645c530d.json"
+    },
+    {
+      "id": "a8fdd99dac00e2a9f0e9f53ec966f841e58464bbc74158d547d9344517abc352",
+      "uid": "422868.gI7CxxNfAvEYvv1WDXDeQVy2syMqYUqV+rufJ1nQ2FI=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "📱 Musk calling",
+      "date": "Thu, 05 Nov 2026 09:28:21 -0500",
+      "is_read": false,
+      "file": "a8fdd99dac00e2a9f0e9f53ec966f841e58464bbc74158d547d9344517abc352.json"
+    },
+    {
+      "id": "e9507fcf3e5a6267e8ade4f2fe5464df0997adffc97f66e0cadc6d9996d078fb",
+      "uid": "422857.hAsKVlNXRGgbCZ2wCetuBR23TuQCRhlvv4Dslopbr4s=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Affordability Initiatives And Balancing The Budget",
+      "date": "Thu, 05 Nov 2026 07:49:55 -0500",
+      "is_read": false,
+      "file": "e9507fcf3e5a6267e8ade4f2fe5464df0997adffc97f66e0cadc6d9996d078fb.json"
+    },
+    {
+      "id": "219289f476dca8b2086b51fd8ceb29339342a2e2298a4f01050c229ed85a192b",
+      "uid": "422855.26649v4vnQuJngAwN4bOnNPLJosP5M51ipGk5AjU0AM=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "⏸️ AI wait time",
+      "date": "Thu, 05 Nov 2026 07:28:34 -0500",
+      "is_read": false,
+      "file": "219289f476dca8b2086b51fd8ceb29339342a2e2298a4f01050c229ed85a192b.json"
+    },
+    {
+      "id": "a80aa9d023027b30c99c255f6071a73909e7dec7ad9a37be2c095d88239939cb",
+      "uid": "422849.4,1hMzvc7S7VyPMRcdUruMggaN9iUffj5p44b4EvNc8=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Vance Steps Into the Political Abyss",
+      "date": "Thu, 05 Nov 2026 07:07:18 -0500",
+      "is_read": false,
+      "file": "a80aa9d023027b30c99c255f6071a73909e7dec7ad9a37be2c095d88239939cb.json"
+    },
+    {
+      "id": "fdf4828a02dae6458c7d5cbae15e472bf30515ff3bca6330addf9930d05988a3",
+      "uid": "422844.5WjUOTnOd0wL1JiSZvhZON1D55y,Wno8RB9fP8ITGEA=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Midterms Set Stage for Debt-Ceiling Clash",
+      "date": "Thu, 05 Nov 2026 06:37:59 -0500",
+      "is_read": false,
+      "file": "fdf4828a02dae6458c7d5cbae15e472bf30515ff3bca6330addf9930d05988a3.json"
+    },
+    {
+      "id": "98e5864985abc6c64010f5c103207e9a25f4653925dde26655d07e48ecbf23d1",
+      "uid": "422840.Mv8yzHIpzJZYBE1D+lDiChUAIzvxeXcq1cxZ3y6e7,s=",
+      "from_addr": "Axios Defense <defense@axios.com>",
+      "subject": "📡 Iran's space power",
+      "date": "Thu, 05 Nov 2026 06:30:10 -0500",
+      "is_read": false,
+      "file": "98e5864985abc6c64010f5c103207e9a25f4653925dde26655d07e48ecbf23d1.json"
+    },
+    {
+      "id": "215fa1dd70311d871e9184ba7b48e1160b70052f2ea16cef0358dfd1f43ac483",
+      "uid": "422839.P5wXDn1i70tMM+jZg3JnY2FSonv9350rh1J8gnweskI=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "💰 Markets A.M.: Will AI Throttle the Retirement Money Machine?",
+      "date": "Thu, 05 Nov 2026 06:28:52 -0500",
+      "is_read": false,
+      "file": "215fa1dd70311d871e9184ba7b48e1160b70052f2ea16cef0358dfd1f43ac483.json"
+    },
+    {
+      "id": "dbd436e399d830e0ad6a1deab4fd14605c213b270bb51c29c2d35c23c818df6e",
+      "uid": "422832.APkGthDvVKnRZHv1J85wlVejRTuPMSIUl22aCYj42yc=",
+      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Economics: A Far-Left Congress? Not So Fast",
+      "date": "Thu, 05 Nov 2026 06:05:25 -0500",
+      "is_read": false,
+      "file": "dbd436e399d830e0ad6a1deab4fd14605c213b270bb51c29c2d35c23c818df6e.json"
+    },
+    {
+      "id": "f950ecc6efe3ce0e4a3b1d916f94b34ffb40728cdcc471d522c4b429faf5aa79",
+      "uid": "422831.nMKBdJTFr1mW8+jeEVfJlKbUAC0NM9WRA,P0Fb5fsWw=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: How Trump Lost the Midterms",
+      "date": "Thu, 05 Nov 2026 06:03:00 -0500",
+      "is_read": false,
+      "file": "f950ecc6efe3ce0e4a3b1d916f94b34ffb40728cdcc471d522c4b429faf5aa79.json"
+    },
+    {
+      "id": "4df2102b6e5dd03e7c83d215be7646abfa28df30eccef97643b9c1f6ada1dce9",
+      "uid": "422826.G5U48Kuh8FoQf3xgxKNVa5zCRH2C0XtOVRZhu75pu,c=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "⚡ Axios AM: Vance's power play",
+      "date": "Thu, 05 Nov 2026 05:41:11 -0500",
+      "is_read": false,
+      "file": "4df2102b6e5dd03e7c83d215be7646abfa28df30eccef97643b9c1f6ada1dce9.json"
     },
     {
       "id": "ded8394cfcf2e56273b6d93d12cdfe5ec3bd4ff7d2cb88f55dc55fbc8a852195",
