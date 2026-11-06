@@ -411,7 +411,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Forget Yesterday",
       "date": "Thu, 05 Nov 2026 16:20:41 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "6759dec638106f8b04b76583ad45023a6848908712f3eedca8504f1287b40849.json"
     },
     {
