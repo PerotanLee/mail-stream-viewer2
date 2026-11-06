@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17803 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-06T17:35:24.047005+00:00",
-  "added": 1,
+  "updated_at": "2026-11-06T17:35:25.482430+00:00",
+  "added": 2,
   "skipped": 8,
   "scanned": 10,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "Axios Pro Rata: Blue light special",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 0
   },
   "last_newest_num": 17799,
