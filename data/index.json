@@ -960,7 +960,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🇺🇸 Axios AM: America calls B.S.",
       "date": "Fri, 06 Nov 2026 05:39:42 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "4186b106edbb56e9abd66a02e9fae6fd645b30604a95821f3040346faf5859b7.json"
     },
     {
