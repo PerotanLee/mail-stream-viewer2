@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17791 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-06T14:04:06.087817+00:00",
-  "added": 1,
+  "updated_at": "2026-11-06T14:04:07.509674+00:00",
+  "added": 2,
   "skipped": 7,
   "scanned": 9,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "AI Selloff Wipes $2.5T Off Nasdaq",
   "added_by_filter": {
     "wsj": 1,
     "axios": 0,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 17736,
   "newest_num": 17799,
