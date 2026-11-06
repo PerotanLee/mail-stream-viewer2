@@ -897,7 +897,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "AI Selloff Wipes $2.5T Off Nasdaq",
       "date": "Fri, 06 Nov 2026 07:37:29 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "039a002a3fef63c1170daabb957199e33d2d0de3fbd5eb763cc8dd233da091bb.json"
     },
     {
