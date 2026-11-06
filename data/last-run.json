@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17589 from=\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-06T05:40:52.314901+00:00",
-  "added": 1,
+  "updated_at": "2026-11-06T05:40:53.553223+00:00",
+  "added": 2,
   "skipped": 82,
   "scanned": 84,
-  "current": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "current": "How to Keep These Wild Market Moves From Hijacking Your Financial Future",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 1,
     "seekingalpha": 0
   },
