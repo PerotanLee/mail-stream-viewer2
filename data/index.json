@@ -361,13 +361,22 @@
       "file": "e6d4a54c4cbaa0105e5f6dc0abdab91d5e385fa65e0ef75a9f35ee972aa0012c.json"
     },
     {
-      "id": "f49616ab91baf3436c457bb1be9dde128a7cd0a118ba7cde7a4768b3acd4474c",
-      "uid": "421234.jpOn7HX+uDSvpNEkQU7P9aT1ZTCdCBpBlf,AUlELCTM=",
+      "id": "4add60e653a007aecc68ab73104b76f43891482ad3388523bda0d456de54cc33",
+      "uid": "422975.Tery4Lmrmk9CzKvCapFP2ObZ0yNdZfQrL5LVt9a7T40=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🧳 Axios Finish Line: Toddler tour guide",
-      "date": "Thu, 29 Oct 2026 21:29:30 -0400",
-      "is_read": true,
-      "file": "f49616ab91baf3436c457bb1be9dde128a7cd0a118ba7cde7a4768b3acd4474c.json"
+      "subject": "🛠️ Axios Finish Line: Fix-it revolution",
+      "date": "Thu, 05 Nov 2026 21:29:23 -0500",
+      "is_read": false,
+      "file": "4add60e653a007aecc68ab73104b76f43891482ad3388523bda0d456de54cc33.json"
+    },
+    {
+      "id": "31dc5794f564a4c28bccff15972d8e19ecc920aa1c037e48aa1a3d4d501745e5",
+      "uid": "422939.woug1uMkO5aGv0nmv,CvT9aKEd4o3vKr9txXDRmazMk=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "How to Keep These Wild Market Moves From Hijacking Your Financial Future",
+      "date": "Thu, 05 Nov 2026 19:15:19 -0500",
+      "is_read": false,
+      "file": "31dc5794f564a4c28bccff15972d8e19ecc920aa1c037e48aa1a3d4d501745e5.json"
     },
     {
       "id": "66baac5970e5a67541d3fed841f1d1a8fd22ff28ef33c51b6a3e6bcd9f76ee18",
@@ -377,6 +386,24 @@
       "date": "Thu, 05 Nov 2026 19:09:46 +1100",
       "is_read": true,
       "file": "66baac5970e5a67541d3fed841f1d1a8fd22ff28ef33c51b6a3e6bcd9f76ee18.json"
+    },
+    {
+      "id": "80f702c6385fab929cd8d5919840b635dc2a9fdc47c93aac7aabb18f1395086e",
+      "uid": "422915.f+0obuQhS08ChiwdeECe3wulWycW0xCnyVUnuY3n7Q4=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "📉 AI free fall",
+      "date": "Thu, 05 Nov 2026 17:46:12 -0500",
+      "is_read": false,
+      "file": "80f702c6385fab929cd8d5919840b635dc2a9fdc47c93aac7aabb18f1395086e.json"
+    },
+    {
+      "id": "1e414b88896ee769a1c59f82993d40219d469b42c15c5de895f79ccdd56e8706",
+      "uid": "422912.fy7BtWsQP2mMn+Vk582jx0R68e8pirpI+4,L9wXam+w=",
+      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
+      "subject": "Investment News Quiz - Tuesday, Oct. 6",
+      "date": "Thu, 05 Nov 2026 17:31:52 -0500",
+      "is_read": false,
+      "file": "1e414b88896ee769a1c59f82993d40219d469b42c15c5de895f79ccdd56e8706.json"
     },
     {
       "id": "6759dec638106f8b04b76583ad45023a6848908712f3eedca8504f1287b40849",
