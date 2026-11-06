@@ -865,15 +865,6 @@
       "file": "4c422577aa5a6ffad9ba02e6cb67bde3220dc65c8ba33ff9c41f9e943eccc842.json"
     },
     {
-      "id": "350beb525b19446379f10edf20cf766c85a0034bc9e4c3233099b225b44deb6a",
-      "uid": "421477.zXiLYK6hLVRSjA8SXoGQEeZ3Ai5TFbdTNebghgLZVrw=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🩺 High cost of benefits",
-      "date": "Fri, 30 Oct 2026 11:58:23 -0400",
-      "is_read": true,
-      "file": "350beb525b19446379f10edf20cf766c85a0034bc9e4c3233099b225b44deb6a.json"
-    },
-    {
       "id": "7d92e7a3cc894ecc46d11918c49853038cac68c5ef16a528eac0a3700c6736f3",
       "uid": "423083.YK+U0203gFBPWSQAzxYBMxB8plr,qyvO0WCJc,IRDuM=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -881,6 +872,33 @@
       "date": "Fri, 06 Nov 2026 19:09:47 +1100",
       "is_read": true,
       "file": "7d92e7a3cc894ecc46d11918c49853038cac68c5ef16a528eac0a3700c6736f3.json"
+    },
+    {
+      "id": "165170060987fb9294aaf02fad2b2264dad59aebf1c380ec884222776b38dfd9",
+      "uid": "423190.,kOTjXLelbbRA3unnZqpNrfsLXmPkIaCdLChvRPghco=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "💪 Strong jobs",
+      "date": "Fri, 06 Nov 2026 12:00:13 -0500",
+      "is_read": false,
+      "file": "165170060987fb9294aaf02fad2b2264dad59aebf1c380ec884222776b38dfd9.json"
+    },
+    {
+      "id": "b918da92b43021acda71e911b019ef9a27833964ac4a6ff933198b236825797c",
+      "uid": "423184.72ioyf,VxMeJ8qU,uC6pTWx5e8A+RxmivjdsphD2SM0=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Blue light special",
+      "date": "Fri, 06 Nov 2026 09:57:45 -0500",
+      "is_read": false,
+      "file": "b918da92b43021acda71e911b019ef9a27833964ac4a6ff933198b236825797c.json"
+    },
+    {
+      "id": "485ab4fdbdca296c24c78be4fb8925c87213d5e466b9c33d22d325ca7ce6ce70",
+      "uid": "423182.MquJ2QoudV8i+HQu6ryIWcbaYC26eahTgSHPsMog6do=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🫧 Bubble trouble",
+      "date": "Fri, 06 Nov 2026 09:28:16 -0500",
+      "is_read": false,
+      "file": "485ab4fdbdca296c24c78be4fb8925c87213d5e466b9c33d22d325ca7ce6ce70.json"
     },
     {
       "id": "7f17969f70d0d1c7503024d43879d9a67a34f819b13edad579d5c0d8db4a9a3b",
