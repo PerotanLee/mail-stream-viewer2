@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17787 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-06T14:04:12.186256+00:00",
-  "added": 3,
+  "updated_at": "2026-11-06T14:04:13.774696+00:00",
+  "added": 4,
   "skipped": 9,
   "scanned": 13,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: Will Cooler Heads in Washington Prevail?",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 1,
     "seekingalpha": 1
   },
