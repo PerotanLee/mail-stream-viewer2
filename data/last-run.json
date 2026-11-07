@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17825 from=\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-07T16:16:25.131518+00:00",
-  "added": 6,
+  "updated_at": "2026-11-07T16:16:26.122345+00:00",
+  "added": 7,
   "skipped": 143,
   "scanned": 150,
-  "current": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "current": "Mansion Deals Alert: A Grammy-Winning Producer’s Manhattan Penthouse Lists for $11 Million",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 2,
     "seekingalpha": 1
   },
