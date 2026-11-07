@@ -645,7 +645,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🥊 Axios AM: The Miller Doctrine",
       "date": "Sat, 07 Nov 2026 08:51:15 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "5771b70a6b8a131311f23c7d5fbba182d6380c9a73129f2195a9b4648e59ff6c.json"
     },
     {
