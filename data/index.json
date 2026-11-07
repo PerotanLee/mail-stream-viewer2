@@ -613,15 +613,6 @@
       "file": "c4a356debd81b49d07502dda94c90c9ebcf614f48cf6668b7822fec6c8a61b8a.json"
     },
     {
-      "id": "755906c88048293dc0eb4433fdf36d27c775d239e85a520eeb96fe3f64d31da4",
-      "uid": "421636.pKdPDWyu5g7s6BSfi8wW82L+V4zvMx+woGoa2,kn9Zc=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Sat, 31 Oct 2026 18:09:45 +1100",
-      "is_read": true,
-      "file": "755906c88048293dc0eb4433fdf36d27c775d239e85a520eeb96fe3f64d31da4.json"
-    },
-    {
       "id": "04f6afc6532eb2a209fcea1c34f2b17a698e57b13d95c54a79bff57b2767357d",
       "uid": "421705.q0Ckj9r4KOwTu8j2n63uQYLPbsfhxKZPmETlB79uZKU=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
@@ -640,31 +631,40 @@
       "file": "881d4a35f5ab7c67ee85c36f042e74d5b29b482a8ecdd2ff653b7a24897abb6e.json"
     },
     {
-      "id": "bc55e8280af1342973ff4e827cf2906b221c26170bf4ed172ff700fe37188d11",
-      "uid": "421695.pVS5QUbi,9vepbIOhqNoWU0K+gRexPkRrOHQnVfRcxo=",
+      "id": "ac94cb1d60419680b8eeb4c7761186f710b062fd857db92b63d0a014bf9d4f97",
+      "uid": "423328.GMwKjKLquMbHs+SOIslW1nhFi3blsqBlEhYGoK256ag=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Sat, 07 Nov 2026 19:09:46 +1100",
+      "is_read": false,
+      "file": "ac94cb1d60419680b8eeb4c7761186f710b062fd857db92b63d0a014bf9d4f97.json"
+    },
+    {
+      "id": "5771b70a6b8a131311f23c7d5fbba182d6380c9a73129f2195a9b4648e59ff6c",
+      "uid": "423368.z4UMdi+4rWnq0YILk0RYpZrsSwMEWhbvPwGlX8CeuRE=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "📝 Axios AM: Midterm cheat sheet",
-      "date": "Sat, 31 Oct 2026 08:53:45 -0400",
-      "is_read": true,
-      "file": "bc55e8280af1342973ff4e827cf2906b221c26170bf4ed172ff700fe37188d11.json"
+      "subject": "🥊 Axios AM: The Miller Doctrine",
+      "date": "Sat, 07 Nov 2026 08:51:15 -0500",
+      "is_read": false,
+      "file": "5771b70a6b8a131311f23c7d5fbba182d6380c9a73129f2195a9b4648e59ff6c.json"
     },
     {
-      "id": "a6a65166258795afcc7512dfa780ca4913672a53eda088fc39287acbc58f47b0",
-      "uid": "421689.Qgh6L,EtZEqlwnDF3ckT2f9AmO,,a8Mk0b43KKrVGs0=",
+      "id": "de870809673e8c5fa0ea95ff77ccdc4e03d5418827880bf101a5c5be6f02a4be",
+      "uid": "423364.wFDvHtnvgG+v2+K7VHWibttxQgDkDjT+VV6HsPov2Co=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: America's Debt Problem Nobody Wants to Fix",
-      "date": "Sat, 31 Oct 2026 07:12:35 -0400",
-      "is_read": true,
-      "file": "a6a65166258795afcc7512dfa780ca4913672a53eda088fc39287acbc58f47b0.json"
+      "subject": "The 10-Point: Trump Doubles Down With Stephen Miller",
+      "date": "Sat, 07 Nov 2026 07:17:49 -0500",
+      "is_read": false,
+      "file": "de870809673e8c5fa0ea95ff77ccdc4e03d5418827880bf101a5c5be6f02a4be.json"
     },
     {
-      "id": "bc92526f490fd2800e289332666d58a52b7aca2e88bbdb1052aea0ddb38a2bfb",
-      "uid": "421681.njFTIjoZ73YcfMxxUQ9C9w,j6o8y39kChiB2m8IckHo=",
+      "id": "2ec1e38166d4b63ea28705d512bbc3465ffa82e948c0b078b271c98baa8ce4eb",
+      "uid": "423360.P1SfAhl2WWy32nhyUUTZqb8TbZ6peWD6HxVhtBBdjus=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "What Moved Markets This Week",
-      "date": "Sat, 31 Oct 2026 06:51:02 -0400",
-      "is_read": true,
-      "file": "bc92526f490fd2800e289332666d58a52b7aca2e88bbdb1052aea0ddb38a2bfb.json"
+      "date": "Sat, 07 Nov 2026 06:45:16 -0500",
+      "is_read": false,
+      "file": "2ec1e38166d4b63ea28705d512bbc3465ffa82e948c0b078b271c98baa8ce4eb.json"
     },
     {
       "id": "abc67a4531cb2f206f47e5728e113c4c452e14ffe76e6e09983381363d465ca2",
@@ -820,51 +820,6 @@
       "file": "e53286d807f9a28934180a4272b9e4e76fc1ee54602df333bc02784936e99d59.json"
     },
     {
-      "id": "5a54fe1a5c23787e158e5b147453bbe8182dd23ea171e510df835e58e7b56f23",
-      "uid": "421514.Rb91c+PUUY7px17p6NECWUMme34e+Z5R7yR+U,wCuc4=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "📉 AI's big, ugly week",
-      "date": "Fri, 30 Oct 2026 17:59:11 -0400",
-      "is_read": true,
-      "file": "5a54fe1a5c23787e158e5b147453bbe8182dd23ea171e510df835e58e7b56f23.json"
-    },
-    {
-      "id": "ab605446edbaffb0e37a2e0c73aaf5e40b6f594b2d25de1e216d83516dd6253b",
-      "uid": "421500.d6yMK+GXLJCrrz61d9jUOnssDwxrSQ31LdaOkabwfeQ=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Intel Crashes",
-      "date": "Fri, 30 Oct 2026 16:58:22 -0400",
-      "is_read": true,
-      "file": "ab605446edbaffb0e37a2e0c73aaf5e40b6f594b2d25de1e216d83516dd6253b.json"
-    },
-    {
-      "id": "cb6274dcfde96f10593ca1690fa987f29565e5506b66c9bc9d2314012ef655fd",
-      "uid": "421496.a,VT7tCARfixtqZ+cnkjneD0a5aIqsx+,HwcW2sSMrA=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "AI Bubble Burst: Confirmed By Alphabet, Caterpillar, ServiceNow, And Amazon",
-      "date": "Fri, 30 Oct 2026 16:06:35 -0400",
-      "is_read": false,
-      "file": "cb6274dcfde96f10593ca1690fa987f29565e5506b66c9bc9d2314012ef655fd.json"
-    },
-    {
-      "id": "8ea141269fbbe52f06c656fdcf80cf86c11ef6a3957277ee20c8d6711dbfc269",
-      "uid": "421487.TRVnojTwz1TG6yW2mXV8zT3rRgSKtfiM,tRQ,hBv1q0=",
-      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
-      "subject": "A Malibu Megaproject Unravels Before It's Even Finished",
-      "date": "Fri, 30 Oct 2026 15:31:09 -0400",
-      "is_read": true,
-      "file": "8ea141269fbbe52f06c656fdcf80cf86c11ef6a3957277ee20c8d6711dbfc269.json"
-    },
-    {
-      "id": "4c422577aa5a6ffad9ba02e6cb67bde3220dc65c8ba33ff9c41f9e943eccc842",
-      "uid": "421486.Y6Uh5b+7YNy9y7GEbQehqlJl5mg6sl++aPHLW2vKrqg=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🗳️ Axios PM: Early voting surges",
-      "date": "Fri, 30 Oct 2026 15:15:30 -0400",
-      "is_read": true,
-      "file": "4c422577aa5a6ffad9ba02e6cb67bde3220dc65c8ba33ff9c41f9e943eccc842.json"
-    },
-    {
       "id": "7d92e7a3cc894ecc46d11918c49853038cac68c5ef16a528eac0a3700c6736f3",
       "uid": "423083.YK+U0203gFBPWSQAzxYBMxB8plr,qyvO0WCJc,IRDuM=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -872,6 +827,69 @@
       "date": "Fri, 06 Nov 2026 19:09:47 +1100",
       "is_read": true,
       "file": "7d92e7a3cc894ecc46d11918c49853038cac68c5ef16a528eac0a3700c6736f3.json"
+    },
+    {
+      "id": "3a18b45a5c6d82d8677f943d8a5939a1d2909b2e06f502529010b27f95cf37f5",
+      "uid": "423219.maYbfqMGoqTsqIUywjGOfHVSd3dWM7GL+6,zk,3m5KI=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🤖 Trillion-dollar rethink",
+      "date": "Fri, 06 Nov 2026 17:18:41 -0500",
+      "is_read": false,
+      "file": "3a18b45a5c6d82d8677f943d8a5939a1d2909b2e06f502529010b27f95cf37f5.json"
+    },
+    {
+      "id": "57d4b9afcc58f411afc52d8b6bcf0c7f295f6447ad55d52204a9b0bf6651f0a4",
+      "uid": "423211.gzoyTyr+1MNxnDFHI,j8yAORcv9LpybCZBIT4a6JQV8=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "AI's Agonizing Week",
+      "date": "Fri, 06 Nov 2026 16:26:51 -0500",
+      "is_read": false,
+      "file": "57d4b9afcc58f411afc52d8b6bcf0c7f295f6447ad55d52204a9b0bf6651f0a4.json"
+    },
+    {
+      "id": "4edc24a9fbd4f0389a20fa5cb11a4bb5311234ce50e109650a17b1c7380a5cc8",
+      "uid": "423210.2V9Zp9N,kOXSdw70f10ytpmTXL2UMn+wvN3lV9p744g=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: A Grammy-Winning Producer’s Manhattan Penthouse Lists for $11 Million",
+      "date": "Fri, 06 Nov 2026 16:15:18 -0500",
+      "is_read": false,
+      "file": "4edc24a9fbd4f0389a20fa5cb11a4bb5311234ce50e109650a17b1c7380a5cc8.json"
+    },
+    {
+      "id": "9621fd600ef8dc2eb90074d8bde2cf5b3003ec87308fc81c404047ef1a31ea4b",
+      "uid": "423208.E,Na5dqnBIYBt0Y,5sK,ulMWEpOOC9y+W3Gy3lrdDc8=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "It's Not Over, The Worst Is Yet To Come",
+      "date": "Fri, 06 Nov 2026 16:06:45 -0500",
+      "is_read": false,
+      "file": "9621fd600ef8dc2eb90074d8bde2cf5b3003ec87308fc81c404047ef1a31ea4b.json"
+    },
+    {
+      "id": "49672262ef8b05872a62b3323f5b83f64d4d971e052c291408f23db09f5eeaf5",
+      "uid": "423207.xxzJ94M++Fd21hQnEpKbPTk98VzewisLMP5mlUPoZXw=",
+      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+      "subject": "Developers Bet on Man-Made Waves to Lure Wealthy Buyers",
+      "date": "Fri, 06 Nov 2026 16:06:06 -0500",
+      "is_read": false,
+      "file": "49672262ef8b05872a62b3323f5b83f64d4d971e052c291408f23db09f5eeaf5.json"
+    },
+    {
+      "id": "b119b248b1538b9b6609ceaf6a2dddf710d5bf98f894bb67a280d98bb3fcb7e5",
+      "uid": "423199.BFhh89nOkF1qi1ED7u1jujfo,2bPWEvzApfUF8Z26x4=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤯 Axios PM: Jobs shocker",
+      "date": "Fri, 06 Nov 2026 15:15:46 -0500",
+      "is_read": false,
+      "file": "b119b248b1538b9b6609ceaf6a2dddf710d5bf98f894bb67a280d98bb3fcb7e5.json"
+    },
+    {
+      "id": "9c968346d8ec6f67afa116c323841f28bb903bc9e5636995b108c63e4997ab3e",
+      "uid": "423198.OozSIrsUAdUFqyqZ6JdMg9QnMkkEYPJplGktr0YqLq4=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: In Tapping Stephen Miller, Trump Doubles Down and Digs In",
+      "date": "Fri, 06 Nov 2026 15:02:00 -0500",
+      "is_read": false,
+      "file": "9c968346d8ec6f67afa116c323841f28bb903bc9e5636995b108c63e4997ab3e.json"
     },
     {
       "id": "165170060987fb9294aaf02fad2b2264dad59aebf1c380ec884222776b38dfd9",
