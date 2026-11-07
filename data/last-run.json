@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17823 from=Must Reads <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-07T16:16:28.008212+00:00",
-  "added": 7,
+  "updated_at": "2026-11-07T16:16:29.234528+00:00",
+  "added": 8,
   "skipped": 144,
   "scanned": 152,
-  "current": "Must Reads <account@seekingalpha.com>",
+  "current": "It's Not Over, The Worst Is Yet To Come",
   "added_by_filter": {
     "wsj": 4,
     "axios": 2,
-    "seekingalpha": 1
+    "seekingalpha": 2
   },
   "last_newest_num": 17812,
   "newest_num": 17974,
