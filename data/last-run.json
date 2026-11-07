@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17816 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-07T16:16:35.741758+00:00",
-  "added": 10,
+  "updated_at": "2026-11-07T16:16:36.829903+00:00",
+  "added": 11,
   "skipped": 148,
   "scanned": 159,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: In Tapping Stephen Miller, Trump Doubles Down and Digs In",
   "added_by_filter": {
-    "wsj": 5,
+    "wsj": 6,
     "axios": 3,
     "seekingalpha": 2
   },
