@@ -879,7 +879,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🤯 Axios PM: Jobs shocker",
       "date": "Fri, 06 Nov 2026 15:15:46 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "b119b248b1538b9b6609ceaf6a2dddf710d5bf98f894bb67a280d98bb3fcb7e5.json"
     },
     {
