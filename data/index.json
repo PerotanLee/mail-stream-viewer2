@@ -613,15 +613,6 @@
       "file": "c4a356debd81b49d07502dda94c90c9ebcf614f48cf6668b7822fec6c8a61b8a.json"
     },
     {
-      "id": "04f6afc6532eb2a209fcea1c34f2b17a698e57b13d95c54a79bff57b2767357d",
-      "uid": "421705.q0Ckj9r4KOwTu8j2n63uQYLPbsfhxKZPmETlB79uZKU=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Alphabet: Noisy Q3 Metrics Meet Outsized Cloud Opportunities - Deep Value Buy",
-      "date": "Sat, 31 Oct 2026 16:06:38 -0400",
-      "is_read": false,
-      "file": "04f6afc6532eb2a209fcea1c34f2b17a698e57b13d95c54a79bff57b2767357d.json"
-    },
-    {
       "id": "ac94cb1d60419680b8eeb4c7761186f710b062fd857db92b63d0a014bf9d4f97",
       "uid": "423328.GMwKjKLquMbHs+SOIslW1nhFi3blsqBlEhYGoK256ag=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -629,6 +620,15 @@
       "date": "Sat, 07 Nov 2026 19:09:46 +1100",
       "is_read": true,
       "file": "ac94cb1d60419680b8eeb4c7761186f710b062fd857db92b63d0a014bf9d4f97.json"
+    },
+    {
+      "id": "2a59b5c0236d800ea74e945365db8c12d08585c488f13fe539d8c7156e39bdf8",
+      "uid": "423381.wb+xXW,bb1,E7sfkr7dMD9ObilZlkt+bYUDFdsCat00=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "8%+ Yields Without The Sleepless Nights: My Top 2 Picks",
+      "date": "Sat, 07 Nov 2026 16:07:08 -0500",
+      "is_read": false,
+      "file": "2a59b5c0236d800ea74e945365db8c12d08585c488f13fe539d8c7156e39bdf8.json"
     },
     {
       "id": "5771b70a6b8a131311f23c7d5fbba182d6380c9a73129f2195a9b4648e59ff6c",
