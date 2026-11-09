@@ -568,49 +568,40 @@
       "file": "4df2102b6e5dd03e7c83d215be7646abfa28df30eccef97643b9c1f6ada1dce9.json"
     },
     {
-      "id": "ded8394cfcf2e56273b6d93d12cdfe5ec3bd4ff7d2cb88f55dc55fbc8a852195",
-      "uid": "421860.ZeSdVr2WmzZMYIi1,nDZYJ6k0Z2Eq+B8Z4HMSSokxGA=",
+      "id": "8eef772d7e1f92fe8739f6753e0a0f03cf694c0e3684ab23ee816f4c388eeafe",
+      "uid": "423534.LWXTN0ex,e7AeisNYEqyvIJTKe6pRQFd3miHuNq2s7k=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "The Biggest Megatrend Of My Lifetime Is Just Getting Started",
-      "date": "Sun, 01 Nov 2026 16:06:42 -0500",
+      "subject": "Two Of My Best Dividend Stocks Cut Their Dividends",
+      "date": "Sun, 08 Nov 2026 16:06:27 -0500",
       "is_read": false,
-      "file": "ded8394cfcf2e56273b6d93d12cdfe5ec3bd4ff7d2cb88f55dc55fbc8a852195.json"
+      "file": "8eef772d7e1f92fe8739f6753e0a0f03cf694c0e3684ab23ee816f4c388eeafe.json"
     },
     {
-      "id": "4ce7dca5d3f4b9fe0b11ee10578a5e134976e92473ed7a108807511615de413f",
-      "uid": "421850.ZvHtK,JY65U0gSTUYqfeNrwTVNcpBcD17Q5N,E1QkGU=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics Special Edition: Democrats Are Closing With Chaos",
-      "date": "Sun, 01 Nov 2026 15:10:01 -0500",
-      "is_read": true,
-      "file": "4ce7dca5d3f4b9fe0b11ee10578a5e134976e92473ed7a108807511615de413f.json"
-    },
-    {
-      "id": "1b89def36b379ed66103a91bdbcc792d851cfafa45853df485b0f57a474cb3ae",
-      "uid": "421842.42XtzhlPkP4f++0ioqt9q3V8Xu276PGjxK1poQYoRWA=",
+      "id": "1662b8493d2559b4b1c9e29484642cbd4c4a1438c6b85f5aac558a79eb6dbd01",
+      "uid": "423521.ZGUvhewUGQhleGZ631oHNro4LdN8,q6P1a9Xqr1n74Y=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "💥 Axios AM: Post-election AI blitz",
-      "date": "Sun, 01 Nov 2026 08:55:16 -0500",
-      "is_read": true,
-      "file": "1b89def36b379ed66103a91bdbcc792d851cfafa45853df485b0f57a474cb3ae.json"
+      "subject": "👢 Axios AM: Texas, Texas, Texas!",
+      "date": "Sun, 08 Nov 2026 09:23:37 -0500",
+      "is_read": false,
+      "file": "1662b8493d2559b4b1c9e29484642cbd4c4a1438c6b85f5aac558a79eb6dbd01.json"
     },
     {
-      "id": "691d911d025de231e33416bdaac3d7f8110df2d837c9a31ac38ed06fdede5f60",
-      "uid": "421839.NM2PlXlJGU5pMuoIJpwv5arM2XRjFau,zMmlRbKdS1c=",
+      "id": "75d65f295e7a0c345b5a6cd0e34fe0b9507485aaa6985bf7fad869205f68bc68",
+      "uid": "423516.WPnAV24iEOyhPWgqdFts3tDybbvEYlQMk4xOuz8zWwY=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Wall Street Insures Its AI Bet",
-      "date": "Sun, 01 Nov 2026 07:07:14 -0500",
-      "is_read": true,
-      "file": "691d911d025de231e33416bdaac3d7f8110df2d837c9a31ac38ed06fdede5f60.json"
+      "subject": "The 10-Point: The Hard Part Begins for Hakeem Jeffries",
+      "date": "Sun, 08 Nov 2026 07:13:37 -0500",
+      "is_read": false,
+      "file": "75d65f295e7a0c345b5a6cd0e34fe0b9507485aaa6985bf7fad869205f68bc68.json"
     },
     {
-      "id": "c4a356debd81b49d07502dda94c90c9ebcf614f48cf6668b7822fec6c8a61b8a",
-      "uid": "421833.QwJIdk80WHH+TusDUXHccvzxekPrnREFHpbP7ou0Yrc=",
+      "id": "ff426bf8f3c437c356c0b2f937b4f9ed725b89e42e617d85df60d78e336cc336",
+      "uid": "423509.DGEXLPIKOKTa9RcCC4sSkCbEg+eeJGBsk4Yv3U64dZ8=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Wall Street Week Ahead",
-      "date": "Sun, 01 Nov 2026 06:11:26 -0500",
-      "is_read": true,
-      "file": "c4a356debd81b49d07502dda94c90c9ebcf614f48cf6668b7822fec6c8a61b8a.json"
+      "date": "Sun, 08 Nov 2026 06:18:16 -0500",
+      "is_read": false,
+      "file": "ff426bf8f3c437c356c0b2f937b4f9ed725b89e42e617d85df60d78e336cc336.json"
     },
     {
       "id": "ac94cb1d60419680b8eeb4c7761186f710b062fd857db92b63d0a014bf9d4f97",
