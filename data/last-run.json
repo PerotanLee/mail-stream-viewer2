@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18254 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-09T18:01:09.597107+00:00",
-  "added": 9,
+  "updated_at": "2026-11-09T18:01:11.761936+00:00",
+  "added": 10,
   "skipped": 25,
   "scanned": 35,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🤖 Axios AM: Too-big-to-fail test",
   "added_by_filter": {
     "wsj": 4,
-    "axios": 4,
+    "axios": 5,
     "seekingalpha": 1
   },
   "last_newest_num": 18253,
