@@ -600,7 +600,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Wall Street Week Ahead",
       "date": "Sun, 08 Nov 2026 06:18:16 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "ff426bf8f3c437c356c0b2f937b4f9ed725b89e42e617d85df60d78e336cc336.json"
     },
     {
