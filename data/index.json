@@ -744,7 +744,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🤖 Axios AM: Too-big-to-fail test",
       "date": "Mon, 09 Nov 2026 05:47:19 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "080762e06afe5c9a425de0bfefdd35a630f1b6a21758b15ef9367b224405c2f0.json"
     },
     {
