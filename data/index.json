@@ -658,6 +658,96 @@
       "file": "172a4070b2c398b78a6dc05270b8bb89f404dc2794936c3c71ddea0fc9ec268f.json"
     },
     {
+      "id": "2f104d0bfec715ec412e32ed7f67aaa56b46123a06c96302d69ee09909d3d2ab",
+      "uid": "423740.IQU5Y1Aycz+3+5s31a0tWiqSTHPlb70eySS4qgyEcFE=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🔄 Oil and yields",
+      "date": "Mon, 09 Nov 2026 12:01:35 -0500",
+      "is_read": false,
+      "file": "2f104d0bfec715ec412e32ed7f67aaa56b46123a06c96302d69ee09909d3d2ab.json"
+    },
+    {
+      "id": "1104f1f89450353e425a3e40bfc9b4e77ff58ee40e118bd261ce3478e7e01079",
+      "uid": "423737.dS4HJQEQxtaYpcuztYIR,s4pGteddhdmAeTAksE3Bzs=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Too big to fire",
+      "date": "Mon, 09 Nov 2026 10:07:11 -0500",
+      "is_read": false,
+      "file": "1104f1f89450353e425a3e40bfc9b4e77ff58ee40e118bd261ce3478e7e01079.json"
+    },
+    {
+      "id": "c15f1ce8fd68f6657c9a706383b793b5d942a990a7a4852f0e7403a695ab61f1",
+      "uid": "423734.c9dGKSl7PIQjuQAXUpos2HXl,J3ITmG,NITXXd9e918=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🚨 Nvidia's nightmare",
+      "date": "Mon, 09 Nov 2026 09:34:11 -0500",
+      "is_read": false,
+      "file": "c15f1ce8fd68f6657c9a706383b793b5d942a990a7a4852f0e7403a695ab61f1.json"
+    },
+    {
+      "id": "9c53ff68a0edf96715a9a42468e145e1a115109a28f02965a738adbbe2f03174",
+      "uid": "423726.9df2Nk2e1arGvdX2Be4Kr4+gZHgdqRbx0z3Qhp3pY+I=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "😳 Nervous about Nvidia",
+      "date": "Mon, 09 Nov 2026 07:31:57 -0500",
+      "is_read": false,
+      "file": "9c53ff68a0edf96715a9a42468e145e1a115109a28f02965a738adbbe2f03174.json"
+    },
+    {
+      "id": "00ffd7cb9ef7c4301dbbd0687f76fad9758af679a92908dce54037dc9176d61b",
+      "uid": "423725.WnTj0QXLdCV9qQBt,6aJExS7DbUo6TT6SpVzca+vrP4=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Will The 'Godfather Of AI' Be Replaced?",
+      "date": "Mon, 09 Nov 2026 07:13:36 -0500",
+      "is_read": false,
+      "file": "00ffd7cb9ef7c4301dbbd0687f76fad9758af679a92908dce54037dc9176d61b.json"
+    },
+    {
+      "id": "e2905f3e71a4f7c8d5a5e67963e80f4d3e2c119a2b166ecb6d53b063ddab61c3",
+      "uid": "423721.tAPawPyF9Hrx7cw,feCFqX6P5VF5sucVCWRFLmk8F3s=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Nvidia’s CEO Scandal Tests Trump, as Does Emboldened Congress",
+      "date": "Mon, 09 Nov 2026 06:57:36 -0500",
+      "is_read": false,
+      "file": "e2905f3e71a4f7c8d5a5e67963e80f4d3e2c119a2b166ecb6d53b063ddab61c3.json"
+    },
+    {
+      "id": "5470399d7e32f36c09ddd8ad3607de5758d22a129b76f438895584eb00acbb58",
+      "uid": "423718.xFaTFPjumYnGduz1tbVVNKZ0MDnYXIEvvKpQ7Eb2dF8=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Amid Market Chaos, Stick With Your Investing Playbook",
+      "date": "Mon, 09 Nov 2026 06:35:51 -0500",
+      "is_read": false,
+      "file": "5470399d7e32f36c09ddd8ad3607de5758d22a129b76f438895584eb00acbb58.json"
+    },
+    {
+      "id": "a1d50b517e33e4f5348f8309ce9434c63ab90c0e6cbc3a4529391d15929d0f03",
+      "uid": "423712.w1lr3a+uEE52rYiMn2qPKWBWRraButiONasbKX4N59Y=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: An Affair, a Spy Probe and Nvidia’s CEO",
+      "date": "Mon, 09 Nov 2026 06:17:35 -0500",
+      "is_read": false,
+      "file": "a1d50b517e33e4f5348f8309ce9434c63ab90c0e6cbc3a4529391d15929d0f03.json"
+    },
+    {
+      "id": "3d4da95eb967c28e1ab085ee67f8ab94851be79107ab0d698121d57f24f8c733",
+      "uid": "423711.NtxOwvnXseb0bhRtn,n4HkZPXKp4QGlNoZkxdMZ40F0=",
+      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
+      "subject": "✈️ Boeing and the Trouble with Timing Turnarounds",
+      "date": "Mon, 09 Nov 2026 06:17:14 -0500",
+      "is_read": false,
+      "file": "3d4da95eb967c28e1ab085ee67f8ab94851be79107ab0d698121d57f24f8c733.json"
+    },
+    {
+      "id": "080762e06afe5c9a425de0bfefdd35a630f1b6a21758b15ef9367b224405c2f0",
+      "uid": "423706.ZxRpLpYreWDCou+7XctJYop+iZJGziEQ6ny9o6tpsp0=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios AM: Too-big-to-fail test",
+      "date": "Mon, 09 Nov 2026 05:47:19 -0500",
+      "is_read": false,
+      "file": "080762e06afe5c9a425de0bfefdd35a630f1b6a21758b15ef9367b224405c2f0.json"
+    },
+    {
       "id": "abc67a4531cb2f206f47e5728e113c4c452e14ffe76e6e09983381363d465ca2",
       "uid": "422173.UT31IaAE,owVOXNgeb,G4WZ19cIPGnJ0h3XmMDT3bO8=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -701,105 +791,6 @@
       "date": "Mon, 02 Nov 2026 15:25:05 -0500",
       "is_read": true,
       "file": "e5cf4b57ab3cf80eef1fe11ab79ed94227b0310c054eb15aa92526a7d99c22eb.json"
-    },
-    {
-      "id": "ea6b4122f178f304985acfeb4b8db97637d7e34723918122ad593265848e9c6a",
-      "uid": "422100.bLr8dp5iMQ44bHg1pZZx0SOFAbJJ5NbgjZpb74X9brM=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "💸 2028 deficit politics",
-      "date": "Mon, 02 Nov 2026 11:58:33 -0500",
-      "is_read": true,
-      "file": "ea6b4122f178f304985acfeb4b8db97637d7e34723918122ad593265848e9c6a.json"
-    },
-    {
-      "id": "d18fecfec9e89936d90afaa1dfac7720cbf72deabbe23b414d048a4c5be41a17",
-      "uid": "422096.UnPFc6r77zuTYL2Iuq8aywkMbsYzq+zLxwpQEv8BA5I=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: IP-Uh-Oh",
-      "date": "Mon, 02 Nov 2026 10:02:04 -0500",
-      "is_read": true,
-      "file": "d18fecfec9e89936d90afaa1dfac7720cbf72deabbe23b414d048a4c5be41a17.json"
-    },
-    {
-      "id": "ee3e4230bbaf35cc46c3bb5e4a1568d8c956d0bfa7a4f5cca08e3e5eddc74e73",
-      "uid": "422093.CVNA9FmrVS+LpBaGLh6HfW8TxrrEeq+Ldfp2035QuwM=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "295% portfolio gain. New pick out in a few hours.",
-      "date": "Mon, 02 Nov 2026 09:38:15 -0500",
-      "is_read": true,
-      "file": "ee3e4230bbaf35cc46c3bb5e4a1568d8c956d0bfa7a4f5cca08e3e5eddc74e73.json"
-    },
-    {
-      "id": "eca8aa033a02e3b497fe5c317f7d062db41f7b58053562b8a997a162d4e3ac7b",
-      "uid": "422091.Xhdya1CRD3jipReV4Ix0cxX5lnF8rAbEIuw4gbP7QVc=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🤳 Testing the Duo",
-      "date": "Mon, 02 Nov 2026 09:28:41 -0500",
-      "is_read": true,
-      "file": "eca8aa033a02e3b497fe5c317f7d062db41f7b58053562b8a997a162d4e3ac7b.json"
-    },
-    {
-      "id": "a06d6c167ddaf25152fcedb0f01558b5f8e3719fdd711b51354e301b550a7382",
-      "uid": "422085.vQyOw1yM,TjlGYNS9JIAkvG+QUqmvxnKUJibxxpy48E=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Apple Goes Its Own Way On AI",
-      "date": "Mon, 02 Nov 2026 07:42:41 -0500",
-      "is_read": true,
-      "file": "a06d6c167ddaf25152fcedb0f01558b5f8e3719fdd711b51354e301b550a7382.json"
-    },
-    {
-      "id": "c51c2604a1fdc7557d47e06a2c97853d9811e591f997ef13810ebd82969999cd",
-      "uid": "422083.rYs+hh3b24IKBcpIMdGUxqUyXTSxeQd7aNNkcsOzE7c=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🗓️ Midterms test",
-      "date": "Mon, 02 Nov 2026 07:28:38 -0500",
-      "is_read": true,
-      "file": "c51c2604a1fdc7557d47e06a2c97853d9811e591f997ef13810ebd82969999cd.json"
-    },
-    {
-      "id": "a3ba8e8922f2bba748a37dc362bf055f9968ad9680c62948d3de8a57317c625d",
-      "uid": "422082.hdFadrkKIp2wkhwz4hCADfZ4mG+5jiVyoGJuKdK82Ag=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Trump’s Monday Speech at High-Drama Reflecting Pool Is an Apt End to Midterms",
-      "date": "Mon, 02 Nov 2026 07:08:05 -0500",
-      "is_read": true,
-      "file": "a3ba8e8922f2bba748a37dc362bf055f9968ad9680c62948d3de8a57317c625d.json"
-    },
-    {
-      "id": "ffda26fd09f19700bd94affb874cbb3325a65f848833acac50228acfed485a3f",
-      "uid": "422074.DNnjZ8qvwDgBXq3,Gu+l20ATgZ1osz10ef3fD6XWX1U=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🤨 Markets A.M.: This Bond Measure Says Stocks Are Cheap. Don’t Believe It.",
-      "date": "Mon, 02 Nov 2026 06:52:09 -0500",
-      "is_read": true,
-      "file": "ffda26fd09f19700bd94affb874cbb3325a65f848833acac50228acfed485a3f.json"
-    },
-    {
-      "id": "0f1c07445683c28e73209b39d58d2af5ef1acfe37e4a3ed5dd1bb21d65903389",
-      "uid": "422072.rM0O3fNVC0S5zJ8,JJgbrHxtY0QIqp7J5kcKv+HwxYI=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "Funds That Are Too Much of a Good Thing",
-      "date": "Mon, 02 Nov 2026 06:31:37 -0500",
-      "is_read": true,
-      "file": "0f1c07445683c28e73209b39d58d2af5ef1acfe37e4a3ed5dd1bb21d65903389.json"
-    },
-    {
-      "id": "a703402a5abe3d2f75440178ae33d32ace215d7accf3e52e48254bc0da68d271",
-      "uid": "422067.A5Tj77C3IeLW0H9wh21c83e8V4nHUdvmOHa18MahYW4=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Democratic Infighting Heats Up Before Midterms",
-      "date": "Mon, 02 Nov 2026 06:02:21 -0500",
-      "is_read": true,
-      "file": "a703402a5abe3d2f75440178ae33d32ace215d7accf3e52e48254bc0da68d271.json"
-    },
-    {
-      "id": "e53286d807f9a28934180a4272b9e4e76fc1ee54602df333bc02784936e99d59",
-      "uid": "422065.gb0jirSvgVbB8MjVv23Z93hmQfA9fZjuQ54PQAPWyC4=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "⚡ Axios AM: Late Senate shocker",
-      "date": "Mon, 02 Nov 2026 05:51:48 -0500",
-      "is_read": true,
-      "file": "e53286d807f9a28934180a4272b9e4e76fc1ee54602df333bc02784936e99d59.json"
     },
     {
       "id": "7d92e7a3cc894ecc46d11918c49853038cac68c5ef16a528eac0a3700c6736f3",
