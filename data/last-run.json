@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18286 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-09T18:00:29.259390+00:00",
-  "added": 0,
+  "updated_at": "2026-11-09T18:00:30.761966+00:00",
+  "added": 1,
   "skipped": 2,
   "scanned": 3,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "🔄 Oil and yields",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 18253,
