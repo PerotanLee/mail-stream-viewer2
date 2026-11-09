@@ -582,7 +582,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "👢 Axios AM: Texas, Texas, Texas!",
       "date": "Sun, 08 Nov 2026 09:23:37 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "1662b8493d2559b4b1c9e29484642cbd4c4a1438c6b85f5aac558a79eb6dbd01.json"
     },
     {
