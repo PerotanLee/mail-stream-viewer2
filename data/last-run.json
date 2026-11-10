@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18290 from=\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-10T03:42:51.060247+00:00",
-  "added": 7,
+  "updated_at": "2026-11-10T03:42:52.284825+00:00",
+  "added": 8,
   "skipped": 107,
   "scanned": 115,
-  "current": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "current": "Mansion Deals Alert: A Circa-1890s Mansion on San Francisco’s Gold Coast Lists for $34.95 Million",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 3,
     "seekingalpha": 1
   },
