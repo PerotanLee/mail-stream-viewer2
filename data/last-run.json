@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18526 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-10T14:04:43.458817+00:00",
-  "added": 2,
+  "updated_at": "2026-11-10T14:04:45.113221+00:00",
+  "added": 3,
   "skipped": 4,
   "scanned": 7,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: Hegseth’s Impeachment Gives Wounded Hill GOP New Power",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 1,
     "seekingalpha": 1
   },
