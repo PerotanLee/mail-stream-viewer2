@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18508 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-10T14:05:03.569212+00:00",
-  "added": 9,
+  "updated_at": "2026-11-10T14:05:04.765442+00:00",
+  "added": 10,
   "skipped": 15,
   "scanned": 25,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: A Reckoning for Nvidia",
   "added_by_filter": {
-    "wsj": 5,
+    "wsj": 6,
     "axios": 3,
     "seekingalpha": 1
   },
