@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18542 from=\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-10T16:12:20.412681+00:00",
-  "added": 0,
+  "updated_at": "2026-11-10T16:12:22.544543+00:00",
+  "added": 1,
   "skipped": 1,
   "scanned": 2,
-  "current": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
+  "current": "The Intelligent Investor: I'm Always Wrong About Gold. You Probably Are, Too.",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 0,
     "seekingalpha": 0
   },
