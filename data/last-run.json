@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18529 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-10T14:04:39.913772+00:00",
-  "added": 1,
+  "updated_at": "2026-11-10T14:04:41.595008+00:00",
+  "added": 2,
   "skipped": 2,
   "scanned": 4,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "👀 Anthropic, CPI, oh my!",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 1
   },
   "last_newest_num": 18500,
