@@ -163,6 +163,96 @@
       "file": "ee568ce7e2bccab5b3304c78764aab1108126f8ed532203bade609bdb0fcb938.json"
     },
     {
+      "id": "9ce0f70a9008d51d125d365ab5a29e18c75f5b26483d098d6bbf0cc36433351e",
+      "uid": "424015.bst1ht,nhgvNrDTlSaV9qVdIhRSd8roTkfkaECVbWko=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "In Pursuit Of The Largest IPO In History",
+      "date": "Tue, 10 Nov 2026 07:39:45 -0500",
+      "is_read": false,
+      "file": "9ce0f70a9008d51d125d365ab5a29e18c75f5b26483d098d6bbf0cc36433351e.json"
+    },
+    {
+      "id": "94b42aa65504e7bd2650fcaf7e78cedb4e5a5feb221ad82aea5ddfe4b921d589",
+      "uid": "424013.DrGQF,UWd1phjv2roAt4MoQgdHYWn5BTML90XkDu8tc=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "👀 Anthropic, CPI, oh my!",
+      "date": "Tue, 10 Nov 2026 07:28:51 -0500",
+      "is_read": false,
+      "file": "94b42aa65504e7bd2650fcaf7e78cedb4e5a5feb221ad82aea5ddfe4b921d589.json"
+    },
+    {
+      "id": "db4743e32e99f4ca727fe59fb34102ffc0c6283f8684d150566b39a7227c6177",
+      "uid": "424010.owrShCIoQe2uZd38DiXgjrYYNw8bGR807ffD6gGk6MA=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Hegseth’s Impeachment Gives Wounded Hill GOP New Power",
+      "date": "Tue, 10 Nov 2026 07:06:16 -0500",
+      "is_read": false,
+      "file": "db4743e32e99f4ca727fe59fb34102ffc0c6283f8684d150566b39a7227c6177.json"
+    },
+    {
+      "id": "7f5ba769579021ba856eb94aabb9dae8a1772e454f57f7413dec5ff369c7c936",
+      "uid": "424009.u,vaXbRODeD7BVSl4CUGT9wMCwIoqtadq,wkMwD0d7w=",
+      "from_addr": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ China: Xi Risks Misreading Trump",
+      "date": "Tue, 10 Nov 2026 07:04:25 -0500",
+      "is_read": false,
+      "file": "7f5ba769579021ba856eb94aabb9dae8a1772e454f57f7413dec5ff369c7c936.json"
+    },
+    {
+      "id": "f1478a8c83fe364bd8c5a1d258be0f74772b41f61992a3f6669ff48dea0320ab",
+      "uid": "424001.GFAwAwW9VPT1QlzUr,e,0nmZxZelfJOJJnB4Q6pfZig=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Capitol Hill’s Bark Is Worse Than Its Bite for Bank Stocks",
+      "date": "Tue, 10 Nov 2026 06:30:42 -0500",
+      "is_read": false,
+      "file": "f1478a8c83fe364bd8c5a1d258be0f74772b41f61992a3f6669ff48dea0320ab.json"
+    },
+    {
+      "id": "7329f4598aa1387bd2e63afcce9e68b136c4151aad222bc715484ef2c412cc90",
+      "uid": "424000.+Jkn8pyuMgOtr+fuGFq9f,BbP,+1+7ndXcWAJtCq4z4=",
+      "from_addr": "Axios Defense <defense@axios.com>",
+      "subject": "🔇 Half-year holdout",
+      "date": "Tue, 10 Nov 2026 06:30:17 -0500",
+      "is_read": false,
+      "file": "7329f4598aa1387bd2e63afcce9e68b136c4151aad222bc715484ef2c412cc90.json"
+    },
+    {
+      "id": "ec4bc36db8f41aa5e7fa34172e4226f1b71607a82a2225ddadbdb8b98957fba1",
+      "uid": "423999.SHZi3b2ZSzSASYa42EsGSi8VUW8AYFN2IrYS,qIQ6V0=",
+      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
+      "subject": "⚾ AI’s 'Field of Dreams' Dilemma",
+      "date": "Tue, 10 Nov 2026 06:29:17 -0500",
+      "is_read": false,
+      "file": "ec4bc36db8f41aa5e7fa34172e4226f1b71607a82a2225ddadbdb8b98957fba1.json"
+    },
+    {
+      "id": "af530ba18eefc84535fa18c5fae85494ab59eea34d9b21720f49953c15c2fd67",
+      "uid": "423998.v1y8MsLLNwg5dw8sYuycVzdgreGO10Nf8H0U1d1Dw5M=",
+      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Economics: Nvidia Just Made CEOs’ Lives Much Harder",
+      "date": "Tue, 10 Nov 2026 06:28:48 -0500",
+      "is_read": false,
+      "file": "af530ba18eefc84535fa18c5fae85494ab59eea34d9b21720f49953c15c2fd67.json"
+    },
+    {
+      "id": "8f3f8838b6d4829d9fbb112aa76f60de1d4898a599f34b314f1d188ae192ffd5",
+      "uid": "423995.g+Uh6d,cE0aFpZA,hn65IEPUJG,ycpkjnodwoxdZYpw=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "👑 Axios AM: Trump's imperial last act",
+      "date": "Tue, 10 Nov 2026 06:20:10 -0500",
+      "is_read": false,
+      "file": "8f3f8838b6d4829d9fbb112aa76f60de1d4898a599f34b314f1d188ae192ffd5.json"
+    },
+    {
+      "id": "f51fd7306d8c4de21ff5023374540b2e1da70ede281b0a1fb6b4cef37630ccca",
+      "uid": "423992.0F3k+TG2QpijXeRmJDmPNbNPLHsfoaivN2kD+CIJUZQ=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: A Reckoning for Nvidia",
+      "date": "Tue, 10 Nov 2026 06:13:40 -0500",
+      "is_read": false,
+      "file": "f51fd7306d8c4de21ff5023374540b2e1da70ede281b0a1fb6b4cef37630ccca.json"
+    },
+    {
       "id": "b9f1fcf88249a860686d7514a78c5b165f079548069ac57635215cc58bc254ac",
       "uid": "422393.ADnpAur,IFG5gsU,8Z2y1,2N8Hre4IuSFvinojhLqrI=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -269,87 +359,6 @@
       "date": "Tue, 03 Nov 2026 09:28:19 -0500",
       "is_read": true,
       "file": "8fae0c8b149fdb60f8cf8202bbbb5fb3d384c629d7e95cb5053907e1503835a5.json"
-    },
-    {
-      "id": "5f1fe7b2f65871f0c954b3dae263f5357e231c4f007ab107ce9c7ca09b4803e5",
-      "uid": "422290.f0eZPw3YoJme4V0OWf5BG9O9BrjiJnp5SO6EBPTaVQo=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🤑 Big Tech, big borrowing",
-      "date": "Tue, 03 Nov 2026 07:28:52 -0500",
-      "is_read": true,
-      "file": "5f1fe7b2f65871f0c954b3dae263f5357e231c4f007ab107ce9c7ca09b4803e5.json"
-    },
-    {
-      "id": "cdb72e7c6ed4c0ecf09cf3f9b3094dbf5d243d0c544353d0d93dd118eb940d9e",
-      "uid": "422289.gEhPptzIje1hlbyTgFPt5xa2Q5Efvq86kkdGZMaAWEs=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Midterm Elections And Your Portfolio",
-      "date": "Tue, 03 Nov 2026 07:24:30 -0500",
-      "is_read": true,
-      "file": "cdb72e7c6ed4c0ecf09cf3f9b3094dbf5d243d0c544353d0d93dd118eb940d9e.json"
-    },
-    {
-      "id": "de4a3e89a9595c72c7028862279b7e4685ace850c6bcc53863b6edbc99d2e4c3",
-      "uid": "422286.MQUyCUDvCC4U,QZmQDLX3qSxtSoBZ0,O5egjo6+oT1I=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Your Hour-by-Hour Guide to Election Night",
-      "date": "Tue, 03 Nov 2026 07:05:06 -0500",
-      "is_read": true,
-      "file": "de4a3e89a9595c72c7028862279b7e4685ace850c6bcc53863b6edbc99d2e4c3.json"
-    },
-    {
-      "id": "4c998e09496580de8d8b5fce1bc0e909f795b703eaac98e4ff5bdfad1fc8dc29",
-      "uid": "422285.BPhHevM5Bn,Yz57z+GvDFNwI1pVIzyTU8S0LSRESXQo=",
-      "from_addr": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ China: Lost in Translation",
-      "date": "Tue, 03 Nov 2026 07:03:29 -0500",
-      "is_read": true,
-      "file": "4c998e09496580de8d8b5fce1bc0e909f795b703eaac98e4ff5bdfad1fc8dc29.json"
-    },
-    {
-      "id": "a844e71455c890e4d646280855e78f14755dd9378cdb38213c09789afcd3413a",
-      "uid": "422284.h5TUwX7dEdSs4N6ANov1zvvp3Kw4n4+THEiAhyj1+S0=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "AI Investors Seek Downside Protection",
-      "date": "Tue, 03 Nov 2026 06:30:51 -0500",
-      "is_read": true,
-      "file": "a844e71455c890e4d646280855e78f14755dd9378cdb38213c09789afcd3413a.json"
-    },
-    {
-      "id": "171d2df8ba148f06cc01c700001da0e4eb3adc1239c9074aaebda49cc1b185d2",
-      "uid": "422283.mUfnneCCDKMtBMmEAxflLczpK3wqrQKX8Bo0n,bJOEA=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "🇪🇺 Rearming is rough",
-      "date": "Tue, 03 Nov 2026 06:30:28 -0500",
-      "is_read": true,
-      "file": "171d2df8ba148f06cc01c700001da0e4eb3adc1239c9074aaebda49cc1b185d2.json"
-    },
-    {
-      "id": "f83f2ef3f91ea096f9f56dcfce522d1f5a5db1b2b5984e5b94aac7e496fd332c",
-      "uid": "422281.2abjZPPePH8tdiGKUPlJu66oMpaoTk6,ReL,4GOh9ns=",
-      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
-      "subject": "🍔 Markets A.M.: McDonald’s Is Beefing Up, but It Won’t Be Cheap",
-      "date": "Tue, 03 Nov 2026 06:28:07 -0500",
-      "is_read": true,
-      "file": "f83f2ef3f91ea096f9f56dcfce522d1f5a5db1b2b5984e5b94aac7e496fd332c.json"
-    },
-    {
-      "id": "f0c98ead025b9c422782328b510d97690b9bf42b457d34369b2efda3f12fb512",
-      "uid": "422277.bHa8e2tY,5XZFQT9vf6hq6U2qmaGUUXM8Fc2Z6mutlc=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: U.S. Voters to Decide Control of Congress",
-      "date": "Tue, 03 Nov 2026 06:05:45 -0500",
-      "is_read": true,
-      "file": "f0c98ead025b9c422782328b510d97690b9bf42b457d34369b2efda3f12fb512.json"
-    },
-    {
-      "id": "9bb9608db9d92e95820fb92162089d212afb996d190c7a93bcfa4425d2cf3ab5",
-      "uid": "422276.S1Qxz0x+vgUcQ2NyOYdE9I1Zs9Sy,thNlYb6GHzC7qE=",
-      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Economics: Health Insurance Is the Sleeper Inflation Issue",
-      "date": "Tue, 03 Nov 2026 06:04:52 -0500",
-      "is_read": true,
-      "file": "9bb9608db9d92e95820fb92162089d212afb996d190c7a93bcfa4425d2cf3ab5.json"
     },
     {
       "id": "4add60e653a007aecc68ab73104b76f43891482ad3388523bda0d456de54cc33",
