@@ -649,6 +649,15 @@
       "file": "2ec1e38166d4b63ea28705d512bbc3465ffa82e948c0b078b271c98baa8ce4eb.json"
     },
     {
+      "id": "ea15af778b206ab0dab18692be7fa0681aeb0cde5ea18bba53d7ffde45c22599",
+      "uid": "423839.riABY5,3+TS1ey9sDYlUmv33uRGU6EPKbVsvH8a4QXo=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "✨ Axios Finish Line: 5 AI tricks",
+      "date": "Mon, 09 Nov 2026 21:29:28 -0500",
+      "is_read": false,
+      "file": "ea15af778b206ab0dab18692be7fa0681aeb0cde5ea18bba53d7ffde45c22599.json"
+    },
+    {
       "id": "172a4070b2c398b78a6dc05270b8bb89f404dc2794936c3c71ddea0fc9ec268f",
       "uid": "423671.5phpf+d4cGPKMeLfmVMyeA4h1wgv8xOND3SyL1R3s+s=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -656,6 +665,69 @@
       "date": "Mon, 09 Nov 2026 19:09:48 +1100",
       "is_read": true,
       "file": "172a4070b2c398b78a6dc05270b8bb89f404dc2794936c3c71ddea0fc9ec268f.json"
+    },
+    {
+      "id": "e085050ffaf8f0760bf19729b6ed236ba7d722afe27174b50e4b0e37896d991d",
+      "uid": "423806.fjCqFznucrk+B6Chazjv8myih0z45pZ8w,Jp82L4ehM=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Car-Dealership Mogul Sells Palm Beach Compound for Nearly $100 Million",
+      "date": "Mon, 09 Nov 2026 18:57:21 -0500",
+      "is_read": false,
+      "file": "e085050ffaf8f0760bf19729b6ed236ba7d722afe27174b50e4b0e37896d991d.json"
+    },
+    {
+      "id": "615f3447f626b7be3ee1a783597a3090ee1565c837a549d191a629caa9a74999",
+      "uid": "423788.zIab7LQp5WdAOEnnunbmdkuH8q7yOidjpZ0zBQ8GmtU=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🤖 Nvidia has no Plan B",
+      "date": "Mon, 09 Nov 2026 17:45:36 -0500",
+      "is_read": false,
+      "file": "615f3447f626b7be3ee1a783597a3090ee1565c837a549d191a629caa9a74999.json"
+    },
+    {
+      "id": "3f78364e0e2bedca6d3a949434e0edc29c40aee24251c5e8d391fb9db472fff6",
+      "uid": "423766.Hyay4fUDeod8Obem4dlSMTV6MnHeiY5bGDIgDTFj0c4=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Nvidia Woes",
+      "date": "Mon, 09 Nov 2026 16:23:54 -0500",
+      "is_read": false,
+      "file": "3f78364e0e2bedca6d3a949434e0edc29c40aee24251c5e8d391fb9db472fff6.json"
+    },
+    {
+      "id": "62131b9f0e14134e87863b85de4e6626b04b03c3b52e79b3a4753de3754bbeb7",
+      "uid": "423763.nCsZUSlEdXz8jdIjmSJqmp9ZKphvSyFH,L6gcrOzfjo=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: LoanDepot Founder Anthony Hsieh Asks $125 Million for Coastal California Mansion",
+      "date": "Mon, 09 Nov 2026 16:15:19 -0500",
+      "is_read": false,
+      "file": "62131b9f0e14134e87863b85de4e6626b04b03c3b52e79b3a4753de3754bbeb7.json"
+    },
+    {
+      "id": "a2773a9874fa280c7502af0b6305ec83470cc5b6e434ab7ff270da025288789b",
+      "uid": "423759.o,HhE+DWjlxI7qrXjkbqjXeIn72Ak+9PoP+,t6Rj,,I=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Nvidia: The Jensen Affair Saga Is Just Noise",
+      "date": "Mon, 09 Nov 2026 16:06:41 -0500",
+      "is_read": false,
+      "file": "a2773a9874fa280c7502af0b6305ec83470cc5b6e434ab7ff270da025288789b.json"
+    },
+    {
+      "id": "39c9df56a1b94ea3d00913c7a75aa9ea2660ac0db66ddca2570aff126c79cdbb",
+      "uid": "423749.ZJE,ysK6FVekG2TutUWYfbPRUvdMhNpPxseM69aFfA8=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤖 Axios PM: Huang holding on",
+      "date": "Mon, 09 Nov 2026 15:15:28 -0500",
+      "is_read": false,
+      "file": "39c9df56a1b94ea3d00913c7a75aa9ea2660ac0db66ddca2570aff126c79cdbb.json"
+    },
+    {
+      "id": "2af7bedba47c8f20ac1e5189d06205823f7b0211b481d34bb6dd9f9a695b32c0",
+      "uid": "423744.eMvpCUZTBl4BjzaWQ2LGpY5A0AgiCuMIsE9GfwxAebs=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: A Circa-1890s Mansion on San Francisco’s Gold Coast Lists for $34.95 Million",
+      "date": "Mon, 09 Nov 2026 14:15:20 -0500",
+      "is_read": false,
+      "file": "2af7bedba47c8f20ac1e5189d06205823f7b0211b481d34bb6dd9f9a695b32c0.json"
     },
     {
       "id": "2f104d0bfec715ec412e32ed7f67aaa56b46123a06c96302d69ee09909d3d2ab",
@@ -746,51 +818,6 @@
       "date": "Mon, 09 Nov 2026 05:47:19 -0500",
       "is_read": true,
       "file": "080762e06afe5c9a425de0bfefdd35a630f1b6a21758b15ef9367b224405c2f0.json"
-    },
-    {
-      "id": "abc67a4531cb2f206f47e5728e113c4c452e14ffe76e6e09983381363d465ca2",
-      "uid": "422173.UT31IaAE,owVOXNgeb,G4WZ19cIPGnJ0h3XmMDT3bO8=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "⚾️ Axios Finish Line: 4 winning rules",
-      "date": "Mon, 02 Nov 2026 21:29:24 -0500",
-      "is_read": true,
-      "file": "abc67a4531cb2f206f47e5728e113c4c452e14ffe76e6e09983381363d465ca2.json"
-    },
-    {
-      "id": "ca484e18b39343910a35175b1ccce36d51cb113bd48994763820f49d59a4da10",
-      "uid": "422132.z8tY3fgEklVoeYoOXi1R0tuQhQ4f6Qm51nS8eWRQoww=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🍏 Apple's \"nothing broken\" quarter",
-      "date": "Mon, 02 Nov 2026 17:57:48 -0500",
-      "is_read": true,
-      "file": "ca484e18b39343910a35175b1ccce36d51cb113bd48994763820f49d59a4da10.json"
-    },
-    {
-      "id": "79a0901de94df69c491a7981bf9d259fe4485eb6c0522188bf0423489006548b",
-      "uid": "422116.t2ygUsnmlLpIR6vPDjaKtlpY0iooulZtw6bbrtGxYhc=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "AI Selloff Continues",
-      "date": "Mon, 02 Nov 2026 16:18:46 -0500",
-      "is_read": true,
-      "file": "79a0901de94df69c491a7981bf9d259fe4485eb6c0522188bf0423489006548b.json"
-    },
-    {
-      "id": "b48fece1dfd9e641eaa4390fceb4ce5d334e7e43b9c3fcfc8b364df5beaef820",
-      "uid": "422111.8GaIrkDF9FtOKdpWGR4N6EN4U5u6pnWJpttn4J8uHQ4=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Lumentum: Marvell's $115 Billion Deal Is A Costly Mistake (Rating Downgrade)",
-      "date": "Mon, 02 Nov 2026 16:06:43 -0500",
-      "is_read": false,
-      "file": "b48fece1dfd9e641eaa4390fceb4ce5d334e7e43b9c3fcfc8b364df5beaef820.json"
-    },
-    {
-      "id": "e5cf4b57ab3cf80eef1fe11ab79ed94227b0310c054eb15aa92526a7d99c22eb",
-      "uid": "422105.D73Sbt4zWsOQsJxce0Doov7+T391X7W0xsJWQ52KrNU=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "👾 Axios PM: Grocery hack attack",
-      "date": "Mon, 02 Nov 2026 15:25:05 -0500",
-      "is_read": true,
-      "file": "e5cf4b57ab3cf80eef1fe11ab79ed94227b0310c054eb15aa92526a7d99c22eb.json"
     },
     {
       "id": "7d92e7a3cc894ecc46d11918c49853038cac68c5ef16a528eac0a3700c6736f3",
