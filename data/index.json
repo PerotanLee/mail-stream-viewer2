@@ -168,7 +168,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "In Pursuit Of The Largest IPO In History",
       "date": "Tue, 10 Nov 2026 07:39:45 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "9ce0f70a9008d51d125d365ab5a29e18c75f5b26483d098d6bbf0cc36433351e.json"
     },
     {
