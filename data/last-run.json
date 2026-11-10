@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18516 from=Axios Defense <defense@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-10T14:04:52.546927+00:00",
-  "added": 5,
+  "updated_at": "2026-11-10T14:04:53.656425+00:00",
+  "added": 6,
   "skipped": 11,
   "scanned": 17,
-  "current": "Axios Defense <defense@axios.com>",
+  "current": "🔇 Half-year holdout",
   "added_by_filter": {
     "wsj": 3,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 1
   },
   "last_newest_num": 18500,
