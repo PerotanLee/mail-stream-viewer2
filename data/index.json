@@ -717,7 +717,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🤖 Axios PM: Huang holding on",
       "date": "Mon, 09 Nov 2026 15:15:28 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "39c9df56a1b94ea3d00913c7a75aa9ea2660ac0db66ddca2570aff126c79cdbb.json"
     },
     {
