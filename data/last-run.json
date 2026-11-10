@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18328 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-10T03:42:29.457732+00:00",
-  "added": 2,
+  "updated_at": "2026-11-10T03:42:30.765600+00:00",
+  "added": 3,
   "skipped": 74,
   "scanned": 77,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "🤖 Nvidia has no Plan B",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 0
   },
   "last_newest_num": 18288,
