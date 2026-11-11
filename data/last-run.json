@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=18731 from=WSJ Editors <access@interactive.wsj.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-11T09:10:33.235446+00:00",
+  "updated_at": "2026-11-11T09:10:37.229032+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 18721
+  "skipped": 16,
+  "scanned": 17,
+  "current": "WSJ Editors <access@interactive.wsj.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 18721,
+  "newest_num": 18747,
+  "scan_mode": "new",
+  "since": "2026-11-11T07:22:08.258756+00:00"
 }
