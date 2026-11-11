@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18554 from=WSJ AI & Business <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-11T06:39:07.538817+00:00",
-  "added": 7,
+  "updated_at": "2026-11-11T06:39:09.375942+00:00",
+  "added": 8,
   "skipped": 146,
   "scanned": 154,
-  "current": "WSJ AI & Business <access@interactive.wsj.com>",
+  "current": "A Reckoning Is at Hand",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 3,
     "seekingalpha": 1
   },
