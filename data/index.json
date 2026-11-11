@@ -10,6 +10,33 @@
       "file": "ce3b7101d0dde299da590b47afb1db4aae03bbff07d9b78329d5d272337e5fde.json"
     },
     {
+      "id": "9a0d899bda375506432c9870c4b8ffa0ca4f57019e1885d25c1868c221a324c6",
+      "uid": "424351.SzrgTRFb58yHrZLzoVJuQ+WzXyeSNlQWNF2WTie57gw=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "CoreWeave Delivers",
+      "date": "Wed, 11 Nov 2026 16:19:38 -0500",
+      "is_read": false,
+      "file": "9a0d899bda375506432c9870c4b8ffa0ca4f57019e1885d25c1868c221a324c6.json"
+    },
+    {
+      "id": "e0ac5169cabf13658e485fd68632974f80e2e4807badb5051a3869a502882a1a",
+      "uid": "424349.kfCJzYRdBTBHQkefr8S,HUX3NillSZe36xJcSwmPf30=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "👀 Axios PM: Oval Office drama",
+      "date": "Wed, 11 Nov 2026 16:13:08 -0500",
+      "is_read": false,
+      "file": "e0ac5169cabf13658e485fd68632974f80e2e4807badb5051a3869a502882a1a.json"
+    },
+    {
+      "id": "9420ba2f4840727a8f42dab6474cf139d95fdea5dd7f7fa1369f597754602f63",
+      "uid": "424345.cWhWZpz,Znxjdq+6N3DqTapkcMMXorOhaNiPH8gCM7c=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "AMD: Alphabet Just Announced A $1 Trillion Game Changer",
+      "date": "Wed, 11 Nov 2026 16:06:38 -0500",
+      "is_read": false,
+      "file": "9420ba2f4840727a8f42dab6474cf139d95fdea5dd7f7fa1369f597754602f63.json"
+    },
+    {
       "id": "b7c548b85040e9f106666d919d0ca924e7a974045d7e5ce53636a20aa04d02c7",
       "uid": "424326.LAX0rIQz4P+1FMWhFMdaHYEzG791zAuQXKwCE7mw,bk=",
       "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
@@ -98,15 +125,6 @@
       "date": "Wed, 04 Nov 2026 17:42:42 -0500",
       "is_read": true,
       "file": "1b488e1ed4208b5b1af126bd385e793fb7a14822af42744a421775c2a7ab6fe1.json"
-    },
-    {
-      "id": "3fcb12003837139ed7946f3e2e5a8e7657f247ed027586a6b0b5a371b4e6f46b",
-      "uid": "422597.jcvtN8YmmBCKaPixLPARmU6DA,FXp0Iq5JwazoIk,qs=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Micron Vs. SK hynix: Close The Pair, Keep The Better Floor",
-      "date": "Wed, 04 Nov 2026 16:06:32 -0500",
-      "is_read": false,
-      "file": "3fcb12003837139ed7946f3e2e5a8e7657f247ed027586a6b0b5a371b4e6f46b.json"
     },
     {
       "id": "21148bc3cfcdd33a4d104d0a9c2842f6b21a9c219abcb273dd22e97316beff67",
