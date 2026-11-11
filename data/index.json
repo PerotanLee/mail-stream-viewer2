@@ -145,13 +145,13 @@
       "file": "4446e62233862d33f3b780f4f9947666d7e24ea4a3b298dcf9336254d6390a6c.json"
     },
     {
-      "id": "a806dfd824b67da7d04c4a6e85d94300cb6577b5a50564be49c0a8953bcc64a9",
-      "uid": "422469.QuV4i3r66DPtz0Gu3lbkRB1JQp27ou2TfRErSMD0t1I=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Democrats Flip the Congress and Will Now Try to Flip the Script",
-      "date": "Wed, 04 Nov 2026 01:37:59 -0500",
-      "is_read": true,
-      "file": "a806dfd824b67da7d04c4a6e85d94300cb6577b5a50564be49c0a8953bcc64a9.json"
+      "id": "21148bc3cfcdd33a4d104d0a9c2842f6b21a9c219abcb273dd22e97316beff67",
+      "uid": "424139.pqinjHyMi,k2F7KdEKy4r0RcInpldcd+gGJySTKnLg4=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🦅 Axios Finish Line: Service after service",
+      "date": "Tue, 10 Nov 2026 21:29:26 -0500",
+      "is_read": false,
+      "file": "21148bc3cfcdd33a4d104d0a9c2842f6b21a9c219abcb273dd22e97316beff67.json"
     },
     {
       "id": "ee568ce7e2bccab5b3304c78764aab1108126f8ed532203bade609bdb0fcb938",
@@ -161,6 +161,78 @@
       "date": "Tue, 10 Nov 2026 19:09:46 +1100",
       "is_read": true,
       "file": "ee568ce7e2bccab5b3304c78764aab1108126f8ed532203bade609bdb0fcb938.json"
+    },
+    {
+      "id": "01a0f21d9cc2bab288539d2e3eb226dd0293b24c846710a246c4a68322c7632c",
+      "uid": "424081.L3OdRdwZT3UKTDbItc+dvawLJPkrWc,KzUUTyUkYTW0=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Australian Billionaire James Packer Sells Aspen Mansion for $42.68 Million",
+      "date": "Tue, 10 Nov 2026 17:30:24 -0500",
+      "is_read": false,
+      "file": "01a0f21d9cc2bab288539d2e3eb226dd0293b24c846710a246c4a68322c7632c.json"
+    },
+    {
+      "id": "7f3010b04f71f2c61f8bff7e23640de52c3eb8724b4fd517d78562abc135fe3d",
+      "uid": "424076.OV5NpGuSKk6w7RtA9yo1Rm6g74znA1Y77bkkJ1g0c+g=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🤖 AI's Dr. Feelgood?",
+      "date": "Tue, 10 Nov 2026 17:06:53 -0500",
+      "is_read": false,
+      "file": "7f3010b04f71f2c61f8bff7e23640de52c3eb8724b4fd517d78562abc135fe3d.json"
+    },
+    {
+      "id": "5d3f8bdfca2bb98788f7331c27a2b234376612da00248092a23836902cdcd24a",
+      "uid": "424061.rij5qQ8Dya18wkN8llGRNvCSPQ+eAqCmJh0LKmw6o5E=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Surging Yields",
+      "date": "Tue, 10 Nov 2026 16:20:51 -0500",
+      "is_read": false,
+      "file": "5d3f8bdfca2bb98788f7331c27a2b234376612da00248092a23836902cdcd24a.json"
+    },
+    {
+      "id": "0ba7e10daff0471dc013ef64f1b0ca53b752c802e352652651cca13e821453e2",
+      "uid": "424056.zT5ntmQGmE9QhwicC1UFzF4iO6yDZQP6fEFNbGf3WZ8=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Micron: Down 42% From Its Peak, But I'm Still Not Buying",
+      "date": "Tue, 10 Nov 2026 16:06:32 -0500",
+      "is_read": false,
+      "file": "0ba7e10daff0471dc013ef64f1b0ca53b752c802e352652651cca13e821453e2.json"
+    },
+    {
+      "id": "af8fca7aa17c22a9f9f43e4d3a7dc744d6f0d798f91656069779cfa42c69298b",
+      "uid": "424047.y5QFX0E08Rn89cYnVZsSH57J+Td7F+M07h4wuEFerSc=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🪖 Axios PM: Hegseth at war",
+      "date": "Tue, 10 Nov 2026 15:23:54 -0500",
+      "is_read": false,
+      "file": "af8fca7aa17c22a9f9f43e4d3a7dc744d6f0d798f91656069779cfa42c69298b.json"
+    },
+    {
+      "id": "6e3479fb0b7cf771232bd792d7bf9d690ef7bff891401e1f5d44affc70a0e92f",
+      "uid": "424046.k5V0,9AquxO3qHUTD8QjCJOu91SN++z6qgUmWj+hiHQ=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Bella Hadid Buys Historic Colorado Mountain Home for $5.5 Million",
+      "date": "Tue, 10 Nov 2026 15:15:37 -0500",
+      "is_read": false,
+      "file": "6e3479fb0b7cf771232bd792d7bf9d690ef7bff891401e1f5d44affc70a0e92f.json"
+    },
+    {
+      "id": "058daf3455662e9adb981eafc1607f315e8f341b1cf5f6779a8ed0ffe8b080f4",
+      "uid": "424038.s+ruBTqf6jzxFnTEAdbti6Tiw8byBllKI8bvR9bixmw=",
+      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
+      "subject": "A Reckoning Is at Hand",
+      "date": "Tue, 10 Nov 2026 12:54:41 -0500",
+      "is_read": false,
+      "file": "058daf3455662e9adb981eafc1607f315e8f341b1cf5f6779a8ed0ffe8b080f4.json"
+    },
+    {
+      "id": "fbfa70f94090d74e3710af7da71c68d7d1d766415ac5fd28692b5d17ed0ce258",
+      "uid": "424035.FgxqPAkIfcOQozZgl+S2dZm8cbZ7TigxkBG24RldqpY=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🔥 Hot, hot inflation",
+      "date": "Tue, 10 Nov 2026 12:10:12 -0500",
+      "is_read": false,
+      "file": "fbfa70f94090d74e3710af7da71c68d7d1d766415ac5fd28692b5d17ed0ce258.json"
     },
     {
       "id": "a1ddabbd22cd36df18eba3a7c3db2cff46f9c034b45a68b63f04744dd583eef3",
@@ -278,96 +350,6 @@
       "date": "Tue, 10 Nov 2026 06:13:40 -0500",
       "is_read": true,
       "file": "f51fd7306d8c4de21ff5023374540b2e1da70ede281b0a1fb6b4cef37630ccca.json"
-    },
-    {
-      "id": "b9f1fcf88249a860686d7514a78c5b165f079548069ac57635215cc58bc254ac",
-      "uid": "422393.ADnpAur,IFG5gsU,8Z2y1,2N8Hre4IuSFvinojhLqrI=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🧠 Axios Finish Line: Genius beyond AI",
-      "date": "Tue, 03 Nov 2026 21:29:21 -0500",
-      "is_read": true,
-      "file": "b9f1fcf88249a860686d7514a78c5b165f079548069ac57635215cc58bc254ac.json"
-    },
-    {
-      "id": "e9d72e28065c99fefdb62b8775193a61433eb0f11348a0bcccd4617e13877230",
-      "uid": "422387.tJSvtSVY4IWdLR98rdCgZlw1VOxWOToIaZnJJN5wb,s=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Democrats Look to Be Off to a Strong Start",
-      "date": "Tue, 03 Nov 2026 21:12:31 -0500",
-      "is_read": true,
-      "file": "e9d72e28065c99fefdb62b8775193a61433eb0f11348a0bcccd4617e13877230.json"
-    },
-    {
-      "id": "d7d24ad9b6ae4f6655bcf333c3356eb43d300c7b478c8d6d9e2d12afc68d7506",
-      "uid": "422340.l6PG4QvdT7fJDtESsLFkT5AJnN1jj7iWErBnMvc3+z4=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🗳️ Skin in the game",
-      "date": "Tue, 03 Nov 2026 17:10:37 -0500",
-      "is_read": true,
-      "file": "d7d24ad9b6ae4f6655bcf333c3356eb43d300c7b478c8d6d9e2d12afc68d7506.json"
-    },
-    {
-      "id": "3c240d2e18a4c205752ae535f437863d9cf6ea5b8cae603e30e9a3a0a943d88a",
-      "uid": "422337.ArHuthE4FX+lQLuBzC2u0WaljDPGnUSAYgH4WtMWF,o=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Former NBA Star Juwan Howard Scores $25 Million for His New Florida Home",
-      "date": "Tue, 03 Nov 2026 17:00:56 -0500",
-      "is_read": false,
-      "file": "3c240d2e18a4c205752ae535f437863d9cf6ea5b8cae603e30e9a3a0a943d88a.json"
-    },
-    {
-      "id": "be7be442b120bd52e0c6a1a3fa5cbfe8d2ee47c4744da262240a0ed561d1550f",
-      "uid": "422331.YjuQwTkEYVcKfqX92shwWdhgzTMPsVhgz3WyllMnFSU=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Former Biopharma Execs Lists Florida Compound With Rooftop Pool for $64 Million",
-      "date": "Tue, 03 Nov 2026 16:45:54 -0500",
-      "is_read": false,
-      "file": "be7be442b120bd52e0c6a1a3fa5cbfe8d2ee47c4744da262240a0ed561d1550f.json"
-    },
-    {
-      "id": "ecdd3b7ad4cbad052c1991b708c82a660355718aa8e03592292942d89a99a454",
-      "uid": "422326.FrO01oHazeica5VGx,OrtUMyeYy941BUT9JdKqUW2oI=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Apple Slips",
-      "date": "Tue, 03 Nov 2026 16:27:01 -0500",
-      "is_read": true,
-      "file": "ecdd3b7ad4cbad052c1991b708c82a660355718aa8e03592292942d89a99a454.json"
-    },
-    {
-      "id": "b9aa9435554f8233c76924a566e85d47e6ad897c10eb428d5c0ddc5d5019e0c7",
-      "uid": "422319.8SnaLbpf1QtqVgOu2l4SpjEs0+oZft7,iAReFZLSEGE=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Palantir Q3: This Small Sell-Off Isn't Enough (Rating Downgrade)",
-      "date": "Tue, 03 Nov 2026 16:06:32 -0500",
-      "is_read": false,
-      "file": "b9aa9435554f8233c76924a566e85d47e6ad897c10eb428d5c0ddc5d5019e0c7.json"
-    },
-    {
-      "id": "59cd172374517522038472ff457859c270fce22292ff65c300c3977eca728449",
-      "uid": "422311.3+EXBWIo0XIVBqipb2yaMiv0gzVKoqt,fmIVLrad3c0=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🗳️ Axios PM: 1,000 vote-watchers",
-      "date": "Tue, 03 Nov 2026 15:29:26 -0500",
-      "is_read": true,
-      "file": "59cd172374517522038472ff457859c270fce22292ff65c300c3977eca728449.json"
-    },
-    {
-      "id": "bb451f2badce1fb31778949e9cb5fc3132b3716a5ae6fc027790694904a88d7c",
-      "uid": "422305.QFiC9NVGGSjPdnnWhH0DhAYrVCA5NGIkvpuP2c6Jw1I=",
-      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
-      "subject": "IPO Blues",
-      "date": "Tue, 03 Nov 2026 12:06:14 -0500",
-      "is_read": true,
-      "file": "bb451f2badce1fb31778949e9cb5fc3132b3716a5ae6fc027790694904a88d7c.json"
-    },
-    {
-      "id": "64187d514bdd8be17da351545934a81fb8f052a657920e3d63e8319fdf8de016",
-      "uid": "422303.C6BltjEcVuUNwXkUPYIZ8PcUUobt,a1JNAw7iaOEF0M=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🤖 AI job casualties",
-      "date": "Tue, 03 Nov 2026 11:58:20 -0500",
-      "is_read": true,
-      "file": "64187d514bdd8be17da351545934a81fb8f052a657920e3d63e8319fdf8de016.json"
     },
     {
       "id": "4add60e653a007aecc68ab73104b76f43891482ad3388523bda0d456de54cc33",
