@@ -334,6 +334,33 @@
       "file": "b178a0037cfe74e5a03683d5ad0106818f7d7150477411ab8d26e8278d9ca089.json"
     },
     {
+      "id": "9d6ea6f6b3ea253b7906cf988dff4d8f33d0032c4e4d06997e6b45a3fd692273",
+      "uid": "424643.tiniOyHwt1M9zm3Vzrq5o,FajM7byM09xNmIm+7Xo64=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🤖 Jensen Jenga",
+      "date": "Thu, 12 Nov 2026 16:56:35 -0500",
+      "is_read": false,
+      "file": "9d6ea6f6b3ea253b7906cf988dff4d8f33d0032c4e4d06997e6b45a3fd692273.json"
+    },
+    {
+      "id": "4accc8879d552643d92757d86bbc9cc657c998cac801d1c18dee7ba68b733442",
+      "uid": "424634.gl2IUysZY15O32rruVqmWmEhfuZJgvUbGnmZLc0NWdo=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Huang Era Ends",
+      "date": "Thu, 12 Nov 2026 16:13:20 -0500",
+      "is_read": false,
+      "file": "4accc8879d552643d92757d86bbc9cc657c998cac801d1c18dee7ba68b733442.json"
+    },
+    {
+      "id": "9974a187101c33fda980a446e2feefa2ecc911a088437012ffe0a8fdac0f418a",
+      "uid": "424630.xCsfcUeyP6AaHxwfBFIRaYERxLGRG+Tr,viAjUBAU8w=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Is Nvidia Done For Following The Drama? Absolutely Not (Q3 Preview)",
+      "date": "Thu, 12 Nov 2026 16:06:34 -0500",
+      "is_read": false,
+      "file": "9974a187101c33fda980a446e2feefa2ecc911a088437012ffe0a8fdac0f418a.json"
+    },
+    {
       "id": "173ec1a0f9d5ed62d1dc59ea64f28c58856c197ec7a779dae559a6c75b061049",
       "uid": "424619.czEuTsNS0RLpIiSV,eyNkCwSINLPN6oNrzEaEKYcHPo=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -512,33 +539,6 @@
       "date": "Thu, 05 Nov 2026 17:31:52 -0500",
       "is_read": false,
       "file": "1e414b88896ee769a1c59f82993d40219d469b42c15c5de895f79ccdd56e8706.json"
-    },
-    {
-      "id": "6759dec638106f8b04b76583ad45023a6848908712f3eedca8504f1287b40849",
-      "uid": "422897.YBvrvxkdqYBk8g03JI33xNtLUstlp,dw+xXgogZVS4g=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Forget Yesterday",
-      "date": "Thu, 05 Nov 2026 16:20:41 -0500",
-      "is_read": true,
-      "file": "6759dec638106f8b04b76583ad45023a6848908712f3eedca8504f1287b40849.json"
-    },
-    {
-      "id": "f17dd6dcf6cd2ebee3f5638284ed9fe98e893d896bee8bd3750e74674b7a74c2",
-      "uid": "422896.8UuZIq4K8Yy74HzszeAt1,k8g2gAjmN88zyP9P31gv0=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Former Trump Advisor Inked Deals for Two Megamansions. Then They Fell Through.",
-      "date": "Thu, 05 Nov 2026 16:16:55 -0500",
-      "is_read": true,
-      "file": "f17dd6dcf6cd2ebee3f5638284ed9fe98e893d896bee8bd3750e74674b7a74c2.json"
-    },
-    {
-      "id": "b9b62adb397abdcb7258e9373b123b1d384d22fdf6c6a1915f9009111eacc2c3",
-      "uid": "422891.+zbyZ7iwa9kkeBXBpYwb9b64THhYUNw75pkYwn7kvR8=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Rare Stock Picks In October 2026 - From 14 Discerning Analysts",
-      "date": "Thu, 05 Nov 2026 16:06:34 -0500",
-      "is_read": false,
-      "file": "b9b62adb397abdcb7258e9373b123b1d384d22fdf6c6a1915f9009111eacc2c3.json"
     },
     {
       "id": "8eef772d7e1f92fe8739f6753e0a0f03cf694c0e3684ab23ee816f4c388eeafe",
