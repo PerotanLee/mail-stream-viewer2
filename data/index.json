@@ -339,7 +339,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "📉 Axios PM: Not just Nvidia",
       "date": "Thu, 12 Nov 2026 15:01:01 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "173ec1a0f9d5ed62d1dc59ea64f28c58856c197ec7a779dae559a6c75b061049.json"
     },
     {
