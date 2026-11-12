@@ -10,6 +10,15 @@
       "file": "ce3b7101d0dde299da590b47afb1db4aae03bbff07d9b78329d5d272337e5fde.json"
     },
     {
+      "id": "40f0319aaffd4a8c9b02a02f307828a0984f32d80561261e8a85ef719d738d60",
+      "uid": "424383.nhSNgAqdUzRmnxQve4,c,8xI8sZcvfpcBobPRnzKVC4=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Nvidia CEO’s Sudden Downfall Creates Nightmare for White House",
+      "date": "Wed, 11 Nov 2026 18:50:53 -0500",
+      "is_read": false,
+      "file": "40f0319aaffd4a8c9b02a02f307828a0984f32d80561261e8a85ef719d738d60.json"
+    },
+    {
       "id": "9a0d899bda375506432c9870c4b8ffa0ca4f57019e1885d25c1868c221a324c6",
       "uid": "424351.SzrgTRFb58yHrZLzoVJuQ+WzXyeSNlQWNF2WTie57gw=",
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
@@ -107,15 +116,6 @@
       "date": "Wed, 11 Nov 2026 06:06:25 -0500",
       "is_read": true,
       "file": "661bb70c46c2f7a19d472b0b0e4692d11d267036fc350460a30e7caaadcdb2b7.json"
-    },
-    {
-      "id": "19e7c387191886f316ee6efcade29f45dcd80a0c5fc700f7dabab81d6f187da2",
-      "uid": "422673.N0JGNcgZhfU0v4aRqehLaBStHlf4tsKKQPGgsBva70o=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🏞️ Axios Finish Line: Prescribing nature",
-      "date": "Wed, 04 Nov 2026 21:29:43 -0500",
-      "is_read": true,
-      "file": "19e7c387191886f316ee6efcade29f45dcd80a0c5fc700f7dabab81d6f187da2.json"
     },
     {
       "id": "21148bc3cfcdd33a4d104d0a9c2842f6b21a9c219abcb273dd22e97316beff67",
