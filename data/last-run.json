@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=19027 from=Axios Defense <defense@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-12T18:50:37.391745+00:00",
-  "added": 9,
+  "updated_at": "2026-11-12T18:50:38.598028+00:00",
+  "added": 10,
   "skipped": 21,
   "scanned": 31,
-  "current": "Axios Defense <defense@axios.com>",
+  "current": "🔎 Dem's SpaceX probe",
   "added_by_filter": {
     "wsj": 3,
-    "axios": 4,
+    "axios": 5,
     "seekingalpha": 2
   },
   "last_newest_num": 19007,
