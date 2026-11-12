@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=19034 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-12T18:50:28.850085+00:00",
-  "added": 6,
+  "updated_at": "2026-11-12T18:50:30.124329+00:00",
+  "added": 7,
   "skipped": 17,
   "scanned": 24,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: Welcome to the Lame-Duck Congress of 2026",
   "added_by_filter": {
-    "wsj": 1,
+    "wsj": 2,
     "axios": 4,
     "seekingalpha": 1
   },
