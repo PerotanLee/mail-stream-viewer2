@@ -334,6 +334,24 @@
       "file": "b178a0037cfe74e5a03683d5ad0106818f7d7150477411ab8d26e8278d9ca089.json"
     },
     {
+      "id": "173ec1a0f9d5ed62d1dc59ea64f28c58856c197ec7a779dae559a6c75b061049",
+      "uid": "424619.czEuTsNS0RLpIiSV,eyNkCwSINLPN6oNrzEaEKYcHPo=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "📉 Axios PM: Not just Nvidia",
+      "date": "Thu, 12 Nov 2026 15:01:01 -0500",
+      "is_read": false,
+      "file": "173ec1a0f9d5ed62d1dc59ea64f28c58856c197ec7a779dae559a6c75b061049.json"
+    },
+    {
+      "id": "92b0b2464b205dde28d624b7576c4ea3580b787a3253164d0d41095aa056473f",
+      "uid": "424618.1ChKY4HTxWF5xb9UcKa6Ffp7jOjwsoXSmNTVyx2S,UU=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: A Powerboat Racer’s Never-Lived-In Miami Mansion Lists for $43.9 Million",
+      "date": "Thu, 12 Nov 2026 14:45:18 -0500",
+      "is_read": false,
+      "file": "92b0b2464b205dde28d624b7576c4ea3580b787a3253164d0d41095aa056473f.json"
+    },
+    {
       "id": "a5dbba85b87b68331839d5b6adbb9d4a4ac94cae00d6202048df9288301c5b06",
       "uid": "424614.3toKmxs6hKryoIu1cWqCBL7L,SGt2eaFOZ3PN8+Ix4A=",
       "from_addr": "Axios Macro <macro@axios.com>",
@@ -521,24 +539,6 @@
       "date": "Thu, 05 Nov 2026 16:06:34 -0500",
       "is_read": false,
       "file": "b9b62adb397abdcb7258e9373b123b1d384d22fdf6c6a1915f9009111eacc2c3.json"
-    },
-    {
-      "id": "59c8d9eb21576be19a6963c500fc14acb777fc1b498e5e8f4bdde99bd279f6fb",
-      "uid": "422881.NiQnyfoMBiNYje1rBc6JhaXlEz1hMSdRwgHH6PFbask=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🫏 Axios PM: Dems dominate states",
-      "date": "Thu, 05 Nov 2026 15:08:38 -0500",
-      "is_read": true,
-      "file": "59c8d9eb21576be19a6963c500fc14acb777fc1b498e5e8f4bdde99bd279f6fb.json"
-    },
-    {
-      "id": "9774db206b6fc149546cd351b775b6795dc82a90f678556313a04be58fde364c",
-      "uid": "422878.VPlN9dpuNASkKz9mX7Z,FD,gPYFezthpB1qv2EdYvwk=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: An Arizona Compound With an Underground Bunker Lists for $55 Million",
-      "date": "Thu, 05 Nov 2026 14:50:37 -0500",
-      "is_read": true,
-      "file": "9774db206b6fc149546cd351b775b6795dc82a90f678556313a04be58fde364c.json"
     },
     {
       "id": "8eef772d7e1f92fe8739f6753e0a0f03cf694c0e3684ab23ee816f4c388eeafe",
