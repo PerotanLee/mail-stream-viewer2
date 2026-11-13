@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=19316 from=\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-13T15:46:12.211648+00:00",
-  "added": 2,
+  "updated_at": "2026-11-13T15:46:13.423944+00:00",
+  "added": 3,
   "skipped": 5,
   "scanned": 8,
-  "current": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "current": "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 2,
     "seekingalpha": 0
   },
