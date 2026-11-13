@@ -775,6 +775,24 @@
       "file": "2d2fadf58632935722c3ad18c694286b26ab4ff5633a459d0812672e9b97bf0b.json"
     },
     {
+      "id": "3c9a0399b270366dffe99b5cc46058f140dd8c52a540c1de382c7d678cd11875",
+      "uid": "424916.P1GPAbt2AW55NiWHUZtCi9tzC3dhWt8WvM7Y7c4z+bY=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🦶 Trade Achilles' heel",
+      "date": "Fri, 13 Nov 2026 12:02:28 -0500",
+      "is_read": false,
+      "file": "3c9a0399b270366dffe99b5cc46058f140dd8c52a540c1de382c7d678cd11875.json"
+    },
+    {
+      "id": "ee5cc95b0c1e2d760fafacb7aa1fb216218689c345b9343b7d3ad2749f952017",
+      "uid": "424912.i,8m629HHb0j0hflcXA5zKlEtSACHMT5qbvMnGYolK8=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Palm Beach Developer Drops $160 Million Deal Over Fears of NIMBY Neighbor",
+      "date": "Fri, 13 Nov 2026 11:25:28 -0500",
+      "is_read": false,
+      "file": "ee5cc95b0c1e2d760fafacb7aa1fb216218689c345b9343b7d3ad2749f952017.json"
+    },
+    {
       "id": "f1f4dcde22a570626fed041db8b6336b38738972547cbe28ba2e7a1f82c1299b",
       "uid": "424907.ozFjx42yL+U8kT+PB4JO9vLfBGFh,FaLoJYGofe4kEM=",
       "from_addr": "Dan Primack <dan@axios.com>",
@@ -962,15 +980,6 @@
       "date": "Fri, 06 Nov 2026 15:02:00 -0500",
       "is_read": true,
       "file": "9c968346d8ec6f67afa116c323841f28bb903bc9e5636995b108c63e4997ab3e.json"
-    },
-    {
-      "id": "165170060987fb9294aaf02fad2b2264dad59aebf1c380ec884222776b38dfd9",
-      "uid": "423190.,kOTjXLelbbRA3unnZqpNrfsLXmPkIaCdLChvRPghco=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "💪 Strong jobs",
-      "date": "Fri, 06 Nov 2026 12:00:13 -0500",
-      "is_read": true,
-      "file": "165170060987fb9294aaf02fad2b2264dad59aebf1c380ec884222776b38dfd9.json"
     }
   ]
 }
