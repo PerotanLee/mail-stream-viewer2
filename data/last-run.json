@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=19121 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-13T15:47:21.267163+00:00",
-  "added": 15,
+  "updated_at": "2026-11-13T15:47:22.362316+00:00",
+  "added": 16,
   "skipped": 187,
   "scanned": 203,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🥕 Axios Finish Line: Food rescue",
   "added_by_filter": {
     "wsj": 8,
-    "axios": 4,
+    "axios": 5,
     "seekingalpha": 3
   },
   "last_newest_num": 19083,
