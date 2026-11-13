@@ -775,6 +775,42 @@
       "file": "2d2fadf58632935722c3ad18c694286b26ab4ff5633a459d0812672e9b97bf0b.json"
     },
     {
+      "id": "8527ecdcfc9e84740205d93a379e0fda05c65da02e6f24f3e118bd49c5bd3706",
+      "uid": "424933.b2+AMbmEirOoJfcWYBYE9dy2GNuXZoppcQwZuUhgnGM=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "The Nvidia Earnings Report Could Wreck The Market",
+      "date": "Fri, 13 Nov 2026 16:06:40 -0500",
+      "is_read": false,
+      "file": "8527ecdcfc9e84740205d93a379e0fda05c65da02e6f24f3e118bd49c5bd3706.json"
+    },
+    {
+      "id": "e261544dadc7edbc99ea784328455fd192086025b3229f55efaa0d1d64667434",
+      "uid": "424926.4f9LrQAE2pykGICG2khnpx3,5N0pm4uCLqHuF8qFisg=",
+      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+      "subject": "Parents Pour Millions Into Pricey Amenities for Their Kids",
+      "date": "Fri, 13 Nov 2026 15:31:04 -0500",
+      "is_read": false,
+      "file": "e261544dadc7edbc99ea784328455fd192086025b3229f55efaa0d1d64667434.json"
+    },
+    {
+      "id": "9a0d1a19b945ca8d9022346cbe26e79ad14ec8a5eed034f6cff748550b33ebce",
+      "uid": "424923.ea,fBcZJB4wQhUzQDqUoJ6onWbDO+PYN+5Hzn+CQcO0=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🚀 Axios PM: Rocket catch",
+      "date": "Fri, 13 Nov 2026 15:01:40 -0500",
+      "is_read": false,
+      "file": "9a0d1a19b945ca8d9022346cbe26e79ad14ec8a5eed034f6cff748550b33ebce.json"
+    },
+    {
+      "id": "f1dc8627d63a9f4f0d2b6056b59606c99c71ef2cc7cc60ffdef0759651b12c97",
+      "uid": "424920.IODdklneP7ZdvZHCUcuClo1mJfS7rFKPYm,tPSMWwNA=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Widow of Late Campbell’s Chairman Asks $170 Million for Miami Beach Mansion",
+      "date": "Fri, 13 Nov 2026 14:00:57 -0500",
+      "is_read": false,
+      "file": "f1dc8627d63a9f4f0d2b6056b59606c99c71ef2cc7cc60ffdef0759651b12c97.json"
+    },
+    {
       "id": "3c9a0399b270366dffe99b5cc46058f140dd8c52a540c1de382c7d678cd11875",
       "uid": "424916.P1GPAbt2AW55NiWHUZtCi9tzC3dhWt8WvM7Y7c4z+bY=",
       "from_addr": "Axios Macro <macro@axios.com>",
@@ -944,42 +980,6 @@
       "date": "Fri, 06 Nov 2026 16:15:18 -0500",
       "is_read": true,
       "file": "4edc24a9fbd4f0389a20fa5cb11a4bb5311234ce50e109650a17b1c7380a5cc8.json"
-    },
-    {
-      "id": "9621fd600ef8dc2eb90074d8bde2cf5b3003ec87308fc81c404047ef1a31ea4b",
-      "uid": "423208.E,Na5dqnBIYBt0Y,5sK,ulMWEpOOC9y+W3Gy3lrdDc8=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "It's Not Over, The Worst Is Yet To Come",
-      "date": "Fri, 06 Nov 2026 16:06:45 -0500",
-      "is_read": false,
-      "file": "9621fd600ef8dc2eb90074d8bde2cf5b3003ec87308fc81c404047ef1a31ea4b.json"
-    },
-    {
-      "id": "49672262ef8b05872a62b3323f5b83f64d4d971e052c291408f23db09f5eeaf5",
-      "uid": "423207.xxzJ94M++Fd21hQnEpKbPTk98VzewisLMP5mlUPoZXw=",
-      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
-      "subject": "Developers Bet on Man-Made Waves to Lure Wealthy Buyers",
-      "date": "Fri, 06 Nov 2026 16:06:06 -0500",
-      "is_read": true,
-      "file": "49672262ef8b05872a62b3323f5b83f64d4d971e052c291408f23db09f5eeaf5.json"
-    },
-    {
-      "id": "b119b248b1538b9b6609ceaf6a2dddf710d5bf98f894bb67a280d98bb3fcb7e5",
-      "uid": "423199.BFhh89nOkF1qi1ED7u1jujfo,2bPWEvzApfUF8Z26x4=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤯 Axios PM: Jobs shocker",
-      "date": "Fri, 06 Nov 2026 15:15:46 -0500",
-      "is_read": true,
-      "file": "b119b248b1538b9b6609ceaf6a2dddf710d5bf98f894bb67a280d98bb3fcb7e5.json"
-    },
-    {
-      "id": "9c968346d8ec6f67afa116c323841f28bb903bc9e5636995b108c63e4997ab3e",
-      "uid": "423198.OozSIrsUAdUFqyqZ6JdMg9QnMkkEYPJplGktr0YqLq4=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: In Tapping Stephen Miller, Trump Doubles Down and Digs In",
-      "date": "Fri, 06 Nov 2026 15:02:00 -0500",
-      "is_read": true,
-      "file": "9c968346d8ec6f67afa116c323841f28bb903bc9e5636995b108c63e4997ab3e.json"
     }
   ]
 }
