@@ -330,7 +330,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🥕 Axios Finish Line: Food rescue",
       "date": "Thu, 12 Nov 2026 21:29:22 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "df4ecbd19014c322db48946c641fa3bfae6712213251bf37a9aa9da26e5a6b8a.json"
     },
     {
