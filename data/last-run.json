@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=19338 from=WSJ Homes <wsj-homes@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-13T21:14:40.408153+00:00",
-  "added": 1,
+  "updated_at": "2026-11-13T21:14:41.841137+00:00",
+  "added": 2,
   "skipped": 5,
   "scanned": 7,
-  "current": "WSJ Homes <wsj-homes@interactive.wsj.com>",
+  "current": "Parents Pour Millions Into Pricey Amenities for Their Kids",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 0,
     "seekingalpha": 1
   },
