@@ -348,7 +348,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Huang Era Ends",
       "date": "Thu, 12 Nov 2026 16:13:20 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "4accc8879d552643d92757d86bbc9cc657c998cac801d1c18dee7ba68b733442.json"
     },
     {
