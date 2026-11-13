@@ -879,7 +879,7 @@
       "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
       "subject": "WSJ Economics: I Want to Hear From You!",
       "date": "Fri, 13 Nov 2026 06:00:29 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "68c891d81c9ef227046c4017e1e7d422a45af75a3ba2bfd7f483c7ce7d2401c9.json"
     },
     {
