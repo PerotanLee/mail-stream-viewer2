@@ -798,7 +798,7 @@
       "from_addr": "Must Reads <account@seekingalpha.com>",
       "subject": "The Nvidia Earnings Report Could Wreck The Market",
       "date": "Fri, 13 Nov 2026 16:06:40 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "8527ecdcfc9e84740205d93a379e0fda05c65da02e6f24f3e118bd49c5bd3706.json"
     },
     {
