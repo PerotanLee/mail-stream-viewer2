@@ -775,6 +775,24 @@
       "file": "2d2fadf58632935722c3ad18c694286b26ab4ff5633a459d0812672e9b97bf0b.json"
     },
     {
+      "id": "3194e3b3d3c5d3c4e6130f76c5082da8e2d8b1571d1500ebb794a4605d8d1325",
+      "uid": "424955.OSFa9GWyBJVxZjeSMqPa2x7jlJ15ZGqw44liilTkcxk=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "😈 Tech ground stop",
+      "date": "Fri, 13 Nov 2026 17:57:26 -0500",
+      "is_read": false,
+      "file": "3194e3b3d3c5d3c4e6130f76c5082da8e2d8b1571d1500ebb794a4605d8d1325.json"
+    },
+    {
+      "id": "8abe671d213198a63cb1db9d684aa11fbc9723c4d98ff25cb27af170581513e7",
+      "uid": "424936.9Vod7zc,4st06JXyfvJnt++OGXGFsSES7JivYaGEmAs=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "AI Jitters",
+      "date": "Fri, 13 Nov 2026 16:22:30 -0500",
+      "is_read": false,
+      "file": "8abe671d213198a63cb1db9d684aa11fbc9723c4d98ff25cb27af170581513e7.json"
+    },
+    {
       "id": "8527ecdcfc9e84740205d93a379e0fda05c65da02e6f24f3e118bd49c5bd3706",
       "uid": "424933.b2+AMbmEirOoJfcWYBYE9dy2GNuXZoppcQwZuUhgnGM=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
@@ -953,33 +971,6 @@
       "date": "Fri, 13 Nov 2026 05:03:22 -0500",
       "is_read": false,
       "file": "da19b2453fd320e56735c77d08b5321475119c2b7f8f5e610e5569a65e562203.json"
-    },
-    {
-      "id": "3a18b45a5c6d82d8677f943d8a5939a1d2909b2e06f502529010b27f95cf37f5",
-      "uid": "423219.maYbfqMGoqTsqIUywjGOfHVSd3dWM7GL+6,zk,3m5KI=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🤖 Trillion-dollar rethink",
-      "date": "Fri, 06 Nov 2026 17:18:41 -0500",
-      "is_read": true,
-      "file": "3a18b45a5c6d82d8677f943d8a5939a1d2909b2e06f502529010b27f95cf37f5.json"
-    },
-    {
-      "id": "57d4b9afcc58f411afc52d8b6bcf0c7f295f6447ad55d52204a9b0bf6651f0a4",
-      "uid": "423211.gzoyTyr+1MNxnDFHI,j8yAORcv9LpybCZBIT4a6JQV8=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "AI's Agonizing Week",
-      "date": "Fri, 06 Nov 2026 16:26:51 -0500",
-      "is_read": true,
-      "file": "57d4b9afcc58f411afc52d8b6bcf0c7f295f6447ad55d52204a9b0bf6651f0a4.json"
-    },
-    {
-      "id": "4edc24a9fbd4f0389a20fa5cb11a4bb5311234ce50e109650a17b1c7380a5cc8",
-      "uid": "423210.2V9Zp9N,kOXSdw70f10ytpmTXL2UMn+wvN3lV9p744g=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: A Grammy-Winning Producer’s Manhattan Penthouse Lists for $11 Million",
-      "date": "Fri, 06 Nov 2026 16:15:18 -0500",
-      "is_read": true,
-      "file": "4edc24a9fbd4f0389a20fa5cb11a4bb5311234ce50e109650a17b1c7380a5cc8.json"
     }
   ]
 }
