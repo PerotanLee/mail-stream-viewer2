@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=19486 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-15T18:24:22.218450+00:00",
-  "added": 8,
+  "updated_at": "2026-11-15T18:24:23.592344+00:00",
+  "added": 9,
   "skipped": 98,
   "scanned": 107,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: The Nvidia Affair and China's Spying Machine",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 2,
     "seekingalpha": 3
   },
