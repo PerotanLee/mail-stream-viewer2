@@ -514,6 +514,33 @@
       "file": "276abe70d6572be9537279c49d8aa49c2057fbdef75029ffb3ee828565eab898.json"
     },
     {
+      "id": "33792eb528bf9438cd44da4727762e71803d57d38ed75259f25ca40b6595632f",
+      "uid": "425236.uWAzqqoPvH7GeRbU7lXEuA2kHImEjxx,Y,qQqeQDOQQ=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🌵 Axios AM: Blue border wall",
+      "date": "Sun, 15 Nov 2026 08:59:58 -0500",
+      "is_read": false,
+      "file": "33792eb528bf9438cd44da4727762e71803d57d38ed75259f25ca40b6595632f.json"
+    },
+    {
+      "id": "583edb81ba6e314f5e33970b847075e638b766a9cb3d7f5b5482c3802453b9b3",
+      "uid": "425235.y2KPHSOE06JwVZpX3jx1MseSA9tTxC9Ows9b,7M5RVc=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: What Caused the FAA’s Ground Stop Chaos",
+      "date": "Sun, 15 Nov 2026 07:19:22 -0500",
+      "is_read": false,
+      "file": "583edb81ba6e314f5e33970b847075e638b766a9cb3d7f5b5482c3802453b9b3.json"
+    },
+    {
+      "id": "2da95d4a79c30f57e941f1d5b729f6e2268309cf1240c7e3e4e5565c965aa1f9",
+      "uid": "425232.r9fy3Kx8uNSAOGrjRkIHGpf+YmkKmQcbrdwcWaL,OZM=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Wall Street Week Ahead",
+      "date": "Sun, 15 Nov 2026 06:48:38 -0500",
+      "is_read": false,
+      "file": "2da95d4a79c30f57e941f1d5b729f6e2268309cf1240c7e3e4e5565c965aa1f9.json"
+    },
+    {
       "id": "8eef772d7e1f92fe8739f6753e0a0f03cf694c0e3684ab23ee816f4c388eeafe",
       "uid": "423534.LWXTN0ex,e7AeisNYEqyvIJTKe6pRQFd3miHuNq2s7k=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
@@ -523,76 +550,67 @@
       "file": "8eef772d7e1f92fe8739f6753e0a0f03cf694c0e3684ab23ee816f4c388eeafe.json"
     },
     {
-      "id": "1662b8493d2559b4b1c9e29484642cbd4c4a1438c6b85f5aac558a79eb6dbd01",
-      "uid": "423521.ZGUvhewUGQhleGZ631oHNro4LdN8,q6P1a9Xqr1n74Y=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "👢 Axios AM: Texas, Texas, Texas!",
-      "date": "Sun, 08 Nov 2026 09:23:37 -0500",
-      "is_read": true,
-      "file": "1662b8493d2559b4b1c9e29484642cbd4c4a1438c6b85f5aac558a79eb6dbd01.json"
-    },
-    {
-      "id": "75d65f295e7a0c345b5a6cd0e34fe0b9507485aaa6985bf7fad869205f68bc68",
-      "uid": "423516.WPnAV24iEOyhPWgqdFts3tDybbvEYlQMk4xOuz8zWwY=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: The Hard Part Begins for Hakeem Jeffries",
-      "date": "Sun, 08 Nov 2026 07:13:37 -0500",
-      "is_read": true,
-      "file": "75d65f295e7a0c345b5a6cd0e34fe0b9507485aaa6985bf7fad869205f68bc68.json"
-    },
-    {
-      "id": "ff426bf8f3c437c356c0b2f937b4f9ed725b89e42e617d85df60d78e336cc336",
-      "uid": "423509.DGEXLPIKOKTa9RcCC4sSkCbEg+eeJGBsk4Yv3U64dZ8=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Wall Street Week Ahead",
-      "date": "Sun, 08 Nov 2026 06:18:16 -0500",
-      "is_read": true,
-      "file": "ff426bf8f3c437c356c0b2f937b4f9ed725b89e42e617d85df60d78e336cc336.json"
-    },
-    {
-      "id": "ac94cb1d60419680b8eeb4c7761186f710b062fd857db92b63d0a014bf9d4f97",
-      "uid": "423328.GMwKjKLquMbHs+SOIslW1nhFi3blsqBlEhYGoK256ag=",
+      "id": "28520de11a3a3df1f9a0adc4c01e2b6a5d4834fe1f093e28e49a18a13c1acdcc",
+      "uid": "425062.O74jnqNNHn8E8WYWa42qfqGxIf1NNDRWJnwmZQYwQes=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Sat, 07 Nov 2026 19:09:46 +1100",
-      "is_read": true,
-      "file": "ac94cb1d60419680b8eeb4c7761186f710b062fd857db92b63d0a014bf9d4f97.json"
-    },
-    {
-      "id": "2a59b5c0236d800ea74e945365db8c12d08585c488f13fe539d8c7156e39bdf8",
-      "uid": "423381.wb+xXW,bb1,E7sfkr7dMD9ObilZlkt+bYUDFdsCat00=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "8%+ Yields Without The Sleepless Nights: My Top 2 Picks",
-      "date": "Sat, 07 Nov 2026 16:07:08 -0500",
+      "date": "Sat, 14 Nov 2026 19:09:47 +1100",
       "is_read": false,
-      "file": "2a59b5c0236d800ea74e945365db8c12d08585c488f13fe539d8c7156e39bdf8.json"
+      "file": "28520de11a3a3df1f9a0adc4c01e2b6a5d4834fe1f093e28e49a18a13c1acdcc.json"
     },
     {
-      "id": "5771b70a6b8a131311f23c7d5fbba182d6380c9a73129f2195a9b4648e59ff6c",
-      "uid": "423368.z4UMdi+4rWnq0YILk0RYpZrsSwMEWhbvPwGlX8CeuRE=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🥊 Axios AM: The Miller Doctrine",
-      "date": "Sat, 07 Nov 2026 08:51:15 -0500",
-      "is_read": true,
-      "file": "5771b70a6b8a131311f23c7d5fbba182d6380c9a73129f2195a9b4648e59ff6c.json"
+      "id": "230d0b407f1345def30074a1b4e85fb520dc325061c1ac8e0d11950e788783b2",
+      "uid": "425117.1x8OEACnDsI0EpCZym0n449XHvDmrUDIDzN3NXWbziI=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "My Near-Perfect Dividend Snowball For Any Market",
+      "date": "Sat, 14 Nov 2026 16:07:24 -0500",
+      "is_read": false,
+      "file": "230d0b407f1345def30074a1b4e85fb520dc325061c1ac8e0d11950e788783b2.json"
     },
     {
-      "id": "de870809673e8c5fa0ea95ff77ccdc4e03d5418827880bf101a5c5be6f02a4be",
-      "uid": "423364.wFDvHtnvgG+v2+K7VHWibttxQgDkDjT+VV6HsPov2Co=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Trump Doubles Down With Stephen Miller",
-      "date": "Sat, 07 Nov 2026 07:17:49 -0500",
-      "is_read": true,
-      "file": "de870809673e8c5fa0ea95ff77ccdc4e03d5418827880bf101a5c5be6f02a4be.json"
+      "id": "35b77010bdc1ed25173dbc22802e174233c3915a74bddbde861f90135c32b05a",
+      "uid": "425108.FHNSFjjxu65tXeQ,xUPsm1JiIxfxT8pcXrd61dkwlqE=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: What’s Fueling the Real-Estate Frenzy ​Taking Over Palm Beach This Week",
+      "date": "Sat, 14 Nov 2026 11:15:14 -0500",
+      "is_read": false,
+      "file": "35b77010bdc1ed25173dbc22802e174233c3915a74bddbde861f90135c32b05a.json"
     },
     {
-      "id": "2ec1e38166d4b63ea28705d512bbc3465ffa82e948c0b078b271c98baa8ce4eb",
-      "uid": "423360.P1SfAhl2WWy32nhyUUTZqb8TbZ6peWD6HxVhtBBdjus=",
+      "id": "8c5386dc92b415377974b1a2a3c843bb1746d83d1a9553ae9103abf0d3921fc9",
+      "uid": "425104.WanLHEDBanlbf9uowoAlxCwyX32R9HEOe6EA2cZLusc=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "What Moved Markets This Week",
-      "date": "Sat, 07 Nov 2026 06:45:16 -0500",
-      "is_read": true,
-      "file": "2ec1e38166d4b63ea28705d512bbc3465ffa82e948c0b078b271c98baa8ce4eb.json"
+      "date": "Sat, 14 Nov 2026 08:24:35 -0500",
+      "is_read": false,
+      "file": "8c5386dc92b415377974b1a2a3c843bb1746d83d1a9553ae9103abf0d3921fc9.json"
+    },
+    {
+      "id": "72e7cf95841ead2b57b3fc8bc1f49bd03b80b9e7399a9d9ef4d12e4f6fa090d7",
+      "uid": "425102.CER5aA5L7TkrpotToE24+Ae9I+2kDbx9FPoHA5USbnI=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Kevin Durant Lists U-Shaped Arizona House for $13.9 Million",
+      "date": "Sat, 14 Nov 2026 08:15:14 -0500",
+      "is_read": false,
+      "file": "72e7cf95841ead2b57b3fc8bc1f49bd03b80b9e7399a9d9ef4d12e4f6fa090d7.json"
+    },
+    {
+      "id": "207fcdb945664d6afa47dc3d67be6beb2a33e200436480b620feb3cd0043e7e4",
+      "uid": "425100.hIpiU7oYDgSqeVN5mlj+EwkCUSbfbgaP01ZrLFC0uYg=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "✈️ Axios AM: America grounded",
+      "date": "Sat, 14 Nov 2026 07:29:28 -0500",
+      "is_read": false,
+      "file": "207fcdb945664d6afa47dc3d67be6beb2a33e200436480b620feb3cd0043e7e4.json"
+    },
+    {
+      "id": "8af7ea1a87d6432187ec29dae29db726fdaedbeff7a186db270d45bf9e715685",
+      "uid": "425099.aDS+9v1x01xKNIEn474QLlgg173EjZXKyv,wXeqrXIg=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: The Nvidia Affair and China's Spying Machine",
+      "date": "Sat, 14 Nov 2026 07:15:33 -0500",
+      "is_read": false,
+      "file": "8af7ea1a87d6432187ec29dae29db726fdaedbeff7a186db270d45bf9e715685.json"
     },
     {
       "id": "ea15af778b206ab0dab18692be7fa0681aeb0cde5ea18bba53d7ffde45c22599",
