@@ -600,7 +600,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "✈️ Axios AM: America grounded",
       "date": "Sat, 14 Nov 2026 07:29:28 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "207fcdb945664d6afa47dc3d67be6beb2a33e200436480b620feb3cd0043e7e4.json"
     },
     {
