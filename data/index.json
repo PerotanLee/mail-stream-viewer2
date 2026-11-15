@@ -519,7 +519,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🌵 Axios AM: Blue border wall",
       "date": "Sun, 15 Nov 2026 08:59:58 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "33792eb528bf9438cd44da4727762e71803d57d38ed75259f25ca40b6595632f.json"
     },
     {
