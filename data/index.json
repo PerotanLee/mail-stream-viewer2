@@ -681,7 +681,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "💥 Axios AM: Shock and awe, forever",
       "date": "Mon, 16 Nov 2026 05:32:11 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "d2e2dea8d5f195c43b3ae125c50a10c591489fa08559bfd5c072515d0f988f1a.json"
     },
     {
