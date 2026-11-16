@@ -645,7 +645,7 @@
       "from_addr": "Alpha Picks <subscriptions@seekingalpha.com>",
       "subject": "Save $100 on Alpha Picks—new pick out today!",
       "date": "Mon, 16 Nov 2026 09:27:32 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "a43f72060c1e1e1facc1610d156ea49e9005c3ef6920f8b470f3fc413905e94e.json"
     },
     {
