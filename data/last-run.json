@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=19758 from=\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-16T14:00:16.425215+00:00",
-  "added": 5,
+  "updated_at": "2026-11-16T14:00:18.031865+00:00",
+  "added": 6,
   "skipped": 21,
   "scanned": 27,
-  "current": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+  "current": "The 10-Point: Wall Street’s AI Fever Breaks",
   "added_by_filter": {
-    "wsj": 3,
+    "wsj": 4,
     "axios": 1,
     "seekingalpha": 1
   },
