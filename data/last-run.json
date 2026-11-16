@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=19787 from=Alpha Picks <subscriptions@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-16T15:58:25.939413+00:00",
-  "added": 2,
+  "updated_at": "2026-11-16T15:58:27.098575+00:00",
+  "added": 3,
   "skipped": 12,
   "scanned": 15,
-  "current": "Alpha Picks <subscriptions@seekingalpha.com>",
+  "current": "Save $100 on Alpha Picks—new pick out today!",
   "added_by_filter": {
     "wsj": 0,
     "axios": 2,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 19784,
   "newest_num": 19801,
