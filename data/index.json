@@ -627,7 +627,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Duffy Pitches $50B Air Traffic Modernization Plan",
       "date": "Mon, 16 Nov 2026 08:03:56 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "19cb8102f1820441753b4fab0101996262c61a3ca2d6227c554d9b3b3b9d3ad4.json"
     },
     {
