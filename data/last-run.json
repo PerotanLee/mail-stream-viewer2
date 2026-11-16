@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=19778 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-16T13:59:55.465356+00:00",
+  "updated_at": "2026-11-16T13:59:58.376402+00:00",
   "added": 0,
-  "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 19592
+  "skipped": 6,
+  "scanned": 7,
+  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 19592,
+  "newest_num": 19784,
+  "scan_mode": "new",
+  "since": "2026-11-15T18:09:36.299604+00:00"
 }
