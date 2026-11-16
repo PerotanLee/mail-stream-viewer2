@@ -514,6 +514,15 @@
       "file": "276abe70d6572be9537279c49d8aa49c2057fbdef75029ffb3ee828565eab898.json"
     },
     {
+      "id": "b88321d6c2d4aedc636b80883faa51f7ede7b47ee23aa2797e741683e66404ba",
+      "uid": "425250.YOXeG6Kf1Qy72bMTl9feogo+H,z50Z5GdCLTtwDz52U=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Top 50 High-Quality Dividend Growth Stocks For November 2026",
+      "date": "Sun, 15 Nov 2026 16:06:27 -0500",
+      "is_read": false,
+      "file": "b88321d6c2d4aedc636b80883faa51f7ede7b47ee23aa2797e741683e66404ba.json"
+    },
+    {
       "id": "33792eb528bf9438cd44da4727762e71803d57d38ed75259f25ca40b6595632f",
       "uid": "425236.uWAzqqoPvH7GeRbU7lXEuA2kHImEjxx,Y,qQqeQDOQQ=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -539,15 +548,6 @@
       "date": "Sun, 15 Nov 2026 06:48:38 -0500",
       "is_read": true,
       "file": "2da95d4a79c30f57e941f1d5b729f6e2268309cf1240c7e3e4e5565c965aa1f9.json"
-    },
-    {
-      "id": "8eef772d7e1f92fe8739f6753e0a0f03cf694c0e3684ab23ee816f4c388eeafe",
-      "uid": "423534.LWXTN0ex,e7AeisNYEqyvIJTKe6pRQFd3miHuNq2s7k=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Two Of My Best Dividend Stocks Cut Their Dividends",
-      "date": "Sun, 08 Nov 2026 16:06:27 -0500",
-      "is_read": false,
-      "file": "8eef772d7e1f92fe8739f6753e0a0f03cf694c0e3684ab23ee816f4c388eeafe.json"
     },
     {
       "id": "28520de11a3a3df1f9a0adc4c01e2b6a5d4834fe1f093e28e49a18a13c1acdcc",
@@ -613,6 +613,78 @@
       "file": "8af7ea1a87d6432187ec29dae29db726fdaedbeff7a186db270d45bf9e715685.json"
     },
     {
+      "id": "9169e0b31901eaa04b28fed91e9227cbbd8f9e845ea4c3b3f27c9850f3b96769",
+      "uid": "425385.rP5Rk0UduJ6UlnJvBnLpvZRllAMQeTMM9,pTI,OpgH0=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Mon, 16 Nov 2026 19:09:46 +1100",
+      "is_read": false,
+      "file": "9169e0b31901eaa04b28fed91e9227cbbd8f9e845ea4c3b3f27c9850f3b96769.json"
+    },
+    {
+      "id": "19cb8102f1820441753b4fab0101996262c61a3ca2d6227c554d9b3b3b9d3ad4",
+      "uid": "425450.y0wfL6q,GwDjNHrV9AcA46WdL1hADEXZ6AEE+wz+dNU=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Duffy Pitches $50B Air Traffic Modernization Plan",
+      "date": "Mon, 16 Nov 2026 08:03:56 -0500",
+      "is_read": false,
+      "file": "19cb8102f1820441753b4fab0101996262c61a3ca2d6227c554d9b3b3b9d3ad4.json"
+    },
+    {
+      "id": "738de1c722ef6823b3f65b61dea69719c212320b0e3bdf8a568211c88174f919",
+      "uid": "425447.rqlaSftALIk+ZQFnv50KzHm4W1dL7UD0Uwld7uuF4FE=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "💪 Ultimate CEO superpower",
+      "date": "Mon, 16 Nov 2026 07:28:54 -0500",
+      "is_read": false,
+      "file": "738de1c722ef6823b3f65b61dea69719c212320b0e3bdf8a568211c88174f919.json"
+    },
+    {
+      "id": "b8ab8978503ce8d4ecae4eab8bd72103ad391821a47e9589edfddd1241cade71",
+      "uid": "425446.HySo3cp0DhMlZllKSYYVYtC8LBK9fMSNLueesqusT4Q=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: The White House vs. Congress War Is On. And It’s Ugly.",
+      "date": "Mon, 16 Nov 2026 07:15:06 -0500",
+      "is_read": false,
+      "file": "b8ab8978503ce8d4ecae4eab8bd72103ad391821a47e9589edfddd1241cade71.json"
+    },
+    {
+      "id": "c71f06d4d4e5e85847c802fa3d7228dd85c230881df0f8a06aaed5b165a6dd94",
+      "uid": "425437.ZG+KO7b2Z+ErERhygpLpyH7r,i9M8IJ6zbQGyDURNMw=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Banks Race to Keep Up as AI Bots Use Credit Cards",
+      "date": "Mon, 16 Nov 2026 06:30:40 -0500",
+      "is_read": false,
+      "file": "c71f06d4d4e5e85847c802fa3d7228dd85c230881df0f8a06aaed5b165a6dd94.json"
+    },
+    {
+      "id": "9f651086fb99e9be0a0ef7fec3d201fc00a337176df0335534865c73398a3b83",
+      "uid": "425436.YeX8YUeQUL3AGAcnEEAiAUTWoi4MmEgQd6e5mT0AUWA=",
+      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
+      "subject": "⚖️ Big-Tech Worrywarts Have Their Day",
+      "date": "Mon, 16 Nov 2026 06:26:25 -0500",
+      "is_read": false,
+      "file": "9f651086fb99e9be0a0ef7fec3d201fc00a337176df0335534865c73398a3b83.json"
+    },
+    {
+      "id": "d8b3397305792c2faf9bfd8b6b143a4179ea0320fdc9bcdfdb1595418add99e4",
+      "uid": "425429.iL35FMI7C1D+LQQiu4aN3hHObHsMQrhUle79hjoakD8=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Wall Street’s AI Fever Breaks",
+      "date": "Mon, 16 Nov 2026 06:02:33 -0500",
+      "is_read": false,
+      "file": "d8b3397305792c2faf9bfd8b6b143a4179ea0320fdc9bcdfdb1595418add99e4.json"
+    },
+    {
+      "id": "d2e2dea8d5f195c43b3ae125c50a10c591489fa08559bfd5c072515d0f988f1a",
+      "uid": "425425.yye9EYRpK6K7i52ULCskMjiri35WNe5L90xw63dtdcM=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "💥 Axios AM: Shock and awe, forever",
+      "date": "Mon, 16 Nov 2026 05:32:11 -0500",
+      "is_read": false,
+      "file": "d2e2dea8d5f195c43b3ae125c50a10c591489fa08559bfd5c072515d0f988f1a.json"
+    },
+    {
       "id": "ea15af778b206ab0dab18692be7fa0681aeb0cde5ea18bba53d7ffde45c22599",
       "uid": "423839.riABY5,3+TS1ey9sDYlUmv33uRGU6EPKbVsvH8a4QXo=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -620,15 +692,6 @@
       "date": "Mon, 09 Nov 2026 21:29:28 -0500",
       "is_read": true,
       "file": "ea15af778b206ab0dab18692be7fa0681aeb0cde5ea18bba53d7ffde45c22599.json"
-    },
-    {
-      "id": "172a4070b2c398b78a6dc05270b8bb89f404dc2794936c3c71ddea0fc9ec268f",
-      "uid": "423671.5phpf+d4cGPKMeLfmVMyeA4h1wgv8xOND3SyL1R3s+s=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Mon, 09 Nov 2026 19:09:48 +1100",
-      "is_read": true,
-      "file": "172a4070b2c398b78a6dc05270b8bb89f404dc2794936c3c71ddea0fc9ec268f.json"
     },
     {
       "id": "e085050ffaf8f0760bf19729b6ed236ba7d722afe27174b50e4b0e37896d991d",
@@ -719,69 +782,6 @@
       "date": "Mon, 09 Nov 2026 09:34:11 -0500",
       "is_read": true,
       "file": "c15f1ce8fd68f6657c9a706383b793b5d942a990a7a4852f0e7403a695ab61f1.json"
-    },
-    {
-      "id": "9c53ff68a0edf96715a9a42468e145e1a115109a28f02965a738adbbe2f03174",
-      "uid": "423726.9df2Nk2e1arGvdX2Be4Kr4+gZHgdqRbx0z3Qhp3pY+I=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "😳 Nervous about Nvidia",
-      "date": "Mon, 09 Nov 2026 07:31:57 -0500",
-      "is_read": true,
-      "file": "9c53ff68a0edf96715a9a42468e145e1a115109a28f02965a738adbbe2f03174.json"
-    },
-    {
-      "id": "00ffd7cb9ef7c4301dbbd0687f76fad9758af679a92908dce54037dc9176d61b",
-      "uid": "423725.WnTj0QXLdCV9qQBt,6aJExS7DbUo6TT6SpVzca+vrP4=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Will The 'Godfather Of AI' Be Replaced?",
-      "date": "Mon, 09 Nov 2026 07:13:36 -0500",
-      "is_read": true,
-      "file": "00ffd7cb9ef7c4301dbbd0687f76fad9758af679a92908dce54037dc9176d61b.json"
-    },
-    {
-      "id": "e2905f3e71a4f7c8d5a5e67963e80f4d3e2c119a2b166ecb6d53b063ddab61c3",
-      "uid": "423721.tAPawPyF9Hrx7cw,feCFqX6P5VF5sucVCWRFLmk8F3s=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Nvidia’s CEO Scandal Tests Trump, as Does Emboldened Congress",
-      "date": "Mon, 09 Nov 2026 06:57:36 -0500",
-      "is_read": true,
-      "file": "e2905f3e71a4f7c8d5a5e67963e80f4d3e2c119a2b166ecb6d53b063ddab61c3.json"
-    },
-    {
-      "id": "5470399d7e32f36c09ddd8ad3607de5758d22a129b76f438895584eb00acbb58",
-      "uid": "423718.xFaTFPjumYnGduz1tbVVNKZ0MDnYXIEvvKpQ7Eb2dF8=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "Amid Market Chaos, Stick With Your Investing Playbook",
-      "date": "Mon, 09 Nov 2026 06:35:51 -0500",
-      "is_read": true,
-      "file": "5470399d7e32f36c09ddd8ad3607de5758d22a129b76f438895584eb00acbb58.json"
-    },
-    {
-      "id": "a1d50b517e33e4f5348f8309ce9434c63ab90c0e6cbc3a4529391d15929d0f03",
-      "uid": "423712.w1lr3a+uEE52rYiMn2qPKWBWRraButiONasbKX4N59Y=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: An Affair, a Spy Probe and Nvidia’s CEO",
-      "date": "Mon, 09 Nov 2026 06:17:35 -0500",
-      "is_read": true,
-      "file": "a1d50b517e33e4f5348f8309ce9434c63ab90c0e6cbc3a4529391d15929d0f03.json"
-    },
-    {
-      "id": "3d4da95eb967c28e1ab085ee67f8ab94851be79107ab0d698121d57f24f8c733",
-      "uid": "423711.NtxOwvnXseb0bhRtn,n4HkZPXKp4QGlNoZkxdMZ40F0=",
-      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
-      "subject": "✈️ Boeing and the Trouble with Timing Turnarounds",
-      "date": "Mon, 09 Nov 2026 06:17:14 -0500",
-      "is_read": true,
-      "file": "3d4da95eb967c28e1ab085ee67f8ab94851be79107ab0d698121d57f24f8c733.json"
-    },
-    {
-      "id": "080762e06afe5c9a425de0bfefdd35a630f1b6a21758b15ef9367b224405c2f0",
-      "uid": "423706.ZxRpLpYreWDCou+7XctJYop+iZJGziEQ6ny9o6tpsp0=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤖 Axios AM: Too-big-to-fail test",
-      "date": "Mon, 09 Nov 2026 05:47:19 -0500",
-      "is_read": true,
-      "file": "080762e06afe5c9a425de0bfefdd35a630f1b6a21758b15ef9367b224405c2f0.json"
     },
     {
       "id": "2d2fadf58632935722c3ad18c694286b26ab4ff5633a459d0812672e9b97bf0b",
