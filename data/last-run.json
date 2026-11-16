@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=19774 from=\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-16T14:00:05.181853+00:00",
-  "added": 2,
+  "updated_at": "2026-11-16T14:00:06.459470+00:00",
+  "added": 3,
   "skipped": 8,
   "scanned": 11,
-  "current": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+  "current": "WSJ Politics: The White House vs. Congress War Is On. And It’s Ugly.",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 1,
     "seekingalpha": 1
   },
