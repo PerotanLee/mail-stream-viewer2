@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17062 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-17T20:34:21.729170+00:00",
-  "added": 15,
+  "updated_at": "2026-11-17T20:34:22.903375+00:00",
+  "added": 16,
   "skipped": 31,
   "scanned": 47,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "👀 Axios AM: If competence were cool",
   "added_by_filter": {
     "wsj": 7,
-    "axios": 6,
+    "axios": 7,
     "seekingalpha": 2
   },
   "last_newest_num": 16991,
