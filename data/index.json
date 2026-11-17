@@ -240,7 +240,7 @@
       "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
       "subject": "💵 Your 401(k) and Nvidia",
       "date": "Tue, 17 Nov 2026 06:21:27 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "a6f9eec340d04c6c4138953c81cc4b717c99db98d52422e25802eed0a6e41494.json"
     },
     {
