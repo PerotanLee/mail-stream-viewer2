@@ -118,6 +118,159 @@
       "file": "661bb70c46c2f7a19d472b0b0e4692d11d267036fc350460a30e7caaadcdb2b7.json"
     },
     {
+      "id": "ee88a6810ac6edabecf37b6b6afbb1946ad7c78a9fe2b85cded24eb8f845b00f",
+      "uid": "425659.2sgYIURx2TbEP5sZSmicP+lrJB,UtV10Vv1bHCSrCuc=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Tue, 17 Nov 2026 19:09:47 +1100",
+      "is_read": false,
+      "file": "ee88a6810ac6edabecf37b6b6afbb1946ad7c78a9fe2b85cded24eb8f845b00f.json"
+    },
+    {
+      "id": "a522e86e1bd486537a3afe41ee7f70a2300d8d3980c73a8da25781766e463cf9",
+      "uid": "425756.29VHpjuk1DRJrysR9jpjOYQLupz0zAHMRn1THElDv5Q=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🙏 Axios PM: Huang wants back in",
+      "date": "Tue, 17 Nov 2026 15:15:34 -0500",
+      "is_read": false,
+      "file": "a522e86e1bd486537a3afe41ee7f70a2300d8d3980c73a8da25781766e463cf9.json"
+    },
+    {
+      "id": "1d49bcef7713c2e51d45410b202c8365c73bca51cc27fd71a6f57d65ce6892fd",
+      "uid": "425750.7ORRLCZfn24NPPvFdNIXLXWITCrGlj4zjiLhh,Q50Pg=",
+      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
+      "subject": "Anthropic’s Big Biotech Promise",
+      "date": "Tue, 17 Nov 2026 12:06:06 -0500",
+      "is_read": false,
+      "file": "1d49bcef7713c2e51d45410b202c8365c73bca51cc27fd71a6f57d65ce6892fd.json"
+    },
+    {
+      "id": "96d166f279537952d3abc55154ee41711562c2815f27740ae99f30e0f3d938b8",
+      "uid": "425747.cP7zVdHPiZe9AG9HWXmZZ2abUs61RfnF2FGC198aCvQ=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "👂 What Warsh heard",
+      "date": "Tue, 17 Nov 2026 11:58:27 -0500",
+      "is_read": false,
+      "file": "96d166f279537952d3abc55154ee41711562c2815f27740ae99f30e0f3d938b8.json"
+    },
+    {
+      "id": "d400446f5ba2504d37613f8302d15996eedd9c1a6408f16b0281aef554a81cba",
+      "uid": "425745.SBPZQO8iYRuJIjIfSIcyVk2erInqX5Ye7m,JcUPckiQ=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: BFD Day!",
+      "date": "Tue, 17 Nov 2026 09:35:00 -0500",
+      "is_read": false,
+      "file": "d400446f5ba2504d37613f8302d15996eedd9c1a6408f16b0281aef554a81cba.json"
+    },
+    {
+      "id": "38b097ae798b1680e5b8294e74d51ce954c2874b93fa551139b1da13cc9a634f",
+      "uid": "425744.lUmjkKWRUzP2EpWxAoky8trs9o3D,OXaazXWwFOr81A=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "👑 Untouchable CEOs?",
+      "date": "Tue, 17 Nov 2026 09:28:17 -0500",
+      "is_read": false,
+      "file": "38b097ae798b1680e5b8294e74d51ce954c2874b93fa551139b1da13cc9a634f.json"
+    },
+    {
+      "id": "6701f87280a6acee3c20f5d7dde2bc384ebceb11fd4173efbe2126975a96b324",
+      "uid": "425737.W8KaTtEw2+dam4mx7nv6jPBrPJCyc,x2f3yK+8OnhQE=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "The Fight Over Jensen Huang And Nvidia Earnings",
+      "date": "Tue, 17 Nov 2026 07:30:12 -0500",
+      "is_read": false,
+      "file": "6701f87280a6acee3c20f5d7dde2bc384ebceb11fd4173efbe2126975a96b324.json"
+    },
+    {
+      "id": "942055121a12bcb1daf15d32d17777c2eaf0c6af3ef1ce4abac97f878748826d",
+      "uid": "425736.xFXFJSnIM7eSUBNiwtPrhExp4C5ZdZkCys1zXdpWYjY=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "📉 Be careful out there",
+      "date": "Tue, 17 Nov 2026 07:28:39 -0500",
+      "is_read": false,
+      "file": "942055121a12bcb1daf15d32d17777c2eaf0c6af3ef1ce4abac97f878748826d.json"
+    },
+    {
+      "id": "fe14ab3436f9318a4546eb69453a2ae3d30af0106c9b4e717e846cf93ce15e1c",
+      "uid": "425730.WPfQyLZpDCQ5Bmwsf4lceZd0BKfm5+Y1vs+aCPnHP5w=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Van Hollen’s Challenge of Schumer Exposes Democrats’ Identity Crisis",
+      "date": "Tue, 17 Nov 2026 07:04:33 -0500",
+      "is_read": false,
+      "file": "fe14ab3436f9318a4546eb69453a2ae3d30af0106c9b4e717e846cf93ce15e1c.json"
+    },
+    {
+      "id": "bba7fe53ad5a6c8fff0d22f57922db623e23f228f5c41dba65032ee9a4f29d69",
+      "uid": "425729.7q+RIi+rwiPu1Ms6q8q6MdylivZm97fP8X3D8xidUO0=",
+      "from_addr": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ China: The Issue Beneath the Summit",
+      "date": "Tue, 17 Nov 2026 07:04:09 -0500",
+      "is_read": false,
+      "file": "bba7fe53ad5a6c8fff0d22f57922db623e23f228f5c41dba65032ee9a4f29d69.json"
+    },
+    {
+      "id": "394171ca16b941e3fa9c45e33f99503f3ce739260c46b77d20f6643a183145d8",
+      "uid": "425726.63ADwPZlVMfNPcH3RX+oGVTiCwoiZuTyKt,77YsxhSU=",
+      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
+      "subject": "🟠 Save up to $498 with Black Friday bundles",
+      "date": "Tue, 17 Nov 2026 06:58:23 -0500",
+      "is_read": false,
+      "file": "394171ca16b941e3fa9c45e33f99503f3ce739260c46b77d20f6643a183145d8.json"
+    },
+    {
+      "id": "4f3522f1b9ecb609842d9ed1be8557b66ec381083dcb38ba0e5a0a82485ce19f",
+      "uid": "425723.NXIA7IqbHB7toCKw0WNlaVATKw1A56SCyCZDwNz6xl8=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Volatility Has Fundamentally Rewired the AI Trade",
+      "date": "Tue, 17 Nov 2026 06:31:06 -0500",
+      "is_read": false,
+      "file": "4f3522f1b9ecb609842d9ed1be8557b66ec381083dcb38ba0e5a0a82485ce19f.json"
+    },
+    {
+      "id": "1c2b1dde62a3dfc3641fcf0eded4a09472c5f57d436b808d44c782ee9fd8575b",
+      "uid": "425722.d1h1RrYRm8MPekMob+lRKONDkMXetklS9iO4Yhl5tgs=",
+      "from_addr": "Axios Defense <defense@axios.com>",
+      "subject": "🛬 Taiwan touchdown",
+      "date": "Tue, 17 Nov 2026 06:30:18 -0500",
+      "is_read": false,
+      "file": "1c2b1dde62a3dfc3641fcf0eded4a09472c5f57d436b808d44c782ee9fd8575b.json"
+    },
+    {
+      "id": "a6f9eec340d04c6c4138953c81cc4b717c99db98d52422e25802eed0a6e41494",
+      "uid": "425719.WAJBZ5vYUz7tiaMxNXNgEQKlDHL7x,DftTAtlRt9cLQ=",
+      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
+      "subject": "💵 Your 401(k) and Nvidia",
+      "date": "Tue, 17 Nov 2026 06:21:27 -0500",
+      "is_read": false,
+      "file": "a6f9eec340d04c6c4138953c81cc4b717c99db98d52422e25802eed0a6e41494.json"
+    },
+    {
+      "id": "764e193742c2c34561e8ac58c61ff89faa645a621d299e387a92dc84e78a3afc",
+      "uid": "425716.Tqb4QEUc7u6rV0EJFaIjWjHuFDVRKSKD5tw7g+ouZoQ=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Alice Huang’s Husband Built a China Data-Center Empire",
+      "date": "Tue, 17 Nov 2026 06:05:07 -0500",
+      "is_read": false,
+      "file": "764e193742c2c34561e8ac58c61ff89faa645a621d299e387a92dc84e78a3afc.json"
+    },
+    {
+      "id": "0a71dc1e22dac57ebcaef3b1760f425eeb49a10b4589cc960c6d91fee5c1ce36",
+      "uid": "425714.U3z6Pbx9onnpjzCaK5C3KjxwbgteavAyunM3IgCraJM=",
+      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Economics: Just How Moderate Are ‘Moderate’ Democrats?",
+      "date": "Tue, 17 Nov 2026 06:04:19 -0500",
+      "is_read": false,
+      "file": "0a71dc1e22dac57ebcaef3b1760f425eeb49a10b4589cc960c6d91fee5c1ce36.json"
+    },
+    {
+      "id": "204612e186edb605f501b07357c21902ed9692e58c372bc2b27a7719eb6e3d44",
+      "uid": "425709.iOIcUqw8R8B598TWXcchI,gfZ7bBN7jsPYb6GI2Zg,c=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "👀 Axios AM: If competence were cool",
+      "date": "Tue, 17 Nov 2026 05:47:50 -0500",
+      "is_read": false,
+      "file": "204612e186edb605f501b07357c21902ed9692e58c372bc2b27a7719eb6e3d44.json"
+    },
+    {
       "id": "21148bc3cfcdd33a4d104d0a9c2842f6b21a9c219abcb273dd22e97316beff67",
       "uid": "424139.pqinjHyMi,k2F7KdEKy4r0RcInpldcd+gGJySTKnLg4=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -125,15 +278,6 @@
       "date": "Tue, 10 Nov 2026 21:29:26 -0500",
       "is_read": true,
       "file": "21148bc3cfcdd33a4d104d0a9c2842f6b21a9c219abcb273dd22e97316beff67.json"
-    },
-    {
-      "id": "ee568ce7e2bccab5b3304c78764aab1108126f8ed532203bade609bdb0fcb938",
-      "uid": "423941.CZH5mCZXjtcepCdAIDuYCNVEJlssm6r,2HGOY0XFd1c=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Tue, 10 Nov 2026 19:09:46 +1100",
-      "is_read": true,
-      "file": "ee568ce7e2bccab5b3304c78764aab1108126f8ed532203bade609bdb0fcb938.json"
     },
     {
       "id": "01a0f21d9cc2bab288539d2e3eb226dd0293b24c846710a246c4a68322c7632c",
@@ -170,159 +314,6 @@
       "date": "Tue, 10 Nov 2026 16:06:32 -0500",
       "is_read": true,
       "file": "0ba7e10daff0471dc013ef64f1b0ca53b752c802e352652651cca13e821453e2.json"
-    },
-    {
-      "id": "af8fca7aa17c22a9f9f43e4d3a7dc744d6f0d798f91656069779cfa42c69298b",
-      "uid": "424047.y5QFX0E08Rn89cYnVZsSH57J+Td7F+M07h4wuEFerSc=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🪖 Axios PM: Hegseth at war",
-      "date": "Tue, 10 Nov 2026 15:23:54 -0500",
-      "is_read": true,
-      "file": "af8fca7aa17c22a9f9f43e4d3a7dc744d6f0d798f91656069779cfa42c69298b.json"
-    },
-    {
-      "id": "6e3479fb0b7cf771232bd792d7bf9d690ef7bff891401e1f5d44affc70a0e92f",
-      "uid": "424046.k5V0,9AquxO3qHUTD8QjCJOu91SN++z6qgUmWj+hiHQ=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Bella Hadid Buys Historic Colorado Mountain Home for $5.5 Million",
-      "date": "Tue, 10 Nov 2026 15:15:37 -0500",
-      "is_read": true,
-      "file": "6e3479fb0b7cf771232bd792d7bf9d690ef7bff891401e1f5d44affc70a0e92f.json"
-    },
-    {
-      "id": "058daf3455662e9adb981eafc1607f315e8f341b1cf5f6779a8ed0ffe8b080f4",
-      "uid": "424038.s+ruBTqf6jzxFnTEAdbti6Tiw8byBllKI8bvR9bixmw=",
-      "from_addr": "WSJ AI & Business <access@interactive.wsj.com>",
-      "subject": "A Reckoning Is at Hand",
-      "date": "Tue, 10 Nov 2026 12:54:41 -0500",
-      "is_read": true,
-      "file": "058daf3455662e9adb981eafc1607f315e8f341b1cf5f6779a8ed0ffe8b080f4.json"
-    },
-    {
-      "id": "fbfa70f94090d74e3710af7da71c68d7d1d766415ac5fd28692b5d17ed0ce258",
-      "uid": "424035.FgxqPAkIfcOQozZgl+S2dZm8cbZ7TigxkBG24RldqpY=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🔥 Hot, hot inflation",
-      "date": "Tue, 10 Nov 2026 12:10:12 -0500",
-      "is_read": true,
-      "file": "fbfa70f94090d74e3710af7da71c68d7d1d766415ac5fd28692b5d17ed0ce258.json"
-    },
-    {
-      "id": "a1ddabbd22cd36df18eba3a7c3db2cff46f9c034b45a68b63f04744dd583eef3",
-      "uid": "424026.RcDuLeuPDJNQjJc5jVqTxrQhvCxUr3LXULl4sWkbJ0w=",
-      "from_addr": "\"Jason Zweig, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The Intelligent Investor: I'm Always Wrong About Gold. You Probably Are, Too.",
-      "date": "Tue, 10 Nov 2026 11:02:09 -0500",
-      "is_read": true,
-      "file": "a1ddabbd22cd36df18eba3a7c3db2cff46f9c034b45a68b63f04744dd583eef3.json"
-    },
-    {
-      "id": "0c64918b64ed39b2a98935c4037cea95aaf484f992005b3565acbae39b2775d1",
-      "uid": "424023.nBHlU15aAXENWHMOQViyEH1fU7zY7sYyLFiDiCfmRQM=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Sequoia's story",
-      "date": "Tue, 10 Nov 2026 10:11:18 -0500",
-      "is_read": true,
-      "file": "0c64918b64ed39b2a98935c4037cea95aaf484f992005b3565acbae39b2775d1.json"
-    },
-    {
-      "id": "d6adf83bcdd18a5e4fd37e2ba259f93ebab6f4f0f621bef1720701650c7d8851",
-      "uid": "424017.jGtI7M9qU5QVYGD6UONvRVs+tunMvooib4tZoZDz7Jg=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🛑 An accidental slowdown",
-      "date": "Tue, 10 Nov 2026 09:28:15 -0500",
-      "is_read": true,
-      "file": "d6adf83bcdd18a5e4fd37e2ba259f93ebab6f4f0f621bef1720701650c7d8851.json"
-    },
-    {
-      "id": "9ce0f70a9008d51d125d365ab5a29e18c75f5b26483d098d6bbf0cc36433351e",
-      "uid": "424015.bst1ht,nhgvNrDTlSaV9qVdIhRSd8roTkfkaECVbWko=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "In Pursuit Of The Largest IPO In History",
-      "date": "Tue, 10 Nov 2026 07:39:45 -0500",
-      "is_read": true,
-      "file": "9ce0f70a9008d51d125d365ab5a29e18c75f5b26483d098d6bbf0cc36433351e.json"
-    },
-    {
-      "id": "94b42aa65504e7bd2650fcaf7e78cedb4e5a5feb221ad82aea5ddfe4b921d589",
-      "uid": "424013.DrGQF,UWd1phjv2roAt4MoQgdHYWn5BTML90XkDu8tc=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "👀 Anthropic, CPI, oh my!",
-      "date": "Tue, 10 Nov 2026 07:28:51 -0500",
-      "is_read": true,
-      "file": "94b42aa65504e7bd2650fcaf7e78cedb4e5a5feb221ad82aea5ddfe4b921d589.json"
-    },
-    {
-      "id": "db4743e32e99f4ca727fe59fb34102ffc0c6283f8684d150566b39a7227c6177",
-      "uid": "424010.owrShCIoQe2uZd38DiXgjrYYNw8bGR807ffD6gGk6MA=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Hegseth’s Impeachment Gives Wounded Hill GOP New Power",
-      "date": "Tue, 10 Nov 2026 07:06:16 -0500",
-      "is_read": true,
-      "file": "db4743e32e99f4ca727fe59fb34102ffc0c6283f8684d150566b39a7227c6177.json"
-    },
-    {
-      "id": "7f5ba769579021ba856eb94aabb9dae8a1772e454f57f7413dec5ff369c7c936",
-      "uid": "424009.u,vaXbRODeD7BVSl4CUGT9wMCwIoqtadq,wkMwD0d7w=",
-      "from_addr": "\"Lingling Wei, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ China: Xi Risks Misreading Trump",
-      "date": "Tue, 10 Nov 2026 07:04:25 -0500",
-      "is_read": true,
-      "file": "7f5ba769579021ba856eb94aabb9dae8a1772e454f57f7413dec5ff369c7c936.json"
-    },
-    {
-      "id": "f1478a8c83fe364bd8c5a1d258be0f74772b41f61992a3f6669ff48dea0320ab",
-      "uid": "424001.GFAwAwW9VPT1QlzUr,e,0nmZxZelfJOJJnB4Q6pfZig=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "Capitol Hill’s Bark Is Worse Than Its Bite for Bank Stocks",
-      "date": "Tue, 10 Nov 2026 06:30:42 -0500",
-      "is_read": true,
-      "file": "f1478a8c83fe364bd8c5a1d258be0f74772b41f61992a3f6669ff48dea0320ab.json"
-    },
-    {
-      "id": "7329f4598aa1387bd2e63afcce9e68b136c4151aad222bc715484ef2c412cc90",
-      "uid": "424000.+Jkn8pyuMgOtr+fuGFq9f,BbP,+1+7ndXcWAJtCq4z4=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "🔇 Half-year holdout",
-      "date": "Tue, 10 Nov 2026 06:30:17 -0500",
-      "is_read": true,
-      "file": "7329f4598aa1387bd2e63afcce9e68b136c4151aad222bc715484ef2c412cc90.json"
-    },
-    {
-      "id": "ec4bc36db8f41aa5e7fa34172e4226f1b71607a82a2225ddadbdb8b98957fba1",
-      "uid": "423999.SHZi3b2ZSzSASYa42EsGSi8VUW8AYFN2IrYS,qIQ6V0=",
-      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
-      "subject": "⚾ AI’s 'Field of Dreams' Dilemma",
-      "date": "Tue, 10 Nov 2026 06:29:17 -0500",
-      "is_read": true,
-      "file": "ec4bc36db8f41aa5e7fa34172e4226f1b71607a82a2225ddadbdb8b98957fba1.json"
-    },
-    {
-      "id": "af530ba18eefc84535fa18c5fae85494ab59eea34d9b21720f49953c15c2fd67",
-      "uid": "423998.v1y8MsLLNwg5dw8sYuycVzdgreGO10Nf8H0U1d1Dw5M=",
-      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Economics: Nvidia Just Made CEOs’ Lives Much Harder",
-      "date": "Tue, 10 Nov 2026 06:28:48 -0500",
-      "is_read": true,
-      "file": "af530ba18eefc84535fa18c5fae85494ab59eea34d9b21720f49953c15c2fd67.json"
-    },
-    {
-      "id": "8f3f8838b6d4829d9fbb112aa76f60de1d4898a599f34b314f1d188ae192ffd5",
-      "uid": "423995.g+Uh6d,cE0aFpZA,hn65IEPUJG,ycpkjnodwoxdZYpw=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "👑 Axios AM: Trump's imperial last act",
-      "date": "Tue, 10 Nov 2026 06:20:10 -0500",
-      "is_read": true,
-      "file": "8f3f8838b6d4829d9fbb112aa76f60de1d4898a599f34b314f1d188ae192ffd5.json"
-    },
-    {
-      "id": "f51fd7306d8c4de21ff5023374540b2e1da70ede281b0a1fb6b4cef37630ccca",
-      "uid": "423992.0F3k+TG2QpijXeRmJDmPNbNPLHsfoaivN2kD+CIJUZQ=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: A Reckoning for Nvidia",
-      "date": "Tue, 10 Nov 2026 06:13:40 -0500",
-      "is_read": true,
-      "file": "f51fd7306d8c4de21ff5023374540b2e1da70ede281b0a1fb6b4cef37630ccca.json"
     },
     {
       "id": "df4ecbd19014c322db48946c641fa3bfae6712213251bf37a9aa9da26e5a6b8a",
