@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17101 from=WSJ AI & Business <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-17T20:33:38.175686+00:00",
-  "added": 1,
+  "updated_at": "2026-11-17T20:33:39.726437+00:00",
+  "added": 2,
   "skipped": 6,
   "scanned": 8,
-  "current": "WSJ AI & Business <access@interactive.wsj.com>",
+  "current": "Anthropic’s Big Biotech Promise",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 1,
     "seekingalpha": 0
   },
