@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17071 from=\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-17T20:34:12.693952+00:00",
-  "added": 12,
+  "updated_at": "2026-11-17T20:34:13.747113+00:00",
+  "added": 13,
   "skipped": 25,
   "scanned": 38,
-  "current": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
+  "current": "💵 Your 401(k) and Nvidia",
   "added_by_filter": {
-    "wsj": 4,
+    "wsj": 5,
     "axios": 6,
     "seekingalpha": 2
   },
