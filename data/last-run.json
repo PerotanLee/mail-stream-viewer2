@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=16888 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-17T05:55:30.671257+00:00",
-  "added": 1,
+  "updated_at": "2026-11-17T05:55:31.845764+00:00",
+  "added": 2,
   "skipped": 102,
   "scanned": 104,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "🤖 Jensen's unlikely comeback",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 0
   },
   "last_newest_num": 16874,
