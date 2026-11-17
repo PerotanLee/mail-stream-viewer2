@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17074 from=Axios Defense <defense@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-17T20:34:09.564020+00:00",
-  "added": 11,
+  "updated_at": "2026-11-17T20:34:10.820558+00:00",
+  "added": 12,
   "skipped": 23,
   "scanned": 35,
-  "current": "Axios Defense <defense@axios.com>",
+  "current": "🛬 Taiwan touchdown",
   "added_by_filter": {
     "wsj": 4,
-    "axios": 5,
+    "axios": 6,
     "seekingalpha": 2
   },
   "last_newest_num": 16991,
