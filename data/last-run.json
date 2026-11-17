@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17078 from=Seeking Alpha <subscriptions@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-17T20:34:03.817094+00:00",
-  "added": 9,
+  "updated_at": "2026-11-17T20:34:04.968442+00:00",
+  "added": 10,
   "skipped": 21,
   "scanned": 31,
-  "current": "Seeking Alpha <subscriptions@seekingalpha.com>",
+  "current": "🟠 Save up to $498 with Black Friday bundles",
   "added_by_filter": {
     "wsj": 3,
     "axios": 5,
-    "seekingalpha": 1
+    "seekingalpha": 2
   },
   "last_newest_num": 16991,
   "newest_num": 17108,
