@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17088 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-17T20:33:54.025299+00:00",
-  "added": 6,
+  "updated_at": "2026-11-17T20:33:55.341321+00:00",
+  "added": 7,
   "skipped": 14,
   "scanned": 21,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "📉 Be careful out there",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 4,
+    "axios": 5,
     "seekingalpha": 1
   },
   "last_newest_num": 16991,
