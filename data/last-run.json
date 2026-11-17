@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17106 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-17T20:33:33.904138+00:00",
-  "added": 0,
+  "updated_at": "2026-11-17T20:33:35.746462+00:00",
+  "added": 1,
   "skipped": 2,
   "scanned": 3,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "🙏 Axios PM: Huang wants back in",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 16991,
