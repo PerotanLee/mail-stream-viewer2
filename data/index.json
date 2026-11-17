@@ -613,6 +613,15 @@
       "file": "8af7ea1a87d6432187ec29dae29db726fdaedbeff7a186db270d45bf9e715685.json"
     },
     {
+      "id": "4f836b757fff980f847d9c890debaa920f22d98712f2f90297e739f5c350af83",
+      "uid": "425569.RHct55mWo3eQ1RCm2S2m1ccFg9WxjBBTwOwrmZWiRgs=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🙆🏻‍♀️ Axios Finish Line: Shake it off",
+      "date": "Mon, 16 Nov 2026 21:29:21 -0500",
+      "is_read": false,
+      "file": "4f836b757fff980f847d9c890debaa920f22d98712f2f90297e739f5c350af83.json"
+    },
+    {
       "id": "9169e0b31901eaa04b28fed91e9227cbbd8f9e845ea4c3b3f27c9850f3b96769",
       "uid": "425385.rP5Rk0UduJ6UlnJvBnLpvZRllAMQeTMM9,pTI,OpgH0=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -620,6 +629,33 @@
       "date": "Mon, 16 Nov 2026 19:09:46 +1100",
       "is_read": true,
       "file": "9169e0b31901eaa04b28fed91e9227cbbd8f9e845ea4c3b3f27c9850f3b96769.json"
+    },
+    {
+      "id": "40e9d7df8a72c6d46ab59c6a748abc21390b21a33e3f89aa0f4eb73ca26e6b3c",
+      "uid": "425504.yomYVxtQ7wI3M5xCU00oKqSm7sBn57mBEbyiSxm6FjU=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🤖 Jensen's unlikely comeback",
+      "date": "Mon, 16 Nov 2026 16:43:30 -0500",
+      "is_read": false,
+      "file": "40e9d7df8a72c6d46ab59c6a748abc21390b21a33e3f89aa0f4eb73ca26e6b3c.json"
+    },
+    {
+      "id": "623ffee2a940f12a59046040538e1b9f38aa4b56970d9542d93eaac775409fe4",
+      "uid": "425503.skdsbz3o1R7BTvvqESbXJLszI4qUFlJ0gBUB7poM40A=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "AI Stocks Resume Their Slide",
+      "date": "Mon, 16 Nov 2026 16:40:36 -0500",
+      "is_read": false,
+      "file": "623ffee2a940f12a59046040538e1b9f38aa4b56970d9542d93eaac775409fe4.json"
+    },
+    {
+      "id": "c514fe7604eeca6d92c84309c6d9596b21899bf4a116c2923b10d2fbe9d6f548",
+      "uid": "425497.FA8pR5IrTKmlCB2FJPvpjMEDSTXCfSEzDVlFCb5KQyA=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Money Is Rotating Out Of AI And Semiconductor Stocks: Where Is It Going?",
+      "date": "Mon, 16 Nov 2026 16:06:36 -0500",
+      "is_read": false,
+      "file": "c514fe7604eeca6d92c84309c6d9596b21899bf4a116c2923b10d2fbe9d6f548.json"
     },
     {
       "id": "7976e157b77ce61517c7e645dfdd4366be2f1aaae6293301afcc99aae6933fe1",
@@ -728,60 +764,6 @@
       "date": "Mon, 16 Nov 2026 05:32:11 -0500",
       "is_read": true,
       "file": "d2e2dea8d5f195c43b3ae125c50a10c591489fa08559bfd5c072515d0f988f1a.json"
-    },
-    {
-      "id": "ea15af778b206ab0dab18692be7fa0681aeb0cde5ea18bba53d7ffde45c22599",
-      "uid": "423839.riABY5,3+TS1ey9sDYlUmv33uRGU6EPKbVsvH8a4QXo=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "✨ Axios Finish Line: 5 AI tricks",
-      "date": "Mon, 09 Nov 2026 21:29:28 -0500",
-      "is_read": true,
-      "file": "ea15af778b206ab0dab18692be7fa0681aeb0cde5ea18bba53d7ffde45c22599.json"
-    },
-    {
-      "id": "e085050ffaf8f0760bf19729b6ed236ba7d722afe27174b50e4b0e37896d991d",
-      "uid": "423806.fjCqFznucrk+B6Chazjv8myih0z45pZ8w,Jp82L4ehM=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Car-Dealership Mogul Sells Palm Beach Compound for Nearly $100 Million",
-      "date": "Mon, 09 Nov 2026 18:57:21 -0500",
-      "is_read": true,
-      "file": "e085050ffaf8f0760bf19729b6ed236ba7d722afe27174b50e4b0e37896d991d.json"
-    },
-    {
-      "id": "615f3447f626b7be3ee1a783597a3090ee1565c837a549d191a629caa9a74999",
-      "uid": "423788.zIab7LQp5WdAOEnnunbmdkuH8q7yOidjpZ0zBQ8GmtU=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🤖 Nvidia has no Plan B",
-      "date": "Mon, 09 Nov 2026 17:45:36 -0500",
-      "is_read": true,
-      "file": "615f3447f626b7be3ee1a783597a3090ee1565c837a549d191a629caa9a74999.json"
-    },
-    {
-      "id": "3f78364e0e2bedca6d3a949434e0edc29c40aee24251c5e8d391fb9db472fff6",
-      "uid": "423766.Hyay4fUDeod8Obem4dlSMTV6MnHeiY5bGDIgDTFj0c4=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Nvidia Woes",
-      "date": "Mon, 09 Nov 2026 16:23:54 -0500",
-      "is_read": true,
-      "file": "3f78364e0e2bedca6d3a949434e0edc29c40aee24251c5e8d391fb9db472fff6.json"
-    },
-    {
-      "id": "62131b9f0e14134e87863b85de4e6626b04b03c3b52e79b3a4753de3754bbeb7",
-      "uid": "423763.nCsZUSlEdXz8jdIjmSJqmp9ZKphvSyFH,L6gcrOzfjo=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: LoanDepot Founder Anthony Hsieh Asks $125 Million for Coastal California Mansion",
-      "date": "Mon, 09 Nov 2026 16:15:19 -0500",
-      "is_read": true,
-      "file": "62131b9f0e14134e87863b85de4e6626b04b03c3b52e79b3a4753de3754bbeb7.json"
-    },
-    {
-      "id": "a2773a9874fa280c7502af0b6305ec83470cc5b6e434ab7ff270da025288789b",
-      "uid": "423759.o,HhE+DWjlxI7qrXjkbqjXeIn72Ak+9PoP+,t6Rj,,I=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Nvidia: The Jensen Affair Saga Is Just Noise",
-      "date": "Mon, 09 Nov 2026 16:06:41 -0500",
-      "is_read": true,
-      "file": "a2773a9874fa280c7502af0b6305ec83470cc5b6e434ab7ff270da025288789b.json"
     },
     {
       "id": "2d2fadf58632935722c3ad18c694286b26ab4ff5633a459d0812672e9b97bf0b",
