@@ -118,6 +118,15 @@
       "file": "661bb70c46c2f7a19d472b0b0e4692d11d267036fc350460a30e7caaadcdb2b7.json"
     },
     {
+      "id": "dc0676e6589d030c4d35f307e7b3af9960104ff145009c032c6f60946d72ab4a",
+      "uid": "425843.rlGeEOyeqEmIXEqLuU8OZYNyAh,Axd5NKw3JV7VvAWc=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🍁 Axios Finish Line: Thanksgiving gift",
+      "date": "Tue, 17 Nov 2026 21:29:30 -0500",
+      "is_read": false,
+      "file": "dc0676e6589d030c4d35f307e7b3af9960104ff145009c032c6f60946d72ab4a.json"
+    },
+    {
       "id": "ee88a6810ac6edabecf37b6b6afbb1946ad7c78a9fe2b85cded24eb8f845b00f",
       "uid": "425659.2sgYIURx2TbEP5sZSmicP+lrJB,UtV10Vv1bHCSrCuc=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -125,6 +134,42 @@
       "date": "Tue, 17 Nov 2026 19:09:47 +1100",
       "is_read": true,
       "file": "ee88a6810ac6edabecf37b6b6afbb1946ad7c78a9fe2b85cded24eb8f845b00f.json"
+    },
+    {
+      "id": "56a0f84384984b85577aa167d7a04b0fb13ca6743cf125303878cdb8cc6da20e",
+      "uid": "425788.4S5emIm7QOamf7A4ys6InZEnpCTOffobPuWEyGhBkWE=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🗣️ Nvidia speaks",
+      "date": "Tue, 17 Nov 2026 17:32:26 -0500",
+      "is_read": false,
+      "file": "56a0f84384984b85577aa167d7a04b0fb13ca6743cf125303878cdb8cc6da20e.json"
+    },
+    {
+      "id": "1329c96fbe8aad7001522f3d5e95fcaffab511a26838680c8bf8baf810bf6018",
+      "uid": "425786.RUJI+Dc1Y4CX26IqJtplyQhY8NLV2UaicdsUXrGa,ew=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Ken Griffin Sells New York City Duplex to Woody Johnson for $58 Million",
+      "date": "Tue, 17 Nov 2026 17:20:58 -0500",
+      "is_read": false,
+      "file": "1329c96fbe8aad7001522f3d5e95fcaffab511a26838680c8bf8baf810bf6018.json"
+    },
+    {
+      "id": "9114b6aef525a5abf231d35d9fbb196868f83c9114be642fadd25ec2e9d80299",
+      "uid": "425777.32N+1sFtWPkZ65j3qjQrS7KoADZVs7HgqHK7aROXJoc=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Slower Retail Sales Drag on Market",
+      "date": "Tue, 17 Nov 2026 16:50:37 -0500",
+      "is_read": false,
+      "file": "9114b6aef525a5abf231d35d9fbb196868f83c9114be642fadd25ec2e9d80299.json"
+    },
+    {
+      "id": "d12eaa382c5e45e2d872a3587b985d1ce52017bbb2b285793793bb9397331bba",
+      "uid": "425768.qkK4i1qePg2EFOc1lpTjZzYmwZzkDNpGGtVCfGl5Ccw=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Nvidia: Buying Before The Dust Settles And Selling After (Rating Upgrade)",
+      "date": "Tue, 17 Nov 2026 16:06:31 -0500",
+      "is_read": false,
+      "file": "d12eaa382c5e45e2d872a3587b985d1ce52017bbb2b285793793bb9397331bba.json"
     },
     {
       "id": "a522e86e1bd486537a3afe41ee7f70a2300d8d3980c73a8da25781766e463cf9",
@@ -269,51 +314,6 @@
       "date": "Tue, 17 Nov 2026 05:47:50 -0500",
       "is_read": true,
       "file": "204612e186edb605f501b07357c21902ed9692e58c372bc2b27a7719eb6e3d44.json"
-    },
-    {
-      "id": "21148bc3cfcdd33a4d104d0a9c2842f6b21a9c219abcb273dd22e97316beff67",
-      "uid": "424139.pqinjHyMi,k2F7KdEKy4r0RcInpldcd+gGJySTKnLg4=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🦅 Axios Finish Line: Service after service",
-      "date": "Tue, 10 Nov 2026 21:29:26 -0500",
-      "is_read": true,
-      "file": "21148bc3cfcdd33a4d104d0a9c2842f6b21a9c219abcb273dd22e97316beff67.json"
-    },
-    {
-      "id": "01a0f21d9cc2bab288539d2e3eb226dd0293b24c846710a246c4a68322c7632c",
-      "uid": "424081.L3OdRdwZT3UKTDbItc+dvawLJPkrWc,KzUUTyUkYTW0=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Australian Billionaire James Packer Sells Aspen Mansion for $42.68 Million",
-      "date": "Tue, 10 Nov 2026 17:30:24 -0500",
-      "is_read": true,
-      "file": "01a0f21d9cc2bab288539d2e3eb226dd0293b24c846710a246c4a68322c7632c.json"
-    },
-    {
-      "id": "7f3010b04f71f2c61f8bff7e23640de52c3eb8724b4fd517d78562abc135fe3d",
-      "uid": "424076.OV5NpGuSKk6w7RtA9yo1Rm6g74znA1Y77bkkJ1g0c+g=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🤖 AI's Dr. Feelgood?",
-      "date": "Tue, 10 Nov 2026 17:06:53 -0500",
-      "is_read": true,
-      "file": "7f3010b04f71f2c61f8bff7e23640de52c3eb8724b4fd517d78562abc135fe3d.json"
-    },
-    {
-      "id": "5d3f8bdfca2bb98788f7331c27a2b234376612da00248092a23836902cdcd24a",
-      "uid": "424061.rij5qQ8Dya18wkN8llGRNvCSPQ+eAqCmJh0LKmw6o5E=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Surging Yields",
-      "date": "Tue, 10 Nov 2026 16:20:51 -0500",
-      "is_read": true,
-      "file": "5d3f8bdfca2bb98788f7331c27a2b234376612da00248092a23836902cdcd24a.json"
-    },
-    {
-      "id": "0ba7e10daff0471dc013ef64f1b0ca53b752c802e352652651cca13e821453e2",
-      "uid": "424056.zT5ntmQGmE9QhwicC1UFzF4iO6yDZQP6fEFNbGf3WZ8=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Micron: Down 42% From Its Peak, But I'm Still Not Buying",
-      "date": "Tue, 10 Nov 2026 16:06:32 -0500",
-      "is_read": true,
-      "file": "0ba7e10daff0471dc013ef64f1b0ca53b752c802e352652651cca13e821453e2.json"
     },
     {
       "id": "df4ecbd19014c322db48946c641fa3bfae6712213251bf37a9aa9da26e5a6b8a",
