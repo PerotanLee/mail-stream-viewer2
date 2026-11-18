@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17114 from=Must Reads <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-18T07:52:39.913627+00:00",
-  "added": 4,
+  "updated_at": "2026-11-18T07:52:41.271412+00:00",
+  "added": 5,
   "skipped": 149,
   "scanned": 154,
-  "current": "Must Reads <account@seekingalpha.com>",
+  "current": "Nvidia: Buying Before The Dust Settles And Selling After (Rating Upgrade)",
   "added_by_filter": {
     "wsj": 2,
     "axios": 2,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 17108,
   "newest_num": 17267,
