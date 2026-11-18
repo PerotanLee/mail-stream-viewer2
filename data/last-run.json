@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17130 from=\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-18T07:52:32.223067+00:00",
-  "added": 2,
+  "updated_at": "2026-11-18T07:52:33.312695+00:00",
+  "added": 3,
   "skipped": 135,
   "scanned": 138,
-  "current": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+  "current": "Mansion Deals Alert: Ken Griffin Sells New York City Duplex to Woody Johnson for $58 Million",
   "added_by_filter": {
-    "wsj": 0,
+    "wsj": 1,
     "axios": 2,
     "seekingalpha": 0
   },
