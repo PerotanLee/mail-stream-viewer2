@@ -123,7 +123,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🍁 Axios Finish Line: Thanksgiving gift",
       "date": "Tue, 17 Nov 2026 21:29:30 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "dc0676e6589d030c4d35f307e7b3af9960104ff145009c032c6f60946d72ab4a.json"
     },
     {
