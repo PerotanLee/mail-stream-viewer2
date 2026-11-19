@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17356 from=Dan Primack <dan@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-19T09:21:20.137263+00:00",
-  "added": 8,
+  "updated_at": "2026-11-19T09:21:21.446940+00:00",
+  "added": 9,
   "skipped": 187,
   "scanned": 196,
-  "current": "Dan Primack <dan@axios.com>",
+  "current": "Axios Pro Rata: What we learned",
   "added_by_filter": {
     "wsj": 3,
-    "axios": 4,
+    "axios": 5,
     "seekingalpha": 1
   },
   "last_newest_num": 17267,
