@@ -370,6 +370,24 @@
       "file": "ed85bea0768f8b7960841e20d9655c60a9c9790add146052fd380186f2d0ab49.json"
     },
     {
+      "id": "16a6a7a473bf92a5b1bde2a5a23290b5c428c8ddbfe58a25e49eb4f03bd0b234",
+      "uid": "426340.tys8L8XHZWmoaqiNcL7qki3kmLckdIM2saL4NsNKIPw=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Claude crushes it",
+      "date": "Thu, 19 Nov 2026 09:59:25 -0500",
+      "is_read": false,
+      "file": "16a6a7a473bf92a5b1bde2a5a23290b5c428c8ddbfe58a25e49eb4f03bd0b234.json"
+    },
+    {
+      "id": "b70eda6a2a5d598ea180b598b1c78247a07c1f4408c73f232f35f8d50609cdc1",
+      "uid": "426338.zXO886PYXngMvMPNXHXZcWycHvGM7ytCmiQS+0enotU=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "🚀 Trillion-dollar debut",
+      "date": "Thu, 19 Nov 2026 09:28:54 -0500",
+      "is_read": false,
+      "file": "b70eda6a2a5d598ea180b598b1c78247a07c1f4408c73f232f35f8d50609cdc1.json"
+    },
+    {
       "id": "3d8623babed603ea528d983282ba09f3cc3cf47071abecdff92265cbfa1ef8f9",
       "uid": "426327.aoya,kfiCsfUr9ph8d8fRzN3HNCqZ8ceZAAjTTndGLs=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
@@ -521,33 +539,6 @@
       "date": "Thu, 12 Nov 2026 11:58:28 -0500",
       "is_read": true,
       "file": "a5dbba85b87b68331839d5b6adbb9d4a4ac94cae00d6202048df9288301c5b06.json"
-    },
-    {
-      "id": "1cc88a88a57156aefa9c0d0a5a826e28d0673af78731de0ea44800e401755693",
-      "uid": "424613.CEYFXajDunwGr2i4yBGagL8BTgS+P1MCvFlhzAVI440=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Palm Beach’s $100 Million Listings Club Adds Another Waterfront Property",
-      "date": "Thu, 12 Nov 2026 11:25:38 -0500",
-      "is_read": true,
-      "file": "1cc88a88a57156aefa9c0d0a5a826e28d0673af78731de0ea44800e401755693.json"
-    },
-    {
-      "id": "62b1cc0fe4505de5fa8c65c85eb7078f80efe8617fd0f76457469cf7b01b8ac0",
-      "uid": "424609.cE3Q+n6paM+0jcOcU5owNrayw2MI,2uIzFxndryqSHE=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Jensen jettisoned",
-      "date": "Thu, 12 Nov 2026 10:03:42 -0500",
-      "is_read": true,
-      "file": "62b1cc0fe4505de5fa8c65c85eb7078f80efe8617fd0f76457469cf7b01b8ac0.json"
-    },
-    {
-      "id": "4b71f7108a1081bb7e00cfbeb08cb5ac509f3024ed413e119feb60a196493167",
-      "uid": "424608.xWeN2WP3GAo+hDYerxURWTBV1Iagr1Df7nu5sjO7n,g=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "❌  Jensen out",
-      "date": "Thu, 12 Nov 2026 09:28:20 -0500",
-      "is_read": true,
-      "file": "4b71f7108a1081bb7e00cfbeb08cb5ac509f3024ed413e119feb60a196493167.json"
     },
     {
       "id": "b88321d6c2d4aedc636b80883faa51f7ede7b47ee23aa2797e741683e66404ba",
