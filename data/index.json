@@ -1,121 +1,166 @@
 {
   "emails": [
     {
-      "id": "ce3b7101d0dde299da590b47afb1db4aae03bbff07d9b78329d5d272337e5fde",
-      "uid": "424246.Q8hEubRsdOOn02Zkl90IIC0E9eEgh,+x0scEdPGnFUw=",
+      "id": "1f149ee756367c17fa46cf29a26d1ace5b70161194b95f3a2c272c11d7aa90ea",
+      "uid": "426144.J2oow5WnGMedSONN+CpNYDgtsfhR4slem4mx8+hQuxo=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "⏰ Axios Finish Line: Outsmart your clock",
+      "date": "Wed, 18 Nov 2026 21:29:38 -0500",
+      "is_read": false,
+      "file": "1f149ee756367c17fa46cf29a26d1ace5b70161194b95f3a2c272c11d7aa90ea.json"
+    },
+    {
+      "id": "00e044f80d4c72325aa9986f2f5300bc1d5795f314e2be9064fdc59542ba4f6d",
+      "uid": "426123.gs,Vv3OTKFyAltXgE5oMBx2aafYDr,z388lN+sWsZVM=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Elon Musk Says ‘I’m Not MAGA’ and Feels Foolish About Midterms Spending",
+      "date": "Wed, 18 Nov 2026 20:23:20 -0500",
+      "is_read": false,
+      "file": "00e044f80d4c72325aa9986f2f5300bc1d5795f314e2be9064fdc59542ba4f6d.json"
+    },
+    {
+      "id": "57c050dec62124bc9dc581d41c637337d1812a5ca78910532e1968456eea1759",
+      "uid": "425955.fmUbo3Cs7eQVrxaNWBmikZYPqzoBygGTN9432mcdOrE=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Wed, 11 Nov 2026 19:09:50 +1100",
-      "is_read": true,
-      "file": "ce3b7101d0dde299da590b47afb1db4aae03bbff07d9b78329d5d272337e5fde.json"
+      "date": "Wed, 18 Nov 2026 19:09:48 +1100",
+      "is_read": false,
+      "file": "57c050dec62124bc9dc581d41c637337d1812a5ca78910532e1968456eea1759.json"
     },
     {
-      "id": "40f0319aaffd4a8c9b02a02f307828a0984f32d80561261e8a85ef719d738d60",
-      "uid": "424383.nhSNgAqdUzRmnxQve4,c,8xI8sZcvfpcBobPRnzKVC4=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Nvidia CEO’s Sudden Downfall Creates Nightmare for White House",
-      "date": "Wed, 11 Nov 2026 18:50:53 -0500",
-      "is_read": true,
-      "file": "40f0319aaffd4a8c9b02a02f307828a0984f32d80561261e8a85ef719d738d60.json"
+      "id": "7ca152514c34f485ed7db2876890811fd4ab43a503e23eded5c3e23de5f15294",
+      "uid": "426080.5TM4sThVDLkZeaTybrjWZAg6vSWyq0fqSXkc5Z3bBJg=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🤖 ANT marching at $83",
+      "date": "Wed, 18 Nov 2026 17:44:14 -0500",
+      "is_read": false,
+      "file": "7ca152514c34f485ed7db2876890811fd4ab43a503e23eded5c3e23de5f15294.json"
     },
     {
-      "id": "9a0d899bda375506432c9870c4b8ffa0ca4f57019e1885d25c1868c221a324c6",
-      "uid": "424351.SzrgTRFb58yHrZLzoVJuQ+WzXyeSNlQWNF2WTie57gw=",
+      "id": "d9c97824d310b84caf01b86640b01cd9e4b5364a5af33980725047c420416d57",
+      "uid": "426065.JAoPB8osEVK6ssAAEeTQojwt0x0d7EYDxKIWoIHRReE=",
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "CoreWeave Delivers",
-      "date": "Wed, 11 Nov 2026 16:19:38 -0500",
-      "is_read": true,
-      "file": "9a0d899bda375506432c9870c4b8ffa0ca4f57019e1885d25c1868c221a324c6.json"
+      "subject": "Tech Stocks Boosted By Cybersecurity Rally",
+      "date": "Wed, 18 Nov 2026 16:42:14 -0500",
+      "is_read": false,
+      "file": "d9c97824d310b84caf01b86640b01cd9e4b5364a5af33980725047c420416d57.json"
     },
     {
-      "id": "e0ac5169cabf13658e485fd68632974f80e2e4807badb5051a3869a502882a1a",
-      "uid": "424349.kfCJzYRdBTBHQkefr8S,HUX3NillSZe36xJcSwmPf30=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "👀 Axios PM: Oval Office drama",
-      "date": "Wed, 11 Nov 2026 16:13:08 -0500",
-      "is_read": true,
-      "file": "e0ac5169cabf13658e485fd68632974f80e2e4807badb5051a3869a502882a1a.json"
-    },
-    {
-      "id": "9420ba2f4840727a8f42dab6474cf139d95fdea5dd7f7fa1369f597754602f63",
-      "uid": "424345.cWhWZpz,Znxjdq+6N3DqTapkcMMXorOhaNiPH8gCM7c=",
+      "id": "8d16225dbb680918cce3a3d47214dfd16fb9ef9dcad20a0fc7e9677ee0c76655",
+      "uid": "426056.lpJq2tkYPxG61oXZBvLLeyIMYwJb,1BlexAtHdLfqPs=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "AMD: Alphabet Just Announced A $1 Trillion Game Changer",
-      "date": "Wed, 11 Nov 2026 16:06:38 -0500",
-      "is_read": true,
-      "file": "9420ba2f4840727a8f42dab6474cf139d95fdea5dd7f7fa1369f597754602f63.json"
+      "subject": "The Power Of Compounding: 2 Stocks To Build Wealth For Decades",
+      "date": "Wed, 18 Nov 2026 16:06:35 -0500",
+      "is_read": false,
+      "file": "8d16225dbb680918cce3a3d47214dfd16fb9ef9dcad20a0fc7e9677ee0c76655.json"
     },
     {
-      "id": "b7c548b85040e9f106666d919d0ca924e7a974045d7e5ce53636a20aa04d02c7",
-      "uid": "424326.LAX0rIQz4P+1FMWhFMdaHYEzG791zAuQXKwCE7mw,bk=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Another Potential Palm Beach Teardown Hits the Market for $75 Million",
-      "date": "Wed, 11 Nov 2026 10:15:14 -0500",
-      "is_read": true,
-      "file": "b7c548b85040e9f106666d919d0ca924e7a974045d7e5ce53636a20aa04d02c7.json"
-    },
-    {
-      "id": "27209916f5d2437f4f3ed03d7470ebd8d72680813125c810b1e86d97cdddb106",
-      "uid": "424325.OyR9UHeZqhbAgDzw9LHrST8TQxUTXwpLqAR4cfepg90=",
-      "from_addr": "WSJ Real Estate <access@interactive.wsj.com>",
-      "subject": "Lower Pay Fuels Exits From Blackstone’s Real Estate Team",
-      "date": "Wed, 11 Nov 2026 10:03:26 -0500",
-      "is_read": true,
-      "file": "27209916f5d2437f4f3ed03d7470ebd8d72680813125c810b1e86d97cdddb106.json"
-    },
-    {
-      "id": "90848bb4176e3f5d280cfb319cd724a195c0b2fa2d3c4eff4813a5322a1ff621",
-      "uid": "424317.r5eoOrmbRuC87lQNdgCwiKgJVbBq+JlYvCXCZcKoj2A=",
+      "id": "136e96662ef50ebd70dbb5a97d80ba00ce81e2bbea08e0a8d26e8b0ea058d44a",
+      "uid": "426050.bYv2XPqWwX5VNuOgoiKSSTI9wB+e+2Np8MAvgfbQ3VU=",
       "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "👀 Axios AM — Scoop: MAGA & men",
-      "date": "Wed, 11 Nov 2026 07:26:13 -0500",
-      "is_read": true,
-      "file": "90848bb4176e3f5d280cfb319cd724a195c0b2fa2d3c4eff4813a5322a1ff621.json"
+      "subject": "👾 Axios PM: Trust but prepare",
+      "date": "Wed, 18 Nov 2026 15:47:20 -0500",
+      "is_read": false,
+      "file": "136e96662ef50ebd70dbb5a97d80ba00ce81e2bbea08e0a8d26e8b0ea058d44a.json"
     },
     {
-      "id": "9c4b1bf96dd07608957e1f0e6a4e15021202fac38450c3a225c780949379dfaf",
-      "uid": "424315.LvdY4KvBwLub3NdenQCDHWLmJzekVVK5DW9,fLud5CQ=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: House GOP Saves Hegseth—for Now—and Picks Jordan to Lead",
-      "date": "Wed, 11 Nov 2026 07:05:46 -0500",
-      "is_read": true,
-      "file": "9c4b1bf96dd07608957e1f0e6a4e15021202fac38450c3a225c780949379dfaf.json"
+      "id": "f5234285957b767fec6ff045dcf5704ca539785a5986c12fbaadb8fff978ec22",
+      "uid": "426042.FHI0BerJ6KaCbOrlRcGI,UFcOL6lStPee4yEv7xAPtY=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🔎 Fed in focus",
+      "date": "Wed, 18 Nov 2026 11:58:58 -0500",
+      "is_read": false,
+      "file": "f5234285957b767fec6ff045dcf5704ca539785a5986c12fbaadb8fff978ec22.json"
     },
     {
-      "id": "aab1b104f8db8c0c9b679a2e88049f1efd70748616e0a39638d4d01c5f58d5e6",
-      "uid": "424312.7Djs5AE56exVrAO9bGisbkUNyMDuXKGBSeitOhbR3XU=",
+      "id": "7cf50177123455ad94316c6a6798d68b164c9a7b4200f443703bb72c68735313",
+      "uid": "426039.cQoDjRO62,DHP,AlKlUyGeiMISHs1eqtGbX2yBPOrnA=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: What we learned",
+      "date": "Wed, 18 Nov 2026 10:06:15 -0500",
+      "is_read": false,
+      "file": "7cf50177123455ad94316c6a6798d68b164c9a7b4200f443703bb72c68735313.json"
+    },
+    {
+      "id": "9a724068f955024dc9475c3b09cb2be4ae4918f00faf71b9886695f4f6918367",
+      "uid": "426038.HZfIJiGzvNEGveYJkyJvJRYhlZSNdTDKGA0b8hzm7b4=",
+      "from_addr": "WSJ Real Estate <access@interactive.wsj.com>",
+      "subject": "Hardly Anyone Shops at This Mall. And It’s Become a Success",
+      "date": "Wed, 18 Nov 2026 10:06:05 -0500",
+      "is_read": false,
+      "file": "9a724068f955024dc9475c3b09cb2be4ae4918f00faf71b9886695f4f6918367.json"
+    },
+    {
+      "id": "31bd3ca4ee390381757f5953ef05d3b9ed14647b85500786927dc3c45796867b",
+      "uid": "426037.3,chmB+cLCsYJzKtuHZOUMLD9JITxdKthTj13UX78mA=",
+      "from_addr": "Axios AI+ <ai.plus@axios.com>",
+      "subject": "⚡ Agentic hacks",
+      "date": "Wed, 18 Nov 2026 09:28:15 -0500",
+      "is_read": false,
+      "file": "31bd3ca4ee390381757f5953ef05d3b9ed14647b85500786927dc3c45796867b.json"
+    },
+    {
+      "id": "146793d1d7a4ae955233123e1cc0731b20c52469a8d436df5ad50a4ef327594b",
+      "uid": "426032.CaW6mfscRiR3W69OA929v2u2IwOlS,59iY7W,TepbsY=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Fed Speak Turns Hawkish",
-      "date": "Wed, 11 Nov 2026 07:00:37 -0500",
-      "is_read": true,
-      "file": "aab1b104f8db8c0c9b679a2e88049f1efd70748616e0a39638d4d01c5f58d5e6.json"
+      "subject": "Xi-Trump-Putin Summit In Focus",
+      "date": "Wed, 18 Nov 2026 07:50:12 -0500",
+      "is_read": false,
+      "file": "146793d1d7a4ae955233123e1cc0731b20c52469a8d436df5ad50a4ef327594b.json"
     },
     {
-      "id": "4d1f74617b1911ed4dc862c7c448d44a91a6d05cb6b78de53094d54d49570ec1",
-      "uid": "424310.YWLYmnyTTpYzRIYeo17+RfFpAeg1NEnG8uemeXpooZs=",
+      "id": "7091f399cd57dc693da494288117a15923eb99ecc576015c69409fa02dfb6686",
+      "uid": "426030.KA3ry+J+MUIberdbz00v9G7doO0oJ9TzsvwXMDNdQe8=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🏀 Nvidia backstop bounce",
+      "date": "Wed, 18 Nov 2026 07:28:36 -0500",
+      "is_read": false,
+      "file": "7091f399cd57dc693da494288117a15923eb99ecc576015c69409fa02dfb6686.json"
+    },
+    {
+      "id": "56f385d88c95d70c042d4ab3746c10af38b9851fba6257f61fbfefbd8aa2d9fa",
+      "uid": "426026.k2E+MP6uHjkoRFcxictTNx+HBOigogSxihUdBSZA6hQ=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Markwayne Mullin Is in Hot Seat",
+      "date": "Wed, 18 Nov 2026 07:03:39 -0500",
+      "is_read": false,
+      "file": "56f385d88c95d70c042d4ab3746c10af38b9851fba6257f61fbfefbd8aa2d9fa.json"
+    },
+    {
+      "id": "073c2cfa46a8a38a13ecb41b0edabca087598328e751570221ad0384d8e88cba",
+      "uid": "426019.KVQeXdMKd4ifXlynccGCAHmuaObDTQG3GznKZtD3D8M=",
       "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "Asia’s Market Meltdown Traps Some Traders",
-      "date": "Wed, 11 Nov 2026 06:36:10 -0500",
-      "is_read": true,
-      "file": "4d1f74617b1911ed4dc862c7c448d44a91a6d05cb6b78de53094d54d49570ec1.json"
+      "subject": "Big Investors Are Cutting Their Losses on Troubled Properties",
+      "date": "Wed, 18 Nov 2026 06:31:36 -0500",
+      "is_read": false,
+      "file": "073c2cfa46a8a38a13ecb41b0edabca087598328e751570221ad0384d8e88cba.json"
     },
     {
-      "id": "09735274fbfd46047d650f4b953c17aebbb33f01d300ce48af528ef55bc703bf",
-      "uid": "424308.HZin3cLAr+vCdtZJ7uu9Wy3uT4dxBqg+2cVS0KV6ZLI=",
+      "id": "c27d623d9abf095a5be3355b00d7e066f1b817f1c0268179a72e1692a3e04655",
+      "uid": "426016.zBdjxoK6OnxUeCahD8hA1FUysf62c64lTFM8UlsKdA8=",
       "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
-      "subject": "💉Hospital Stocks Are Feeling Chipper",
-      "date": "Wed, 11 Nov 2026 06:21:43 -0500",
-      "is_read": true,
-      "file": "09735274fbfd46047d650f4b953c17aebbb33f01d300ce48af528ef55bc703bf.json"
+      "subject": "🛍️ Safety In Walmart’s Aisles",
+      "date": "Wed, 18 Nov 2026 06:16:49 -0500",
+      "is_read": false,
+      "file": "c27d623d9abf095a5be3355b00d7e066f1b817f1c0268179a72e1692a3e04655.json"
     },
     {
-      "id": "661bb70c46c2f7a19d472b0b0e4692d11d267036fc350460a30e7caaadcdb2b7",
-      "uid": "424302.MO,dfJC3edqsZ8TX5z3I0xNdiujjJRru1qq3NXoKn4k=",
+      "id": "1f3aaba0200ad5f56b3cd60dbf722d056854117b15469663cde43f26e2a0f24d",
+      "uid": "426007.ZKBWtwU4t8yf,KhZs9W+eIA02qzDE5+W+By7+4gN8e0=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Rate-Hike Fears Return",
-      "date": "Wed, 11 Nov 2026 06:06:25 -0500",
-      "is_read": true,
-      "file": "661bb70c46c2f7a19d472b0b0e4692d11d267036fc350460a30e7caaadcdb2b7.json"
+      "subject": "The 10-Point: How Investors Are Playing the Nvidia Drama",
+      "date": "Wed, 18 Nov 2026 06:01:31 -0500",
+      "is_read": false,
+      "file": "1f3aaba0200ad5f56b3cd60dbf722d056854117b15469663cde43f26e2a0f24d.json"
+    },
+    {
+      "id": "91740202554baa420c19cd7ac8bf1ad7f58034cce15e408b8838cb87645643b9",
+      "uid": "426004.KrR,emVy5wGjmvqqpMXJXqOnMv2DB+43eTnr0ZSRzIA=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🤔 Axios AM: Anthropic's contradictions",
+      "date": "Wed, 18 Nov 2026 05:52:06 -0500",
+      "is_read": false,
+      "file": "91740202554baa420c19cd7ac8bf1ad7f58034cce15e408b8838cb87645643b9.json"
     },
     {
       "id": "dc0676e6589d030c4d35f307e7b3af9960104ff145009c032c6f60946d72ab4a",
@@ -316,6 +361,15 @@
       "file": "204612e186edb605f501b07357c21902ed9692e58c372bc2b27a7719eb6e3d44.json"
     },
     {
+      "id": "ed85bea0768f8b7960841e20d9655c60a9c9790add146052fd380186f2d0ab49",
+      "uid": "426244.nAfiL972RZ116S+Q55GyDtZFmr4j15qT224FtEH5pj4=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Thu, 19 Nov 2026 19:09:47 +1100",
+      "is_read": false,
+      "file": "ed85bea0768f8b7960841e20d9655c60a9c9790add146052fd380186f2d0ab49.json"
+    },
+    {
       "id": "df4ecbd19014c322db48946c641fa3bfae6712213251bf37a9aa9da26e5a6b8a",
       "uid": "424691.Pj2ul28rRjG+CblhylAkjOQEoh9dnYUg5W9NiLhdnlM=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -323,15 +377,6 @@
       "date": "Thu, 12 Nov 2026 21:29:22 -0500",
       "is_read": true,
       "file": "df4ecbd19014c322db48946c641fa3bfae6712213251bf37a9aa9da26e5a6b8a.json"
-    },
-    {
-      "id": "b178a0037cfe74e5a03683d5ad0106818f7d7150477411ab8d26e8278d9ca089",
-      "uid": "424525.I2Vcgu+WSxhypY3M+9z5wD3eI89AjVOZW3AG,dZ7,Tk=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Thu, 12 Nov 2026 19:09:47 +1100",
-      "is_read": true,
-      "file": "b178a0037cfe74e5a03683d5ad0106818f7d7150477411ab8d26e8278d9ca089.json"
     },
     {
       "id": "9d6ea6f6b3ea253b7906cf988dff4d8f33d0032c4e4d06997e6b45a3fd692273",
