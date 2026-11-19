@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17334 from=\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-19T09:21:43.937528+00:00",
-  "added": 15,
+  "updated_at": "2026-11-19T09:21:46.177378+00:00",
+  "added": 16,
   "skipped": 202,
   "scanned": 218,
-  "current": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
+  "current": "🛍️ Safety In Walmart’s Aisles",
   "added_by_filter": {
-    "wsj": 6,
+    "wsj": 7,
     "axios": 7,
     "seekingalpha": 2
   },
