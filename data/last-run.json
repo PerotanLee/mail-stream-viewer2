@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17641 from=Must Reads <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-19T21:07:52.409429+00:00",
-  "added": 0,
+  "updated_at": "2026-11-19T21:07:54.060434+00:00",
+  "added": 1,
   "skipped": 0,
   "scanned": 1,
-  "current": "Must Reads <account@seekingalpha.com>",
+  "current": "Nvidia: The CEO Is Gone, The Earnings Engine Isn't (Strong Buy) (Rating Upgrade)",
   "added_by_filter": {
     "wsj": 0,
     "axios": 0,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 17629,
   "newest_num": 17641,
