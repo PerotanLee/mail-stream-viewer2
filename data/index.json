@@ -370,6 +370,60 @@
       "file": "ed85bea0768f8b7960841e20d9655c60a9c9790add146052fd380186f2d0ab49.json"
     },
     {
+      "id": "851f0657dea25b8207113dd5f8ccc2ce7e11a507395c061f3204fc9e7d04e55a",
+      "uid": "426313.gAp0ucKHKsmsRqRD7etjvGblzu1kOpubF3ocfYm1As8=",
+      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
+      "subject": "Black Friday: 20% off Premium",
+      "date": "Thu, 19 Nov 2026 06:48:27 -0500",
+      "is_read": false,
+      "file": "851f0657dea25b8207113dd5f8ccc2ce7e11a507395c061f3204fc9e7d04e55a.json"
+    },
+    {
+      "id": "21a25963ed7a392ef487425342b3d16e9f9d32c3011ee9b4b9dcdaa391a4a93e",
+      "uid": "426308.Kx6you6F1usU6kKW0K5WAJMyaOl3sgviXMo+SG+J8nQ=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "How Everyday Investors Manage Their Stakes in Nvidia",
+      "date": "Thu, 19 Nov 2026 06:39:47 -0500",
+      "is_read": false,
+      "file": "21a25963ed7a392ef487425342b3d16e9f9d32c3011ee9b4b9dcdaa391a4a93e.json"
+    },
+    {
+      "id": "151c15b621c5d38c78cf5274de2e1b08c1eda9a41e947ca8226c6f5372904175",
+      "uid": "426307.IHSHkx4DgT8CaN0SI2pqSjfowUko0,bZX4hU9GwHt1k=",
+      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
+      "subject": "💸 Calm Amid the AI Storm",
+      "date": "Thu, 19 Nov 2026 06:36:12 -0500",
+      "is_read": false,
+      "file": "151c15b621c5d38c78cf5274de2e1b08c1eda9a41e947ca8226c6f5372904175.json"
+    },
+    {
+      "id": "f2de369f784b705b31e1b3eb7cf2a0603613d7266cac787840e2993d462b8ae6",
+      "uid": "426303.ZgPkSlTQjr7+gNfAAaQDlqG7s1tuE1tcrX5,q73OgZ4=",
+      "from_addr": "Axios Defense <defense@axios.com>",
+      "subject": "🚀  Launch crunch looms",
+      "date": "Thu, 19 Nov 2026 06:30:37 -0500",
+      "is_read": false,
+      "file": "f2de369f784b705b31e1b3eb7cf2a0603613d7266cac787840e2993d462b8ae6.json"
+    },
+    {
+      "id": "243a839e22bde1b5aac0b882cdfffa4ae02d9b26326160e927df31e52794d0db",
+      "uid": "426302.iA5MRkWNiSHKjLiAbrCOiICuRcSTsfZTelZOJDO,hwE=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "⚡ Axios AM: AI's great divergence",
+      "date": "Thu, 19 Nov 2026 06:24:25 -0500",
+      "is_read": false,
+      "file": "243a839e22bde1b5aac0b882cdfffa4ae02d9b26326160e927df31e52794d0db.json"
+    },
+    {
+      "id": "42167c86d9519e4e6414db18695042ba9430a09ba29b75da0edf4e1c96bca78e",
+      "uid": "426298.6iVm3DpATRUSF7KEtGm21SgrlgpHl4o6vI5Eea7jdos=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Wall Street’s $500 Billion Pledge to Nvidia Hasn’t Materialized",
+      "date": "Thu, 19 Nov 2026 06:17:11 -0500",
+      "is_read": false,
+      "file": "42167c86d9519e4e6414db18695042ba9430a09ba29b75da0edf4e1c96bca78e.json"
+    },
+    {
       "id": "efa6295c1ef09b356c56f83b9a2718f7580d0ff1163732b40397d7ad6a2ca4eb",
       "uid": "426293.,NmO4wVI5XXfUiZN5O+ziIYpGL+XL,thARRU2YAISxY=",
       "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
@@ -485,51 +539,6 @@
       "date": "Thu, 12 Nov 2026 07:28:31 -0500",
       "is_read": true,
       "file": "b5d6d9d4f7ba46c475cfffad06adf52f3e889ff7d201968f50ce559da72faf8e.json"
-    },
-    {
-      "id": "857d02a463e05cfed0e42c276dd6ea5f3e73ed26d96bebf6cc16fbf2ed851cf0",
-      "uid": "424593.LOmAOUQEc6yN,QacVmUjSD3zmbqJRkCrFHq2,P39hc0=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Welcome to the Lame-Duck Congress of 2026",
-      "date": "Thu, 12 Nov 2026 06:57:23 -0500",
-      "is_read": true,
-      "file": "857d02a463e05cfed0e42c276dd6ea5f3e73ed26d96bebf6cc16fbf2ed851cf0.json"
-    },
-    {
-      "id": "f85ebbbff7c74c96da8070a64d4970d72dd541e5dca8c74d5114b610fa2ee750",
-      "uid": "424592.m051nJwJVPxNsC2yt,iKNVOrzVxnbPuuL16IRrrpKtM=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "🟠 20% off ALL products!",
-      "date": "Thu, 12 Nov 2026 06:57:22 -0500",
-      "is_read": true,
-      "file": "f85ebbbff7c74c96da8070a64d4970d72dd541e5dca8c74d5114b610fa2ee750.json"
-    },
-    {
-      "id": "aaeb5aad2b124ce39fbdba543cc03a600066d349db5ab23f6515864a58875fa5",
-      "uid": "424588.MGlqYF1k0XYRRzBtSSUMe4fNrWMlFhOsMfWsarS5yCI=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "CoreWeave Balances Capital Needs Against Expanding Data Center Footprint",
-      "date": "Thu, 12 Nov 2026 06:40:00 -0500",
-      "is_read": true,
-      "file": "aaeb5aad2b124ce39fbdba543cc03a600066d349db5ab23f6515864a58875fa5.json"
-    },
-    {
-      "id": "fffa8b66f98c2dc8256b129403bd12f1c42c175ef5ec3a875009f95f14925e65",
-      "uid": "424586.7lVirmio9sRvx7uZTV2RXx6ACN4jGhCFgOH8sVUaFPA=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "🔎 Dem's SpaceX probe",
-      "date": "Thu, 12 Nov 2026 06:30:17 -0500",
-      "is_read": true,
-      "file": "fffa8b66f98c2dc8256b129403bd12f1c42c175ef5ec3a875009f95f14925e65.json"
-    },
-    {
-      "id": "b6d32af59910e6f5bd09d49e6912a10a9d6e87ffb675ae6a626c53e2fb5c1982",
-      "uid": "424582.LTAn9gpSI+WKZJWy7a+dt8E7t+P2aCg7J49RhECpmK4=",
-      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
-      "subject": "🏠 A Bearish Signal on Housing in 2027",
-      "date": "Thu, 12 Nov 2026 06:13:26 -0500",
-      "is_read": true,
-      "file": "b6d32af59910e6f5bd09d49e6912a10a9d6e87ffb675ae6a626c53e2fb5c1982.json"
     },
     {
       "id": "b88321d6c2d4aedc636b80883faa51f7ede7b47ee23aa2797e741683e66404ba",
