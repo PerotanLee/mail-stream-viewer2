@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17594 from=Seeking Alpha <subscriptions@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-19T12:09:01.742647+00:00",
-  "added": 0,
+  "updated_at": "2026-11-19T12:09:03.025473+00:00",
+  "added": 1,
   "skipped": 6,
   "scanned": 7,
-  "current": "Seeking Alpha <subscriptions@seekingalpha.com>",
+  "current": "Black Friday: 20% off Premium",
   "added_by_filter": {
     "wsj": 0,
     "axios": 0,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 17577,
   "newest_num": 17600,
