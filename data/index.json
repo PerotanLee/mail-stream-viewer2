@@ -370,6 +370,24 @@
       "file": "ed85bea0768f8b7960841e20d9655c60a9c9790add146052fd380186f2d0ab49.json"
     },
     {
+      "id": "3ffd85e8d8e824b8911267b4ad292ede42f534d4038477f147eb319b6e2e8b84",
+      "uid": "426364.EP6g6qnbOtWwMyQjcbIa3D05fdUMQ0CfzApLxpQ0FfE=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Nvidia: The CEO Is Gone, The Earnings Engine Isn't (Strong Buy) (Rating Upgrade)",
+      "date": "Thu, 19 Nov 2026 16:06:48 -0500",
+      "is_read": false,
+      "file": "3ffd85e8d8e824b8911267b4ad292ede42f534d4038477f147eb319b6e2e8b84.json"
+    },
+    {
+      "id": "56b4af08bce69795cbf660e0954beeb541f2db4b7b8f5e0d3eb60dd33d87e9bf",
+      "uid": "426354.7naRUY2S8uXDVwuafx5a4q7JQlmrQ8iCey8rHxoWS1Y=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "💰 Axios PM: Biggest IPO ever",
+      "date": "Thu, 19 Nov 2026 15:10:39 -0500",
+      "is_read": false,
+      "file": "56b4af08bce69795cbf660e0954beeb541f2db4b7b8f5e0d3eb60dd33d87e9bf.json"
+    },
+    {
       "id": "4ac35dd6add26578c536ed05404b71be1a0e52ac861072b98e278eb3e61a12ae",
       "uid": "426347.9Lf9VuV,drCqCSwL5ARvLQo7AmB1YvDaCaDf8y6+CMc=",
       "from_addr": "Axios Macro <macro@axios.com>",
@@ -512,33 +530,6 @@
       "date": "Thu, 12 Nov 2026 16:13:20 -0500",
       "is_read": true,
       "file": "4accc8879d552643d92757d86bbc9cc657c998cac801d1c18dee7ba68b733442.json"
-    },
-    {
-      "id": "9974a187101c33fda980a446e2feefa2ecc911a088437012ffe0a8fdac0f418a",
-      "uid": "424630.xCsfcUeyP6AaHxwfBFIRaYERxLGRG+Tr,viAjUBAU8w=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Is Nvidia Done For Following The Drama? Absolutely Not (Q3 Preview)",
-      "date": "Thu, 12 Nov 2026 16:06:34 -0500",
-      "is_read": true,
-      "file": "9974a187101c33fda980a446e2feefa2ecc911a088437012ffe0a8fdac0f418a.json"
-    },
-    {
-      "id": "173ec1a0f9d5ed62d1dc59ea64f28c58856c197ec7a779dae559a6c75b061049",
-      "uid": "424619.czEuTsNS0RLpIiSV,eyNkCwSINLPN6oNrzEaEKYcHPo=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "📉 Axios PM: Not just Nvidia",
-      "date": "Thu, 12 Nov 2026 15:01:01 -0500",
-      "is_read": true,
-      "file": "173ec1a0f9d5ed62d1dc59ea64f28c58856c197ec7a779dae559a6c75b061049.json"
-    },
-    {
-      "id": "92b0b2464b205dde28d624b7576c4ea3580b787a3253164d0d41095aa056473f",
-      "uid": "424618.1ChKY4HTxWF5xb9UcKa6Ffp7jOjwsoXSmNTVyx2S,UU=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: A Powerboat Racer’s Never-Lived-In Miami Mansion Lists for $43.9 Million",
-      "date": "Thu, 12 Nov 2026 14:45:18 -0500",
-      "is_read": true,
-      "file": "92b0b2464b205dde28d624b7576c4ea3580b787a3253164d0d41095aa056473f.json"
     },
     {
       "id": "b88321d6c2d4aedc636b80883faa51f7ede7b47ee23aa2797e741683e66404ba",
