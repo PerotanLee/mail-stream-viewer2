@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17446 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-19T09:20:45.636826+00:00",
-  "added": 1,
+  "updated_at": "2026-11-19T09:20:46.864006+00:00",
+  "added": 2,
   "skipped": 104,
   "scanned": 106,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "⏰ Axios Finish Line: Outsmart your clock",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 17267,
