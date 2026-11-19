@@ -384,7 +384,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "💰 Axios PM: Biggest IPO ever",
       "date": "Thu, 19 Nov 2026 15:10:39 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "56b4af08bce69795cbf660e0954beeb541f2db4b7b8f5e0d3eb60dd33d87e9bf.json"
     },
     {
