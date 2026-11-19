@@ -370,6 +370,15 @@
       "file": "ed85bea0768f8b7960841e20d9655c60a9c9790add146052fd380186f2d0ab49.json"
     },
     {
+      "id": "efa6295c1ef09b356c56f83b9a2718f7580d0ff1163732b40397d7ad6a2ca4eb",
+      "uid": "426293.,NmO4wVI5XXfUiZN5O+ziIYpGL+XL,thARRU2YAISxY=",
+      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Economics: How Techruptions May Shape the Economy",
+      "date": "Thu, 19 Nov 2026 06:03:15 -0500",
+      "is_read": false,
+      "file": "efa6295c1ef09b356c56f83b9a2718f7580d0ff1163732b40397d7ad6a2ca4eb.json"
+    },
+    {
       "id": "df4ecbd19014c322db48946c641fa3bfae6712213251bf37a9aa9da26e5a6b8a",
       "uid": "424691.Pj2ul28rRjG+CblhylAkjOQEoh9dnYUg5W9NiLhdnlM=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -521,33 +530,6 @@
       "date": "Thu, 12 Nov 2026 06:13:26 -0500",
       "is_read": true,
       "file": "b6d32af59910e6f5bd09d49e6912a10a9d6e87ffb675ae6a626c53e2fb5c1982.json"
-    },
-    {
-      "id": "6f0a63c9fffab2a23987cfea0079f5f2b18580234e69e8bc7f7f9fe2b3452baf",
-      "uid": "424577.219RIBurLdbvTBFpiTevwt+6K9ZimtzpzQ9QL6a9Uy4=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: A Loss in GOP Heartland Exposes a Party in Pieces",
-      "date": "Thu, 12 Nov 2026 06:04:05 -0500",
-      "is_read": true,
-      "file": "6f0a63c9fffab2a23987cfea0079f5f2b18580234e69e8bc7f7f9fe2b3452baf.json"
-    },
-    {
-      "id": "5b305563d7de3a07a0f680efb8d7995eddd4d68727d71be5248b48620fa20fa9",
-      "uid": "424576.xe6BfDt5hSxYOx7yEdU29yfie7AoKIH0Q19rF4CJCFI=",
-      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Economics: The Inflation Fight May Be About to Turn Painful",
-      "date": "Thu, 12 Nov 2026 06:02:31 -0500",
-      "is_read": true,
-      "file": "5b305563d7de3a07a0f680efb8d7995eddd4d68727d71be5248b48620fa20fa9.json"
-    },
-    {
-      "id": "276abe70d6572be9537279c49d8aa49c2057fbdef75029ffb3ee828565eab898",
-      "uid": "424571.aUIJXEvif,4a+LFD000T0gCDBoBLDREKYj,Bfgl01OE=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "💥 Axios AM: Jensen's blast radius",
-      "date": "Thu, 12 Nov 2026 05:49:11 -0500",
-      "is_read": true,
-      "file": "276abe70d6572be9537279c49d8aa49c2057fbdef75029ffb3ee828565eab898.json"
     },
     {
       "id": "b88321d6c2d4aedc636b80883faa51f7ede7b47ee23aa2797e741683e66404ba",
