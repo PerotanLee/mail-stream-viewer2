@@ -370,6 +370,33 @@
       "file": "ed85bea0768f8b7960841e20d9655c60a9c9790add146052fd380186f2d0ab49.json"
     },
     {
+      "id": "3d8623babed603ea528d983282ba09f3cc3cf47071abecdff92265cbfa1ef8f9",
+      "uid": "426327.aoya,kfiCsfUr9ph8d8fRzN3HNCqZ8ceZAAjTTndGLs=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Claude Prompts The Biggest Debut Ever",
+      "date": "Thu, 19 Nov 2026 08:00:10 -0500",
+      "is_read": false,
+      "file": "3d8623babed603ea528d983282ba09f3cc3cf47071abecdff92265cbfa1ef8f9.json"
+    },
+    {
+      "id": "80fec28b3767e98408eecf80b3ca22ece46c6e121730d635cc528b3bb2939845",
+      "uid": "426323.,6nkZz5CgHdgDkr3Pl6+3x2JG6AW13zDZrzsqOEDO+Y=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🥩 Big Tech's stake in ANT",
+      "date": "Thu, 19 Nov 2026 07:28:32 -0500",
+      "is_read": false,
+      "file": "80fec28b3767e98408eecf80b3ca22ece46c6e121730d635cc528b3bb2939845.json"
+    },
+    {
+      "id": "3695a83e3704094486a8bd60b905e1f15470f487b36fe4c79d2b98c6d09b5c33",
+      "uid": "426320.LXPBh0LYTx9z1evy+SKnTKbQJdd3hLS9imysDjB,5Hs=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Trump Sees New World Order, But Strains Only Worsen",
+      "date": "Thu, 19 Nov 2026 07:10:47 -0500",
+      "is_read": false,
+      "file": "3695a83e3704094486a8bd60b905e1f15470f487b36fe4c79d2b98c6d09b5c33.json"
+    },
+    {
       "id": "851f0657dea25b8207113dd5f8ccc2ce7e11a507395c061f3204fc9e7d04e55a",
       "uid": "426313.gAp0ucKHKsmsRqRD7etjvGblzu1kOpubF3ocfYm1As8=",
       "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
@@ -521,24 +548,6 @@
       "date": "Thu, 12 Nov 2026 09:28:20 -0500",
       "is_read": true,
       "file": "4b71f7108a1081bb7e00cfbeb08cb5ac509f3024ed413e119feb60a196493167.json"
-    },
-    {
-      "id": "fed378b46c5ee886d56f0b058b997ada99eeb5b01449c33de92e9642187ebf5d",
-      "uid": "424600.O,lqcHOaXFIqVV72X34d0fcMntEULSVuby+a8ew6iQY=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Jensen Huang's Nvidia Future Hangs By A Thread",
-      "date": "Thu, 12 Nov 2026 07:44:59 -0500",
-      "is_read": true,
-      "file": "fed378b46c5ee886d56f0b058b997ada99eeb5b01449c33de92e9642187ebf5d.json"
-    },
-    {
-      "id": "b5d6d9d4f7ba46c475cfffad06adf52f3e889ff7d201968f50ce559da72faf8e",
-      "uid": "424598.1STJVThMELdLBpCoRz5a8XBLBD5pfAXbbsc9qd7ntxw=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🫧 Popped",
-      "date": "Thu, 12 Nov 2026 07:28:31 -0500",
-      "is_read": true,
-      "file": "b5d6d9d4f7ba46c475cfffad06adf52f3e889ff7d201968f50ce559da72faf8e.json"
     },
     {
       "id": "b88321d6c2d4aedc636b80883faa51f7ede7b47ee23aa2797e741683e66404ba",
