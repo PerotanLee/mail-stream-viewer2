@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17369 from=Must Reads <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-19T09:21:10.830833+00:00",
-  "added": 5,
+  "updated_at": "2026-11-19T09:21:11.926239+00:00",
+  "added": 6,
   "skipped": 177,
   "scanned": 183,
-  "current": "Must Reads <account@seekingalpha.com>",
+  "current": "The Power Of Compounding: 2 Stocks To Build Wealth For Decades",
   "added_by_filter": {
     "wsj": 3,
     "axios": 2,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 17267,
   "newest_num": 17551,
