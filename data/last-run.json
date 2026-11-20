@@ -1,15 +1,22 @@
 {
   "ok": false,
   "running": true,
-  "step": "フィルタ開始",
-  "phase": "scan",
+  "step": "本文取得 num=17883 from=\"WSJ Markets A.M>\" <access@interactive.wsj.com>",
+  "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-20T11:24:01.739201+00:00",
+  "updated_at": "2026-11-20T11:24:03.260833+00:00",
   "added": 0,
   "skipped": 0,
-  "scanned": 0,
-  "current": "",
-  "added_by_filter": {},
-  "last_newest_num": 17870
+  "scanned": 1,
+  "current": "\"WSJ Markets A.M>\" <access@interactive.wsj.com>",
+  "added_by_filter": {
+    "wsj": 0,
+    "axios": 0,
+    "seekingalpha": 0
+  },
+  "last_newest_num": 17870,
+  "newest_num": 17883,
+  "scan_mode": "new",
+  "since": "2026-11-20T10:24:19.735081+00:00"
 }
