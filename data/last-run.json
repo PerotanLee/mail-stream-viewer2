@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17716 from=Mike Allen <mike@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-20T08:38:57.187969+00:00",
-  "added": 1,
+  "updated_at": "2026-11-20T08:38:58.522308+00:00",
+  "added": 2,
   "skipped": 103,
   "scanned": 105,
-  "current": "Mike Allen <mike@axios.com>",
+  "current": "⏳ Axios Finish Line: Longevity rebellion",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 17641,
