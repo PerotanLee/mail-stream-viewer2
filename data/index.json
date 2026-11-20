@@ -793,6 +793,33 @@
       "file": "1e0eaf8127ec78e838d51a443b1cb2ffc3dc20539615da3393937ce4b9c7b0de.json"
     },
     {
+      "id": "3461d5f59b9b59e98efed638b568f7bb8a085524ba6a9c4632571f3b3df01576",
+      "uid": "426641.Chm3mVy2LoNhyGrFQ9wc8XZRd+S1sNLjZBPQVLgZllg=",
+      "from_addr": "\"WSJ Markets A.M>\" <access@interactive.wsj.com>",
+      "subject": "📈 The Market’s Growth and Inflation Conundrum",
+      "date": "Fri, 20 Nov 2026 06:20:39 -0500",
+      "is_read": false,
+      "file": "3461d5f59b9b59e98efed638b568f7bb8a085524ba6a9c4632571f3b3df01576.json"
+    },
+    {
+      "id": "467f6dadca5720437c24f883f63379189dd65612e4a04ebf4336142cfab37d58",
+      "uid": "426639.PMf4l4zZJtsA,R3Yf+j,6E5J0H7XxOKaJDN80uR7LmY=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Anthropic’s IPO Fails to Revive AI Trade",
+      "date": "Fri, 20 Nov 2026 06:16:52 -0500",
+      "is_read": false,
+      "file": "467f6dadca5720437c24f883f63379189dd65612e4a04ebf4336142cfab37d58.json"
+    },
+    {
+      "id": "42a149ae5ca2dc525900d5359cbc9876e6c90f98acb23d3cc9489ed5cd18480b",
+      "uid": "426636.hL0pZy37E6tWQJwfC99gW5zDUi,M7OTU1IR8ei+vdjA=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🎮 Axios AM: GTA hijacks America",
+      "date": "Fri, 20 Nov 2026 06:04:15 -0500",
+      "is_read": false,
+      "file": "42a149ae5ca2dc525900d5359cbc9876e6c90f98acb23d3cc9489ed5cd18480b.json"
+    },
+    {
       "id": "25b23506698fca115988d3fed8779dc024a55f50d31d6bb42c6e7746a364074c",
       "uid": "426618.V5,RnnJ89gVxcw18Xeh0Q6ntrT5j7t9guburoFVBWjA=",
       "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
@@ -953,42 +980,6 @@
       "date": "Fri, 13 Nov 2026 06:32:16 -0500",
       "is_read": true,
       "file": "2c0ee1aae8ca6646d5813dadf485a4022e2dea50005dc3549ed10ead554a806e.json"
-    },
-    {
-      "id": "05c4397749f7a6036000dcc959a7394238c7686bbac09f96df099b57a52913a4",
-      "uid": "424860.SvmQn4vWX5NX2YY4pvtIFKkOfIOXa0Oyulh1SnGwKTA=",
-      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
-      "subject": "💵 Why Treasury Yields Stopped Making Sense",
-      "date": "Fri, 13 Nov 2026 06:19:42 -0500",
-      "is_read": true,
-      "file": "05c4397749f7a6036000dcc959a7394238c7686bbac09f96df099b57a52913a4.json"
-    },
-    {
-      "id": "6caad9051f1fe5b877afce458e2cfa2c900fac0b54a60b8190c9cbc61e4da36e",
-      "uid": "424857.LZ70hcued9SR2bF4xCvSgHOgUjoK,ynYVI6+aSeUqng=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Unpacking the Nvidia Fallout",
-      "date": "Fri, 13 Nov 2026 06:09:56 -0500",
-      "is_read": true,
-      "file": "6caad9051f1fe5b877afce458e2cfa2c900fac0b54a60b8190c9cbc61e4da36e.json"
-    },
-    {
-      "id": "68c891d81c9ef227046c4017e1e7d422a45af75a3ba2bfd7f483c7ce7d2401c9",
-      "uid": "424851.fkdbqIqStcxszFyjBCOUbv6Dk+yaL5ah3QUSXx51nz8=",
-      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Economics: I Want to Hear From You!",
-      "date": "Fri, 13 Nov 2026 06:00:29 -0500",
-      "is_read": true,
-      "file": "68c891d81c9ef227046c4017e1e7d422a45af75a3ba2bfd7f483c7ce7d2401c9.json"
-    },
-    {
-      "id": "6bea1caeec887083d3021592060c95d65d18c7dc660e2734164862b803bbf50d",
-      "uid": "424845.PeYEgSWw4CkWh+DXJRU+anJQ0cGAgIkPaxXGHkfwugo=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🫏 Axios AM: Dems' algorithm trap",
-      "date": "Fri, 13 Nov 2026 05:39:16 -0500",
-      "is_read": true,
-      "file": "6bea1caeec887083d3021592060c95d65d18c7dc660e2734164862b803bbf50d.json"
     }
   ]
 }
