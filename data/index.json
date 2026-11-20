@@ -793,6 +793,24 @@
       "file": "1e0eaf8127ec78e838d51a443b1cb2ffc3dc20539615da3393937ce4b9c7b0de.json"
     },
     {
+      "id": "a3c477fc1c1ee95b1bf81abce1e0132bee8bcc4eecdd4be41b857c7bdb705549",
+      "uid": "426680.XC4RGtJH6W,NrS6IZwbUxoqopcG4ManXdrdi8abEFBk=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "💸 AI fortunes in flux",
+      "date": "Fri, 20 Nov 2026 11:58:20 -0500",
+      "is_read": false,
+      "file": "a3c477fc1c1ee95b1bf81abce1e0132bee8bcc4eecdd4be41b857c7bdb705549.json"
+    },
+    {
+      "id": "2c6d7ea5708ac05ae7c3ee333621832e66acdc9dc083ec99ff337249aceb354d",
+      "uid": "426679.cBW8X0uYMN6ojFtwIpwfXwSY,Z4WVCNgA+0lbTlvxHI=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: A Miami Honeymoon Inspired One Couple to Build a Candy-Colored Home in London",
+      "date": "Fri, 20 Nov 2026 11:50:58 -0500",
+      "is_read": false,
+      "file": "2c6d7ea5708ac05ae7c3ee333621832e66acdc9dc083ec99ff337249aceb354d.json"
+    },
+    {
       "id": "abcfde290e594622a00c1725bab4cb3a9e2b6d3c2d398abfd27e9820dfa8e2f3",
       "uid": "426670.c2zOb5PoEPyC,WLYdT1PxlPvTC84JMyBgCArhifM57M=",
       "from_addr": "Dan Primack <dan@axios.com>",
@@ -953,24 +971,6 @@
       "date": "Fri, 13 Nov 2026 14:00:57 -0500",
       "is_read": true,
       "file": "f1dc8627d63a9f4f0d2b6056b59606c99c71ef2cc7cc60ffdef0759651b12c97.json"
-    },
-    {
-      "id": "3c9a0399b270366dffe99b5cc46058f140dd8c52a540c1de382c7d678cd11875",
-      "uid": "424916.P1GPAbt2AW55NiWHUZtCi9tzC3dhWt8WvM7Y7c4z+bY=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🦶 Trade Achilles' heel",
-      "date": "Fri, 13 Nov 2026 12:02:28 -0500",
-      "is_read": true,
-      "file": "3c9a0399b270366dffe99b5cc46058f140dd8c52a540c1de382c7d678cd11875.json"
-    },
-    {
-      "id": "ee5cc95b0c1e2d760fafacb7aa1fb216218689c345b9343b7d3ad2749f952017",
-      "uid": "424912.i,8m629HHb0j0hflcXA5zKlEtSACHMT5qbvMnGYolK8=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Palm Beach Developer Drops $160 Million Deal Over Fears of NIMBY Neighbor",
-      "date": "Fri, 13 Nov 2026 11:25:28 -0500",
-      "is_read": true,
-      "file": "ee5cc95b0c1e2d760fafacb7aa1fb216218689c345b9343b7d3ad2749f952017.json"
     }
   ]
 }
