@@ -816,7 +816,7 @@
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
       "subject": "Nasdaq Claims The Year Of The Mega-IPO",
       "date": "Fri, 20 Nov 2026 07:54:54 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "b0d952d760c645dfc7b5dcc03b99020d0b4806fafd9b0406fd5f0320a191b770.json"
     },
     {
