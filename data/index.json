@@ -793,6 +793,15 @@
       "file": "1e0eaf8127ec78e838d51a443b1cb2ffc3dc20539615da3393937ce4b9c7b0de.json"
     },
     {
+      "id": "25b23506698fca115988d3fed8779dc024a55f50d31d6bb42c6e7746a364074c",
+      "uid": "426618.V5,RnnJ89gVxcw18Xeh0Q6ntrT5j7t9guburoFVBWjA=",
+      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
+      "subject": "Investment News Quiz - Friday, Nov. 20",
+      "date": "Fri, 20 Nov 2026 05:04:57 -0500",
+      "is_read": false,
+      "file": "25b23506698fca115988d3fed8779dc024a55f50d31d6bb42c6e7746a364074c.json"
+    },
+    {
       "id": "3194e3b3d3c5d3c4e6130f76c5082da8e2d8b1571d1500ebb794a4605d8d1325",
       "uid": "424955.OSFa9GWyBJVxZjeSMqPa2x7jlJ15ZGqw44liilTkcxk=",
       "from_addr": "Axios Closer <closer@axios.com>",
@@ -980,15 +989,6 @@
       "date": "Fri, 13 Nov 2026 05:39:16 -0500",
       "is_read": true,
       "file": "6bea1caeec887083d3021592060c95d65d18c7dc660e2734164862b803bbf50d.json"
-    },
-    {
-      "id": "da19b2453fd320e56735c77d08b5321475119c2b7f8f5e610e5569a65e562203",
-      "uid": "424827.HifgdLNobio9HHPNOoQUChDilR4Q8uSHrgXBe98eMpg=",
-      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
-      "subject": "Investment News Quiz - Friday, Nov. 13",
-      "date": "Fri, 13 Nov 2026 05:03:22 -0500",
-      "is_read": false,
-      "file": "da19b2453fd320e56735c77d08b5321475119c2b7f8f5e610e5569a65e562203.json"
     }
   ]
 }
