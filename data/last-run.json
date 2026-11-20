@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17659 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-20T08:39:08.492856+00:00",
-  "added": 2,
+  "updated_at": "2026-11-20T08:39:09.558292+00:00",
+  "added": 3,
   "skipped": 159,
   "scanned": 162,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "🐜 ANTi up",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 1,
+    "axios": 2,
     "seekingalpha": 0
   },
   "last_newest_num": 17641,
