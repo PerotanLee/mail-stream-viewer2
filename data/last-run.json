@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17921 from=Axios Macro <macro@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-20T17:50:27.207898+00:00",
-  "added": 0,
+  "updated_at": "2026-11-20T17:50:28.942242+00:00",
+  "added": 1,
   "skipped": 0,
   "scanned": 1,
-  "current": "Axios Macro <macro@axios.com>",
+  "current": "💸 AI fortunes in flux",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 17916,
