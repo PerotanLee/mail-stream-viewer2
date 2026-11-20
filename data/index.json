@@ -816,7 +816,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🎮 Axios AM: GTA hijacks America",
       "date": "Fri, 20 Nov 2026 06:04:15 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "42a149ae5ca2dc525900d5359cbc9876e6c90f98acb23d3cc9489ed5cd18480b.json"
     },
     {
