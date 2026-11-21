@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=17945 from=Axios Closer <closer@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-21T09:56:41.313214+00:00",
-  "added": 1,
+  "updated_at": "2026-11-21T09:56:42.346555+00:00",
+  "added": 2,
   "skipped": 114,
   "scanned": 116,
-  "current": "Axios Closer <closer@axios.com>",
+  "current": "📉 AI bloodbath",
   "added_by_filter": {
     "wsj": 1,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 0
   },
   "last_newest_num": 17921,
