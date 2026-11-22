@@ -825,7 +825,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "📉 Axios PM: Stock slump",
       "date": "Fri, 20 Nov 2026 15:00:53 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "244b8ae264786f2a78adaf7c48799ba588759feae334f00c9b7aa34ccbc4b1cd.json"
     },
     {
