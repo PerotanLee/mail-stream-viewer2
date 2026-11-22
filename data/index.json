@@ -532,6 +532,24 @@
       "file": "efa6295c1ef09b356c56f83b9a2718f7580d0ff1163732b40397d7ad6a2ca4eb.json"
     },
     {
+      "id": "bf1f5dfe636ccd80dafe887679019747445d892c503001e5f7562f4db047be91",
+      "uid": "427003.m0P8CIRbPgXE0fVBlFv1HjnmLlrgD1KmmfluLaSkT4U=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Kim Jong Un Isn't Returning Trump's Calls",
+      "date": "Sun, 22 Nov 2026 07:08:43 -0500",
+      "is_read": false,
+      "file": "bf1f5dfe636ccd80dafe887679019747445d892c503001e5f7562f4db047be91.json"
+    },
+    {
+      "id": "eedb168b7f98e657ad7ecb7c7aff55988fe33010caa0fc416e1b1ef50c2dc831",
+      "uid": "426997.sVdtwy9WkRyuovN64bO8jBQauvWkMR2Dj8j2PpNk5t8=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Wall Street Week Ahead",
+      "date": "Sun, 22 Nov 2026 06:28:33 -0500",
+      "is_read": false,
+      "file": "eedb168b7f98e657ad7ecb7c7aff55988fe33010caa0fc416e1b1ef50c2dc831.json"
+    },
+    {
       "id": "b88321d6c2d4aedc636b80883faa51f7ede7b47ee23aa2797e741683e66404ba",
       "uid": "425250.YOXeG6Kf1Qy72bMTl9feogo+H,z50Z5GdCLTtwDz52U=",
       "from_addr": "Must Reads <account@seekingalpha.com>",
@@ -548,24 +566,6 @@
       "date": "Sun, 15 Nov 2026 08:59:58 -0500",
       "is_read": true,
       "file": "33792eb528bf9438cd44da4727762e71803d57d38ed75259f25ca40b6595632f.json"
-    },
-    {
-      "id": "583edb81ba6e314f5e33970b847075e638b766a9cb3d7f5b5482c3802453b9b3",
-      "uid": "425235.y2KPHSOE06JwVZpX3jx1MseSA9tTxC9Ows9b,7M5RVc=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: What Caused the FAA’s Ground Stop Chaos",
-      "date": "Sun, 15 Nov 2026 07:19:22 -0500",
-      "is_read": true,
-      "file": "583edb81ba6e314f5e33970b847075e638b766a9cb3d7f5b5482c3802453b9b3.json"
-    },
-    {
-      "id": "2da95d4a79c30f57e941f1d5b729f6e2268309cf1240c7e3e4e5565c965aa1f9",
-      "uid": "425232.r9fy3Kx8uNSAOGrjRkIHGpf+YmkKmQcbrdwcWaL,OZM=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Wall Street Week Ahead",
-      "date": "Sun, 15 Nov 2026 06:48:38 -0500",
-      "is_read": true,
-      "file": "2da95d4a79c30f57e941f1d5b729f6e2268309cf1240c7e3e4e5565c965aa1f9.json"
     },
     {
       "id": "7979f909d6c6f1a08f06b20171f3eecbac6388d165b07b39fa14dcc76221d64d",
