@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18087 from=Axios AI+ <ai.plus@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-22T09:54:48.104939+00:00",
-  "added": 1,
+  "updated_at": "2026-11-22T09:54:49.275090+00:00",
+  "added": 2,
   "skipped": 80,
   "scanned": 82,
-  "current": "Axios AI+ <ai.plus@axios.com>",
+  "current": "👾 AI playgrounds",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 1
   },
   "last_newest_num": 18060,
