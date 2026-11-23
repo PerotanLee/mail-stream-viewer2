@@ -532,6 +532,24 @@
       "file": "efa6295c1ef09b356c56f83b9a2718f7580d0ff1163732b40397d7ad6a2ca4eb.json"
     },
     {
+      "id": "413314b0419aca6fd84b30c6bb3982331eeea1caca99e580fe5993558eca1068",
+      "uid": "427020.wYkRH4HKtd,27gk8K96va78AaBKmM3zs9Tzac2VslmE=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Nvidia: This Has Gone Too Far",
+      "date": "Sun, 22 Nov 2026 16:06:28 -0500",
+      "is_read": false,
+      "file": "413314b0419aca6fd84b30c6bb3982331eeea1caca99e580fe5993558eca1068.json"
+    },
+    {
+      "id": "ebdb3afb531f99e2da0791f90374ca533b108a6cb29541a0d0775f4086d35096",
+      "uid": "427005.9kRlljpgukr6xSPAyan0Ptcd3ULKw82yxXpoqZc9mVQ=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🧨 Axios AM: AI's 2027 reckoning",
+      "date": "Sun, 22 Nov 2026 08:50:26 -0500",
+      "is_read": false,
+      "file": "ebdb3afb531f99e2da0791f90374ca533b108a6cb29541a0d0775f4086d35096.json"
+    },
+    {
       "id": "bf1f5dfe636ccd80dafe887679019747445d892c503001e5f7562f4db047be91",
       "uid": "427003.m0P8CIRbPgXE0fVBlFv1HjnmLlrgD1KmmfluLaSkT4U=",
       "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
@@ -548,24 +566,6 @@
       "date": "Sun, 22 Nov 2026 06:28:33 -0500",
       "is_read": true,
       "file": "eedb168b7f98e657ad7ecb7c7aff55988fe33010caa0fc416e1b1ef50c2dc831.json"
-    },
-    {
-      "id": "b88321d6c2d4aedc636b80883faa51f7ede7b47ee23aa2797e741683e66404ba",
-      "uid": "425250.YOXeG6Kf1Qy72bMTl9feogo+H,z50Z5GdCLTtwDz52U=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Top 50 High-Quality Dividend Growth Stocks For November 2026",
-      "date": "Sun, 15 Nov 2026 16:06:27 -0500",
-      "is_read": false,
-      "file": "b88321d6c2d4aedc636b80883faa51f7ede7b47ee23aa2797e741683e66404ba.json"
-    },
-    {
-      "id": "33792eb528bf9438cd44da4727762e71803d57d38ed75259f25ca40b6595632f",
-      "uid": "425236.uWAzqqoPvH7GeRbU7lXEuA2kHImEjxx,Y,qQqeQDOQQ=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🌵 Axios AM: Blue border wall",
-      "date": "Sun, 15 Nov 2026 08:59:58 -0500",
-      "is_read": true,
-      "file": "33792eb528bf9438cd44da4727762e71803d57d38ed75259f25ca40b6595632f.json"
     },
     {
       "id": "7979f909d6c6f1a08f06b20171f3eecbac6388d165b07b39fa14dcc76221d64d",
@@ -622,6 +622,78 @@
       "file": "79cd86d10622a6bcbf92491fb0029b9ec8ab55c5fd88f3c268a9dab927c2f4d4.json"
     },
     {
+      "id": "ef6b51e39100361844efe99b7acb5ead052a620df8f7991bcb5d3c1a8fd2917e",
+      "uid": "427127.UZzuSepjIzFKPeJk0QqbIWZCw3f+bLJLOQI62666lgk=",
+      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
+      "subject": "Today's Wall Street Journal Print Edition",
+      "date": "Mon, 23 Nov 2026 19:09:46 +1100",
+      "is_read": false,
+      "file": "ef6b51e39100361844efe99b7acb5ead052a620df8f7991bcb5d3c1a8fd2917e.json"
+    },
+    {
+      "id": "47146166ba6bc7b343fe3d3e10f40f53944f20ddfbddb9959a65c34e46d98f1d",
+      "uid": "427181.3tpF6gtPtmgv5QZdrIqsljKqHID4xd9Su7MTaYZE+5o=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "COP31 Climate Talks Run Out Of Gas",
+      "date": "Mon, 23 Nov 2026 07:49:12 -0500",
+      "is_read": false,
+      "file": "47146166ba6bc7b343fe3d3e10f40f53944f20ddfbddb9959a65c34e46d98f1d.json"
+    },
+    {
+      "id": "12288fd9fe09822bbd16a424d573e7d4ee5e9290d0da6e818501911084545df9",
+      "uid": "427180.dG3idNjNaON+d,qj3w0uXY8iXSJKTDbJcdnQ6Y8v6tA=",
+      "from_addr": "Axios Markets <markets@axios.com>",
+      "subject": "🌎 Brave new world",
+      "date": "Mon, 23 Nov 2026 07:28:38 -0500",
+      "is_read": false,
+      "file": "12288fd9fe09822bbd16a424d573e7d4ee5e9290d0da6e818501911084545df9.json"
+    },
+    {
+      "id": "06dbaacd1bff95b9ec83c07a51483baf8aaca9653967e75f12436b2022a1a96e",
+      "uid": "427179.AeBvHBuVnzhtp0vC1PTtBVYSwrA+CD8u4P7CrJ0d7k4=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Five Things to Know About Robert Garcia, House Democrats’ New Top Cop",
+      "date": "Mon, 23 Nov 2026 07:13:53 -0500",
+      "is_read": false,
+      "file": "06dbaacd1bff95b9ec83c07a51483baf8aaca9653967e75f12436b2022a1a96e.json"
+    },
+    {
+      "id": "de4d11a4ca7ef27879855ac6e2a330df11cb05360d0e5c9832a1868e6510855c",
+      "uid": "427168.A0sqqfcjINI0kV3mn2hUwNuyJVFZQoKKgKw,vncjZPY=",
+      "from_addr": "\"Spencer Jakab, WSJ\" <access@interactive.wsj.com>",
+      "subject": "💰 Markets A.M.: Pouncing on Anthropic Won’t Make You Rich",
+      "date": "Mon, 23 Nov 2026 06:31:17 -0500",
+      "is_read": false,
+      "file": "de4d11a4ca7ef27879855ac6e2a330df11cb05360d0e5c9832a1868e6510855c.json"
+    },
+    {
+      "id": "5d5aca09322b2c6192e64e532951f05008b7666d98715715f235f0a6b451d29a",
+      "uid": "427167.zLL25oFB3tJLvYVr8j8C1sZborNYXtkO5fg8JLSp1T4=",
+      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+      "subject": "Volatility Dents Consumer Mood of Wealthier Americans",
+      "date": "Mon, 23 Nov 2026 06:30:46 -0500",
+      "is_read": false,
+      "file": "5d5aca09322b2c6192e64e532951f05008b7666d98715715f235f0a6b451d29a.json"
+    },
+    {
+      "id": "df28e0c92737972b489115f3e0a2ace2de036825bba079b4aba470a19e054ea6",
+      "uid": "427163.1BejnP9Li9r7KpyLVJd5QFIs5bfioU,30Z0V9E+JMBY=",
+      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
+      "subject": "The 10-Point: Abdul El-Sayed Is Already Shaking Up the Senate",
+      "date": "Mon, 23 Nov 2026 06:03:29 -0500",
+      "is_read": false,
+      "file": "df28e0c92737972b489115f3e0a2ace2de036825bba079b4aba470a19e054ea6.json"
+    },
+    {
+      "id": "79903885eddd6458c8a36df79892d402b7713c8211ad5d30bccdadc9b13763c3",
+      "uid": "427158.POSnzJJOZlY,IKR2oAzEcuMneQ83K7x9S3fFtIVLEbY=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "😵‍💫 Axios AM: Surviving chaos",
+      "date": "Mon, 23 Nov 2026 05:58:46 -0500",
+      "is_read": false,
+      "file": "79903885eddd6458c8a36df79892d402b7713c8211ad5d30bccdadc9b13763c3.json"
+    },
+    {
       "id": "4f836b757fff980f847d9c890debaa920f22d98712f2f90297e739f5c350af83",
       "uid": "425569.RHct55mWo3eQ1RCm2S2m1ccFg9WxjBBTwOwrmZWiRgs=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -629,15 +701,6 @@
       "date": "Mon, 16 Nov 2026 21:29:21 -0500",
       "is_read": true,
       "file": "4f836b757fff980f847d9c890debaa920f22d98712f2f90297e739f5c350af83.json"
-    },
-    {
-      "id": "9169e0b31901eaa04b28fed91e9227cbbd8f9e845ea4c3b3f27c9850f3b96769",
-      "uid": "425385.rP5Rk0UduJ6UlnJvBnLpvZRllAMQeTMM9,pTI,OpgH0=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Mon, 16 Nov 2026 19:09:46 +1100",
-      "is_read": true,
-      "file": "9169e0b31901eaa04b28fed91e9227cbbd8f9e845ea4c3b3f27c9850f3b96769.json"
     },
     {
       "id": "40e9d7df8a72c6d46ab59c6a748abc21390b21a33e3f89aa0f4eb73ca26e6b3c",
@@ -719,60 +782,6 @@
       "date": "Mon, 16 Nov 2026 08:03:56 -0500",
       "is_read": true,
       "file": "19cb8102f1820441753b4fab0101996262c61a3ca2d6227c554d9b3b3b9d3ad4.json"
-    },
-    {
-      "id": "738de1c722ef6823b3f65b61dea69719c212320b0e3bdf8a568211c88174f919",
-      "uid": "425447.rqlaSftALIk+ZQFnv50KzHm4W1dL7UD0Uwld7uuF4FE=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "💪 Ultimate CEO superpower",
-      "date": "Mon, 16 Nov 2026 07:28:54 -0500",
-      "is_read": true,
-      "file": "738de1c722ef6823b3f65b61dea69719c212320b0e3bdf8a568211c88174f919.json"
-    },
-    {
-      "id": "b8ab8978503ce8d4ecae4eab8bd72103ad391821a47e9589edfddd1241cade71",
-      "uid": "425446.HySo3cp0DhMlZllKSYYVYtC8LBK9fMSNLueesqusT4Q=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: The White House vs. Congress War Is On. And It’s Ugly.",
-      "date": "Mon, 16 Nov 2026 07:15:06 -0500",
-      "is_read": true,
-      "file": "b8ab8978503ce8d4ecae4eab8bd72103ad391821a47e9589edfddd1241cade71.json"
-    },
-    {
-      "id": "c71f06d4d4e5e85847c802fa3d7228dd85c230881df0f8a06aaed5b165a6dd94",
-      "uid": "425437.ZG+KO7b2Z+ErERhygpLpyH7r,i9M8IJ6zbQGyDURNMw=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "Banks Race to Keep Up as AI Bots Use Credit Cards",
-      "date": "Mon, 16 Nov 2026 06:30:40 -0500",
-      "is_read": true,
-      "file": "c71f06d4d4e5e85847c802fa3d7228dd85c230881df0f8a06aaed5b165a6dd94.json"
-    },
-    {
-      "id": "9f651086fb99e9be0a0ef7fec3d201fc00a337176df0335534865c73398a3b83",
-      "uid": "425436.YeX8YUeQUL3AGAcnEEAiAUTWoi4MmEgQd6e5mT0AUWA=",
-      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
-      "subject": "⚖️ Big-Tech Worrywarts Have Their Day",
-      "date": "Mon, 16 Nov 2026 06:26:25 -0500",
-      "is_read": true,
-      "file": "9f651086fb99e9be0a0ef7fec3d201fc00a337176df0335534865c73398a3b83.json"
-    },
-    {
-      "id": "d8b3397305792c2faf9bfd8b6b143a4179ea0320fdc9bcdfdb1595418add99e4",
-      "uid": "425429.iL35FMI7C1D+LQQiu4aN3hHObHsMQrhUle79hjoakD8=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Wall Street’s AI Fever Breaks",
-      "date": "Mon, 16 Nov 2026 06:02:33 -0500",
-      "is_read": true,
-      "file": "d8b3397305792c2faf9bfd8b6b143a4179ea0320fdc9bcdfdb1595418add99e4.json"
-    },
-    {
-      "id": "d2e2dea8d5f195c43b3ae125c50a10c591489fa08559bfd5c072515d0f988f1a",
-      "uid": "425425.yye9EYRpK6K7i52ULCskMjiri35WNe5L90xw63dtdcM=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "💥 Axios AM: Shock and awe, forever",
-      "date": "Mon, 16 Nov 2026 05:32:11 -0500",
-      "is_read": true,
-      "file": "d2e2dea8d5f195c43b3ae125c50a10c591489fa08559bfd5c072515d0f988f1a.json"
     },
     {
       "id": "1e0eaf8127ec78e838d51a443b1cb2ffc3dc20539615da3393937ce4b9c7b0de",
