@@ -631,6 +631,15 @@
       "file": "ef6b51e39100361844efe99b7acb5ead052a620df8f7991bcb5d3c1a8fd2917e.json"
     },
     {
+      "id": "fe53326f5b6fadb563807df6b67e435b5c27731b12517759785bebd4fc3af644",
+      "uid": "427196.u,NIR9SsKgzrUwr2,H07Qy8S4hvRu+rZWPgltai8PEU=",
+      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
+      "subject": "Mansion Deals Alert: Power Couple Sells San Francisco Compound for $68.3 Million in AI-Fueled Boom",
+      "date": "Mon, 23 Nov 2026 14:45:12 -0500",
+      "is_read": false,
+      "file": "fe53326f5b6fadb563807df6b67e435b5c27731b12517759785bebd4fc3af644.json"
+    },
+    {
       "id": "dba4b1915c45e8cb11aef3df553e2a1b801a93b015cc1e3add73694e6002f03c",
       "uid": "427194.+aFOJ9BMIo9BVjvBtyrcAZBbimWaYHM7HNoCr9dM8x0=",
       "from_addr": "Axios Macro <macro@axios.com>",
@@ -764,15 +773,6 @@
       "date": "Mon, 16 Nov 2026 16:06:36 -0500",
       "is_read": false,
       "file": "c514fe7604eeca6d92c84309c6d9596b21899bf4a116c2923b10d2fbe9d6f548.json"
-    },
-    {
-      "id": "7976e157b77ce61517c7e645dfdd4366be2f1aaae6293301afcc99aae6933fe1",
-      "uid": "425486.oAIlVa8XIqlvRcK0PhpZnmYLydmPMUf8nK76gYN3r,Y=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🤖 Axios PM: Dems' AI test",
-      "date": "Mon, 16 Nov 2026 15:15:21 -0500",
-      "is_read": true,
-      "file": "7976e157b77ce61517c7e645dfdd4366be2f1aaae6293301afcc99aae6933fe1.json"
     },
     {
       "id": "1e0eaf8127ec78e838d51a443b1cb2ffc3dc20539615da3393937ce4b9c7b0de",
