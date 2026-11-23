@@ -631,6 +631,24 @@
       "file": "ef6b51e39100361844efe99b7acb5ead052a620df8f7991bcb5d3c1a8fd2917e.json"
     },
     {
+      "id": "dba4b1915c45e8cb11aef3df553e2a1b801a93b015cc1e3add73694e6002f03c",
+      "uid": "427194.+aFOJ9BMIo9BVjvBtyrcAZBbimWaYHM7HNoCr9dM8x0=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🎢 Market roller coaster",
+      "date": "Mon, 23 Nov 2026 12:01:47 -0500",
+      "is_read": false,
+      "file": "dba4b1915c45e8cb11aef3df553e2a1b801a93b015cc1e3add73694e6002f03c.json"
+    },
+    {
+      "id": "ce401d0fcdca3754fd17b8beba84e60df4b9ad347597b9251f3f80c9c1cbc34d",
+      "uid": "427192.Nt4PBtfz9dyI52Zbt,6sq5ePJZytdp+kVbJuiKj2Ok0=",
+      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
+      "subject": "WSJ Politics: Five Urgent Questions in D.C. About Jensen Huang’s Return as Nvidia CEO",
+      "date": "Mon, 23 Nov 2026 11:11:35 -0500",
+      "is_read": false,
+      "file": "ce401d0fcdca3754fd17b8beba84e60df4b9ad347597b9251f3f80c9c1cbc34d.json"
+    },
+    {
       "id": "15c6d4e1c1ad72db586cd7497d60df9f6ab7412e8ecec78078857f2338d32ddb",
       "uid": "427188.TZSb39wdDQwvJdXa2MvpwBCBg31nX5o7TlyfRQ0d,zI=",
       "from_addr": "Axios AI+ <ai.plus@axios.com>",
@@ -755,15 +773,6 @@
       "date": "Mon, 16 Nov 2026 15:15:21 -0500",
       "is_read": true,
       "file": "7976e157b77ce61517c7e645dfdd4366be2f1aaae6293301afcc99aae6933fe1.json"
-    },
-    {
-      "id": "8c8862c752bcc66f22cce6d9122a806348f76528b1c47d4902e764b2d4caa93c",
-      "uid": "425480.EpP3czYdtt75wRWkgAXcQHIGmOZ5lHbzbRdHqdIsTvc=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🕸️ Risky financial web",
-      "date": "Mon, 16 Nov 2026 12:02:44 -0500",
-      "is_read": true,
-      "file": "8c8862c752bcc66f22cce6d9122a806348f76528b1c47d4902e764b2d4caa93c.json"
     },
     {
       "id": "1e0eaf8127ec78e838d51a443b1cb2ffc3dc20539615da3393937ce4b9c7b0de",
