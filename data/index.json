@@ -631,6 +631,33 @@
       "file": "ef6b51e39100361844efe99b7acb5ead052a620df8f7991bcb5d3c1a8fd2917e.json"
     },
     {
+      "id": "61ac8af4ab5e9f942c397d116df8bfacc7b1f0beece5b30fb6f3290ee6500b44",
+      "uid": "427235.DqWj+7VZlP1fIuzhyxAIxX2YcRoxRAbCx33DTrG45zM=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "↪️ Nvidia's board game",
+      "date": "Mon, 23 Nov 2026 17:56:16 -0500",
+      "is_read": false,
+      "file": "61ac8af4ab5e9f942c397d116df8bfacc7b1f0beece5b30fb6f3290ee6500b44.json"
+    },
+    {
+      "id": "37e3acb57bbdb8fbc31e934ecb2f923e71dfa794d3d221ac77604b62df3944dd",
+      "uid": "427215.9rlfsKdBW7GNMzSUvCUSq,wlSut1BYi6tTyVdiQnewo=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Back in Black",
+      "date": "Mon, 23 Nov 2026 16:21:05 -0500",
+      "is_read": false,
+      "file": "37e3acb57bbdb8fbc31e934ecb2f923e71dfa794d3d221ac77604b62df3944dd.json"
+    },
+    {
+      "id": "86429e20f57b89418e3912baa56b5640bbc998580fa8e8fd859bfb8edd42d185",
+      "uid": "427210.MlxzxNQejiem1ZQgxp93SS+S3KGZib9WYChiLDAjE+o=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Nvidia: Crisis Prices Won't Last (Rating Upgrade)",
+      "date": "Mon, 23 Nov 2026 16:06:40 -0500",
+      "is_read": false,
+      "file": "86429e20f57b89418e3912baa56b5640bbc998580fa8e8fd859bfb8edd42d185.json"
+    },
+    {
       "id": "1ab7b1b9d321538d38c61f99ee36f3e0a9b9b3a4b8ec20d4cbac928d1d3f0980",
       "uid": "427199.MTI3XCLghH9mA2r0Kx8l1ZjJQmwti2VobaY3v3RZ55E=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -755,33 +782,6 @@
       "date": "Mon, 16 Nov 2026 21:29:21 -0500",
       "is_read": true,
       "file": "4f836b757fff980f847d9c890debaa920f22d98712f2f90297e739f5c350af83.json"
-    },
-    {
-      "id": "40e9d7df8a72c6d46ab59c6a748abc21390b21a33e3f89aa0f4eb73ca26e6b3c",
-      "uid": "425504.yomYVxtQ7wI3M5xCU00oKqSm7sBn57mBEbyiSxm6FjU=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🤖 Jensen's unlikely comeback",
-      "date": "Mon, 16 Nov 2026 16:43:30 -0500",
-      "is_read": true,
-      "file": "40e9d7df8a72c6d46ab59c6a748abc21390b21a33e3f89aa0f4eb73ca26e6b3c.json"
-    },
-    {
-      "id": "623ffee2a940f12a59046040538e1b9f38aa4b56970d9542d93eaac775409fe4",
-      "uid": "425503.skdsbz3o1R7BTvvqESbXJLszI4qUFlJ0gBUB7poM40A=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "AI Stocks Resume Their Slide",
-      "date": "Mon, 16 Nov 2026 16:40:36 -0500",
-      "is_read": true,
-      "file": "623ffee2a940f12a59046040538e1b9f38aa4b56970d9542d93eaac775409fe4.json"
-    },
-    {
-      "id": "c514fe7604eeca6d92c84309c6d9596b21899bf4a116c2923b10d2fbe9d6f548",
-      "uid": "425497.FA8pR5IrTKmlCB2FJPvpjMEDSTXCfSEzDVlFCb5KQyA=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Money Is Rotating Out Of AI And Semiconductor Stocks: Where Is It Going?",
-      "date": "Mon, 16 Nov 2026 16:06:36 -0500",
-      "is_read": false,
-      "file": "c514fe7604eeca6d92c84309c6d9596b21899bf4a116c2923b10d2fbe9d6f548.json"
     },
     {
       "id": "1e0eaf8127ec78e838d51a443b1cb2ffc3dc20539615da3393937ce4b9c7b0de",
