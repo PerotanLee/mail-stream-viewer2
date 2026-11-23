@@ -1,18 +1,18 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18331 from=Axios Markets <markets@axios.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-23T13:03:24.998901+00:00",
-  "added": 1,
+  "updated_at": "2026-11-23T13:03:26.129302+00:00",
+  "added": 2,
   "skipped": 1,
   "scanned": 3,
-  "current": "Axios Markets <markets@axios.com>",
+  "current": "🌎 Brave new world",
   "added_by_filter": {
     "wsj": 0,
-    "axios": 0,
+    "axios": 1,
     "seekingalpha": 1
   },
   "last_newest_num": 18190,
