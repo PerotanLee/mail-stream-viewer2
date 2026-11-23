@@ -1,17 +1,17 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18318 from=WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-23T13:03:34.169283+00:00",
-  "added": 4,
+  "updated_at": "2026-11-23T13:03:35.451041+00:00",
+  "added": 5,
   "skipped": 11,
   "scanned": 16,
-  "current": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
+  "current": "Volatility Dents Consumer Mood of Wealthier Americans",
   "added_by_filter": {
-    "wsj": 2,
+    "wsj": 3,
     "axios": 1,
     "seekingalpha": 1
   },
