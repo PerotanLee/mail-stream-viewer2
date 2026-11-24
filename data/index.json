@@ -645,7 +645,7 @@
       "from_addr": "Axios Closer <closer@axios.com>",
       "subject": "↪️ Nvidia's board game",
       "date": "Mon, 23 Nov 2026 17:56:16 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "61ac8af4ab5e9f942c397d116df8bfacc7b1f0beece5b30fb6f3290ee6500b44.json"
     },
     {
