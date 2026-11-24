@@ -654,7 +654,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "Back in Black",
       "date": "Mon, 23 Nov 2026 16:21:05 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "37e3acb57bbdb8fbc31e934ecb2f923e71dfa794d3d221ac77604b62df3944dd.json"
     },
     {
