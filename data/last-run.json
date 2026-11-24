@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18569 from=Wall Street Breakfast <account@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-24T12:55:56.069575+00:00",
-  "added": 0,
+  "updated_at": "2026-11-24T12:55:57.957979+00:00",
+  "added": 1,
   "skipped": 0,
   "scanned": 1,
-  "current": "Wall Street Breakfast <account@seekingalpha.com>",
+  "current": "Nvidia's $1 Trillion U-Turn On Jensen Huang",
   "added_by_filter": {
     "wsj": 0,
     "axios": 0,
-    "seekingalpha": 0
+    "seekingalpha": 1
   },
   "last_newest_num": 18480,
   "newest_num": 18569,
