@@ -10,6 +10,15 @@
       "file": "a711ef95e15962345b9014d0ac35a1e2dfb72b5fc68ff17d96109282d7d08ee3.json"
     },
     {
+      "id": "1e5f83927ffd83968eecdc6c8fc90a6dec4b8b064e529a07a19a6bdb3dabf6c3",
+      "uid": "427757.50rPAf5lAkQPqz7UCmAYHR,kvTRmoZsc604NvwSeUDU=",
+      "from_addr": "Dan Primack <dan@axios.com>",
+      "subject": "Axios Pro Rata: Thud",
+      "date": "Wed, 25 Nov 2026 09:59:25 -0500",
+      "is_read": false,
+      "file": "1e5f83927ffd83968eecdc6c8fc90a6dec4b8b064e529a07a19a6bdb3dabf6c3.json"
+    },
+    {
       "id": "7cc49c6a6a1b56077e8198f1719f61f85027a76b71398485cc3e880f311187b7",
       "uid": "427755.nbKOyUUUdnOSIg8IPOyFnpLzMFTNEaoW4IT2S6k+dC0=",
       "from_addr": "Axios AI+ <ai.plus@axios.com>",
@@ -152,24 +161,6 @@
       "date": "Wed, 18 Nov 2026 11:58:58 -0500",
       "is_read": true,
       "file": "f5234285957b767fec6ff045dcf5704ca539785a5986c12fbaadb8fff978ec22.json"
-    },
-    {
-      "id": "7cf50177123455ad94316c6a6798d68b164c9a7b4200f443703bb72c68735313",
-      "uid": "426039.cQoDjRO62,DHP,AlKlUyGeiMISHs1eqtGbX2yBPOrnA=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: What we learned",
-      "date": "Wed, 18 Nov 2026 10:06:15 -0500",
-      "is_read": true,
-      "file": "7cf50177123455ad94316c6a6798d68b164c9a7b4200f443703bb72c68735313.json"
-    },
-    {
-      "id": "9a724068f955024dc9475c3b09cb2be4ae4918f00faf71b9886695f4f6918367",
-      "uid": "426038.HZfIJiGzvNEGveYJkyJvJRYhlZSNdTDKGA0b8hzm7b4=",
-      "from_addr": "WSJ Real Estate <access@interactive.wsj.com>",
-      "subject": "Hardly Anyone Shops at This Mall. And It’s Become a Success",
-      "date": "Wed, 18 Nov 2026 10:06:05 -0500",
-      "is_read": true,
-      "file": "9a724068f955024dc9475c3b09cb2be4ae4918f00faf71b9886695f4f6918367.json"
     },
     {
       "id": "72458813ab688e266a733c5fb17a5946f62c5cb27987366eb7a254ad29c53015",
