@@ -10,6 +10,15 @@
       "file": "a711ef95e15962345b9014d0ac35a1e2dfb72b5fc68ff17d96109282d7d08ee3.json"
     },
     {
+      "id": "7c622a8850ac3a7bedbb1125addaeef23d5bb15d0ffcfb2a5847cb3f0783506e",
+      "uid": "427773.hEdsDMlb2yT2WU0Yoq30tqYVKegdvFIHSjshKoI7hIY=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🌽 Axios PM: Iowa's tense detonation",
+      "date": "Wed, 25 Nov 2026 15:01:11 -0500",
+      "is_read": false,
+      "file": "7c622a8850ac3a7bedbb1125addaeef23d5bb15d0ffcfb2a5847cb3f0783506e.json"
+    },
+    {
       "id": "333ece3e3485e82871bd03b4e0e5377c3afd3ba8383473f2db41d63047f252b1",
       "uid": "427766.sktMJGoLa2Xa5X0FGd2gNeHcEy,aztJ1SEkZKd,e5RI=",
       "from_addr": "Axios Macro <macro@axios.com>",
@@ -152,15 +161,6 @@
       "date": "Wed, 18 Nov 2026 16:06:35 -0500",
       "is_read": false,
       "file": "8d16225dbb680918cce3a3d47214dfd16fb9ef9dcad20a0fc7e9677ee0c76655.json"
-    },
-    {
-      "id": "136e96662ef50ebd70dbb5a97d80ba00ce81e2bbea08e0a8d26e8b0ea058d44a",
-      "uid": "426050.bYv2XPqWwX5VNuOgoiKSSTI9wB+e+2Np8MAvgfbQ3VU=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "👾 Axios PM: Trust but prepare",
-      "date": "Wed, 18 Nov 2026 15:47:20 -0500",
-      "is_read": true,
-      "file": "136e96662ef50ebd70dbb5a97d80ba00ce81e2bbea08e0a8d26e8b0ea058d44a.json"
     },
     {
       "id": "72458813ab688e266a733c5fb17a5946f62c5cb27987366eb7a254ad29c53015",
