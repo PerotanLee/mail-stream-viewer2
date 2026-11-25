@@ -1,19 +1,19 @@
 {
   "ok": false,
   "running": true,
-  "step": "本文取得 num=18817 from=Seeking Alpha <subscriptions@seekingalpha.com>",
+  "step": "本文保存",
   "phase": "retr",
   "error": "",
   "traceback": "",
-  "updated_at": "2026-11-25T14:38:35.278032+00:00",
-  "added": 5,
+  "updated_at": "2026-11-25T14:38:36.435555+00:00",
+  "added": 6,
   "skipped": 10,
   "scanned": 16,
-  "current": "Seeking Alpha <subscriptions@seekingalpha.com>",
+  "current": "Save $239 on Premium + Alpha Picks",
   "added_by_filter": {
     "wsj": 2,
     "axios": 2,
-    "seekingalpha": 1
+    "seekingalpha": 2
   },
   "last_newest_num": 18805,
   "newest_num": 18832,
