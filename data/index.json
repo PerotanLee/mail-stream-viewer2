@@ -163,6 +163,15 @@
       "file": "91740202554baa420c19cd7ac8bf1ad7f58034cce15e408b8838cb87645643b9.json"
     },
     {
+      "id": "72458813ab688e266a733c5fb17a5946f62c5cb27987366eb7a254ad29c53015",
+      "uid": "427571.FKNbos4TdpKJnes,Bq3kozoSnR4Q3pDBHJQSmHvdjbs=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🔑 Axios Finish Line: Escape the doom loop",
+      "date": "Tue, 24 Nov 2026 21:29:24 -0500",
+      "is_read": false,
+      "file": "72458813ab688e266a733c5fb17a5946f62c5cb27987366eb7a254ad29c53015.json"
+    },
+    {
       "id": "193a42a1c3d1962c1e92bfe2d1f0fac2f9ed8e544dcb315fb495875ba09c1f8c",
       "uid": "427381.RdBrJ,tVbIey7wctS0Wdq,A+H3Yq2fifAjtB3tITd14=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -170,6 +179,33 @@
       "date": "Tue, 24 Nov 2026 19:09:46 +1100",
       "is_read": true,
       "file": "193a42a1c3d1962c1e92bfe2d1f0fac2f9ed8e544dcb315fb495875ba09c1f8c.json"
+    },
+    {
+      "id": "328c4eebdd5f1f7526e5a9874631af36743f61a912d6ee0f8ba2bd231d759a53",
+      "uid": "427512.Aa9BCqzBIOknf8oBWDQ7NYdrdqXCF7JzbMqK186sHGw=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🧩 The Nvidia overhang",
+      "date": "Tue, 24 Nov 2026 17:39:27 -0500",
+      "is_read": false,
+      "file": "328c4eebdd5f1f7526e5a9874631af36743f61a912d6ee0f8ba2bd231d759a53.json"
+    },
+    {
+      "id": "578d7ee582cc461b82cc956f1a800396611cc42fb84c83b24eb18bc2bb4cc6f5",
+      "uid": "427494.8mvoawCi4TPoCXai0aQ0KwMuXMcOm0u7fVbvNxqlOQ0=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "The Morning After",
+      "date": "Tue, 24 Nov 2026 16:35:04 -0500",
+      "is_read": false,
+      "file": "578d7ee582cc461b82cc956f1a800396611cc42fb84c83b24eb18bc2bb4cc6f5.json"
+    },
+    {
+      "id": "86fa8504afed0a53c139ca1607648a1885fd5458e192ce11167d19efb8b48f00",
+      "uid": "427488.cY33aZMro2e20c+azNpf0gM9vwxg6fBWN2gs0pwiEyQ=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Rocket Lab: The Next SpaceX",
+      "date": "Tue, 24 Nov 2026 16:06:59 -0500",
+      "is_read": false,
+      "file": "86fa8504afed0a53c139ca1607648a1885fd5458e192ce11167d19efb8b48f00.json"
     },
     {
       "id": "071ab29cd68d76852a3b3a4f01594ae6ba06c6c74fa94f550306052edd95fa5f",
@@ -305,51 +341,6 @@
       "date": "Tue, 24 Nov 2026 06:04:08 -0500",
       "is_read": true,
       "file": "1047e35cfdb1eef2e0ab4a85d6b107207b5cd0c0006fb14cc38effc47bbefb7c.json"
-    },
-    {
-      "id": "dc0676e6589d030c4d35f307e7b3af9960104ff145009c032c6f60946d72ab4a",
-      "uid": "425843.rlGeEOyeqEmIXEqLuU8OZYNyAh,Axd5NKw3JV7VvAWc=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🍁 Axios Finish Line: Thanksgiving gift",
-      "date": "Tue, 17 Nov 2026 21:29:30 -0500",
-      "is_read": true,
-      "file": "dc0676e6589d030c4d35f307e7b3af9960104ff145009c032c6f60946d72ab4a.json"
-    },
-    {
-      "id": "56a0f84384984b85577aa167d7a04b0fb13ca6743cf125303878cdb8cc6da20e",
-      "uid": "425788.4S5emIm7QOamf7A4ys6InZEnpCTOffobPuWEyGhBkWE=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🗣️ Nvidia speaks",
-      "date": "Tue, 17 Nov 2026 17:32:26 -0500",
-      "is_read": true,
-      "file": "56a0f84384984b85577aa167d7a04b0fb13ca6743cf125303878cdb8cc6da20e.json"
-    },
-    {
-      "id": "1329c96fbe8aad7001522f3d5e95fcaffab511a26838680c8bf8baf810bf6018",
-      "uid": "425786.RUJI+Dc1Y4CX26IqJtplyQhY8NLV2UaicdsUXrGa,ew=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: Ken Griffin Sells New York City Duplex to Woody Johnson for $58 Million",
-      "date": "Tue, 17 Nov 2026 17:20:58 -0500",
-      "is_read": false,
-      "file": "1329c96fbe8aad7001522f3d5e95fcaffab511a26838680c8bf8baf810bf6018.json"
-    },
-    {
-      "id": "9114b6aef525a5abf231d35d9fbb196868f83c9114be642fadd25ec2e9d80299",
-      "uid": "425777.32N+1sFtWPkZ65j3qjQrS7KoADZVs7HgqHK7aROXJoc=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Slower Retail Sales Drag on Market",
-      "date": "Tue, 17 Nov 2026 16:50:37 -0500",
-      "is_read": true,
-      "file": "9114b6aef525a5abf231d35d9fbb196868f83c9114be642fadd25ec2e9d80299.json"
-    },
-    {
-      "id": "d12eaa382c5e45e2d872a3587b985d1ce52017bbb2b285793793bb9397331bba",
-      "uid": "425768.qkK4i1qePg2EFOc1lpTjZzYmwZzkDNpGGtVCfGl5Ccw=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Nvidia: Buying Before The Dust Settles And Selling After (Rating Upgrade)",
-      "date": "Tue, 17 Nov 2026 16:06:31 -0500",
-      "is_read": false,
-      "file": "d12eaa382c5e45e2d872a3587b985d1ce52017bbb2b285793793bb9397331bba.json"
     },
     {
       "id": "7aed1b797af05afddcc46993d993c17e1b3a4602b7e6b44baab5aa5d5d526992",
