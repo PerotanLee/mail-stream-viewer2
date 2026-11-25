@@ -195,7 +195,7 @@
       "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
       "subject": "The Morning After",
       "date": "Tue, 24 Nov 2026 16:35:04 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "578d7ee582cc461b82cc956f1a800396611cc42fb84c83b24eb18bc2bb4cc6f5.json"
     },
     {
