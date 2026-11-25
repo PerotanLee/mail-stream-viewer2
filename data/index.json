@@ -10,6 +10,15 @@
       "file": "a711ef95e15962345b9014d0ac35a1e2dfb72b5fc68ff17d96109282d7d08ee3.json"
     },
     {
+      "id": "333ece3e3485e82871bd03b4e0e5377c3afd3ba8383473f2db41d63047f252b1",
+      "uid": "427766.sktMJGoLa2Xa5X0FGd2gNeHcEy,aztJ1SEkZKd,e5RI=",
+      "from_addr": "Axios Macro <macro@axios.com>",
+      "subject": "🏎️ All cylinders",
+      "date": "Wed, 25 Nov 2026 11:58:18 -0500",
+      "is_read": false,
+      "file": "333ece3e3485e82871bd03b4e0e5377c3afd3ba8383473f2db41d63047f252b1.json"
+    },
+    {
       "id": "1e5f83927ffd83968eecdc6c8fc90a6dec4b8b064e529a07a19a6bdb3dabf6c3",
       "uid": "427757.50rPAf5lAkQPqz7UCmAYHR,kvTRmoZsc604NvwSeUDU=",
       "from_addr": "Dan Primack <dan@axios.com>",
@@ -152,15 +161,6 @@
       "date": "Wed, 18 Nov 2026 15:47:20 -0500",
       "is_read": true,
       "file": "136e96662ef50ebd70dbb5a97d80ba00ce81e2bbea08e0a8d26e8b0ea058d44a.json"
-    },
-    {
-      "id": "f5234285957b767fec6ff045dcf5704ca539785a5986c12fbaadb8fff978ec22",
-      "uid": "426042.FHI0BerJ6KaCbOrlRcGI,UFcOL6lStPee4yEv7xAPtY=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🔎 Fed in focus",
-      "date": "Wed, 18 Nov 2026 11:58:58 -0500",
-      "is_read": true,
-      "file": "f5234285957b767fec6ff045dcf5704ca539785a5986c12fbaadb8fff978ec22.json"
     },
     {
       "id": "72458813ab688e266a733c5fb17a5946f62c5cb27987366eb7a254ad29c53015",
