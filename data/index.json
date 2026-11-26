@@ -339,7 +339,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🎮 Axios PM: The GTA bump",
       "date": "Thu, 26 Nov 2026 14:30:52 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "e1442e2de7cfb3e2223140e85fcda71ffda238796654feeb9972cab7977cf4c9.json"
     },
     {
