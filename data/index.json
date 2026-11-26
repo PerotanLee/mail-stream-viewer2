@@ -334,6 +334,15 @@
       "file": "1047e35cfdb1eef2e0ab4a85d6b107207b5cd0c0006fb14cc38effc47bbefb7c.json"
     },
     {
+      "id": "b61d60a6b4a2cea33228d096fd31512f8a80853ee5df6a45c2d197c879863fc2",
+      "uid": "428060.N8qRLcaytbQI20m+48K1Wn0KigbQ6syprEyR5B70YkU=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "1 REIT I Would Hold Forever And 1 I Would Never Touch Again",
+      "date": "Thu, 26 Nov 2026 16:06:47 -0500",
+      "is_read": false,
+      "file": "b61d60a6b4a2cea33228d096fd31512f8a80853ee5df6a45c2d197c879863fc2.json"
+    },
+    {
       "id": "e1442e2de7cfb3e2223140e85fcda71ffda238796654feeb9972cab7977cf4c9",
       "uid": "428048.RhrPP+00VxVDg9bbEDrTGlBJYZ3TzuDem2vTmzIRYic=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -377,24 +386,6 @@
       "date": "Thu, 19 Nov 2026 17:46:19 -0500",
       "is_read": true,
       "file": "2271819679f2cc8da81d0420b8bd5ec828bc28cd68aa52fbd77fe5f46fbf69b0.json"
-    },
-    {
-      "id": "c1ecc6091bdf1abf5c62919355514de66ceaefa26786c4d797e3a4cd3739c4e6",
-      "uid": "426373.v0kiGvCuO+oYQVg94zp05CFJQwN+08H,057MqfhkxWI=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Two Big Debuts Fail To Boost Stocks",
-      "date": "Thu, 19 Nov 2026 16:46:14 -0500",
-      "is_read": true,
-      "file": "c1ecc6091bdf1abf5c62919355514de66ceaefa26786c4d797e3a4cd3739c4e6.json"
-    },
-    {
-      "id": "3ffd85e8d8e824b8911267b4ad292ede42f534d4038477f147eb319b6e2e8b84",
-      "uid": "426364.EP6g6qnbOtWwMyQjcbIa3D05fdUMQ0CfzApLxpQ0FfE=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Nvidia: The CEO Is Gone, The Earnings Engine Isn't (Strong Buy) (Rating Upgrade)",
-      "date": "Thu, 19 Nov 2026 16:06:48 -0500",
-      "is_read": false,
-      "file": "3ffd85e8d8e824b8911267b4ad292ede42f534d4038477f147eb319b6e2e8b84.json"
     },
     {
       "id": "413314b0419aca6fd84b30c6bb3982331eeea1caca99e580fe5993558eca1068",
