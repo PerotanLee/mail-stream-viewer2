@@ -334,6 +334,15 @@
       "file": "1047e35cfdb1eef2e0ab4a85d6b107207b5cd0c0006fb14cc38effc47bbefb7c.json"
     },
     {
+      "id": "e1442e2de7cfb3e2223140e85fcda71ffda238796654feeb9972cab7977cf4c9",
+      "uid": "428048.RhrPP+00VxVDg9bbEDrTGlBJYZ3TzuDem2vTmzIRYic=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🎮 Axios PM: The GTA bump",
+      "date": "Thu, 26 Nov 2026 14:30:52 -0500",
+      "is_read": false,
+      "file": "e1442e2de7cfb3e2223140e85fcda71ffda238796654feeb9972cab7977cf4c9.json"
+    },
+    {
       "id": "b69ce9cb8473f112a427150f6c827ddb0ba0e1281d6ec78416ea542fc959a11a",
       "uid": "427958.7B+1cLxFR37LYMX9,a,lRWTza,+UJXewUmmJpq5xL9o=",
       "from_addr": "The Wall Street Journal <WallStreetJournal@em.wsj.com>",
@@ -386,15 +395,6 @@
       "date": "Thu, 19 Nov 2026 16:06:48 -0500",
       "is_read": false,
       "file": "3ffd85e8d8e824b8911267b4ad292ede42f534d4038477f147eb319b6e2e8b84.json"
-    },
-    {
-      "id": "56b4af08bce69795cbf660e0954beeb541f2db4b7b8f5e0d3eb60dd33d87e9bf",
-      "uid": "426354.7naRUY2S8uXDVwuafx5a4q7JQlmrQ8iCey8rHxoWS1Y=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "💰 Axios PM: Biggest IPO ever",
-      "date": "Thu, 19 Nov 2026 15:10:39 -0500",
-      "is_read": true,
-      "file": "56b4af08bce69795cbf660e0954beeb541f2db4b7b8f5e0d3eb60dd33d87e9bf.json"
     },
     {
       "id": "413314b0419aca6fd84b30c6bb3982331eeea1caca99e580fe5993558eca1068",
