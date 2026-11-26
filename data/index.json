@@ -343,6 +343,15 @@
       "file": "b69ce9cb8473f112a427150f6c827ddb0ba0e1281d6ec78416ea542fc959a11a.json"
     },
     {
+      "id": "7e12cad7df600b2f4f3c3fc8fbcf59eaee387bdbd89771e16e31435ffdb72949",
+      "uid": "428031.3hXSkvE7kuPmBh8IP5W0MqfcvDVrEKB57vF0oAHhLTA=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🦃 Axios AM: Grateful for growth",
+      "date": "Thu, 26 Nov 2026 07:50:07 -0500",
+      "is_read": false,
+      "file": "7e12cad7df600b2f4f3c3fc8fbcf59eaee387bdbd89771e16e31435ffdb72949.json"
+    },
+    {
       "id": "7aed1b797af05afddcc46993d993c17e1b3a4602b7e6b44baab5aa5d5d526992",
       "uid": "426449.,jLUD9GGuRwsAimBaz7nPLWx3ZChHvE,Xlbnfayzqgo=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -386,123 +395,6 @@
       "date": "Thu, 19 Nov 2026 15:10:39 -0500",
       "is_read": true,
       "file": "56b4af08bce69795cbf660e0954beeb541f2db4b7b8f5e0d3eb60dd33d87e9bf.json"
-    },
-    {
-      "id": "4ac35dd6add26578c536ed05404b71be1a0e52ac861072b98e278eb3e61a12ae",
-      "uid": "426347.9Lf9VuV,drCqCSwL5ARvLQo7AmB1YvDaCaDf8y6+CMc=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "🏗️ America's building moment",
-      "date": "Thu, 19 Nov 2026 11:59:22 -0500",
-      "is_read": true,
-      "file": "4ac35dd6add26578c536ed05404b71be1a0e52ac861072b98e278eb3e61a12ae.json"
-    },
-    {
-      "id": "16a6a7a473bf92a5b1bde2a5a23290b5c428c8ddbfe58a25e49eb4f03bd0b234",
-      "uid": "426340.tys8L8XHZWmoaqiNcL7qki3kmLckdIM2saL4NsNKIPw=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: Claude crushes it",
-      "date": "Thu, 19 Nov 2026 09:59:25 -0500",
-      "is_read": true,
-      "file": "16a6a7a473bf92a5b1bde2a5a23290b5c428c8ddbfe58a25e49eb4f03bd0b234.json"
-    },
-    {
-      "id": "b70eda6a2a5d598ea180b598b1c78247a07c1f4408c73f232f35f8d50609cdc1",
-      "uid": "426338.zXO886PYXngMvMPNXHXZcWycHvGM7ytCmiQS+0enotU=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🚀 Trillion-dollar debut",
-      "date": "Thu, 19 Nov 2026 09:28:54 -0500",
-      "is_read": true,
-      "file": "b70eda6a2a5d598ea180b598b1c78247a07c1f4408c73f232f35f8d50609cdc1.json"
-    },
-    {
-      "id": "3d8623babed603ea528d983282ba09f3cc3cf47071abecdff92265cbfa1ef8f9",
-      "uid": "426327.aoya,kfiCsfUr9ph8d8fRzN3HNCqZ8ceZAAjTTndGLs=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Claude Prompts The Biggest Debut Ever",
-      "date": "Thu, 19 Nov 2026 08:00:10 -0500",
-      "is_read": true,
-      "file": "3d8623babed603ea528d983282ba09f3cc3cf47071abecdff92265cbfa1ef8f9.json"
-    },
-    {
-      "id": "80fec28b3767e98408eecf80b3ca22ece46c6e121730d635cc528b3bb2939845",
-      "uid": "426323.,6nkZz5CgHdgDkr3Pl6+3x2JG6AW13zDZrzsqOEDO+Y=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🥩 Big Tech's stake in ANT",
-      "date": "Thu, 19 Nov 2026 07:28:32 -0500",
-      "is_read": true,
-      "file": "80fec28b3767e98408eecf80b3ca22ece46c6e121730d635cc528b3bb2939845.json"
-    },
-    {
-      "id": "3695a83e3704094486a8bd60b905e1f15470f487b36fe4c79d2b98c6d09b5c33",
-      "uid": "426320.LXPBh0LYTx9z1evy+SKnTKbQJdd3hLS9imysDjB,5Hs=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Trump Sees New World Order, But Strains Only Worsen",
-      "date": "Thu, 19 Nov 2026 07:10:47 -0500",
-      "is_read": true,
-      "file": "3695a83e3704094486a8bd60b905e1f15470f487b36fe4c79d2b98c6d09b5c33.json"
-    },
-    {
-      "id": "851f0657dea25b8207113dd5f8ccc2ce7e11a507395c061f3204fc9e7d04e55a",
-      "uid": "426313.gAp0ucKHKsmsRqRD7etjvGblzu1kOpubF3ocfYm1As8=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "Black Friday: 20% off Premium",
-      "date": "Thu, 19 Nov 2026 06:48:27 -0500",
-      "is_read": true,
-      "file": "851f0657dea25b8207113dd5f8ccc2ce7e11a507395c061f3204fc9e7d04e55a.json"
-    },
-    {
-      "id": "21a25963ed7a392ef487425342b3d16e9f9d32c3011ee9b4b9dcdaa391a4a93e",
-      "uid": "426308.Kx6you6F1usU6kKW0K5WAJMyaOl3sgviXMo+SG+J8nQ=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "How Everyday Investors Manage Their Stakes in Nvidia",
-      "date": "Thu, 19 Nov 2026 06:39:47 -0500",
-      "is_read": true,
-      "file": "21a25963ed7a392ef487425342b3d16e9f9d32c3011ee9b4b9dcdaa391a4a93e.json"
-    },
-    {
-      "id": "151c15b621c5d38c78cf5274de2e1b08c1eda9a41e947ca8226c6f5372904175",
-      "uid": "426307.IHSHkx4DgT8CaN0SI2pqSjfowUko0,bZX4hU9GwHt1k=",
-      "from_addr": "\"WSJ Markets A.M.\" <access@interactive.wsj.com>",
-      "subject": "💸 Calm Amid the AI Storm",
-      "date": "Thu, 19 Nov 2026 06:36:12 -0500",
-      "is_read": true,
-      "file": "151c15b621c5d38c78cf5274de2e1b08c1eda9a41e947ca8226c6f5372904175.json"
-    },
-    {
-      "id": "f2de369f784b705b31e1b3eb7cf2a0603613d7266cac787840e2993d462b8ae6",
-      "uid": "426303.ZgPkSlTQjr7+gNfAAaQDlqG7s1tuE1tcrX5,q73OgZ4=",
-      "from_addr": "Axios Defense <defense@axios.com>",
-      "subject": "🚀  Launch crunch looms",
-      "date": "Thu, 19 Nov 2026 06:30:37 -0500",
-      "is_read": true,
-      "file": "f2de369f784b705b31e1b3eb7cf2a0603613d7266cac787840e2993d462b8ae6.json"
-    },
-    {
-      "id": "243a839e22bde1b5aac0b882cdfffa4ae02d9b26326160e927df31e52794d0db",
-      "uid": "426302.iA5MRkWNiSHKjLiAbrCOiICuRcSTsfZTelZOJDO,hwE=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "⚡ Axios AM: AI's great divergence",
-      "date": "Thu, 19 Nov 2026 06:24:25 -0500",
-      "is_read": true,
-      "file": "243a839e22bde1b5aac0b882cdfffa4ae02d9b26326160e927df31e52794d0db.json"
-    },
-    {
-      "id": "42167c86d9519e4e6414db18695042ba9430a09ba29b75da0edf4e1c96bca78e",
-      "uid": "426298.6iVm3DpATRUSF7KEtGm21SgrlgpHl4o6vI5Eea7jdos=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Wall Street’s $500 Billion Pledge to Nvidia Hasn’t Materialized",
-      "date": "Thu, 19 Nov 2026 06:17:11 -0500",
-      "is_read": true,
-      "file": "42167c86d9519e4e6414db18695042ba9430a09ba29b75da0edf4e1c96bca78e.json"
-    },
-    {
-      "id": "efa6295c1ef09b356c56f83b9a2718f7580d0ff1163732b40397d7ad6a2ca4eb",
-      "uid": "426293.,NmO4wVI5XXfUiZN5O+ziIYpGL+XL,thARRU2YAISxY=",
-      "from_addr": "\"Greg Ip, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Economics: How Techruptions May Shape the Economy",
-      "date": "Thu, 19 Nov 2026 06:03:15 -0500",
-      "is_read": true,
-      "file": "efa6295c1ef09b356c56f83b9a2718f7580d0ff1163732b40397d7ad6a2ca4eb.json"
     },
     {
       "id": "413314b0419aca6fd84b30c6bb3982331eeea1caca99e580fe5993558eca1068",
