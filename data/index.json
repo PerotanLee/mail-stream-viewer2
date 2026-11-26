@@ -339,7 +339,7 @@
       "from_addr": "The Wall Street Journal <WallStreetJournal@em.wsj.com>",
       "subject": "Invest Smarter With the WSJ App",
       "date": "Thu, 26 Nov 2026 08:30:05 +0000",
-      "is_read": false,
+      "is_read": true,
       "file": "b69ce9cb8473f112a427150f6c827ddb0ba0e1281d6ec78416ea542fc959a11a.json"
     },
     {
