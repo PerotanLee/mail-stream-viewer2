@@ -334,6 +334,15 @@
       "file": "1047e35cfdb1eef2e0ab4a85d6b107207b5cd0c0006fb14cc38effc47bbefb7c.json"
     },
     {
+      "id": "b69ce9cb8473f112a427150f6c827ddb0ba0e1281d6ec78416ea542fc959a11a",
+      "uid": "427958.7B+1cLxFR37LYMX9,a,lRWTza,+UJXewUmmJpq5xL9o=",
+      "from_addr": "The Wall Street Journal <WallStreetJournal@em.wsj.com>",
+      "subject": "Invest Smarter With the WSJ App",
+      "date": "Thu, 26 Nov 2026 08:30:05 +0000",
+      "is_read": false,
+      "file": "b69ce9cb8473f112a427150f6c827ddb0ba0e1281d6ec78416ea542fc959a11a.json"
+    },
+    {
       "id": "7aed1b797af05afddcc46993d993c17e1b3a4602b7e6b44baab5aa5d5d526992",
       "uid": "426449.,jLUD9GGuRwsAimBaz7nPLWx3ZChHvE,Xlbnfayzqgo=",
       "from_addr": "Mike Allen <mike@axios.com>",
@@ -341,15 +350,6 @@
       "date": "Thu, 19 Nov 2026 21:29:24 -0500",
       "is_read": true,
       "file": "7aed1b797af05afddcc46993d993c17e1b3a4602b7e6b44baab5aa5d5d526992.json"
-    },
-    {
-      "id": "ed85bea0768f8b7960841e20d9655c60a9c9790add146052fd380186f2d0ab49",
-      "uid": "426244.nAfiL972RZ116S+Q55GyDtZFmr4j15qT224FtEH5pj4=",
-      "from_addr": "WSJ Editors <access@interactive.wsj.com>",
-      "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Thu, 19 Nov 2026 19:09:47 +1100",
-      "is_read": true,
-      "file": "ed85bea0768f8b7960841e20d9655c60a9c9790add146052fd380186f2d0ab49.json"
     },
     {
       "id": "2271819679f2cc8da81d0420b8bd5ec828bc28cd68aa52fbd77fe5f46fbf69b0",
