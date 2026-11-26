@@ -1,6 +1,15 @@
 {
   "emails": [
     {
+      "id": "9c822cffb48f3b346c5054a16c9547e3c1579a6ec30a05f0bb188cd2dac00e4a",
+      "uid": "427864.,iwbxKfcCJ0N1yT+WN4GDx0vlJU3+qYG1P5DNQ3m0uI=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🎸 Axios Finish Line: Fan letters",
+      "date": "Wed, 25 Nov 2026 21:29:28 -0500",
+      "is_read": false,
+      "file": "9c822cffb48f3b346c5054a16c9547e3c1579a6ec30a05f0bb188cd2dac00e4a.json"
+    },
+    {
       "id": "a711ef95e15962345b9014d0ac35a1e2dfb72b5fc68ff17d96109282d7d08ee3",
       "uid": "427672.YbajCUdVt5SitDL1sY8i21NlsB4MvNSRA+jKseSAP4s=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
@@ -8,6 +17,33 @@
       "date": "Wed, 25 Nov 2026 19:09:46 +1100",
       "is_read": true,
       "file": "a711ef95e15962345b9014d0ac35a1e2dfb72b5fc68ff17d96109282d7d08ee3.json"
+    },
+    {
+      "id": "85c95d90e1b80f4e88a4bb2c2d2e3404c3ed7e22f677a6eb3f6a841539781cf3",
+      "uid": "427806.Cx1F21Xmj4hPbu,4EBMss82ZOTiN2lz94GQ,f5d,Brw=",
+      "from_addr": "Axios Closer <closer@axios.com>",
+      "subject": "🦃 Tech turkeys",
+      "date": "Wed, 25 Nov 2026 17:25:55 -0500",
+      "is_read": false,
+      "file": "85c95d90e1b80f4e88a4bb2c2d2e3404c3ed7e22f677a6eb3f6a841539781cf3.json"
+    },
+    {
+      "id": "9db7183200d5cd899c9592cbfa91b6589f9d19d2d9feacdd99678acc64d44793",
+      "uid": "427790.SBXZ1rgs1P4M4G6D0s6qPfKcFmEBeQtP0v5gUVmQJ9s=",
+      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
+      "subject": "Midday Bounce",
+      "date": "Wed, 25 Nov 2026 16:25:42 -0500",
+      "is_read": false,
+      "file": "9db7183200d5cd899c9592cbfa91b6589f9d19d2d9feacdd99678acc64d44793.json"
+    },
+    {
+      "id": "15e14d9fade9d1b51d8bf7ec5a67efa6818f8aa7b42f16cb62aa1e54d2b2dc26",
+      "uid": "427785.WxiIL6t7wh+ujN5f1isGGE5eJYedE9l6ojEPVTvuMhE=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Don't Be A Hero: The Wrong Way To Buy The Tech Dip",
+      "date": "Wed, 25 Nov 2026 16:06:40 -0500",
+      "is_read": false,
+      "file": "15e14d9fade9d1b51d8bf7ec5a67efa6818f8aa7b42f16cb62aa1e54d2b2dc26.json"
     },
     {
       "id": "7c622a8850ac3a7bedbb1125addaeef23d5bb15d0ffcfb2a5847cb3f0783506e",
@@ -116,51 +152,6 @@
       "date": "Wed, 25 Nov 2026 05:50:45 -0500",
       "is_read": true,
       "file": "217236c75c04ad2cb72c3992bc30f69d98c56f850cbd9c0abfa3319f197b6e9b.json"
-    },
-    {
-      "id": "1f149ee756367c17fa46cf29a26d1ace5b70161194b95f3a2c272c11d7aa90ea",
-      "uid": "426144.J2oow5WnGMedSONN+CpNYDgtsfhR4slem4mx8+hQuxo=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "⏰ Axios Finish Line: Outsmart your clock",
-      "date": "Wed, 18 Nov 2026 21:29:38 -0500",
-      "is_read": true,
-      "file": "1f149ee756367c17fa46cf29a26d1ace5b70161194b95f3a2c272c11d7aa90ea.json"
-    },
-    {
-      "id": "00e044f80d4c72325aa9986f2f5300bc1d5795f314e2be9064fdc59542ba4f6d",
-      "uid": "426123.gs,Vv3OTKFyAltXgE5oMBx2aafYDr,z388lN+sWsZVM=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Elon Musk Says ‘I’m Not MAGA’ and Feels Foolish About Midterms Spending",
-      "date": "Wed, 18 Nov 2026 20:23:20 -0500",
-      "is_read": true,
-      "file": "00e044f80d4c72325aa9986f2f5300bc1d5795f314e2be9064fdc59542ba4f6d.json"
-    },
-    {
-      "id": "7ca152514c34f485ed7db2876890811fd4ab43a503e23eded5c3e23de5f15294",
-      "uid": "426080.5TM4sThVDLkZeaTybrjWZAg6vSWyq0fqSXkc5Z3bBJg=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "🤖 ANT marching at $83",
-      "date": "Wed, 18 Nov 2026 17:44:14 -0500",
-      "is_read": true,
-      "file": "7ca152514c34f485ed7db2876890811fd4ab43a503e23eded5c3e23de5f15294.json"
-    },
-    {
-      "id": "d9c97824d310b84caf01b86640b01cd9e4b5364a5af33980725047c420416d57",
-      "uid": "426065.JAoPB8osEVK6ssAAEeTQojwt0x0d7EYDxKIWoIHRReE=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Tech Stocks Boosted By Cybersecurity Rally",
-      "date": "Wed, 18 Nov 2026 16:42:14 -0500",
-      "is_read": true,
-      "file": "d9c97824d310b84caf01b86640b01cd9e4b5364a5af33980725047c420416d57.json"
-    },
-    {
-      "id": "8d16225dbb680918cce3a3d47214dfd16fb9ef9dcad20a0fc7e9677ee0c76655",
-      "uid": "426056.lpJq2tkYPxG61oXZBvLLeyIMYwJb,1BlexAtHdLfqPs=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "The Power Of Compounding: 2 Stocks To Build Wealth For Decades",
-      "date": "Wed, 18 Nov 2026 16:06:35 -0500",
-      "is_read": false,
-      "file": "8d16225dbb680918cce3a3d47214dfd16fb9ef9dcad20a0fc7e9677ee0c76655.json"
     },
     {
       "id": "72458813ab688e266a733c5fb17a5946f62c5cb27987366eb7a254ad29c53015",
