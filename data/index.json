@@ -645,7 +645,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🥒 Axios AM: 2028 pickle",
       "date": "Fri, 27 Nov 2026 07:18:49 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "00140438ea1230792351f5691bcbec34ece87299435507d9ed00c6eb9a3f0c86.json"
     },
     {
