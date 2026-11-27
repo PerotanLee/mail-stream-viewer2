@@ -622,13 +622,49 @@
       "file": "79903885eddd6458c8a36df79892d402b7713c8211ad5d30bccdadc9b13763c3.json"
     },
     {
-      "id": "1e0eaf8127ec78e838d51a443b1cb2ffc3dc20539615da3393937ce4b9c7b0de",
-      "uid": "426561.tpCayWRXuT0VF8X5wqErBHC2cCn4zOXreDlRVODB82Q=",
+      "id": "03086d964e82fc7409b86ead1cbf8948e51d8740f849edb82b68d88c759682db",
+      "uid": "428252.v83MwqjaCbPJK7OIShJXjRKdqa5DcoJSmY,Z9O0vbx8=",
       "from_addr": "WSJ Editors <access@interactive.wsj.com>",
       "subject": "Today's Wall Street Journal Print Edition",
-      "date": "Fri, 20 Nov 2026 19:09:46 +1100",
-      "is_read": true,
-      "file": "1e0eaf8127ec78e838d51a443b1cb2ffc3dc20539615da3393937ce4b9c7b0de.json"
+      "date": "Fri, 27 Nov 2026 19:09:46 +1100",
+      "is_read": false,
+      "file": "03086d964e82fc7409b86ead1cbf8948e51d8740f849edb82b68d88c759682db.json"
+    },
+    {
+      "id": "95d2c0019c05382c5698030057d515bebbce0644e2a23a5cbebb79a397185524",
+      "uid": "428334.iv2SZi9qcgCOcLSkAyJa5yfy+ne0hvZzwWz,,hOws24=",
+      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
+      "subject": "Black Friday Resilience Meets Defensive Market Rotation",
+      "date": "Fri, 27 Nov 2026 07:26:06 -0500",
+      "is_read": false,
+      "file": "95d2c0019c05382c5698030057d515bebbce0644e2a23a5cbebb79a397185524.json"
+    },
+    {
+      "id": "00140438ea1230792351f5691bcbec34ece87299435507d9ed00c6eb9a3f0c86",
+      "uid": "428332.TKr8Ihp7gwX6,HzXWiOhHFaPKTqqqPD,lzTp+CZmer0=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🥒 Axios AM: 2028 pickle",
+      "date": "Fri, 27 Nov 2026 07:18:49 -0500",
+      "is_read": false,
+      "file": "00140438ea1230792351f5691bcbec34ece87299435507d9ed00c6eb9a3f0c86.json"
+    },
+    {
+      "id": "3bed3ab326c304101a18650faf98a7f43e2157a13dd0c871e236f50d9d17db20",
+      "uid": "428326.4,V8WY,BROu5MgTuhCk5ChIUN5XEmAB,WoDeTVPvmt8=",
+      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
+      "subject": "🟠 Take 20% off sitewide",
+      "date": "Fri, 27 Nov 2026 06:39:11 -0500",
+      "is_read": false,
+      "file": "3bed3ab326c304101a18650faf98a7f43e2157a13dd0c871e236f50d9d17db20.json"
+    },
+    {
+      "id": "3abd55639cdfb976e0e571a62508f19ea74216490b2864d1236ac04ab287780c",
+      "uid": "428297.or7ttMzg1PrTxyKHqEGRyI7Ryyd,7kOi7fyoqOUymRA=",
+      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
+      "subject": "Investment News Quiz - Friday, Nov. 27",
+      "date": "Fri, 27 Nov 2026 05:03:43 -0500",
+      "is_read": false,
+      "file": "3abd55639cdfb976e0e571a62508f19ea74216490b2864d1236ac04ab287780c.json"
     },
     {
       "id": "5c125e985645d8b5491c800fd27b4e9701c4f964e0d3056303136126ec571c74",
@@ -674,132 +710,6 @@
       "date": "Fri, 20 Nov 2026 15:00:53 -0500",
       "is_read": true,
       "file": "244b8ae264786f2a78adaf7c48799ba588759feae334f00c9b7aa34ccbc4b1cd.json"
-    },
-    {
-      "id": "a3c477fc1c1ee95b1bf81abce1e0132bee8bcc4eecdd4be41b857c7bdb705549",
-      "uid": "426680.XC4RGtJH6W,NrS6IZwbUxoqopcG4ManXdrdi8abEFBk=",
-      "from_addr": "Axios Macro <macro@axios.com>",
-      "subject": "💸 AI fortunes in flux",
-      "date": "Fri, 20 Nov 2026 11:58:20 -0500",
-      "is_read": true,
-      "file": "a3c477fc1c1ee95b1bf81abce1e0132bee8bcc4eecdd4be41b857c7bdb705549.json"
-    },
-    {
-      "id": "2c6d7ea5708ac05ae7c3ee333621832e66acdc9dc083ec99ff337249aceb354d",
-      "uid": "426679.cBW8X0uYMN6ojFtwIpwfXwSY,Z4WVCNgA+0lbTlvxHI=",
-      "from_addr": "\"The Wall Street Journal.\" <access@interactive.wsj.com>",
-      "subject": "Mansion Deals Alert: A Miami Honeymoon Inspired One Couple to Build a Candy-Colored Home in London",
-      "date": "Fri, 20 Nov 2026 11:50:58 -0500",
-      "is_read": false,
-      "file": "2c6d7ea5708ac05ae7c3ee333621832e66acdc9dc083ec99ff337249aceb354d.json"
-    },
-    {
-      "id": "abcfde290e594622a00c1725bab4cb3a9e2b6d3c2d398abfd27e9820dfa8e2f3",
-      "uid": "426670.c2zOb5PoEPyC,WLYdT1PxlPvTC84JMyBgCArhifM57M=",
-      "from_addr": "Dan Primack <dan@axios.com>",
-      "subject": "Axios Pro Rata: ANT march",
-      "date": "Fri, 20 Nov 2026 10:00:02 -0500",
-      "is_read": true,
-      "file": "abcfde290e594622a00c1725bab4cb3a9e2b6d3c2d398abfd27e9820dfa8e2f3.json"
-    },
-    {
-      "id": "a173b6b7a0c60c1dc69b365f5715cf02834df97c952bec142e8ce8d19ec5c6f2",
-      "uid": "426664.GEnxtUH7B3PbBjq7jhFTE6ADWSQOWkSEZpwYcBSZpPY=",
-      "from_addr": "Axios AI+ <ai.plus@axios.com>",
-      "subject": "🎢 Anthropic's wild ride",
-      "date": "Fri, 20 Nov 2026 09:28:18 -0500",
-      "is_read": true,
-      "file": "a173b6b7a0c60c1dc69b365f5715cf02834df97c952bec142e8ce8d19ec5c6f2.json"
-    },
-    {
-      "id": "75688e497ac7ca2d862896ad7f5646862421307b63ab256dd33e47b4750ffb91",
-      "uid": "426660.OH7H1UIuR,UOWNvumdHgnvV2VLbggofrG5XTo1hw8Mo=",
-      "from_addr": "\"Dawn Gilbertson, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Travel: Chasing Airline Status 🎩",
-      "date": "Fri, 20 Nov 2026 08:31:06 -0500",
-      "is_read": true,
-      "file": "75688e497ac7ca2d862896ad7f5646862421307b63ab256dd33e47b4750ffb91.json"
-    },
-    {
-      "id": "b0d952d760c645dfc7b5dcc03b99020d0b4806fafd9b0406fd5f0320a191b770",
-      "uid": "426655.RiedCGAUBAqig18IqwxVZoyJOUnfiDdIhWb2tNDrWCM=",
-      "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
-      "subject": "Nasdaq Claims The Year Of The Mega-IPO",
-      "date": "Fri, 20 Nov 2026 07:54:54 -0500",
-      "is_read": true,
-      "file": "b0d952d760c645dfc7b5dcc03b99020d0b4806fafd9b0406fd5f0320a191b770.json"
-    },
-    {
-      "id": "6d69451bffaac9e5bbb84123fadc1c9088608a09e6225b36687b1f25480a7f89",
-      "uid": "426653.o1oKXKNtq4zBZQRJ2wnMIs5gextIOTRgCu+WoIUvHhk=",
-      "from_addr": "Axios Markets <markets@axios.com>",
-      "subject": "🤑 Banker payday!",
-      "date": "Fri, 20 Nov 2026 07:28:37 -0500",
-      "is_read": true,
-      "file": "6d69451bffaac9e5bbb84123fadc1c9088608a09e6225b36687b1f25480a7f89.json"
-    },
-    {
-      "id": "85a8099b52cd1ed5bfdd70fe471924520dc3a0f14c959e182c9050c859d03b9a",
-      "uid": "426652.ozjirvQ1tK12Oe4Y1yl8ImtU9RFfh8Pe9CGBVhpB3EY=",
-      "from_addr": "\"Damian Paletta, WSJ\" <access@interactive.wsj.com>",
-      "subject": "WSJ Politics: Trump Says Vance Erred in War Critique as Questions Swirl About VP",
-      "date": "Fri, 20 Nov 2026 07:08:51 -0500",
-      "is_read": true,
-      "file": "85a8099b52cd1ed5bfdd70fe471924520dc3a0f14c959e182c9050c859d03b9a.json"
-    },
-    {
-      "id": "a96803aef4b33a159d61b50115e13c5f2ae87bd514223525bd6ba4cb74dc95dc",
-      "uid": "426645.OwcvQqz8wxo7Fm,fRPXPcfVuwVKQO06xggUTOldY,EU=",
-      "from_addr": "Seeking Alpha <subscriptions@seekingalpha.com>",
-      "subject": "See what’s moving the markets this week",
-      "date": "Fri, 20 Nov 2026 06:42:48 -0500",
-      "is_read": true,
-      "file": "a96803aef4b33a159d61b50115e13c5f2ae87bd514223525bd6ba4cb74dc95dc.json"
-    },
-    {
-      "id": "f0d8d9c0d9b36f74f9a5a205eaa4b0046d671ec2e563dde993a9c6ef02de788c",
-      "uid": "426643.3vzfQjzjSipsiboACaky+dJV8wAPS2wuUxcGzKbMBBg=",
-      "from_addr": "WSJ Wealth Adviser Briefing <access@interactive.wsj.com>",
-      "subject": "Data Centers Are the Growth Engine of America’s Power Grid",
-      "date": "Fri, 20 Nov 2026 06:30:45 -0500",
-      "is_read": true,
-      "file": "f0d8d9c0d9b36f74f9a5a205eaa4b0046d671ec2e563dde993a9c6ef02de788c.json"
-    },
-    {
-      "id": "3461d5f59b9b59e98efed638b568f7bb8a085524ba6a9c4632571f3b3df01576",
-      "uid": "426641.Chm3mVy2LoNhyGrFQ9wc8XZRd+S1sNLjZBPQVLgZllg=",
-      "from_addr": "\"WSJ Markets A.M>\" <access@interactive.wsj.com>",
-      "subject": "📈 The Market’s Growth and Inflation Conundrum",
-      "date": "Fri, 20 Nov 2026 06:20:39 -0500",
-      "is_read": true,
-      "file": "3461d5f59b9b59e98efed638b568f7bb8a085524ba6a9c4632571f3b3df01576.json"
-    },
-    {
-      "id": "467f6dadca5720437c24f883f63379189dd65612e4a04ebf4336142cfab37d58",
-      "uid": "426639.PMf4l4zZJtsA,R3Yf+j,6E5J0H7XxOKaJDN80uR7LmY=",
-      "from_addr": "\"Emma Tucker, WSJ\" <access@interactive.wsj.com>",
-      "subject": "The 10-Point: Anthropic’s IPO Fails to Revive AI Trade",
-      "date": "Fri, 20 Nov 2026 06:16:52 -0500",
-      "is_read": true,
-      "file": "467f6dadca5720437c24f883f63379189dd65612e4a04ebf4336142cfab37d58.json"
-    },
-    {
-      "id": "42a149ae5ca2dc525900d5359cbc9876e6c90f98acb23d3cc9489ed5cd18480b",
-      "uid": "426636.hL0pZy37E6tWQJwfC99gW5zDUi,M7OTU1IR8ei+vdjA=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "🎮 Axios AM: GTA hijacks America",
-      "date": "Fri, 20 Nov 2026 06:04:15 -0500",
-      "is_read": true,
-      "file": "42a149ae5ca2dc525900d5359cbc9876e6c90f98acb23d3cc9489ed5cd18480b.json"
-    },
-    {
-      "id": "25b23506698fca115988d3fed8779dc024a55f50d31d6bb42c6e7746a364074c",
-      "uid": "426618.V5,RnnJ89gVxcw18Xeh0Q6ntrT5j7t9guburoFVBWjA=",
-      "from_addr": "Seeking Alpha Quiz <subscriptions@seekingalpha.com>",
-      "subject": "Investment News Quiz - Friday, Nov. 20",
-      "date": "Fri, 20 Nov 2026 05:04:57 -0500",
-      "is_read": false,
-      "file": "25b23506698fca115988d3fed8779dc024a55f50d31d6bb42c6e7746a364074c.json"
     }
   ]
 }
