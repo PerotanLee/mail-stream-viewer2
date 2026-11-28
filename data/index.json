@@ -645,7 +645,7 @@
       "from_addr": "Mike Allen <mike@axios.com>",
       "subject": "🏖️ Axios PM: New travel hot spots",
       "date": "Fri, 27 Nov 2026 14:30:49 -0500",
-      "is_read": false,
+      "is_read": true,
       "file": "09c94e3ff247c265ef6f63cc4c284fca348f0ee078ed2e241f318ce10860e23e.json"
     },
     {
