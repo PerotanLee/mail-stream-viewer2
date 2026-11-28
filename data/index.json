@@ -631,6 +631,24 @@
       "file": "03086d964e82fc7409b86ead1cbf8948e51d8740f849edb82b68d88c759682db.json"
     },
     {
+      "id": "d50ff1133ca64f3519b8241c3250269a3667b89c92f6d66b96f07223d1bd2440",
+      "uid": "428363.QpthjaKXGP2XJj9fNF8PsZtMbbPXRdmZ46u4NgiX+,U=",
+      "from_addr": "Must Reads <account@seekingalpha.com>",
+      "subject": "Micron: 3.9x Earnings Is Insane",
+      "date": "Fri, 27 Nov 2026 16:06:30 -0500",
+      "is_read": false,
+      "file": "d50ff1133ca64f3519b8241c3250269a3667b89c92f6d66b96f07223d1bd2440.json"
+    },
+    {
+      "id": "09c94e3ff247c265ef6f63cc4c284fca348f0ee078ed2e241f318ce10860e23e",
+      "uid": "428353.LKL8Rn3cgJ2h22goo3XbXWGpDzD7r76LjiiBq,uyy5k=",
+      "from_addr": "Mike Allen <mike@axios.com>",
+      "subject": "🏖️ Axios PM: New travel hot spots",
+      "date": "Fri, 27 Nov 2026 14:30:49 -0500",
+      "is_read": false,
+      "file": "09c94e3ff247c265ef6f63cc4c284fca348f0ee078ed2e241f318ce10860e23e.json"
+    },
+    {
       "id": "95d2c0019c05382c5698030057d515bebbce0644e2a23a5cbebb79a397185524",
       "uid": "428334.iv2SZi9qcgCOcLSkAyJa5yfy+ne0hvZzwWz,,hOws24=",
       "from_addr": "Wall Street Breakfast <account@seekingalpha.com>",
@@ -665,51 +683,6 @@
       "date": "Fri, 27 Nov 2026 05:03:43 -0500",
       "is_read": false,
       "file": "3abd55639cdfb976e0e571a62508f19ea74216490b2864d1236ac04ab287780c.json"
-    },
-    {
-      "id": "5c125e985645d8b5491c800fd27b4e9701c4f964e0d3056303136126ec571c74",
-      "uid": "426708.AQVkETC7uWSt5XIOTpEtQpg,aX7P7F0AnE5o8tLZ12c=",
-      "from_addr": "Axios Closer <closer@axios.com>",
-      "subject": "📉 AI bloodbath",
-      "date": "Fri, 20 Nov 2026 17:51:39 -0500",
-      "is_read": true,
-      "file": "5c125e985645d8b5491c800fd27b4e9701c4f964e0d3056303136126ec571c74.json"
-    },
-    {
-      "id": "32fa3f79b872339a94c89e4885853f2da5ac1023c518716dda597e03c998efbd",
-      "uid": "426700.pOnwjEQff612KFLDNwt+56074lE0ZZu,MLL19,BJKIQ=",
-      "from_addr": "\"WSJ Markets P.M.\" <access@interactive.wsj.com>",
-      "subject": "Nasdaq Turns Red For the Year",
-      "date": "Fri, 20 Nov 2026 16:53:58 -0500",
-      "is_read": true,
-      "file": "32fa3f79b872339a94c89e4885853f2da5ac1023c518716dda597e03c998efbd.json"
-    },
-    {
-      "id": "a6e77d261decc0bf017c1415cb83a31ff7b57ad17352c08b0ffd068c68a53b96",
-      "uid": "426696.elTfShOPb,7rZTwq6fQtvyNr2tOxg2xPpbDgm0,ceeE=",
-      "from_addr": "Must Reads <account@seekingalpha.com>",
-      "subject": "Nvidia Is Best Avoided For Now, In Our View",
-      "date": "Fri, 20 Nov 2026 16:06:40 -0500",
-      "is_read": false,
-      "file": "a6e77d261decc0bf017c1415cb83a31ff7b57ad17352c08b0ffd068c68a53b96.json"
-    },
-    {
-      "id": "c716461217898f573c2cef2c5dddb2d0213b94f905927e3f44ef216f8eda4208",
-      "uid": "426691.tAediCMKCfqN2+NSKpW4clh6c,1,cHBmhjX6,EPW3to=",
-      "from_addr": "WSJ Homes <wsj-homes@interactive.wsj.com>",
-      "subject": "It's Never Been a Tougher Time to Flip Homes in Texas",
-      "date": "Fri, 20 Nov 2026 15:31:21 -0500",
-      "is_read": true,
-      "file": "c716461217898f573c2cef2c5dddb2d0213b94f905927e3f44ef216f8eda4208.json"
-    },
-    {
-      "id": "244b8ae264786f2a78adaf7c48799ba588759feae334f00c9b7aa34ccbc4b1cd",
-      "uid": "426687.FSnIb4rR+4c3YMmsCBnejq6UoeoiHE8kvQAr+v89nFc=",
-      "from_addr": "Mike Allen <mike@axios.com>",
-      "subject": "📉 Axios PM: Stock slump",
-      "date": "Fri, 20 Nov 2026 15:00:53 -0500",
-      "is_read": true,
-      "file": "244b8ae264786f2a78adaf7c48799ba588759feae334f00c9b7aa34ccbc4b1cd.json"
     }
   ]
 }
